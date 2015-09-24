@@ -1,0 +1,34 @@
+[
+  {
+    "review": "보고싶다. 줄거리는 일단  재밌는 듯...???",
+    "date": "14.08.08",
+    "rating": "10",
+    "author": "kmy7****",
+    "review_id": "9050046",
+    "movie_id": "47902"
+  },
+  {
+    "review": "헷",
+    "date": "13.06.27",
+    "rating": "10",
+    "author": "oodd****",
+    "review_id": "7684134",
+    "movie_id": "47902"
+  },
+  {
+    "review": "굿",
+    "date": "12.12.31",
+    "rating": "10",
+    "author": "yhon****",
+    "review_id": "7068914",
+    "movie_id": "47902"
+  },
+  {
+    "review": "ㅋㅋ",
+    "date": "12.12.27",
+    "rating": "10",
+    "author": "miba****",
+    "review_id": "7052656",
+    "movie_id": "47902"
+  }
+]

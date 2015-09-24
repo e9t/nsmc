@@ -1,0 +1,26 @@
+[
+  {
+    "review": "평점을 10점으로만듭시다. 1人",
+    "date": "12.06.28",
+    "rating": "10",
+    "author": "ehdw****",
+    "review_id": "6423503",
+    "movie_id": "22462"
+  },
+  {
+    "review": "완전 재미있어요",
+    "date": "11.11.27",
+    "rating": "10",
+    "author": "pj44****",
+    "review_id": "5872979",
+    "movie_id": "22462"
+  },
+  {
+    "review": "진짜 재미있어요 강추 땅땅땅",
+    "date": "09.07.24",
+    "rating": "10",
+    "author": "mn53****",
+    "review_id": "3661896",
+    "movie_id": "22462"
+  }
+]

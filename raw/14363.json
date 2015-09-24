@@ -1,0 +1,42 @@
+[
+  {
+    "review": "이런 시절? 환경? 이 다시 올까?",
+    "date": "10.08.02",
+    "rating": "8",
+    "author": "izzo****",
+    "review_id": "4699221",
+    "movie_id": "14363"
+  },
+  {
+    "review": "1편을 본 관객들은 후속 이야기를 기다렸었다. 2편까지는 그런대로 괜찮은 이야기.",
+    "date": "08.12.31",
+    "rating": "6",
+    "author": "acin****",
+    "review_id": "3169809",
+    "movie_id": "14363"
+  },
+  {
+    "review": "미라누님 참으로 고우십니다.",
+    "date": "07.03.19",
+    "rating": "10",
+    "author": "cine****",
+    "review_id": "1543134",
+    "movie_id": "14363"
+  },
+  {
+    "review": "전작도 좋다",
+    "date": "06.07.30",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "946270",
+    "movie_id": "14363"
+  },
+  {
+    "review": "정말 많이 울어본 영화입니다.",
+    "date": "03.11.26",
+    "rating": "10",
+    "author": "namm****",
+    "review_id": "336",
+    "movie_id": "14363"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "6911343",
+    "movie_id": "87271",
+    "author": "yang****",
+    "review": "난 지루했는데..재미없다.",
+    "rating": "1",
+    "date": "12.11.21"
+  },
+  {
+    "review_id": "6810425",
+    "movie_id": "87271",
+    "author": "kbmb****",
+    "review": "올ㅋ",
+    "rating": "10",
+    "date": "12.10.18"
+  },
+  {
+    "review_id": "6804280",
+    "movie_id": "87271",
+    "author": "sboy****",
+    "review": "제가 먼저 봤었는데 진짜 재밋어요.",
+    "rating": "10",
+    "date": "12.10.15"
+  },
+  {
+    "review_id": "6804264",
+    "movie_id": "87271",
+    "author": "tchu****",
+    "review": "재미있습니다",
+    "rating": "10",
+    "date": "12.10.15"
+  }
+]

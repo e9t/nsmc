@@ -1,0 +1,34 @@
+[
+  {
+    "review": "영화의 황금기에 나온 음악영화 재밌다",
+    "date": "15.04.21",
+    "rating": "9",
+    "author": "oldc****",
+    "review_id": "9855832",
+    "movie_id": "19934"
+  },
+  {
+    "review": "리메이크해도 이 맛이 나올 수는 없겠지.",
+    "date": "13.08.22",
+    "rating": "9",
+    "author": "band****",
+    "review_id": "7912383",
+    "movie_id": "19934"
+  },
+  {
+    "review": "남진님 넘 귀여워염",
+    "date": "13.07.24",
+    "rating": "10",
+    "author": "joys****",
+    "review_id": "7781546",
+    "movie_id": "19934"
+  },
+  {
+    "review": "여러편의 뮤직비디오를 보는 맛!",
+    "date": "06.09.26",
+    "rating": "7",
+    "author": "izzo****",
+    "review_id": "1143400",
+    "movie_id": "19934"
+  }
+]

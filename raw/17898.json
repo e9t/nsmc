@@ -1,0 +1,50 @@
+[
+  {
+    "review": "쓰레기네",
+    "date": "13.05.30",
+    "rating": "1",
+    "author": "tjoh****",
+    "review_id": "7562130",
+    "movie_id": "17898"
+  },
+  {
+    "review": "신은경 역시 멋진 여자다.",
+    "date": "12.04.15",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "6222839",
+    "movie_id": "17898"
+  },
+  {
+    "review": "황당과 오버와 진부의 극치.",
+    "date": "10.08.31",
+    "rating": "2",
+    "author": "evil****",
+    "review_id": "4809057",
+    "movie_id": "17898"
+  },
+  {
+    "review": "코믹성도 좋구 기대이상의 연기력~!좋아요~!",
+    "date": "07.11.05",
+    "rating": "10",
+    "author": "goeb****",
+    "review_id": "2135317",
+    "movie_id": "17898"
+  },
+  {
+    "review": "비약이 심하고 어설프기만 하다. 김호진보다 잘 생긴 공형진!!",
+    "date": "06.03.08",
+    "rating": "3",
+    "author": "goma****",
+    "review_id": "709486",
+    "movie_id": "17898"
+  },
+  {
+    "review": "정말 잼있어욧..둘이 잘 어울리는듯 하면서도 코믹하네욧.ㅋㅋ",
+    "date": "04.10.08",
+    "rating": "10",
+    "author": "rhfe****",
+    "review_id": "121954",
+    "movie_id": "17898"
+  }
+]

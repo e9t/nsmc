@@ -1,0 +1,26 @@
+[
+  {
+    "review": "나름 재밌게 봤네요 ㅎ",
+    "date": "10.09.26",
+    "rating": "7",
+    "author": "isra****",
+    "review_id": "4869250",
+    "movie_id": "22206"
+  },
+  {
+    "review": "88년의 영화라보기엔 다소 파격적이고...나름의 반전도 있고...",
+    "date": "10.03.08",
+    "rating": "9",
+    "author": "allr****",
+    "review_id": "4344333",
+    "movie_id": "22206"
+  },
+  {
+    "review": "시도는 좋았다.",
+    "date": "09.09.18",
+    "rating": "4",
+    "author": "evil****",
+    "review_id": "3837948",
+    "movie_id": "22206"
+  }
+]

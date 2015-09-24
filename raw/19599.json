@@ -1,0 +1,34 @@
+[
+  {
+    "review": "아니...최고의 명작을...!",
+    "date": "13.12.12",
+    "rating": "10",
+    "author": "snur****",
+    "review_id": "8207857",
+    "movie_id": "19599"
+  },
+  {
+    "review": "굿~! 아주 좋아요… 잘 봤어요",
+    "date": "13.11.13",
+    "rating": "9",
+    "author": "jmj_****",
+    "review_id": "8135101",
+    "movie_id": "19599"
+  },
+  {
+    "review": "감독의 머릿속이 궁금하다 .",
+    "date": "10.02.07",
+    "rating": "1",
+    "author": "evil****",
+    "review_id": "4254389",
+    "movie_id": "19599"
+  },
+  {
+    "review": "다른 시리즈물과 마찬가지로 스렉 에로물",
+    "date": "07.07.05",
+    "rating": "1",
+    "author": "nala****",
+    "review_id": "1747646",
+    "movie_id": "19599"
+  }
+]

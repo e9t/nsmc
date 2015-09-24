@@ -1,0 +1,42 @@
+[
+  {
+    "review": "굿",
+    "date": "13.08.13",
+    "rating": "10",
+    "author": "j14j****",
+    "review_id": "7876697",
+    "movie_id": "35601"
+  },
+  {
+    "review": "여러 장르가 혼재된..",
+    "date": "12.04.12",
+    "rating": "2",
+    "author": "pria****",
+    "review_id": "6214237",
+    "movie_id": "35601"
+  },
+  {
+    "review": "다윗과 골리앗",
+    "date": "07.08.28",
+    "rating": "4",
+    "author": "deff****",
+    "review_id": "1985230",
+    "movie_id": "35601"
+  },
+  {
+    "review": "김청기 만화중에 의외로 수작?",
+    "date": "06.09.09",
+    "rating": "7",
+    "author": "xxss****",
+    "review_id": "1112504",
+    "movie_id": "35601"
+  },
+  {
+    "review": "골리앗 만화",
+    "date": "05.12.25",
+    "rating": "6",
+    "author": "kws7****",
+    "review_id": "527540",
+    "movie_id": "35601"
+  }
+]

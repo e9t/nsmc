@@ -1,0 +1,58 @@
+[
+  {
+    "review": "인과 응보라는 교훈",
+    "date": "12.01.02",
+    "rating": "3",
+    "author": "rose****",
+    "review_id": "5954155",
+    "movie_id": "18562"
+  },
+  {
+    "review": "정말 심심하다. 잭니콜슨 때문에 봤다.",
+    "date": "10.04.30",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "4467999",
+    "movie_id": "18562"
+  },
+  {
+    "review": "제목은 뭘 의미하는지?",
+    "date": "09.01.03",
+    "rating": "4",
+    "author": "cont****",
+    "review_id": "3181287",
+    "movie_id": "18562"
+  },
+  {
+    "review": "액션 스릴러? 액션도 없고, 스릴러도 아니고, 로맨스 영화 아닌...",
+    "date": "07.05.10",
+    "rating": "2",
+    "author": "caca****",
+    "review_id": "1630106",
+    "movie_id": "18562"
+  },
+  {
+    "review": "이 영화에서 그나마 돋보이는건 오로지 잭 니콜슨.",
+    "date": "06.01.08",
+    "rating": "6",
+    "author": "movi****",
+    "review_id": "570063",
+    "movie_id": "18562"
+  },
+  {
+    "review": "제목처럼 와인처럼 감미로우면서도 고통이 난무한다",
+    "date": "05.04.29",
+    "rating": "7",
+    "author": "si2p****",
+    "review_id": "268135",
+    "movie_id": "18562"
+  },
+  {
+    "review": "라펠슨과 니콜슨이 다시 뭉친..끈적끈적한 수작 느와르",
+    "date": "04.02.20",
+    "rating": "8",
+    "author": "thin****",
+    "review_id": "22234",
+    "movie_id": "18562"
+  }
+]

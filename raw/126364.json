@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "9308096",
+    "movie_id": "126364",
+    "author": "14sh****",
+    "review": "신이 직접 만들고 배급한 영화",
+    "rating": "10",
+    "date": "14.10.22"
+  },
+  {
+    "review_id": "9283040",
+    "movie_id": "126364",
+    "author": "qlff****",
+    "review": "어째서 brazen bull이 공공의 적이냐?",
+    "rating": "5",
+    "date": "14.10.11"
+  },
+  {
+    "review_id": "9154484",
+    "movie_id": "126364",
+    "author": "kky5****",
+    "review": "훌륭한영화. 왜 빛을못보았을까?",
+    "rating": "10",
+    "date": "14.09.02"
+  },
+  {
+    "review_id": "9132792",
+    "movie_id": "126364",
+    "author": "tjgm****",
+    "review": "머지? 이 외로움은 내 머릿속에 지우개가 잇는것같애",
+    "rating": "1",
+    "date": "14.08.25"
+  }
+]

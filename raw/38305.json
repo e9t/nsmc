@@ -1,0 +1,642 @@
+[
+  {
+    "review": "역시 스페인의 강렬함",
+    "date": "12.08.19",
+    "rating": "10",
+    "author": "egoh****",
+    "review_id": "6624002",
+    "movie_id": "38305"
+  },
+  {
+    "review": "유쾌하고 잼있는 퀴어영화",
+    "date": "12.07.18",
+    "rating": "10",
+    "author": "styl****",
+    "review_id": "6491290",
+    "movie_id": "38305"
+  },
+  {
+    "review": "유쾌함!! 이런 영화 좋으다~~",
+    "date": "12.07.01",
+    "rating": "10",
+    "author": "awer****",
+    "review_id": "6434523",
+    "movie_id": "38305"
+  },
+  {
+    "review": "엘비라 외 세자매들땜에 정말 여러번 웃었다 ㅋㅋ 끝나고? 여운이 길다. 왜이제봤을까",
+    "date": "12.03.28",
+    "rating": "10",
+    "author": "heav****",
+    "review_id": "6174209",
+    "movie_id": "38305"
+  },
+  {
+    "review": "정말이지 엄청난 문화적 갭을 체험했다. 결말을 보고선 거의 실신할 뻔. 솔은 예뻤어.",
+    "date": "09.02.19",
+    "rating": "3",
+    "author": "hele****",
+    "review_id": "3315575",
+    "movie_id": "38305"
+  },
+  {
+    "review": "'일반적이지 않음'을 흥겹고 부드럽게 '일반화'시킨다. 멋지고 사랑스럽고 유머러스",
+    "date": "08.11.29",
+    "rating": "10",
+    "author": "1231****",
+    "review_id": "3079351",
+    "movie_id": "38305"
+  },
+  {
+    "review": "레오느라 와틀링 너무 귀여운그녀-신민아와 자꾸 비교하게된다but 스토리는 영..",
+    "date": "08.10.30",
+    "rating": "5",
+    "author": "jobs****",
+    "review_id": "3027404",
+    "movie_id": "38305"
+  },
+  {
+    "review": "보기좋당",
+    "date": "08.09.15",
+    "rating": "10",
+    "author": "zhwp****",
+    "review_id": "2945040",
+    "movie_id": "38305"
+  },
+  {
+    "review": "낯설지만 낯설지 않은...",
+    "date": "08.08.13",
+    "rating": "7",
+    "author": "meth****",
+    "review_id": "2866754",
+    "movie_id": "38305"
+  },
+  {
+    "review": "심심할때 보기 적당했다.",
+    "date": "08.03.03",
+    "rating": "6",
+    "author": "evil****",
+    "review_id": "2501031",
+    "movie_id": "38305"
+  },
+  {
+    "review": "예측 가능한 스토리지만 결국 사랑의 진실은 통한다는... 스페인 코미디 스타일",
+    "date": "08.02.23",
+    "rating": "7",
+    "author": "sepe****",
+    "review_id": "2476414",
+    "movie_id": "38305"
+  },
+  {
+    "review": "유쾌하고 따뜻하며 깔끔하다",
+    "date": "08.02.08",
+    "rating": "6",
+    "author": "okjo****",
+    "review_id": "2421525",
+    "movie_id": "38305"
+  },
+  {
+    "review": "여자냄새가 강하게 나는 영화",
+    "date": "07.11.29",
+    "rating": "7",
+    "author": "liho****",
+    "review_id": "2191894",
+    "movie_id": "38305"
+  },
+  {
+    "review": "아~너무 재밌어. 너무 귀여워.^^",
+    "date": "07.08.19",
+    "rating": "10",
+    "author": "bule****",
+    "review_id": "1957140",
+    "movie_id": "38305"
+  },
+  {
+    "review": "10점이 왜이리많아.. 8점이 적당해~",
+    "date": "07.07.15",
+    "rating": "8",
+    "author": "typo****",
+    "review_id": "1776629",
+    "movie_id": "38305"
+  },
+  {
+    "review": "무겁지않다. 유쾌하다.",
+    "date": "07.04.28",
+    "rating": "10",
+    "author": "o0me****",
+    "review_id": "1610220",
+    "movie_id": "38305"
+  },
+  {
+    "review": "관계,사랑,가족..유쾌하고 흥미진진한 영화",
+    "date": "07.04.28",
+    "rating": "10",
+    "author": "faun****",
+    "review_id": "1609272",
+    "movie_id": "38305"
+  },
+  {
+    "review": "독특한 '가족의 탄생' 훈훈하고 재미있다.",
+    "date": "07.04.20",
+    "rating": "10",
+    "author": "joo3****",
+    "review_id": "1596151",
+    "movie_id": "38305"
+  },
+  {
+    "review": "유쾌한 영화입니다.^^",
+    "date": "06.07.25",
+    "rating": "10",
+    "author": "warc****",
+    "review_id": "921196",
+    "movie_id": "38305"
+  },
+  {
+    "review": "막내딸 공연이 귀여움...ㅎㅎ",
+    "date": "06.06.01",
+    "rating": "9",
+    "author": "gusw****",
+    "review_id": "826615",
+    "movie_id": "38305"
+  },
+  {
+    "review": "자칫하면 무거워질수도있는 내용을 재밌고,발랄하게그려낸영화",
+    "date": "06.05.12",
+    "rating": "9",
+    "author": "bad5****",
+    "review_id": "796894",
+    "movie_id": "38305"
+  },
+  {
+    "review": "막내딸이공연장에서노래부르는장면..정말코믹하고귀엽네여~^^",
+    "date": "06.04.19",
+    "rating": "8",
+    "author": "udon****",
+    "review_id": "767818",
+    "movie_id": "38305"
+  },
+  {
+    "review": "마냥 행복하게 하는 영화!!!!!!!!!!!!!",
+    "date": "06.03.21",
+    "rating": "10",
+    "author": "2502****",
+    "review_id": "726502",
+    "movie_id": "38305"
+  },
+  {
+    "review": "엄마는 딸들도 좋아해~",
+    "date": "06.03.16",
+    "rating": "2",
+    "author": "scal****",
+    "review_id": "718861",
+    "movie_id": "38305"
+  },
+  {
+    "review": "이런 소재를 이 정도로 유쾌하게 그려낼 수 있다니.",
+    "date": "06.03.12",
+    "rating": "8",
+    "author": "choc****",
+    "review_id": "713250",
+    "movie_id": "38305"
+  },
+  {
+    "review": "기분이 붕붕거려요",
+    "date": "06.02.22",
+    "rating": "8",
+    "author": "juli****",
+    "review_id": "685017",
+    "movie_id": "38305"
+  },
+  {
+    "review": "감동~좋은데요~~^^",
+    "date": "05.12.18",
+    "rating": "10",
+    "author": "1003****",
+    "review_id": "512806",
+    "movie_id": "38305"
+  },
+  {
+    "review": "유쾌하고따뜻한사랑스러운영화,모든걸포용하는가족,사회가되길",
+    "date": "05.12.09",
+    "rating": "9",
+    "author": "blue****",
+    "review_id": "499103",
+    "movie_id": "38305"
+  },
+  {
+    "review": "만점은 아니지만 99점 참 잼이써여.",
+    "date": "05.09.07",
+    "rating": "10",
+    "author": "sali****",
+    "review_id": "395829",
+    "movie_id": "38305"
+  },
+  {
+    "review": "부담갖지 않고 유쾌하고 자연스럽게 봤다.",
+    "date": "05.08.14",
+    "rating": "9",
+    "author": "lmr4****",
+    "review_id": "366662",
+    "movie_id": "38305"
+  },
+  {
+    "review": "진짜 유쾌하다. 보고나면 엔돌핀이 쭈욱쭉.!!!ㅋㅋ",
+    "date": "05.07.16",
+    "rating": "10",
+    "author": "agap****",
+    "review_id": "323651",
+    "movie_id": "38305"
+  },
+  {
+    "review": "이해와 관용~~~!!!",
+    "date": "05.07.10",
+    "rating": "10",
+    "author": "egg_****",
+    "review_id": "317870",
+    "movie_id": "38305"
+  },
+  {
+    "review": "난 이영화 너무좋아",
+    "date": "05.06.08",
+    "rating": "10",
+    "author": "pulm****",
+    "review_id": "295836",
+    "movie_id": "38305"
+  },
+  {
+    "review": "해피엔딩 ^^ 깔끔 ~",
+    "date": "05.05.26",
+    "rating": "9",
+    "author": "back****",
+    "review_id": "286927",
+    "movie_id": "38305"
+  },
+  {
+    "review": "유연한 그네들의 사고가 마냥 부러울따름.....ㅎㅎ",
+    "date": "05.03.19",
+    "rating": "10",
+    "author": "jeni****",
+    "review_id": "243825",
+    "movie_id": "38305"
+  },
+  {
+    "review": "동성애가 아닌 딸들의 엄마사랑 이야기..",
+    "date": "05.02.18",
+    "rating": "7",
+    "author": "abag****",
+    "review_id": "223655",
+    "movie_id": "38305"
+  },
+  {
+    "review": "가족이라는 울타리도 소중하지만 역시 개인의 행복이 최우선!",
+    "date": "05.02.05",
+    "rating": "7",
+    "author": "doji****",
+    "review_id": "207923",
+    "movie_id": "38305"
+  },
+  {
+    "review": "보고나면 기분좋아지고 유쾌해지는 영화",
+    "date": "05.01.17",
+    "rating": "8",
+    "author": "ksw3****",
+    "review_id": "188406",
+    "movie_id": "38305"
+  },
+  {
+    "review": "동성애에 대해 한번 더 생각하도록 하네요. 해피엔딩이라 보기도 좋고~!",
+    "date": "05.01.16",
+    "rating": "7",
+    "author": "hana****",
+    "review_id": "187685",
+    "movie_id": "38305"
+  },
+  {
+    "review": "너무나도 발랄하고 명랑해서 보는내내 미소짓게 한다.",
+    "date": "04.11.04",
+    "rating": "8",
+    "author": "pepo****",
+    "review_id": "138936",
+    "movie_id": "38305"
+  },
+  {
+    "review": "엄마는 여자를 좋아하고 딸들은 엄마를 사랑한다",
+    "date": "04.10.31",
+    "rating": "10",
+    "author": "ameg****",
+    "review_id": "136200",
+    "movie_id": "38305"
+  },
+  {
+    "review": "사랑엔 국경도 나이도 없다. 당신의 이해가 세상을 더 밝게 만들어줍니다.",
+    "date": "04.09.06",
+    "rating": "10",
+    "author": "sobe****",
+    "review_id": "103700",
+    "movie_id": "38305"
+  },
+  {
+    "review": "울엄마가 그런다면.. 심한 충격에 쓰러지겠지..?!",
+    "date": "04.08.18",
+    "rating": "8",
+    "author": "hv_m****",
+    "review_id": "92511",
+    "movie_id": "38305"
+  },
+  {
+    "review": "배우의 사랑스러움으로 더 유쾌해진 영화...",
+    "date": "04.06.23",
+    "rating": "9",
+    "author": "gmlw****",
+    "review_id": "59421",
+    "movie_id": "38305"
+  },
+  {
+    "review": "너무 유쾌하고 가족사랑?을 느낄수있어서 좋았는데!",
+    "date": "04.06.22",
+    "rating": "8",
+    "author": "horu****",
+    "review_id": "58628",
+    "movie_id": "38305"
+  },
+  {
+    "review": "난 잘 모르겠는데 -_-",
+    "date": "04.06.19",
+    "rating": "5",
+    "author": "soon****",
+    "review_id": "56809",
+    "movie_id": "38305"
+  },
+  {
+    "review": "밑에분들처럼 의도는 모르겠지만 기분좋은영화였어요 좋아요~",
+    "date": "04.06.17",
+    "rating": "9",
+    "author": "mmzm****",
+    "review_id": "55702",
+    "movie_id": "38305"
+  },
+  {
+    "review": "말하고자 한 것이 무엇인지.. 영화분위기는 따뜻과 발랄",
+    "date": "04.06.17",
+    "rating": "7",
+    "author": "4438****",
+    "review_id": "55479",
+    "movie_id": "38305"
+  },
+  {
+    "review": "여주인공의 사랑스러움과 음악은 좋았지만 의도가 애매한 작품",
+    "date": "04.06.16",
+    "rating": "6",
+    "author": "aki1****",
+    "review_id": "55061",
+    "movie_id": "38305"
+  },
+  {
+    "review": "시종일관 유모감각을 잃지않으면서도 따뜻한 영화!",
+    "date": "04.05.31",
+    "rating": "10",
+    "author": "ashl****",
+    "review_id": "47941",
+    "movie_id": "38305"
+  },
+  {
+    "review": "이성애를 뒤흔드는 동성애의 따뜻하고 굳건한 힘",
+    "date": "04.05.31",
+    "rating": "10",
+    "author": "redg****",
+    "review_id": "47827",
+    "movie_id": "38305"
+  },
+  {
+    "review": "발랄 유쾌한 코미디.",
+    "date": "04.05.30",
+    "rating": "9",
+    "author": "mein****",
+    "review_id": "47387",
+    "movie_id": "38305"
+  },
+  {
+    "review": "발랄한 분위기로 이끌어가는 영화,,어렵지 않게 풀어쓴듯한 영화",
+    "date": "04.05.29",
+    "rating": "7",
+    "author": "zeus****",
+    "review_id": "47310",
+    "movie_id": "38305"
+  },
+  {
+    "review": "굿,, 행복이라면.. 뭐든지",
+    "date": "04.05.26",
+    "rating": "8",
+    "author": "ghvl****",
+    "review_id": "46419",
+    "movie_id": "38305"
+  },
+  {
+    "review": "동성애보다는 따뜻한 가족이야기",
+    "date": "04.05.22",
+    "rating": "8",
+    "author": "blis****",
+    "review_id": "44956",
+    "movie_id": "38305"
+  },
+  {
+    "review": "와틀링...너무 귀엽다..^^",
+    "date": "04.05.20",
+    "rating": "10",
+    "author": "icec****",
+    "review_id": "44353",
+    "movie_id": "38305"
+  },
+  {
+    "review": "우리의 정서와는 먼...",
+    "date": "04.05.16",
+    "rating": "6",
+    "author": "kiss****",
+    "review_id": "43454",
+    "movie_id": "38305"
+  },
+  {
+    "review": "동성애는 작은 소재일뿐, 엄마와 딸과의 이해에 대한 따뜻한 이야기",
+    "date": "04.05.14",
+    "rating": "8",
+    "author": "bliz****",
+    "review_id": "42970",
+    "movie_id": "38305"
+  },
+  {
+    "review": "조심스럽고 무거운 주제를 참 유쾌하면서도 발랄하게 따뜻하게 만든 가족영화",
+    "date": "04.05.14",
+    "rating": "10",
+    "author": "rmfl****",
+    "review_id": "42929",
+    "movie_id": "38305"
+  },
+  {
+    "review": "엄마가 원하시는게 뭘까? 한참 고민하게 만들었던 영화. 그래도 역시 가족",
+    "date": "04.05.13",
+    "rating": "8",
+    "author": "shin****",
+    "review_id": "42774",
+    "movie_id": "38305"
+  },
+  {
+    "review": "동성애를 무겁지 않으면서 너무나 상큼하게 담았다.. 함 보세요..",
+    "date": "04.05.12",
+    "rating": "10",
+    "author": "meda****",
+    "review_id": "42716",
+    "movie_id": "38305"
+  },
+  {
+    "review": "유쾌,깜찍,감동까지 느낄수 있는 가족간의 우애와 사랑이 있는 영화",
+    "date": "04.05.11",
+    "rating": "8",
+    "author": "sund****",
+    "review_id": "42459",
+    "movie_id": "38305"
+  },
+  {
+    "review": "괜찮은 영화입니다.. i like it so much",
+    "date": "04.05.11",
+    "rating": "5",
+    "author": "sere****",
+    "review_id": "42400",
+    "movie_id": "38305"
+  },
+  {
+    "review": "동성애라는 시각을 새롭게 표현한 영화. 산뜻하다",
+    "date": "04.05.09",
+    "rating": "9",
+    "author": "kbs1****",
+    "review_id": "41946",
+    "movie_id": "38305"
+  },
+  {
+    "review": "정말 재미있게 봤어요. 느낀 것도 있고...",
+    "date": "04.05.04",
+    "rating": "10",
+    "author": "nono****",
+    "review_id": "40963",
+    "movie_id": "38305"
+  },
+  {
+    "review": "나와 다른다는것을 받아들이면 너도나도 행복해질수 있다~",
+    "date": "04.05.03",
+    "rating": "8",
+    "author": "ddom****",
+    "review_id": "40758",
+    "movie_id": "38305"
+  },
+  {
+    "review": "한국정서로는 절대 담지 못할 이야기, 레오노르 와틀링에게 찬사를~",
+    "date": "04.05.03",
+    "rating": "9",
+    "author": "suki****",
+    "review_id": "40646",
+    "movie_id": "38305"
+  },
+  {
+    "review": "사랑스럽고 따듯한 영화! 제목만 보고 외면하지 마시길~",
+    "date": "04.04.30",
+    "rating": "4",
+    "author": "iodi****",
+    "review_id": "40185",
+    "movie_id": "38305"
+  },
+  {
+    "review": "진짜 이런건 개봉관이 아깝다 공짜시사회안가야지",
+    "date": "04.04.27",
+    "rating": "1",
+    "author": "cxic****",
+    "review_id": "39525",
+    "movie_id": "38305"
+  },
+  {
+    "review": "가볍게 보긴 봤는데 아직까지 우리 정서에 맞는 내용이 아니라 추천은 별로",
+    "date": "04.04.26",
+    "rating": "6",
+    "author": "glap****",
+    "review_id": "39379",
+    "movie_id": "38305"
+  },
+  {
+    "review": "쉽지 않은 이슈를 다루고 있음에도 불구하고 거부감이 들지 않는다....",
+    "date": "04.04.23",
+    "rating": "8",
+    "author": "supe****",
+    "review_id": "38651",
+    "movie_id": "38305"
+  },
+  {
+    "review": "모든 사랑의 종류를 망라한 유쾌상큼한 영화 ..",
+    "date": "04.04.23",
+    "rating": "10",
+    "author": "jyja****",
+    "review_id": "38639",
+    "movie_id": "38305"
+  },
+  {
+    "review": "코믹하긴하지만 과연 이럴수 있을지....",
+    "date": "04.04.23",
+    "rating": "3",
+    "author": "iris****",
+    "review_id": "38636",
+    "movie_id": "38305"
+  },
+  {
+    "review": "첨에 약간 정신없지만, 틈틈히 나오는 반전과 코믹에 재미있게 봤어요^^",
+    "date": "04.04.23",
+    "rating": "4",
+    "author": "barn****",
+    "review_id": "38630",
+    "movie_id": "38305"
+  },
+  {
+    "review": "따뜻한 가족드라마 같은 느낌입니다. 둘째딸 캐릭터가 넘 귀여워서 ^^",
+    "date": "04.04.23",
+    "rating": "3",
+    "author": "jung****",
+    "review_id": "38624",
+    "movie_id": "38305"
+  },
+  {
+    "review": "이브의 아름다운 키스에 이은 연애 클리닉, 섬세한 당신을 위한.",
+    "date": "04.04.11",
+    "rating": "7",
+    "author": "shon****",
+    "review_id": "35890",
+    "movie_id": "38305"
+  },
+  {
+    "review": "너무 귀엽고 상큼한 영화 보는 내내 웃음이 끊이질 않았던..",
+    "date": "04.04.10",
+    "rating": "10",
+    "author": "euns****",
+    "review_id": "35545",
+    "movie_id": "38305"
+  },
+  {
+    "review": "기대이상의 유럽영화 와들링 넘 귀여움.",
+    "date": "04.04.10",
+    "rating": "7",
+    "author": "xero****",
+    "review_id": "35355",
+    "movie_id": "38305"
+  },
+  {
+    "review": "자칫 거부감이 느껴질 소재를 너무 귀엽게 풀어낸 작품!",
+    "date": "04.04.09",
+    "rating": "7",
+    "author": "23re****",
+    "review_id": "35087",
+    "movie_id": "38305"
+  },
+  {
+    "review": "레오노르 와틀링의 이쁜 모습과 코믹함이 쓰러짐",
+    "date": "04.03.10",
+    "rating": "8",
+    "author": "teir****",
+    "review_id": "28112",
+    "movie_id": "38305"
+  }
+]

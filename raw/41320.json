@@ -1,0 +1,26 @@
+[
+  {
+    "review": "명세빈 정말 이쁘다.",
+    "date": "12.06.16",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "6394464",
+    "movie_id": "41320"
+  },
+  {
+    "review": "괜찮은 드라마였던",
+    "date": "07.08.11",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "1923465",
+    "movie_id": "41320"
+  },
+  {
+    "review": "k",
+    "date": "05.10.16",
+    "rating": "10",
+    "author": "dann****",
+    "review_id": "444938",
+    "movie_id": "41320"
+  }
+]

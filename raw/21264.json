@@ -1,0 +1,42 @@
+[
+  {
+    "review": "빠간마스크 만세~~~~!",
+    "date": "09.11.08",
+    "rating": "10",
+    "author": "tntb****",
+    "review_id": "3945870",
+    "movie_id": "21264"
+  },
+  {
+    "review": "빨간마스크 최고",
+    "date": "09.10.12",
+    "rating": "10",
+    "author": "guje****",
+    "review_id": "3888469",
+    "movie_id": "21264"
+  },
+  {
+    "review": "빨간마스크 최고 ^^^^^^^^^^^^^^^",
+    "date": "09.05.05",
+    "rating": "10",
+    "author": "kona****",
+    "review_id": "3470686",
+    "movie_id": "21264"
+  },
+  {
+    "review": "1점",
+    "date": "09.01.09",
+    "rating": "1",
+    "author": "3132****",
+    "review_id": "3204615",
+    "movie_id": "21264"
+  },
+  {
+    "review": "10점",
+    "date": "04.07.07",
+    "rating": "10",
+    "author": "1552****",
+    "review_id": "66654",
+    "movie_id": "21264"
+  }
+]

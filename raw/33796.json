@@ -1,0 +1,34 @@
+[
+  {
+    "review": "TV영화 수준인데 빠져든다.",
+    "date": "10.08.27",
+    "rating": "5",
+    "author": "pria****",
+    "review_id": "4795472",
+    "movie_id": "33796"
+  },
+  {
+    "review": "killing time용으로는 무난한 영화",
+    "date": "04.11.21",
+    "rating": "7",
+    "author": "sepe****",
+    "review_id": "149866",
+    "movie_id": "33796"
+  },
+  {
+    "review": "스토리는 좋지만 연출력이 따라주지못함...",
+    "date": "04.11.15",
+    "rating": "5",
+    "author": "suck****",
+    "review_id": "146577",
+    "movie_id": "33796"
+  },
+  {
+    "review": "미녀삼총사보다 낫다.",
+    "date": "04.08.29",
+    "rating": "8",
+    "author": "kiss****",
+    "review_id": "99454",
+    "movie_id": "33796"
+  }
+]

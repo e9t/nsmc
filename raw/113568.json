@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "8124784",
+    "movie_id": "113568",
+    "author": "akba****",
+    "review": "진짜로 재미있었음ㅋㅋ",
+    "rating": "10",
+    "date": "13.11.08"
+  },
+  {
+    "review_id": "8044820",
+    "movie_id": "113568",
+    "author": "syeo****",
+    "review": "재밌음~~ 빨리 둘이 꽁냥꽁냥 대는거 나와라",
+    "rating": "10",
+    "date": "13.10.08"
+  },
+  {
+    "review_id": "8043400",
+    "movie_id": "113568",
+    "author": "ksa7****",
+    "review": "재미없음그리고걸작임",
+    "rating": "2",
+    "date": "13.10.07"
+  }
+]

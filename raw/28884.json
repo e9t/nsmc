@@ -1,0 +1,42 @@
+[
+  {
+    "review": "삽입곡이 뭔지 아시는 분? 찾기가 너무 힘드네요. 정말 대단한 영화에요. 종합병원",
+    "date": "10.06.25",
+    "rating": "10",
+    "author": "mjjw****",
+    "review_id": "4590405",
+    "movie_id": "28884"
+  },
+  {
+    "review": "보고서 아쉬움이 남는 영화",
+    "date": "06.12.03",
+    "rating": "7",
+    "author": "zeed****",
+    "review_id": "1264023",
+    "movie_id": "28884"
+  },
+  {
+    "review": "삽입곡이 더 기억에 남았던 영화..these were the day..",
+    "date": "05.07.13",
+    "rating": "10",
+    "author": "cupe****",
+    "review_id": "320766",
+    "movie_id": "28884"
+  },
+  {
+    "review": "왜 이런 좋은 소재를 뻔하고 한물 간 영화로 승화시키려 했을까",
+    "date": "05.04.05",
+    "rating": "3",
+    "author": "kimj****",
+    "review_id": "254474",
+    "movie_id": "28884"
+  },
+  {
+    "review": "한편의 서정소설같은 영화",
+    "date": "04.09.18",
+    "rating": "10",
+    "author": "tlsw****",
+    "review_id": "110387",
+    "movie_id": "28884"
+  }
+]

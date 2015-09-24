@@ -1,0 +1,42 @@
+[
+  {
+    "review": "한국식 로맨틱 코메디를 만들어보려는 안쓰러운 역사",
+    "date": "11.11.18",
+    "rating": "4",
+    "author": "reno****",
+    "review_id": "5856773",
+    "movie_id": "17138"
+  },
+  {
+    "review": "가슴통증 코메디",
+    "date": "10.02.24",
+    "rating": "1",
+    "author": "pria****",
+    "review_id": "4314705",
+    "movie_id": "17138"
+  },
+  {
+    "review": "김혜선도 이때는 좋았지..",
+    "date": "07.02.02",
+    "rating": "10",
+    "author": "hide****",
+    "review_id": "1436660",
+    "movie_id": "17138"
+  },
+  {
+    "review": "우리나라 옛날 영화들은 역시 별로였다",
+    "date": "06.01.31",
+    "rating": "1",
+    "author": "okjo****",
+    "review_id": "637721",
+    "movie_id": "17138"
+  },
+  {
+    "review": "조아",
+    "date": "05.11.20",
+    "rating": "10",
+    "author": "hymo****",
+    "review_id": "479735",
+    "movie_id": "17138"
+  }
+]

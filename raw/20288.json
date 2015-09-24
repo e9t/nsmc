@@ -1,0 +1,26 @@
+[
+  {
+    "review": "좋아요! 좋아 이런 영화 찾고 있었는데..",
+    "date": "13.09.17",
+    "rating": "8",
+    "author": "happ****",
+    "review_id": "7989552",
+    "movie_id": "20288"
+  },
+  {
+    "review": "고전 영화의 재미!",
+    "date": "13.09.17",
+    "rating": "10",
+    "author": "hypa****",
+    "review_id": "7989370",
+    "movie_id": "20288"
+  },
+  {
+    "review": "슬픈영화네요.. 흑백영화 최고ㅋ",
+    "date": "13.09.17",
+    "rating": "10",
+    "author": "in_l****",
+    "review_id": "7989295",
+    "movie_id": "20288"
+  }
+]

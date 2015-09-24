@@ -1,0 +1,34 @@
+[
+  {
+    "review": "아, 여기 계셨습니다.",
+    "date": "15.08.26",
+    "rating": "10",
+    "author": "djdh****",
+    "review_id": "10276125",
+    "movie_id": "23523"
+  },
+  {
+    "review": "'열왕기하2 20~' 읽어보시오",
+    "date": "11.02.19",
+    "rating": "1",
+    "author": "rlad****",
+    "review_id": "5257786",
+    "movie_id": "23523"
+  },
+  {
+    "review": "나의였날때생각이나좋았어요.",
+    "date": "10.01.03",
+    "rating": "10",
+    "author": "tjdt****",
+    "review_id": "4127777",
+    "movie_id": "23523"
+  },
+  {
+    "review": "Good",
+    "date": "09.06.05",
+    "rating": "10",
+    "author": "sang****",
+    "review_id": "3546298",
+    "movie_id": "23523"
+  }
+]

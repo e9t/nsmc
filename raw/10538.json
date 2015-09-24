@@ -1,0 +1,26 @@
+[
+  {
+    "review": "풋풋하다. 감정이입됨",
+    "date": "15.04.04",
+    "rating": "10",
+    "author": "nopn****",
+    "review_id": "9825306",
+    "movie_id": "10538"
+  },
+  {
+    "review": "더럽다.",
+    "date": "11.10.31",
+    "rating": "1",
+    "author": "pria****",
+    "review_id": "5820237",
+    "movie_id": "10538"
+  },
+  {
+    "review": "발랄한 코미디..이성에 눈을뜨는 긴장감은 못느낌..",
+    "date": "06.05.18",
+    "rating": "3",
+    "author": "myst****",
+    "review_id": "804093",
+    "movie_id": "10538"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "review": "이거 재미있어요 ..::",
+    "date": "14.08.13",
+    "rating": "10",
+    "author": "tjem****",
+    "review_id": "9079123",
+    "movie_id": "22075"
+  },
+  {
+    "review": "이거 재미없어요 ..;;",
+    "date": "10.11.25",
+    "rating": "1",
+    "author": "tiga****",
+    "review_id": "4988936",
+    "movie_id": "22075"
+  }
+]

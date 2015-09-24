@@ -1,0 +1,802 @@
+[
+  {
+    "review": "울림과 깨달음이 있는 영화. 막판 20여분의 감동을 위해 1시간을 기다릴만하다.",
+    "date": "14.05.20",
+    "rating": "10",
+    "author": "cky1****",
+    "review_id": "8749590",
+    "movie_id": "43901"
+  },
+  {
+    "review": "많은걸 느꼈습니다",
+    "date": "13.09.20",
+    "rating": "9",
+    "author": "lsr9****",
+    "review_id": "8002344",
+    "movie_id": "43901"
+  },
+  {
+    "review": "지루해.",
+    "date": "13.08.14",
+    "rating": "1",
+    "author": "blac****",
+    "review_id": "7881251",
+    "movie_id": "43901"
+  },
+  {
+    "review": "아무리 저예산 독립영화라지만...  전달하고자하는 내용은 좋았으나 영화라고 칭하기엔 정말 별로였습니다... 극전체가 매우 쳐져있어요. 괜히 힘빠지는 영화",
+    "date": "13.06.06",
+    "rating": "3",
+    "author": "jjh1****",
+    "review_id": "7591950",
+    "movie_id": "43901"
+  },
+  {
+    "review": "세상을 방문자처럼 사는 사람들이주인이 되어가는 이야기",
+    "date": "13.04.29",
+    "rating": "10",
+    "author": "jeon****",
+    "review_id": "7493310",
+    "movie_id": "43901"
+  },
+  {
+    "review": "인상적인 몇몇 장면들과 이야기의 주제는 호감이 간다",
+    "date": "11.11.27",
+    "rating": "6",
+    "author": "nine****",
+    "review_id": "5874722",
+    "movie_id": "43901"
+  },
+  {
+    "review": "좋다....",
+    "date": "11.07.29",
+    "rating": "10",
+    "author": "cvot****",
+    "review_id": "5578384",
+    "movie_id": "43901"
+  },
+  {
+    "review": "글쎄.. 그냥저냥..",
+    "date": "11.03.18",
+    "rating": "6",
+    "author": "tn99****",
+    "review_id": "5321000",
+    "movie_id": "43901"
+  },
+  {
+    "review": "시도는 좋았으나 구성이 부족하다",
+    "date": "10.11.12",
+    "rating": "1",
+    "author": "sury****",
+    "review_id": "4954446",
+    "movie_id": "43901"
+  },
+  {
+    "review": "요리하기에는 뻑뻑한 레시피들 조합이 문제다.",
+    "date": "10.11.08",
+    "rating": "6",
+    "author": "izzo****",
+    "review_id": "4946273",
+    "movie_id": "43901"
+  },
+  {
+    "review": "신동일의 먹잇감은 아직 많다.",
+    "date": "10.10.22",
+    "rating": "7",
+    "author": "sund****",
+    "review_id": "4915463",
+    "movie_id": "43901"
+  },
+  {
+    "review": "포장하지 않은 빨간색 선전물.",
+    "date": "10.07.23",
+    "rating": "7",
+    "author": "paus****",
+    "review_id": "4663523",
+    "movie_id": "43901"
+  },
+  {
+    "review": "글쎄...괜찮은영화지만 최대평가된것같다",
+    "date": "10.07.15",
+    "rating": "7",
+    "author": "ichk****",
+    "review_id": "4640202",
+    "movie_id": "43901"
+  },
+  {
+    "review": "오랜만에 가슴이 따뜻해지는 영화를 찾았다",
+    "date": "10.07.13",
+    "rating": "10",
+    "author": "mozm****",
+    "review_id": "4636490",
+    "movie_id": "43901"
+  },
+  {
+    "review": "별로에요..",
+    "date": "10.03.21",
+    "rating": "1",
+    "author": "chh8****",
+    "review_id": "4374581",
+    "movie_id": "43901"
+  },
+  {
+    "review": "이토록 정치적인 영화가 웃음이 나올 줄이야.",
+    "date": "10.03.12",
+    "rating": "7",
+    "author": "arcu****",
+    "review_id": "4352715",
+    "movie_id": "43901"
+  },
+  {
+    "review": "현대사회에 던지는 질문, 비평 그자체를 보여주고있고 깊이를 찾는것은 관객의 몫이다",
+    "date": "10.03.08",
+    "rating": "10",
+    "author": "jayj****",
+    "review_id": "4343260",
+    "movie_id": "43901"
+  },
+  {
+    "review": "재미재미 ㅋㅋㅋㅋ",
+    "date": "10.03.03",
+    "rating": "10",
+    "author": "mins****",
+    "review_id": "4333287",
+    "movie_id": "43901"
+  },
+  {
+    "review": "아주 X같은 영화",
+    "date": "09.12.30",
+    "rating": "1",
+    "author": "swee****",
+    "review_id": "4106161",
+    "movie_id": "43901"
+  },
+  {
+    "review": "질문 나열",
+    "date": "09.12.18",
+    "rating": "3",
+    "author": "pria****",
+    "review_id": "4052647",
+    "movie_id": "43901"
+  },
+  {
+    "review": "나쁘진 않았지만..역시 지루함감이..",
+    "date": "09.12.08",
+    "rating": "8",
+    "author": "dmsq****",
+    "review_id": "4027387",
+    "movie_id": "43901"
+  },
+  {
+    "review": "이것저것 들추긴했는데 깊이가 모자라다",
+    "date": "09.11.30",
+    "rating": "4",
+    "author": "goms****",
+    "review_id": "4004754",
+    "movie_id": "43901"
+  },
+  {
+    "review": "재밌다",
+    "date": "09.11.17",
+    "rating": "10",
+    "author": "eek5****",
+    "review_id": "3971801",
+    "movie_id": "43901"
+  },
+  {
+    "review": "8점이라기엔 뭔가 아쉽고 7점이 맞을듯한 영화.생각하는 영화다",
+    "date": "09.10.23",
+    "rating": "7",
+    "author": "sptl****",
+    "review_id": "3911411",
+    "movie_id": "43901"
+  },
+  {
+    "review": "김재록이라는 충무로 조연배우의 재발견",
+    "date": "09.09.27",
+    "rating": "5",
+    "author": "gall****",
+    "review_id": "3855628",
+    "movie_id": "43901"
+  },
+  {
+    "review": "굳!! 최고",
+    "date": "09.09.14",
+    "rating": "10",
+    "author": "fore****",
+    "review_id": "3831150",
+    "movie_id": "43901"
+  },
+  {
+    "review": "방 문을 잠근 자들이 시도하는 벽을 넘는 대화.",
+    "date": "09.08.19",
+    "rating": "5",
+    "author": "lees****",
+    "review_id": "3765650",
+    "movie_id": "43901"
+  },
+  {
+    "review": "좋은영화잘봤어요.",
+    "date": "09.07.07",
+    "rating": "6",
+    "author": "eorn****",
+    "review_id": "3616540",
+    "movie_id": "43901"
+  },
+  {
+    "review": "어려운 주제들을 꺼냈네.",
+    "date": "09.06.17",
+    "rating": "8",
+    "author": "kos4****",
+    "review_id": "3571678",
+    "movie_id": "43901"
+  },
+  {
+    "review": "생각보다 볼만은 하네...",
+    "date": "09.05.27",
+    "rating": "7",
+    "author": "wony****",
+    "review_id": "3526192",
+    "movie_id": "43901"
+  },
+  {
+    "review": "현생이 행복해 진다는데 종교의 의미가 있는 것 같다. 선택은 개인의 자유",
+    "date": "09.05.11",
+    "rating": "6",
+    "author": "imf0****",
+    "review_id": "3486611",
+    "movie_id": "43901"
+  },
+  {
+    "review": "여호와의증인 같지 않다. 손에 성경들고다니지 않고, 건배도 하지 않는다.",
+    "date": "09.05.05",
+    "rating": "1",
+    "author": "thra****",
+    "review_id": "3471203",
+    "movie_id": "43901"
+  },
+  {
+    "review": "여호와의 증인 신자가 무력한 지식인과 가증스런 기독교인 보다 훨 낫다.",
+    "date": "09.05.04",
+    "rating": "8",
+    "author": "kusa****",
+    "review_id": "3466022",
+    "movie_id": "43901"
+  },
+  {
+    "review": "명백히 쓸쓸해서 따뜻하고 부드러운 저항과 연대, 그 방식에대한 소박하고솔직한 모색",
+    "date": "09.03.24",
+    "rating": "8",
+    "author": "ike_****",
+    "review_id": "3384527",
+    "movie_id": "43901"
+  },
+  {
+    "review": "한국영화계가 힘들다고들 하지만 이런 영화들이있기에 잘 극복해내리라 믿는다..",
+    "date": "09.03.18",
+    "rating": "8",
+    "author": "bboj****",
+    "review_id": "3374022",
+    "movie_id": "43901"
+  },
+  {
+    "review": "어려운 종교라는 주제를 건드린 수작",
+    "date": "09.03.07",
+    "rating": "10",
+    "author": "danz****",
+    "review_id": "3351998",
+    "movie_id": "43901"
+  },
+  {
+    "review": "밸넘의 영화가 다 있네",
+    "date": "09.01.26",
+    "rating": "8",
+    "author": "unde****",
+    "review_id": "3250174",
+    "movie_id": "43901"
+  },
+  {
+    "review": "종교문제에 대한 진솔한 접근. 간만에 좋은 한국영화",
+    "date": "09.01.20",
+    "rating": "10",
+    "author": "erac****",
+    "review_id": "3234367",
+    "movie_id": "43901"
+  },
+  {
+    "review": "종교문제로싸우는나와엄마를보는듯한느낌을받았다.공감했다.",
+    "date": "09.01.07",
+    "rating": "8",
+    "author": "cha9****",
+    "review_id": "3200379",
+    "movie_id": "43901"
+  },
+  {
+    "review": "간만에 괜찮은 한국영화",
+    "date": "09.01.05",
+    "rating": "8",
+    "author": "demu****",
+    "review_id": "3189445",
+    "movie_id": "43901"
+  },
+  {
+    "review": "진짜 감동 스런 영화....",
+    "date": "08.12.16",
+    "rating": "10",
+    "author": "jojo****",
+    "review_id": "3122785",
+    "movie_id": "43901"
+  },
+  {
+    "review": "작은 영화 큰 공명",
+    "date": "08.12.07",
+    "rating": "10",
+    "author": "alta****",
+    "review_id": "3097395",
+    "movie_id": "43901"
+  },
+  {
+    "review": "뭔내용이야, 재미없음 !",
+    "date": "08.12.06",
+    "rating": "6",
+    "author": "hicc****",
+    "review_id": "3095244",
+    "movie_id": "43901"
+  },
+  {
+    "review": "양심적 병역거부와 엔딩장면이 인상깊고, 기독교인 입장에서 즐감했다.",
+    "date": "08.12.02",
+    "rating": "5",
+    "author": "almo****",
+    "review_id": "3085624",
+    "movie_id": "43901"
+  },
+  {
+    "review": "너무나 직선적이어서 멀리 하고픈 하지만 마지막 호준의 구토에 뜨끔해하며",
+    "date": "08.11.24",
+    "rating": "5",
+    "author": "erhe****",
+    "review_id": "3069566",
+    "movie_id": "43901"
+  },
+  {
+    "review": "목사님 아들도 군대 가던데...쩝.. 종교계에선 조용한 이유는??",
+    "date": "08.11.21",
+    "rating": "4",
+    "author": "urkn****",
+    "review_id": "3062978",
+    "movie_id": "43901"
+  },
+  {
+    "review": "양심적병역기피자니야기네무엇을이야기하는건지신념이있으면신념데로영창서복무하세요",
+    "date": "08.11.04",
+    "rating": "2",
+    "author": "ztnq****",
+    "review_id": "3034230",
+    "movie_id": "43901"
+  },
+  {
+    "review": "전세계 모든관객들의 가슴한켠을 장기전세내버릴 진정한 방문자다운 영화 방문자.",
+    "date": "08.10.22",
+    "rating": "9",
+    "author": "arri****",
+    "review_id": "3012687",
+    "movie_id": "43901"
+  },
+  {
+    "review": "여운이 오래 남는 건 감독의 독특한 리듬감각 덕..",
+    "date": "08.10.19",
+    "rating": "10",
+    "author": "leff****",
+    "review_id": "3007888",
+    "movie_id": "43901"
+  },
+  {
+    "review": "현실을 영화로 만들다보니......ㅎㅎㅎ",
+    "date": "08.10.11",
+    "rating": "6",
+    "author": "wjdf****",
+    "review_id": "2994941",
+    "movie_id": "43901"
+  },
+  {
+    "review": "꾀볼만한영화",
+    "date": "08.10.08",
+    "rating": "10",
+    "author": "kk02****",
+    "review_id": "2988839",
+    "movie_id": "43901"
+  },
+  {
+    "review": "민감한 논쟁의 소재를 통한 두 사람의 진솔한 소통 이야기",
+    "date": "08.09.30",
+    "rating": "9",
+    "author": "arkj****",
+    "review_id": "2975922",
+    "movie_id": "43901"
+  },
+  {
+    "review": "한국에서 이런영화가 만들어 질 수 있다는데 희망을 본다.",
+    "date": "08.09.25",
+    "rating": "10",
+    "author": "mats****",
+    "review_id": "2968288",
+    "movie_id": "43901"
+  },
+  {
+    "review": "너무 어둡게만 흘러가는 영화",
+    "date": "08.09.21",
+    "rating": "1",
+    "author": "choc****",
+    "review_id": "2963092",
+    "movie_id": "43901"
+  },
+  {
+    "review": "미묘",
+    "date": "08.09.17",
+    "rating": "6",
+    "author": "love****",
+    "review_id": "2955117",
+    "movie_id": "43901"
+  },
+  {
+    "review": "독립영화일뿐 그이상도 이하도 아니다.",
+    "date": "08.09.15",
+    "rating": "9",
+    "author": "2001****",
+    "review_id": "2947290",
+    "movie_id": "43901"
+  },
+  {
+    "review": "많은것을 생각해주게 하는 영화...",
+    "date": "08.09.14",
+    "rating": "10",
+    "author": "niya****",
+    "review_id": "2942123",
+    "movie_id": "43901"
+  },
+  {
+    "review": "잔잔하군",
+    "date": "08.09.13",
+    "rating": "10",
+    "author": "forb****",
+    "review_id": "2940911",
+    "movie_id": "43901"
+  },
+  {
+    "review": "부시의 머리 위에 라면 면발을 흘리는 센스에 박수",
+    "date": "08.09.12",
+    "rating": "9",
+    "author": "chan****",
+    "review_id": "2936637",
+    "movie_id": "43901"
+  },
+  {
+    "review": "뭐야.. 장난해...버럭.",
+    "date": "08.09.11",
+    "rating": "1",
+    "author": "pej1****",
+    "review_id": "2935313",
+    "movie_id": "43901"
+  },
+  {
+    "review": "계상이 종교 무슨종교에여 안식일 교회가여?",
+    "date": "08.09.11",
+    "rating": "8",
+    "author": "ck96****",
+    "review_id": "2934762",
+    "movie_id": "43901"
+  },
+  {
+    "review": "내용은 좋아도 많이 지루하네요",
+    "date": "08.09.07",
+    "rating": "2",
+    "author": "ysuh****",
+    "review_id": "2929258",
+    "movie_id": "43901"
+  },
+  {
+    "review": "독립영화적인매력이 확실이 있지만..그래도..9점대의 영화는 아니다.",
+    "date": "08.09.07",
+    "rating": "4",
+    "author": "bsfa****",
+    "review_id": "2927025",
+    "movie_id": "43901"
+  },
+  {
+    "review": "많은 노력이 보이는 영화군요.",
+    "date": "08.09.04",
+    "rating": "8",
+    "author": "hj78****",
+    "review_id": "2921553",
+    "movie_id": "43901"
+  },
+  {
+    "review": "살며시 다가오는 감동 속 김재록과 강지환의 호연",
+    "date": "08.09.04",
+    "rating": "8",
+    "author": "samm****",
+    "review_id": "2920804",
+    "movie_id": "43901"
+  },
+  {
+    "review": "평점을보고무심코봤지만, 보길잘했다고생각한영화. 한국사회의현실이..",
+    "date": "08.08.29",
+    "rating": "10",
+    "author": "lysl****",
+    "review_id": "2908779",
+    "movie_id": "43901"
+  },
+  {
+    "review": "훌륭한 영화...",
+    "date": "08.08.27",
+    "rating": "10",
+    "author": "hiui****",
+    "review_id": "2905204",
+    "movie_id": "43901"
+  },
+  {
+    "review": "어색한 국어책읽기는 절대 용서가 안된다",
+    "date": "08.08.26",
+    "rating": "6",
+    "author": "sin3****",
+    "review_id": "2903131",
+    "movie_id": "43901"
+  },
+  {
+    "review": "꼭한번 보라고 추천하고픈 영화!!!",
+    "date": "08.08.23",
+    "rating": "10",
+    "author": "krgu****",
+    "review_id": "2896689",
+    "movie_id": "43901"
+  },
+  {
+    "review": "신선한 소재와 함께 풀어가는 영화는 근래에 보기드문 것이었습니다.",
+    "date": "08.08.20",
+    "rating": "9",
+    "author": "fres****",
+    "review_id": "2890108",
+    "movie_id": "43901"
+  },
+  {
+    "review": "영화는 괜찮았지만, 주제가 여호와의 증인이라니...  이단종교를 홍보하는 영화일뿐.",
+    "date": "08.08.19",
+    "rating": "1",
+    "author": "xmis****",
+    "review_id": "2885902",
+    "movie_id": "43901"
+  },
+  {
+    "review": "독립영화만이 가질 수 있는 힘! 강력추천!",
+    "date": "08.08.18",
+    "rating": "10",
+    "author": "carn****",
+    "review_id": "2882306",
+    "movie_id": "43901"
+  },
+  {
+    "review": "칙칙한 인간상을 보여주는 영화인줄 알앗으나 정치적 종교적 견해를 표현하는 군상",
+    "date": "08.08.17",
+    "rating": "7",
+    "author": "tige****",
+    "review_id": "2879169",
+    "movie_id": "43901"
+  },
+  {
+    "review": "새로운 시도의 영화네요",
+    "date": "08.08.16",
+    "rating": "10",
+    "author": "estr****",
+    "review_id": "2877849",
+    "movie_id": "43901"
+  },
+  {
+    "review": "말하고싶은건 알겠는데 후반지루",
+    "date": "08.08.15",
+    "rating": "6",
+    "author": "tkba****",
+    "review_id": "2873772",
+    "movie_id": "43901"
+  },
+  {
+    "review": "내용은 있다...하지만 난 별로였다..특히 마지막...",
+    "date": "08.08.15",
+    "rating": "5",
+    "author": "byse****",
+    "review_id": "2873108",
+    "movie_id": "43901"
+  },
+  {
+    "review": "무엇인가를 느끼게 해주는 영화다",
+    "date": "08.08.14",
+    "rating": "8",
+    "author": "psp2****",
+    "review_id": "2871162",
+    "movie_id": "43901"
+  },
+  {
+    "review": "닫혀있던 마음의 문을 활짝 열어라...서로 다른 성격의 두 남자의 끈적한 우정",
+    "date": "08.08.14",
+    "rating": "7",
+    "author": "egyp****",
+    "review_id": "2869864",
+    "movie_id": "43901"
+  },
+  {
+    "review": "강지환님 연기 정말 좋았습니다.",
+    "date": "08.08.13",
+    "rating": "10",
+    "author": "soso****",
+    "review_id": "2868593",
+    "movie_id": "43901"
+  },
+  {
+    "review": "영화끝난뒤 게속 훈훈하게 감동이 남네요. 잘봤습니다.",
+    "date": "08.02.23",
+    "rating": "10",
+    "author": "esha****",
+    "review_id": "2473289",
+    "movie_id": "43901"
+  },
+  {
+    "review": "최고예요~ 용기있고 영리한 영화! DVD빨리 나왔으면...",
+    "date": "08.02.20",
+    "rating": "10",
+    "author": "stop****",
+    "review_id": "2466852",
+    "movie_id": "43901"
+  },
+  {
+    "review": "정말좋습니다. 지환님정말짱입니다!",
+    "date": "08.02.02",
+    "rating": "10",
+    "author": "yjs0****",
+    "review_id": "2400166",
+    "movie_id": "43901"
+  },
+  {
+    "review": "정말 어렵게 봤는데 고생한 보람있네요. 보고 싶어하는 분들 많을 것 같은데....",
+    "date": "07.12.27",
+    "rating": "10",
+    "author": "trut****",
+    "review_id": "2271679",
+    "movie_id": "43901"
+  },
+  {
+    "review": "보고나서도 뭔가를 계속 생각하게 만든다.. 이런 한국영화 흔치않지..",
+    "date": "07.10.10",
+    "rating": "10",
+    "author": "moon****",
+    "review_id": "2082237",
+    "movie_id": "43901"
+  },
+  {
+    "review": "..전달하려는 메세지가  감동적으로 다가오는 영화",
+    "date": "07.09.29",
+    "rating": "10",
+    "author": "esb9****",
+    "review_id": "2060367",
+    "movie_id": "43901"
+  },
+  {
+    "review": "대체복무 확정축하! 바로 영화의 힘! 다시 보고프다, Dvd꼭 나오길!",
+    "date": "07.09.20",
+    "rating": "10",
+    "author": "karl****",
+    "review_id": "2032095",
+    "movie_id": "43901"
+  },
+  {
+    "review": "감동이고 나발이고 그래서, 군대 안간다는거냐? 누구는 미쳤다고 군대가냐?",
+    "date": "07.09.19",
+    "rating": "1",
+    "author": "yimw****",
+    "review_id": "2031814",
+    "movie_id": "43901"
+  },
+  {
+    "review": "이런 영화, 아직도 만드네...",
+    "date": "07.09.14",
+    "rating": "2",
+    "author": "cine****",
+    "review_id": "2019056",
+    "movie_id": "43901"
+  },
+  {
+    "review": "빌어먹을 세상에서 결코 빌어먹지 않으리라",
+    "date": "07.07.23",
+    "rating": "6",
+    "author": "tt19****",
+    "review_id": "1803522",
+    "movie_id": "43901"
+  },
+  {
+    "review": "은은함 감동이 느껴진다.",
+    "date": "07.06.27",
+    "rating": "10",
+    "author": "choi****",
+    "review_id": "1724186",
+    "movie_id": "43901"
+  },
+  {
+    "review": "끝에 가서 특정 이단종교를 옹호하기 위해 만들었다는 메시지는 황당..",
+    "date": "07.05.25",
+    "rating": "7",
+    "author": "cath****",
+    "review_id": "1658178",
+    "movie_id": "43901"
+  },
+  {
+    "review": "감독의 외침이 아주 유머스럽고 감동스럽게 다가온 영화!",
+    "date": "07.04.02",
+    "rating": "9",
+    "author": "ssae****",
+    "review_id": "1569716",
+    "movie_id": "43901"
+  },
+  {
+    "review": "진지하면서 유머스럽다.",
+    "date": "07.03.11",
+    "rating": "10",
+    "author": "taij****",
+    "review_id": "1530338",
+    "movie_id": "43901"
+  },
+  {
+    "review": "비디오나오려나?",
+    "date": "07.03.11",
+    "rating": "10",
+    "author": "dewe****",
+    "review_id": "1530207",
+    "movie_id": "43901"
+  },
+  {
+    "review": "이렇게 안타깝고 예쁜영화가 있을 수 있다니. 10분만 더 보여주지는..",
+    "date": "07.03.10",
+    "rating": "9",
+    "author": "andr****",
+    "review_id": "1526350",
+    "movie_id": "43901"
+  },
+  {
+    "review": "강지환만으로도 흐뭇한데, 계상의 선택 또한 흐뭇하다.",
+    "date": "07.01.17",
+    "rating": "7",
+    "author": "leeb****",
+    "review_id": "1392904",
+    "movie_id": "43901"
+  },
+  {
+    "review": ".. 계속 웃게 하면서..또 많은 생각을 하게 해 주는 영화~~",
+    "date": "07.01.16",
+    "rating": "10",
+    "author": "12bm****",
+    "review_id": "1388626",
+    "movie_id": "43901"
+  },
+  {
+    "review": "굿이야 굿굿굿",
+    "date": "07.01.14",
+    "rating": "10",
+    "author": "kimy****",
+    "review_id": "1385151",
+    "movie_id": "43901"
+  },
+  {
+    "review": "몬가를 느끼게 해주는 영화네여",
+    "date": "07.01.07",
+    "rating": "6",
+    "author": "almo****",
+    "review_id": "1366058",
+    "movie_id": "43901"
+  },
+  {
+    "review": "세상에 거칠게 내뱉는 감독의 뚝심",
+    "date": "06.12.29",
+    "rating": "9",
+    "author": "kimd****",
+    "review_id": "1338280",
+    "movie_id": "43901"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "review": "배우들은 좋아",
+    "date": "06.08.02",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "956504",
+    "movie_id": "38114"
+  },
+  {
+    "review": "주연급 스타가 없었다..작품은 그럭저럭.",
+    "date": "05.12.25",
+    "rating": "6",
+    "author": "blue****",
+    "review_id": "528676",
+    "movie_id": "38114"
+  },
+  {
+    "review": "쵝오!",
+    "date": "05.08.30",
+    "rating": "10",
+    "author": "disc****",
+    "review_id": "388604",
+    "movie_id": "38114"
+  }
+]

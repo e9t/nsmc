@@ -1,0 +1,26 @@
+[
+  {
+    "review": "별로 보고싶지 않군",
+    "date": "13.08.21",
+    "rating": "1",
+    "author": "balo****",
+    "review_id": "7909408",
+    "movie_id": "38684"
+  },
+  {
+    "review": ".........",
+    "date": "13.08.06",
+    "rating": "1",
+    "author": "ktm3****",
+    "review_id": "7850023",
+    "movie_id": "38684"
+  },
+  {
+    "review": "난해했지만 다시 보고싶은 영화",
+    "date": "08.04.19",
+    "rating": "10",
+    "author": "coal****",
+    "review_id": "2589172",
+    "movie_id": "38684"
+  }
+]

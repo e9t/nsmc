@@ -1,0 +1,642 @@
+[
+  {
+    "review": "무거운 색감과 낯선 분위기를 보면 훌륭한 영화입니다.",
+    "date": "13.12.06",
+    "rating": "10",
+    "author": "dpur****",
+    "review_id": "8193303",
+    "movie_id": "32465"
+  },
+  {
+    "review": "뭐나름 갠찮든데?ㅋㅋ",
+    "date": "13.10.14",
+    "rating": "10",
+    "author": "2646****",
+    "review_id": "8060022",
+    "movie_id": "32465"
+  },
+  {
+    "review": "남자주연 헤어스타일이 맘에 안들어",
+    "date": "13.02.18",
+    "rating": "2",
+    "author": "viva****",
+    "review_id": "7278083",
+    "movie_id": "32465"
+  },
+  {
+    "review": "좀",
+    "date": "13.02.15",
+    "rating": "1",
+    "author": "bool****",
+    "review_id": "7266692",
+    "movie_id": "32465"
+  },
+  {
+    "review": "배경만 그럴싸하게 포장해놨을뿐. 이런스타일의 영화 지루하고 심심함.캐릭터의 감정.행위 세부상황이 그럴수있다 넘기고 공감하다가도 과도하구 불필요한  변태성은 좀아닌거같네.감독의 성향이 지나치게 자유분방하구 예술적인듯.",
+    "date": "12.10.27",
+    "rating": "4",
+    "author": "kis5****",
+    "review_id": "6830636",
+    "movie_id": "32465"
+  },
+  {
+    "review": "개연성도 없고 설득력도 없고... 별 한개는 미술, 반개는 배우 몫.",
+    "date": "08.07.07",
+    "rating": "3",
+    "author": "coib****",
+    "review_id": "2746913",
+    "movie_id": "32465"
+  },
+  {
+    "review": "이 비슷한 소재로 만든 베스트극장이 훨 잼있더만...",
+    "date": "08.03.24",
+    "rating": "2",
+    "author": "urkn****",
+    "review_id": "2539363",
+    "movie_id": "32465"
+  },
+  {
+    "review": "욕망의 실체를 가늠할 수 없다. 겉돌다가 끝나는 아쉬운 영화.",
+    "date": "08.03.20",
+    "rating": "6",
+    "author": "wfy0****",
+    "review_id": "2530269",
+    "movie_id": "32465"
+  },
+  {
+    "review": "어쩔수 없는 뻔한 불륜 극화..",
+    "date": "08.01.18",
+    "rating": "5",
+    "author": "evil****",
+    "review_id": "2341870",
+    "movie_id": "32465"
+  },
+  {
+    "review": "다시봐도 영 아니었다.. 지리한 영상전개...",
+    "date": "08.01.17",
+    "rating": "4",
+    "author": "leff****",
+    "review_id": "2338611",
+    "movie_id": "32465"
+  },
+  {
+    "review": "두남자와한여자라는 소재를 두고 생각해낼만한 것중 지리멸렬한 것만 모았음",
+    "date": "07.08.24",
+    "rating": "3",
+    "author": "gree****",
+    "review_id": "1973366",
+    "movie_id": "32465"
+  },
+  {
+    "review": "뭐. 그럭저럭 볼만하더만.",
+    "date": "07.08.14",
+    "rating": "7",
+    "author": "moon****",
+    "review_id": "1935249",
+    "movie_id": "32465"
+  },
+  {
+    "review": "너무 사건 전개가 느림. 그리고 여배우가 매우 인간적이게 생겼음.",
+    "date": "07.08.07",
+    "rating": "5",
+    "author": "seen****",
+    "review_id": "1895721",
+    "movie_id": "32465"
+  },
+  {
+    "review": "대사가 너무 적어서 먼 소리하는지.......",
+    "date": "07.05.16",
+    "rating": "3",
+    "author": "ghos****",
+    "review_id": "1641136",
+    "movie_id": "32465"
+  },
+  {
+    "review": "사진 같은 영화?  대사가 적어서 좋았음.",
+    "date": "07.03.10",
+    "rating": "10",
+    "author": "ysg1****",
+    "review_id": "1527208",
+    "movie_id": "32465"
+  },
+  {
+    "review": "감각적인 영상.. 다른느낌의 한국영화..",
+    "date": "06.08.24",
+    "rating": "10",
+    "author": "dleo****",
+    "review_id": "1072680",
+    "movie_id": "32465"
+  },
+  {
+    "review": "뭐 이런영화가 다있어..;;;;;",
+    "date": "06.08.24",
+    "rating": "1",
+    "author": "real****",
+    "review_id": "1072643",
+    "movie_id": "32465"
+  },
+  {
+    "review": "먼 나라 얘기같아 전혀 동감이 가지 않는 영화..",
+    "date": "06.07.20",
+    "rating": "1",
+    "author": "lshp****",
+    "review_id": "909530",
+    "movie_id": "32465"
+  },
+  {
+    "review": "짜증...왕짜증..",
+    "date": "06.05.31",
+    "rating": "1",
+    "author": "po32****",
+    "review_id": "824220",
+    "movie_id": "32465"
+  },
+  {
+    "review": "뭔가.. 난괜찮았는데..?",
+    "date": "06.05.09",
+    "rating": "9",
+    "author": "wook****",
+    "review_id": "793481",
+    "movie_id": "32465"
+  },
+  {
+    "review": "....와닿지가 않는데;   뭔가 부족해",
+    "date": "06.04.04",
+    "rating": "3",
+    "author": "chin****",
+    "review_id": "748608",
+    "movie_id": "32465"
+  },
+  {
+    "review": "너무 야해서 1점 0점 주고 싶은데 0점이 없어서 1점",
+    "date": "06.03.19",
+    "rating": "1",
+    "author": "ajtw****",
+    "review_id": "723602",
+    "movie_id": "32465"
+  },
+  {
+    "review": "너무 무겁게 이끌고 나갔다...",
+    "date": "06.03.16",
+    "rating": "3",
+    "author": "puss****",
+    "review_id": "718639",
+    "movie_id": "32465"
+  },
+  {
+    "review": "힘든소재를 다룸",
+    "date": "06.02.17",
+    "rating": "4",
+    "author": "wjdg****",
+    "review_id": "675571",
+    "movie_id": "32465"
+  },
+  {
+    "review": "글쎄.. 그닥 센세이션 하진 않아. 잔잔하게 파도 치지도 않아.",
+    "date": "06.02.08",
+    "rating": "6",
+    "author": "tang****",
+    "review_id": "654740",
+    "movie_id": "32465"
+  },
+  {
+    "review": "뭔가 아쉬운..",
+    "date": "06.02.07",
+    "rating": "5",
+    "author": "hmhu****",
+    "review_id": "653665",
+    "movie_id": "32465"
+  },
+  {
+    "review": "내가좋아하는배우안내상,이동규..재밌었다",
+    "date": "06.02.07",
+    "rating": "8",
+    "author": "cjon****",
+    "review_id": "653031",
+    "movie_id": "32465"
+  },
+  {
+    "review": "공감하거나 이해하기가 힘든 주인공들의 감정들.",
+    "date": "05.12.22",
+    "rating": "5",
+    "author": "blue****",
+    "review_id": "520566",
+    "movie_id": "32465"
+  },
+  {
+    "review": "저여자 베스트극장에서봤고 저남자 부활에서봤다.한번보고싶내;",
+    "date": "05.12.11",
+    "rating": "10",
+    "author": "ptsz****",
+    "review_id": "501356",
+    "movie_id": "32465"
+  },
+  {
+    "review": "대사가 없어도 감정이 전달되는 영화",
+    "date": "05.10.21",
+    "rating": "8",
+    "author": "s197****",
+    "review_id": "449334",
+    "movie_id": "32465"
+  },
+  {
+    "review": "ㅋㅋㅋ",
+    "date": "05.09.30",
+    "rating": "10",
+    "author": "hidd****",
+    "review_id": "428117",
+    "movie_id": "32465"
+  },
+  {
+    "review": "^ ^",
+    "date": "05.09.18",
+    "rating": "10",
+    "author": "xhug****",
+    "review_id": "410696",
+    "movie_id": "32465"
+  },
+  {
+    "review": "진짜 이상한 영화. 삐리리씬이 대사보다 더 길어. 망할만 하다.",
+    "date": "05.08.09",
+    "rating": "1",
+    "author": "nabe****",
+    "review_id": "359007",
+    "movie_id": "32465"
+  },
+  {
+    "review": "-_-내인생 정말 최악의 영화!!!!!!!!1",
+    "date": "05.08.01",
+    "rating": "1",
+    "author": "unch****",
+    "review_id": "346246",
+    "movie_id": "32465"
+  },
+  {
+    "review": "지루해",
+    "date": "05.07.06",
+    "rating": "5",
+    "author": "town****",
+    "review_id": "313745",
+    "movie_id": "32465"
+  },
+  {
+    "review": "좀 어렵긴 했지만 ..",
+    "date": "05.06.08",
+    "rating": "8",
+    "author": "pkr0****",
+    "review_id": "295915",
+    "movie_id": "32465"
+  },
+  {
+    "review": "지루...지루...동성애는.. 별로..",
+    "date": "05.03.18",
+    "rating": "5",
+    "author": "bizj****",
+    "review_id": "243148",
+    "movie_id": "32465"
+  },
+  {
+    "review": "...",
+    "date": "05.02.14",
+    "rating": "10",
+    "author": "nish****",
+    "review_id": "219713",
+    "movie_id": "32465"
+  },
+  {
+    "review": "별 0개는 없나;",
+    "date": "05.01.03",
+    "rating": "1",
+    "author": "pola****",
+    "review_id": "176292",
+    "movie_id": "32465"
+  },
+  {
+    "review": "지루한 영화",
+    "date": "04.12.27",
+    "rating": "1",
+    "author": "chki****",
+    "review_id": "170905",
+    "movie_id": "32465"
+  },
+  {
+    "review": "폼만 잡다 끝난다",
+    "date": "04.11.04",
+    "rating": "1",
+    "author": "iskr****",
+    "review_id": "138995",
+    "movie_id": "32465"
+  },
+  {
+    "review": "이동규씨 멋지게 봤는데..... 대사가 별루 없더라구여..",
+    "date": "04.11.01",
+    "rating": "2",
+    "author": "happ****",
+    "review_id": "137112",
+    "movie_id": "32465"
+  },
+  {
+    "review": "지배층에 있는 남자는 잘못해도 승리자가 될수 있다",
+    "date": "04.11.01",
+    "rating": "1",
+    "author": "soul****",
+    "review_id": "136953",
+    "movie_id": "32465"
+  },
+  {
+    "review": "허~~ 이것도 영화야??",
+    "date": "04.09.15",
+    "rating": "1",
+    "author": "usom****",
+    "review_id": "108832",
+    "movie_id": "32465"
+  },
+  {
+    "review": "성적인 흥미거리가 아닌 작품 자체로서 괜찮은 영화.",
+    "date": "04.09.14",
+    "rating": "8",
+    "author": "dark****",
+    "review_id": "108099",
+    "movie_id": "32465"
+  },
+  {
+    "review": "현실과는 괴리감이 있지만 영화적인 요소로 보자면 괜찮은 작품...",
+    "date": "04.09.10",
+    "rating": "5",
+    "author": "kaha****",
+    "review_id": "105621",
+    "movie_id": "32465"
+  },
+  {
+    "review": "시간이 아깝다... 짜증나.",
+    "date": "04.08.05",
+    "rating": "1",
+    "author": "jek0****",
+    "review_id": "83996",
+    "movie_id": "32465"
+  },
+  {
+    "review": "공감하거나 이해하기가 힘든 주인공들의 감정들. 너무 동떨어진 현실..",
+    "date": "04.08.04",
+    "rating": "5",
+    "author": "jjs7****",
+    "review_id": "83485",
+    "movie_id": "32465"
+  },
+  {
+    "review": "이 영화를 만든 의도가 뭐지? -_-;",
+    "date": "04.07.03",
+    "rating": "1",
+    "author": "wait****",
+    "review_id": "64462",
+    "movie_id": "32465"
+  },
+  {
+    "review": "난해함과 난해한 척하기의 차이",
+    "date": "04.06.23",
+    "rating": "1",
+    "author": "euni****",
+    "review_id": "59142",
+    "movie_id": "32465"
+  },
+  {
+    "review": "난해하다고 다 좋은영화는 아님",
+    "date": "04.06.22",
+    "rating": "1",
+    "author": "taku****",
+    "review_id": "58852",
+    "movie_id": "32465"
+  },
+  {
+    "review": "이수아 중간에 담배피다 왜 맞은거야??",
+    "date": "04.06.20",
+    "rating": "1",
+    "author": "guma****",
+    "review_id": "57300",
+    "movie_id": "32465"
+  },
+  {
+    "review": "내용이 난해하다 모가 몬지???",
+    "date": "04.06.02",
+    "rating": "1",
+    "author": "dhfh****",
+    "review_id": "48751",
+    "movie_id": "32465"
+  },
+  {
+    "review": "대충 줄거리는 듣고 봤는데도...모르겠다...달님은 알까??ㅡ,.ㅡ;",
+    "date": "04.05.19",
+    "rating": "1",
+    "author": "tnjy****",
+    "review_id": "44077",
+    "movie_id": "32465"
+  },
+  {
+    "review": "마지막은 규민을 사랑한 남,녀......",
+    "date": "04.05.11",
+    "rating": "10",
+    "author": "oney****",
+    "review_id": "42435",
+    "movie_id": "32465"
+  },
+  {
+    "review": "대사도 없고, 주인공들의 행동도 이해안가고...",
+    "date": "04.05.11",
+    "rating": "5",
+    "author": "leea****",
+    "review_id": "42420",
+    "movie_id": "32465"
+  },
+  {
+    "review": "욕망은 건강에 좋지 않다",
+    "date": "04.05.08",
+    "rating": "2",
+    "author": "blul****",
+    "review_id": "41660",
+    "movie_id": "32465"
+  },
+  {
+    "review": "뭔가..심오하지만...정말 잼없는 영화...",
+    "date": "04.05.02",
+    "rating": "1",
+    "author": "wons****",
+    "review_id": "40587",
+    "movie_id": "32465"
+  },
+  {
+    "review": "너무 과도한 생략과 어설픈 상징남발.. 영화가 끊겨요.",
+    "date": "04.04.30",
+    "rating": "5",
+    "author": "6591****",
+    "review_id": "40123",
+    "movie_id": "32465"
+  },
+  {
+    "review": "역시 어려운 영화인듯~ 아마 깊은 뜻이 있겠지만~",
+    "date": "04.04.27",
+    "rating": "1",
+    "author": "proe****",
+    "review_id": "39533",
+    "movie_id": "32465"
+  },
+  {
+    "review": "도데체가 뭔이야기일까... 이건 한 서너번을 더 봐야 알거 같다..",
+    "date": "04.03.11",
+    "rating": "1",
+    "author": "code****",
+    "review_id": "28362",
+    "movie_id": "32465"
+  },
+  {
+    "review": "솔직히 이건 아니다.. 내가 무식해서인진 몰라도 도대체 뭘 말하려하는건지",
+    "date": "04.03.07",
+    "rating": "2",
+    "author": "godp****",
+    "review_id": "27638",
+    "movie_id": "32465"
+  },
+  {
+    "review": "오랜만에 괜찮은 영화 봤슴다.",
+    "date": "04.03.02",
+    "rating": "10",
+    "author": "chil****",
+    "review_id": "26271",
+    "movie_id": "32465"
+  },
+  {
+    "review": "알바생들아~ 그거 어케 신청해여?ㅋㅋㅋㅋㅋ",
+    "date": "04.02.28",
+    "rating": "1",
+    "author": "jiis****",
+    "review_id": "25199",
+    "movie_id": "32465"
+  },
+  {
+    "review": "........................................",
+    "date": "04.02.27",
+    "rating": "1",
+    "author": "minj****",
+    "review_id": "24956",
+    "movie_id": "32465"
+  },
+  {
+    "review": "분위기가 좋네요. 특히 나오는 장소나 소품같은게 멋있었어요.",
+    "date": "04.02.27",
+    "rating": "6",
+    "author": "rang****",
+    "review_id": "24946",
+    "movie_id": "32465"
+  },
+  {
+    "review": "OOO놈의 쓰레기 영화",
+    "date": "04.02.25",
+    "rating": "1",
+    "author": "iabw****",
+    "review_id": "24134",
+    "movie_id": "32465"
+  },
+  {
+    "review": "벗었으나 안야하고 신경 써서 볼만한 영화",
+    "date": "04.02.23",
+    "rating": "7",
+    "author": "pain****",
+    "review_id": "23429",
+    "movie_id": "32465"
+  },
+  {
+    "review": "당췌..뭐가 뭔지...그냥 포느노인데 뭐가 최고란건지.. 알바생 티남..",
+    "date": "04.02.21",
+    "rating": "1",
+    "author": "pris****",
+    "review_id": "22460",
+    "movie_id": "32465"
+  },
+  {
+    "review": "아무것도 없는 영화...",
+    "date": "04.02.20",
+    "rating": "2",
+    "author": "ziok****",
+    "review_id": "22248",
+    "movie_id": "32465"
+  },
+  {
+    "review": "최고입니다,, 그말 밖에 해드릴수가 없네요, 3000원이 아깝지않네요,",
+    "date": "04.02.20",
+    "rating": "10",
+    "author": "fush****",
+    "review_id": "22102",
+    "movie_id": "32465"
+  },
+  {
+    "review": "재미있게보려고함",
+    "date": "04.02.20",
+    "rating": "10",
+    "author": "tupo****",
+    "review_id": "22038",
+    "movie_id": "32465"
+  },
+  {
+    "review": "재밌게봤습니다",
+    "date": "04.02.20",
+    "rating": "10",
+    "author": "ysis****",
+    "review_id": "21990",
+    "movie_id": "32465"
+  },
+  {
+    "review": "잼있을것 같은데용...",
+    "date": "04.02.17",
+    "rating": "10",
+    "author": "sall****",
+    "review_id": "21147",
+    "movie_id": "32465"
+  },
+  {
+    "review": "괜찮아",
+    "date": "04.02.16",
+    "rating": "1",
+    "author": "bums****",
+    "review_id": "20814",
+    "movie_id": "32465"
+  },
+  {
+    "review": "괜찮을것 같습니다",
+    "date": "04.02.14",
+    "rating": "10",
+    "author": "eric****",
+    "review_id": "19938",
+    "movie_id": "32465"
+  },
+  {
+    "review": "생각하게 하는 영화-",
+    "date": "04.02.14",
+    "rating": "10",
+    "author": "atsk****",
+    "review_id": "19890",
+    "movie_id": "32465"
+  },
+  {
+    "review": "괜찮을것 같네요.",
+    "date": "04.02.13",
+    "rating": "10",
+    "author": "wooh****",
+    "review_id": "19683",
+    "movie_id": "32465"
+  },
+  {
+    "review": "열심히해여",
+    "date": "04.02.10",
+    "rating": "3",
+    "author": "rhrj****",
+    "review_id": "18707",
+    "movie_id": "32465"
+  },
+  {
+    "review": "에로영화로 밖에 보이지않는다",
+    "date": "04.02.08",
+    "rating": "1",
+    "author": "tkin****",
+    "review_id": "17906",
+    "movie_id": "32465"
+  }
+]

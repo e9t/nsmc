@@ -1,0 +1,34 @@
+[
+  {
+    "review": "노답인데요 흥....",
+    "date": "14.08.25",
+    "rating": "1",
+    "author": "gera****",
+    "review_id": "9133508",
+    "movie_id": "23598"
+  },
+  {
+    "review": "실은데여",
+    "date": "13.02.07",
+    "rating": "1",
+    "author": "gcg5****",
+    "review_id": "7233775",
+    "movie_id": "23598"
+  },
+  {
+    "review": "1위만들자",
+    "date": "11.01.29",
+    "rating": "10",
+    "author": "air6****",
+    "review_id": "5194254",
+    "movie_id": "23598"
+  },
+  {
+    "review": "그댱시영화 치곤 매우잘만들었습니다.",
+    "date": "08.07.20",
+    "rating": "10",
+    "author": "eynd****",
+    "review_id": "2786004",
+    "movie_id": "23598"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "review": "안녕하세여 무료 다운가능하나요",
+    "date": "14.05.20",
+    "rating": "10",
+    "author": "kyon****",
+    "review_id": "8749339",
+    "movie_id": "41068"
+  },
+  {
+    "review": "이걸 사람들이꼭봤으면하네요. 도덕책에도 나와요.",
+    "date": "13.09.29",
+    "rating": "10",
+    "author": "bell****",
+    "review_id": "8021958",
+    "movie_id": "41068"
+  },
+  {
+    "review": "대한민국 알고보니 너무한 국가였다.대학을 못 나왔다고 인간 취급을 안하다니!!",
+    "date": "12.12.08",
+    "rating": "10",
+    "author": "xyz2****",
+    "review_id": "6985660",
+    "movie_id": "41068"
+  },
+  {
+    "review": "여섯가지 이야기 모두 우리에게 가르침을 주는 정말 대단한 애니메이션이다",
+    "date": "12.01.05",
+    "rating": "10",
+    "author": "bock****",
+    "review_id": "5962981",
+    "movie_id": "41068"
+  },
+  {
+    "review": "우리의 삶을 다시한번 돌아보게 하는 영화.",
+    "date": "11.11.03",
+    "rating": "10",
+    "author": "jpo1****",
+    "review_id": "5826364",
+    "movie_id": "41068"
+  },
+  {
+    "review": "조금 내용이 지루해도 인권과 관련이 있으니 좋긴 좋네요.",
+    "date": "11.10.19",
+    "rating": "9",
+    "author": "doni****",
+    "review_id": "5798028",
+    "movie_id": "41068"
+  },
+  {
+    "review": "내용은 있는데 조금 내용이 무겁고 지루한 에니메이션 입니다",
+    "date": "11.01.19",
+    "rating": "9",
+    "author": "k689****",
+    "review_id": "5169707",
+    "movie_id": "41068"
+  },
+  {
+    "review": "교육용 자료로도 대단하다.",
+    "date": "10.12.08",
+    "rating": "9",
+    "author": "pree****",
+    "review_id": "5035898",
+    "movie_id": "41068"
+  },
+  {
+    "review": "국민 필수 감상 영화가 되야 한다.",
+    "date": "10.08.29",
+    "rating": "10",
+    "author": "minj****",
+    "review_id": "4802523",
+    "movie_id": "41068"
+  },
+  {
+    "review": "다른삶이지,틀린삶은아니겟죠?",
+    "date": "10.05.06",
+    "rating": "10",
+    "author": "book****",
+    "review_id": "4483745",
+    "movie_id": "41068"
+  },
+  {
+    "review": "뭔가 좀 부족한 영화",
+    "date": "09.06.20",
+    "rating": "8",
+    "author": "hwng****",
+    "review_id": "3576244",
+    "movie_id": "41068"
+  },
+  {
+    "review": "우리나라 모두가 이것을 보고 평등하고 차별없는 밝은 세상이 되었으면 한다...",
+    "date": "08.12.11",
+    "rating": "10",
+    "author": "jcsa****",
+    "review_id": "3108251",
+    "movie_id": "41068"
+  },
+  {
+    "review": "정말 마음에 와 닿는 이야기였어요.... 특히 '사람이 되어라'는...",
+    "date": "08.11.16",
+    "rating": "10",
+    "author": "jiwo****",
+    "review_id": "3054424",
+    "movie_id": "41068"
+  },
+  {
+    "review": "강력한 매세지를 남겨주는 애니..",
+    "date": "08.09.18",
+    "rating": "9",
+    "author": "i971****",
+    "review_id": "2956301",
+    "movie_id": "41068"
+  },
+  {
+    "review": "약간 아쉽다",
+    "date": "08.08.14",
+    "rating": "6",
+    "author": "dlst****",
+    "review_id": "2870556",
+    "movie_id": "41068"
+  },
+  {
+    "review": "동화같으면서도 가볍지않은 진지함... 좋았습니다.",
+    "date": "08.05.29",
+    "rating": "10",
+    "author": "lov1****",
+    "review_id": "2669543",
+    "movie_id": "41068"
+  },
+  {
+    "review": "착한얘기...좀 졸려",
+    "date": "08.04.09",
+    "rating": "5",
+    "author": "drd1****",
+    "review_id": "2569967",
+    "movie_id": "41068"
+  },
+  {
+    "review": "모든 국민들이 이걸 볼수만있다면 세상은 나아질까..",
+    "date": "08.03.21",
+    "rating": "9",
+    "author": "sama****",
+    "review_id": "2531780",
+    "movie_id": "41068"
+  },
+  {
+    "review": "간결하고 효과적으로 핵심을 말하는 방법",
+    "date": "08.02.16",
+    "rating": "8",
+    "author": "irsl****",
+    "review_id": "2451441",
+    "movie_id": "41068"
+  },
+  {
+    "review": "영상도 좋고,음악도 좋고,내용도 좋고~",
+    "date": "08.02.15",
+    "rating": "10",
+    "author": "jse3****",
+    "review_id": "2447579",
+    "movie_id": "41068"
+  },
+  {
+    "review": "짧지만 강한 메세지를 주는 영화!",
+    "date": "08.02.15",
+    "rating": "10",
+    "author": "hell****",
+    "review_id": "2447413",
+    "movie_id": "41068"
+  },
+  {
+    "review": "현대사회의 모습을 그대로 보여주었던 영화",
+    "date": "08.02.15",
+    "rating": "10",
+    "author": "whpe****",
+    "review_id": "2447372",
+    "movie_id": "41068"
+  },
+  {
+    "review": "...공감합니다.연출 기법도 참신.",
+    "date": "08.01.02",
+    "rating": "10",
+    "author": "happ****",
+    "review_id": "2292554",
+    "movie_id": "41068"
+  },
+  {
+    "review": "스타일리쉬한 연출에 감독의 가시같은 비판의식",
+    "date": "07.11.09",
+    "rating": "9",
+    "author": "godj****",
+    "review_id": "2141380",
+    "movie_id": "41068"
+  },
+  {
+    "review": "지루하다고 생각하면서도 공감해버렸다.",
+    "date": "07.02.20",
+    "rating": "10",
+    "author": "bear****",
+    "review_id": "1487560",
+    "movie_id": "41068"
+  },
+  {
+    "review": "좋은영화..",
+    "date": "07.02.01",
+    "rating": "10",
+    "author": "tksg****",
+    "review_id": "1434361",
+    "movie_id": "41068"
+  },
+  {
+    "review": "대학나오지않으면사람도아니다라는말이인상깊었습니다.",
+    "date": "07.01.15",
+    "rating": "10",
+    "author": "qowl****",
+    "review_id": "1387571",
+    "movie_id": "41068"
+  },
+  {
+    "review": "소외받는 사람들의 이야기. 상대의 입장에서 생각해보길..",
+    "date": "06.12.15",
+    "rating": "8",
+    "author": "hs00****",
+    "review_id": "1294082",
+    "movie_id": "41068"
+  },
+  {
+    "review": "이런건 뉴스시간에 온 국민이 봐야 하는거 아닌가",
+    "date": "06.12.10",
+    "rating": "10",
+    "author": "sebi****",
+    "review_id": "1282968",
+    "movie_id": "41068"
+  },
+  {
+    "review": "현대사회의 아픈 구석구석을 콕콕 찌르는 고발만화",
+    "date": "06.12.08",
+    "rating": "10",
+    "author": "bbq2****",
+    "review_id": "1274203",
+    "movie_id": "41068"
+  },
+  {
+    "review": "현대판 '이솝우화'의 탄생, 한국 애니, 딱 이정도만 되라",
+    "date": "06.12.07",
+    "rating": "6",
+    "author": "okjo****",
+    "review_id": "1272630",
+    "movie_id": "41068"
+  },
+  {
+    "review": "잘 만들었습니다...사람이 되어라가 제일 인상적이었어요^^;",
+    "date": "06.12.06",
+    "rating": "10",
+    "author": "wjda****",
+    "review_id": "1271162",
+    "movie_id": "41068"
+  },
+  {
+    "review": "흠흠..공감가는 부분도 있고 애니메이션 기술도 독특하고..",
+    "date": "06.11.12",
+    "rating": "10",
+    "author": "1023****",
+    "review_id": "1229498",
+    "movie_id": "41068"
+  },
+  {
+    "review": "슬픈 현실의 네모난 창",
+    "date": "06.10.25",
+    "rating": "10",
+    "author": "sksd****",
+    "review_id": "1198955",
+    "movie_id": "41068"
+  },
+  {
+    "review": "역시,, 이성강감독,, 나두 자전거여행보고 뭉클했으,,,",
+    "date": "06.06.02",
+    "rating": "9",
+    "author": "inki****",
+    "review_id": "828036",
+    "movie_id": "41068"
+  },
+  {
+    "review": "좋은 영화 sicaf에서 봤어요",
+    "date": "06.05.27",
+    "rating": "9",
+    "author": "tolb****",
+    "review_id": "818383",
+    "movie_id": "41068"
+  },
+  {
+    "review": "'사람이되어라' 라는 부분이 제일 공감된다고나 해야할까.. ?",
+    "date": "06.05.21",
+    "rating": "10",
+    "author": "scha****",
+    "review_id": "809659",
+    "movie_id": "41068"
+  },
+  {
+    "review": "감동ㅜ,.ㅜ",
+    "date": "06.05.13",
+    "rating": "10",
+    "author": "tmdd****",
+    "review_id": "797786",
+    "movie_id": "41068"
+  },
+  {
+    "review": "자전거여행이랑 사람이되어라 보고 울뻔했어요.",
+    "date": "06.05.02",
+    "rating": "10",
+    "author": "path****",
+    "review_id": "783739",
+    "movie_id": "41068"
+  },
+  {
+    "review": "굿.",
+    "date": "06.02.18",
+    "rating": "10",
+    "author": "oksk****",
+    "review_id": "678384",
+    "movie_id": "41068"
+  },
+  {
+    "review": "익숙하지만 하지만...결코 넘겨서는 안될 우리네들 이야기.",
+    "date": "06.01.28",
+    "rating": "10",
+    "author": "spri****",
+    "review_id": "627302",
+    "movie_id": "41068"
+  },
+  {
+    "review": "전체적인 소재와 일부 수작때문에 그래도 이점수를 줌",
+    "date": "06.01.22",
+    "rating": "6",
+    "author": "kare****",
+    "review_id": "611468",
+    "movie_id": "41068"
+  },
+  {
+    "review": "교육용 인권 영화",
+    "date": "06.01.15",
+    "rating": "7",
+    "author": "mlif****",
+    "review_id": "590535",
+    "movie_id": "41068"
+  },
+  {
+    "review": "역시 박재동 화백님...^^",
+    "date": "06.01.11",
+    "rating": "10",
+    "author": "twin****",
+    "review_id": "578571",
+    "movie_id": "41068"
+  },
+  {
+    "review": "우리자녀와 내가 꼭 한번씩은 보아야 하는 만화영화.",
+    "date": "06.01.09",
+    "rating": "10",
+    "author": "kbh0****",
+    "review_id": "575240",
+    "movie_id": "41068"
+  },
+  {
+    "review": "자녀교육 바로 키우고 싶다면 가족모두 꼭 보시라",
+    "date": "06.01.06",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "564061",
+    "movie_id": "41068"
+  },
+  {
+    "review": "차이에 따른 차별을 다시 생각하게 만드는 영화",
+    "date": "05.10.26",
+    "rating": "10",
+    "author": "jall****",
+    "review_id": "455164",
+    "movie_id": "41068"
+  },
+  {
+    "review": "한번 더 생각하게 해주는 영화..",
+    "date": "05.10.14",
+    "rating": "9",
+    "author": "tone****",
+    "review_id": "442322",
+    "movie_id": "41068"
+  },
+  {
+    "review": "괜찮은 미장센에 폭소가미. 약~~~~간 맥빠지는 주제",
+    "date": "05.10.13",
+    "rating": "7",
+    "author": "ghvl****",
+    "review_id": "441769",
+    "movie_id": "41068"
+  },
+  {
+    "review": "별의별 우리 이야기.. 공감하는것도 있었고..차분해진느낌..",
+    "date": "05.10.09",
+    "rating": "7",
+    "author": "dewl****",
+    "review_id": "437597",
+    "movie_id": "41068"
+  },
+  {
+    "review": "지루하다.허나느낄수있는것은많다.",
+    "date": "05.10.08",
+    "rating": "5",
+    "author": "skg8****",
+    "review_id": "436785",
+    "movie_id": "41068"
+  },
+  {
+    "review": "역시 유치찬란",
+    "date": "05.10.06",
+    "rating": "1",
+    "author": "dark****",
+    "review_id": "434872",
+    "movie_id": "41068"
+  },
+  {
+    "review": "생각없이 들어갔다가 나오는 길에 머릿 속에 만들어낸 생각들..",
+    "date": "05.10.05",
+    "rating": "8",
+    "author": "jy71****",
+    "review_id": "434189",
+    "movie_id": "41068"
+  },
+  {
+    "review": "가벼우면서도 가볍지 않았던 영화^^",
+    "date": "05.10.04",
+    "rating": "10",
+    "author": "rang****",
+    "review_id": "433758",
+    "movie_id": "41068"
+  },
+  {
+    "review": "보고나면 면도를 했다는 느낌 (신고",
+    "date": "05.10.04",
+    "rating": "10",
+    "author": "rees****",
+    "review_id": "433129",
+    "movie_id": "41068"
+  },
+  {
+    "review": "무거운 주제를 무겁지 않게 그러나 가볍지 않게...정말 재미있음",
+    "date": "05.10.03",
+    "rating": "10",
+    "author": "hajo****",
+    "review_id": "431455",
+    "movie_id": "41068"
+  },
+  {
+    "review": "소중한 영화",
+    "date": "05.10.02",
+    "rating": "9",
+    "author": "godf****",
+    "review_id": "430365",
+    "movie_id": "41068"
+  },
+  {
+    "review": "박재동 화백 작품이 젤 잼났어요",
+    "date": "05.09.28",
+    "rating": "10",
+    "author": "adri****",
+    "review_id": "424902",
+    "movie_id": "41068"
+  },
+  {
+    "review": "역시 우리나라도 일본 못잖은 아기자기한 구성",
+    "date": "05.09.26",
+    "rating": "10",
+    "author": "gros****",
+    "review_id": "423620",
+    "movie_id": "41068"
+  },
+  {
+    "review": "재밌는만큼 아쉬웠다. 허전해 .",
+    "date": "05.09.26",
+    "rating": "7",
+    "author": "bbin****",
+    "review_id": "423273",
+    "movie_id": "41068"
+  },
+  {
+    "review": "좀 뻔한 내용이긴 했지만, 잠시나마 우릴 되돌아보게 한다",
+    "date": "05.09.26",
+    "rating": "6",
+    "author": "urba****",
+    "review_id": "423117",
+    "movie_id": "41068"
+  },
+  {
+    "review": "한국 애니메이션에 기대해 보고싶다.힘내라고.점수팍팍준다.",
+    "date": "05.09.24",
+    "rating": "3",
+    "author": "lhpy****",
+    "review_id": "419949",
+    "movie_id": "41068"
+  },
+  {
+    "review": "보고나서 느껴지는게 많았어요... 얻을게 많은영화",
+    "date": "05.09.23",
+    "rating": "9",
+    "author": "dusl****",
+    "review_id": "418756",
+    "movie_id": "41068"
+  },
+  {
+    "review": "ㅋㅋㅋㅋ",
+    "date": "05.09.22",
+    "rating": "10",
+    "author": "khh2****",
+    "review_id": "417963",
+    "movie_id": "41068"
+  },
+  {
+    "review": "몇 개의 독특한 작품 빼고는 지루한...",
+    "date": "05.09.20",
+    "rating": "6",
+    "author": "idah****",
+    "review_id": "413597",
+    "movie_id": "41068"
+  },
+  {
+    "review": "참 많은 생각을 하게 하는 영화.",
+    "date": "05.09.19",
+    "rating": "10",
+    "author": "yamy****",
+    "review_id": "412830",
+    "movie_id": "41068"
+  },
+  {
+    "review": "여러종류의인권에대해생각해볼수있는영화 재미있기도 했구요 ^^",
+    "date": "05.09.17",
+    "rating": "8",
+    "author": "mbh8****",
+    "review_id": "409526",
+    "movie_id": "41068"
+  },
+  {
+    "review": "재미있는것도 있었지만은 재미보다는 우리반성을 주는 영화",
+    "date": "05.09.17",
+    "rating": "8",
+    "author": "psy0****",
+    "review_id": "408870",
+    "movie_id": "41068"
+  },
+  {
+    "review": "많은 느낌과 생각을 주는 영화..",
+    "date": "05.09.17",
+    "rating": "10",
+    "author": "vine****",
+    "review_id": "408864",
+    "movie_id": "41068"
+  },
+  {
+    "review": "나를 돌아보게 만든 단편의 모음들",
+    "date": "05.09.17",
+    "rating": "9",
+    "author": "port****",
+    "review_id": "408852",
+    "movie_id": "41068"
+  },
+  {
+    "review": "메제지를 전달하는 영화였고, 참 좋은 영화였다.",
+    "date": "05.09.17",
+    "rating": "9",
+    "author": "hoho****",
+    "review_id": "408702",
+    "movie_id": "41068"
+  },
+  {
+    "review": "보시고 판단하세요..",
+    "date": "05.09.15",
+    "rating": "9",
+    "author": "supe****",
+    "review_id": "406798",
+    "movie_id": "41068"
+  },
+  {
+    "review": "동물동장과 사람이되어라가 제일 가슴에 아팠습니다.  ..",
+    "date": "05.09.14",
+    "rating": "10",
+    "author": "ekc_****",
+    "review_id": "405369",
+    "movie_id": "41068"
+  },
+  {
+    "review": "허를 찔리는 듯한 느낌. 깨닫는 점이 많은 영화",
+    "date": "05.09.08",
+    "rating": "10",
+    "author": "syok****",
+    "review_id": "397418",
+    "movie_id": "41068"
+  },
+  {
+    "review": "내용은 있는데 조금 내용이 무겁고 지루한 에니메이션 입니다.",
+    "date": "05.09.08",
+    "rating": "6",
+    "author": "youm****",
+    "review_id": "396526",
+    "movie_id": "41068"
+  }
+]

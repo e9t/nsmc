@@ -1,0 +1,42 @@
+[
+  {
+    "review": "의외의 스릴과 감동을 선사해준...그만큼 몰입할수 있었던 영화",
+    "date": "07.11.18",
+    "rating": "8",
+    "author": "stra****",
+    "review_id": "2163214",
+    "movie_id": "12055"
+  },
+  {
+    "review": "근래에도 볼만한 수작",
+    "date": "07.02.25",
+    "rating": "9",
+    "author": "ppp0****",
+    "review_id": "1501607",
+    "movie_id": "12055"
+  },
+  {
+    "review": "최고의 영화",
+    "date": "06.12.10",
+    "rating": "10",
+    "author": "s945****",
+    "review_id": "1283199",
+    "movie_id": "12055"
+  },
+  {
+    "review": "8점맞추자...",
+    "date": "06.02.04",
+    "rating": "6",
+    "author": "sson****",
+    "review_id": "645895",
+    "movie_id": "12055"
+  },
+  {
+    "review": "다시 보고싶은 영화",
+    "date": "04.11.23",
+    "rating": "10",
+    "author": "lini****",
+    "review_id": "150540",
+    "movie_id": "12055"
+  }
+]

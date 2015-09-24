@@ -1,0 +1,42 @@
+[
+  {
+    "review": "정말 재밌었습니다.",
+    "date": "07.05.11",
+    "rating": "10",
+    "author": "exro****",
+    "review_id": "1631473",
+    "movie_id": "62642"
+  },
+  {
+    "review": "평범",
+    "date": "07.02.08",
+    "rating": "4",
+    "author": "lsec****",
+    "review_id": "1453962",
+    "movie_id": "62642"
+  },
+  {
+    "review": "아침드라마치곤 재밌음",
+    "date": "06.11.23",
+    "rating": "9",
+    "author": "been****",
+    "review_id": "1246893",
+    "movie_id": "62642"
+  },
+  {
+    "review": "방어율 올리자",
+    "date": "06.08.28",
+    "rating": "10",
+    "author": "wwdd****",
+    "review_id": "1086966",
+    "movie_id": "62642"
+  },
+  {
+    "review": "재미있게 잘보구 있습니다.",
+    "date": "06.08.11",
+    "rating": "9",
+    "author": "heal****",
+    "review_id": "994699",
+    "movie_id": "62642"
+  }
+]

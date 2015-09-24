@@ -1,0 +1,34 @@
+[
+  {
+    "review": "시간 떄우기 용으로도 좀 심하다",
+    "date": "15.06.16",
+    "rating": "6",
+    "author": "kimd****",
+    "review_id": "10004753",
+    "movie_id": "16485"
+  },
+  {
+    "review": "네이버 평점 최악한번 만들어보세~~",
+    "date": "15.06.12",
+    "rating": "1",
+    "author": "agm0****",
+    "review_id": "9992757",
+    "movie_id": "16485"
+  },
+  {
+    "review": "2빠라서 2점 드립니다. 물론 영화는 보지 않았습니다.",
+    "date": "14.07.13",
+    "rating": "2",
+    "author": "hoju****",
+    "review_id": "8910990",
+    "movie_id": "16485"
+  },
+  {
+    "review": "개 쓰 레 기 영화. 3류 드라마 수준",
+    "date": "14.03.22",
+    "rating": "1",
+    "author": "muse****",
+    "review_id": "8595233",
+    "movie_id": "16485"
+  }
+]

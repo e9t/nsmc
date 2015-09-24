@@ -1,0 +1,34 @@
+[
+  {
+    "review": "예수의 생을 다룬 영화",
+    "date": "11.10.25",
+    "rating": "7",
+    "author": "glty****",
+    "review_id": "5809703",
+    "movie_id": "19126"
+  },
+  {
+    "review": "무성영화. 하지만 특수효과 요즘영화 못지 않게 나름 괜찮다.",
+    "date": "10.04.13",
+    "rating": "10",
+    "author": "roya****",
+    "review_id": "4429887",
+    "movie_id": "19126"
+  },
+  {
+    "review": "27년 영화라니... 놀랍군요",
+    "date": "08.07.23",
+    "rating": "10",
+    "author": "takk****",
+    "review_id": "2793953",
+    "movie_id": "19126"
+  },
+  {
+    "review": "너무 좋았습니다.^^",
+    "date": "06.06.22",
+    "rating": "10",
+    "author": "poiv****",
+    "review_id": "853578",
+    "movie_id": "19126"
+  }
+]

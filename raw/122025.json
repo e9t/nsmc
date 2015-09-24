@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "9791330",
+    "movie_id": "122025",
+    "author": "jihu****",
+    "review": "원작덕분에 10점!    ㅇㅈ",
+    "rating": "10",
+    "date": "15.03.18"
+  },
+  {
+    "review_id": "9217545",
+    "movie_id": "122025",
+    "author": "dla3****",
+    "review": "존나 명작인것 같아요^^",
+    "rating": "10",
+    "date": "14.09.15"
+  },
+  {
+    "review_id": "8696822",
+    "movie_id": "122025",
+    "author": "kkkk****",
+    "review": "그냥별로 옛날 영화라서",
+    "rating": "1",
+    "date": "14.05.03"
+  },
+  {
+    "review_id": "8694383",
+    "movie_id": "122025",
+    "author": "lucy****",
+    "review": "평점이 하나도 없다 ㅎㅎㅎ",
+    "rating": "10",
+    "date": "14.05.02"
+  }
+]

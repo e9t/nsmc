@@ -1,0 +1,50 @@
+[
+  {
+    "review": "진짜  배우 김혜자!  그리운 최진실~!",
+    "date": "13.06.05",
+    "rating": "9",
+    "author": "west****",
+    "review_id": "7584060",
+    "movie_id": "39774"
+  },
+  {
+    "review": "생활 연기가 너무 좋았던...",
+    "date": "11.12.03",
+    "rating": "9",
+    "author": "suda****",
+    "review_id": "5884075",
+    "movie_id": "39774"
+  },
+  {
+    "review": "그나마 볼만했던 드라마로 기억..전부 챙겨 보진 않았지만..",
+    "date": "07.07.06",
+    "rating": "7",
+    "author": "skat****",
+    "review_id": "1751637",
+    "movie_id": "39774"
+  },
+  {
+    "review": "잘만들었음",
+    "date": "06.08.04",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "965147",
+    "movie_id": "39774"
+  },
+  {
+    "review": "잘만들었던데..",
+    "date": "06.05.02",
+    "rating": "10",
+    "author": "lhcg****",
+    "review_id": "782997",
+    "movie_id": "39774"
+  },
+  {
+    "review": "재밌었는데 나름..",
+    "date": "06.03.21",
+    "rating": "10",
+    "author": "mina****",
+    "review_id": "726445",
+    "movie_id": "39774"
+  }
+]

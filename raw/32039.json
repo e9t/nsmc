@@ -1,0 +1,26 @@
+[
+  {
+    "review": "하하",
+    "date": "11.04.30",
+    "rating": "1",
+    "author": "xsvk****",
+    "review_id": "5398372",
+    "movie_id": "32039"
+  },
+  {
+    "review": "영화가 아니라 드라마",
+    "date": "10.09.23",
+    "rating": "10",
+    "author": "chan****",
+    "review_id": "4860922",
+    "movie_id": "32039"
+  },
+  {
+    "review": "이소룡전기에 나왔지만 실제로 그린호넷이란 영화가 있네?",
+    "date": "09.11.20",
+    "rating": "10",
+    "author": "doct****",
+    "review_id": "3977841",
+    "movie_id": "32039"
+  }
+]

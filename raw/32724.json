@@ -1,0 +1,34 @@
+[
+  {
+    "review": "정말 재밌어요 그래서 계속 보는중입니다",
+    "date": "15.08.12",
+    "rating": "10",
+    "author": "sfsf****",
+    "review_id": "10219837",
+    "movie_id": "32724"
+  },
+  {
+    "review": "대박이에요",
+    "date": "12.01.10",
+    "rating": "10",
+    "author": "paul****",
+    "review_id": "5976476",
+    "movie_id": "32724"
+  },
+  {
+    "review": "재밌개 본걸로 기역해요.",
+    "date": "08.03.28",
+    "rating": "10",
+    "author": "tjdg****",
+    "review_id": "2546276",
+    "movie_id": "32724"
+  },
+  {
+    "review": "너무 재미있어요. 그리고 배경음악이 너무 좋아요.",
+    "date": "08.01.25",
+    "rating": "8",
+    "author": "kyij****",
+    "review_id": "2369601",
+    "movie_id": "32724"
+  }
+]

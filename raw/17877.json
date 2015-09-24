@@ -1,0 +1,42 @@
+[
+  {
+    "review": "환상적이다.",
+    "date": "11.11.25",
+    "rating": "10",
+    "author": "yumi****",
+    "review_id": "5870496",
+    "movie_id": "17877"
+  },
+  {
+    "review": "정말 끝내 주는 최고의 로맨스 영화",
+    "date": "11.04.08",
+    "rating": "10",
+    "author": "yars****",
+    "review_id": "5361121",
+    "movie_id": "17877"
+  },
+  {
+    "review": "ㅎㅎㅎ전 vcd로 가지고 있지요",
+    "date": "06.02.27",
+    "rating": "10",
+    "author": "zero****",
+    "review_id": "694355",
+    "movie_id": "17877"
+  },
+  {
+    "review": "다시 보고싶다.",
+    "date": "06.02.14",
+    "rating": "9",
+    "author": "iwuz****",
+    "review_id": "670845",
+    "movie_id": "17877"
+  },
+  {
+    "review": "영화란 돈만 들인다구 되는게 아니란걸 잘 보여준다.",
+    "date": "04.06.19",
+    "rating": "9",
+    "author": "pshd****",
+    "review_id": "56660",
+    "movie_id": "17877"
+  }
+]

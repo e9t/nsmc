@@ -1,0 +1,42 @@
+[
+  {
+    "review": "재미있지는 않았지만 그래도 기억에 남는 영화",
+    "date": "11.05.28",
+    "rating": "6",
+    "author": "nala****",
+    "review_id": "5452877",
+    "movie_id": "19542"
+  },
+  {
+    "review": "공포영화라는 장르는 잘 살린 것 같은데 포스터는 영 보기 그렇다",
+    "date": "09.03.02",
+    "rating": "6",
+    "author": "deff****",
+    "review_id": "3343024",
+    "movie_id": "19542"
+  },
+  {
+    "review": "볼만했당;;;",
+    "date": "07.02.23",
+    "rating": "9",
+    "author": "bing****",
+    "review_id": "1496202",
+    "movie_id": "19542"
+  },
+  {
+    "review": "채워지지 않는 배고픔은 슬프다.",
+    "date": "06.01.27",
+    "rating": "9",
+    "author": "solk****",
+    "review_id": "626854",
+    "movie_id": "19542"
+  },
+  {
+    "review": "전설을 말해주듯,,뻔하지만 슬픈 운명..역시나 하늘빛과 ost압권",
+    "date": "05.09.14",
+    "rating": "9",
+    "author": "lazy****",
+    "review_id": "405412",
+    "movie_id": "19542"
+  }
+]

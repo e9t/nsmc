@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "8027923",
+    "movie_id": "92943",
+    "author": "1dbs****",
+    "review": "가나다라마바사아자차카",
+    "rating": "1",
+    "date": "13.10.02"
+  },
+  {
+    "review_id": "7232587",
+    "movie_id": "92943",
+    "author": "gusg****",
+    "review": "재미잇다",
+    "rating": "10",
+    "date": "13.02.06"
+  },
+  {
+    "review_id": "6271867",
+    "movie_id": "92943",
+    "author": "cmzn****",
+    "review": "연정훈..정말 너무 멋있습니다!!  사돈나- 정말 너무 재밌어요!연정훈 너무 좋아요ㅠ",
+    "rating": "10",
+    "date": "12.05.05"
+  },
+  {
+    "review_id": "6241264",
+    "movie_id": "92943",
+    "author": "odjs****",
+    "review": "역시 연정훈은 뭘해도 멋지다.",
+    "rating": "10",
+    "date": "12.04.23"
+  }
+]

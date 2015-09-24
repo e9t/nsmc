@@ -1,0 +1,50 @@
+[
+  {
+    "review_id": "7111542",
+    "movie_id": "81677",
+    "author": "blue****",
+    "review": "재밌었음.",
+    "rating": "10",
+    "date": "13.01.13"
+  },
+  {
+    "review_id": "6330138",
+    "movie_id": "81677",
+    "author": "naeg****",
+    "review": "재밌다",
+    "rating": "8",
+    "date": "12.05.25"
+  },
+  {
+    "review_id": "6140888",
+    "movie_id": "81677",
+    "author": "kjk1****",
+    "review": "주연의 캐스팅,연기력빼곤 모두 볼만. 루터에서는 루터가 문제다. S01E04 재밌네.",
+    "rating": "9",
+    "date": "12.03.13"
+  },
+  {
+    "review_id": "6088822",
+    "movie_id": "81677",
+    "author": "fool****",
+    "review": "영상미 스토리 굿",
+    "rating": "10",
+    "date": "12.02.19"
+  },
+  {
+    "review_id": "5866211",
+    "movie_id": "81677",
+    "author": "worr****",
+    "review": "볼만함~",
+    "rating": "1",
+    "date": "11.11.23"
+  },
+  {
+    "review_id": "5504402",
+    "movie_id": "81677",
+    "author": "lone****",
+    "review": "영드는 거의 처음 보는데 완전 재밌네요!",
+    "rating": "10",
+    "date": "11.06.28"
+  }
+]

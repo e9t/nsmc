@@ -1,0 +1,50 @@
+[
+  {
+    "review": "솔직히 별로다.",
+    "date": "12.11.11",
+    "rating": "6",
+    "author": "ll3l****",
+    "review_id": "6878481",
+    "movie_id": "29727"
+  },
+  {
+    "review": "이영화어디서 볼수있나요?",
+    "date": "11.01.23",
+    "rating": "10",
+    "author": "hika****",
+    "review_id": "5177637",
+    "movie_id": "29727"
+  },
+  {
+    "review": "푸는 것은 좋지만 초반 설정에 이입안되어 자꾸 돌아본다",
+    "date": "10.10.24",
+    "rating": "6",
+    "author": "erhe****",
+    "review_id": "4918292",
+    "movie_id": "29727"
+  },
+  {
+    "review": "느리게 느리게 가는 영화의 맛을 더 많은 관객들이 알았으면 좋겠다",
+    "date": "07.09.24",
+    "rating": "10",
+    "author": "yaro****",
+    "review_id": "2043608",
+    "movie_id": "29727"
+  },
+  {
+    "review": "최양일 감독 존경한다",
+    "date": "07.03.08",
+    "rating": "9",
+    "author": "zeed****",
+    "review_id": "1524290",
+    "movie_id": "29727"
+  },
+  {
+    "review": "궁지에 몰린 한 남자의 고독감이 화면 가득히 배어나온다.",
+    "date": "05.03.16",
+    "rating": "7",
+    "author": "godc****",
+    "review_id": "241912",
+    "movie_id": "29727"
+  }
+]

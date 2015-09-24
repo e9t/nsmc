@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "9810700",
+    "movie_id": "114855",
+    "author": "shrh****",
+    "review": "심심할때 보는데 재밌네",
+    "rating": "10",
+    "date": "15.03.28"
+  },
+  {
+    "review_id": "8316910",
+    "movie_id": "114855",
+    "author": "gsy3****",
+    "review": "good데스네데스네",
+    "rating": "10",
+    "date": "13.12.28"
+  },
+  {
+    "review_id": "8305300",
+    "movie_id": "114855",
+    "author": "okc0****",
+    "review": "good!데스네데스네데스네",
+    "rating": "10",
+    "date": "13.12.26"
+  }
+]

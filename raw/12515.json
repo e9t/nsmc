@@ -1,0 +1,34 @@
+[
+  {
+    "review": "오랜만에 본 삼류멜로물",
+    "date": "08.07.24",
+    "rating": "1",
+    "author": "dick****",
+    "review_id": "2797457",
+    "movie_id": "12515"
+  },
+  {
+    "review": "배우들이 모두 매력적이다.",
+    "date": "07.03.17",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "1539022",
+    "movie_id": "12515"
+  },
+  {
+    "review": "윌리엄 볼드윈 정말 제비스럽지만 매력적이다",
+    "date": "07.02.15",
+    "rating": "9",
+    "author": "iamc****",
+    "review_id": "1473476",
+    "movie_id": "12515"
+  },
+  {
+    "review": "가장 좋아하는 멜로 영화",
+    "date": "06.01.13",
+    "rating": "10",
+    "author": "xxss****",
+    "review_id": "585023",
+    "movie_id": "12515"
+  }
+]

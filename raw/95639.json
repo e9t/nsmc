@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "6379222",
+    "movie_id": "95639",
+    "author": "iiii****",
+    "review": "재방송이라도 보고 싶다.",
+    "rating": "10",
+    "date": "12.06.09"
+  },
+  {
+    "review_id": "6376385",
+    "movie_id": "95639",
+    "author": "sh15****",
+    "review": "최고라서 평점1번 더",
+    "rating": "10",
+    "date": "12.06.08"
+  },
+  {
+    "review_id": "6376384",
+    "movie_id": "95639",
+    "author": "shsh****",
+    "review": "좋은 강연을 해주서서 고맙습니다",
+    "rating": "10",
+    "date": "12.06.08"
+  }
+]

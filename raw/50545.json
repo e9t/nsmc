@@ -1,0 +1,42 @@
+[
+  {
+    "review": "제목이아깝다 1점도아까운",
+    "date": "15.05.11",
+    "rating": "1",
+    "author": "heo_****",
+    "review_id": "9910185",
+    "movie_id": "50545"
+  },
+  {
+    "review": "제목 로리타 왜 붙였는지;;;;;;;;;;;;;;;;;;;; 아..로리타 지못미.",
+    "date": "09.08.08",
+    "rating": "1",
+    "author": "sptl****",
+    "review_id": "3721309",
+    "movie_id": "50545"
+  },
+  {
+    "review": "너무 얄팍한...옴니버스 단편의 나열",
+    "date": "09.07.29",
+    "rating": "2",
+    "author": "evil****",
+    "review_id": "3682639",
+    "movie_id": "50545"
+  },
+  {
+    "review": "10점",
+    "date": "09.05.28",
+    "rating": "10",
+    "author": "lova****",
+    "review_id": "3526766",
+    "movie_id": "50545"
+  },
+  {
+    "review": "감동적임...",
+    "date": "08.09.06",
+    "rating": "10",
+    "author": "allt****",
+    "review_id": "2925299",
+    "movie_id": "50545"
+  }
+]

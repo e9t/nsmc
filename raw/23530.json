@@ -1,0 +1,34 @@
+[
+  {
+    "review": "너무 감명 깊게 본 영화입니다",
+    "date": "14.12.31",
+    "rating": "10",
+    "author": "yoon****",
+    "review_id": "9541896",
+    "movie_id": "23530"
+  },
+  {
+    "review": "재밌습니다 감동적이고 조윤숙님 짱",
+    "date": "14.05.23",
+    "rating": "10",
+    "author": "rlar****",
+    "review_id": "8758611",
+    "movie_id": "23530"
+  },
+  {
+    "review": "극장에서 봤는데 어린나이에 얼마나 슬프던지...그립다",
+    "date": "14.04.29",
+    "rating": "9",
+    "author": "epff****",
+    "review_id": "8681225",
+    "movie_id": "23530"
+  },
+  {
+    "review": "어린시절 정말 감동깊게 봤던영화",
+    "date": "12.03.13",
+    "rating": "10",
+    "author": "cjp9****",
+    "review_id": "6141447",
+    "movie_id": "23530"
+  }
+]

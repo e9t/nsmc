@@ -1,0 +1,34 @@
+[
+  {
+    "review": "이순재때문에 10*67",
+    "date": "13.12.25",
+    "rating": "10",
+    "author": "dlsr****",
+    "review_id": "8293885",
+    "movie_id": "20974"
+  },
+  {
+    "review": "어휴",
+    "date": "13.03.15",
+    "rating": "1",
+    "author": "dlal****",
+    "review_id": "7348939",
+    "movie_id": "20974"
+  },
+  {
+    "review": "순재 최고~",
+    "date": "09.10.24",
+    "rating": "1",
+    "author": "gnlt****",
+    "review_id": "3913528",
+    "movie_id": "20974"
+  },
+  {
+    "review": "순재 최고~",
+    "date": "08.07.21",
+    "rating": "10",
+    "author": "hdk9****",
+    "review_id": "2790352",
+    "movie_id": "20974"
+  }
+]

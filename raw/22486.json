@@ -1,0 +1,26 @@
+[
+  {
+    "review": "일제강점기라니! 언제적거임",
+    "date": "15.06.19",
+    "rating": "1",
+    "author": "hong****",
+    "review_id": "10012237",
+    "movie_id": "22486"
+  },
+  {
+    "review": "야함",
+    "date": "13.09.01",
+    "rating": "1",
+    "author": "hys4****",
+    "review_id": "7941426",
+    "movie_id": "22486"
+  },
+  {
+    "review": "영화로는 않봤지만 책으로 읽었는데 꽤 읽을만합니다",
+    "date": "10.12.02",
+    "rating": "10",
+    "author": "sjy0****",
+    "review_id": "5016750",
+    "movie_id": "22486"
+  }
+]

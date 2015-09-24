@@ -1,0 +1,26 @@
+[
+  {
+    "review": "동영상은 어디서 받나요? 아무리 찾아 봐도 없네...",
+    "date": "14.03.14",
+    "rating": "1",
+    "author": "pooh****",
+    "review_id": "8575276",
+    "movie_id": "68800"
+  },
+  {
+    "review": "정말 재미있고 좋습니다",
+    "date": "13.10.28",
+    "rating": "10",
+    "author": "cwr3****",
+    "review_id": "8097624",
+    "movie_id": "68800"
+  },
+  {
+    "review": "짧고 선명",
+    "date": "08.04.23",
+    "rating": "7",
+    "author": "tolb****",
+    "review_id": "2595458",
+    "movie_id": "68800"
+  }
+]

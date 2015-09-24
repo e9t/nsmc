@@ -1,0 +1,18 @@
+[
+  {
+    "review": "최고의 영화중 하나",
+    "date": "10.12.24",
+    "rating": "10",
+    "author": "ilov****",
+    "review_id": "5081282",
+    "movie_id": "22135"
+  },
+  {
+    "review": "그게 이대근이었구나~",
+    "date": "06.12.09",
+    "rating": "5",
+    "author": "damu****",
+    "review_id": "1277607",
+    "movie_id": "22135"
+  }
+]

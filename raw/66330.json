@@ -1,0 +1,26 @@
+[
+  {
+    "review": "재밌어",
+    "date": "09.09.07",
+    "rating": "9",
+    "author": "puru****",
+    "review_id": "3817485",
+    "movie_id": "66330"
+  },
+  {
+    "review": "멋진여자...",
+    "date": "08.04.06",
+    "rating": "10",
+    "author": "toon****",
+    "review_id": "2563032",
+    "movie_id": "66330"
+  },
+  {
+    "review": "굿! 볼만하다...",
+    "date": "08.01.20",
+    "rating": "7",
+    "author": "evil****",
+    "review_id": "2352571",
+    "movie_id": "66330"
+  }
+]

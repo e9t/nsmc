@@ -1,0 +1,66 @@
+[
+  {
+    "review": "이름이 생각안나다가 드디어 찾았네",
+    "date": "15.06.18",
+    "rating": "10",
+    "author": "surp****",
+    "review_id": "10009785",
+    "movie_id": "18346"
+  },
+  {
+    "review": "오래된 영화구나... 줄거리도 생각도 취향도",
+    "date": "13.09.06",
+    "rating": "5",
+    "author": "ykdi****",
+    "review_id": "7953682",
+    "movie_id": "18346"
+  },
+  {
+    "review": "합창도 하고 아무튼 고생했다",
+    "date": "12.04.12",
+    "rating": "6",
+    "author": "kos4****",
+    "review_id": "6211422",
+    "movie_id": "18346"
+  },
+  {
+    "review": "살아주셔서 감사합니다. 알수 있어서요.",
+    "date": "11.11.29",
+    "rating": "10",
+    "author": "dhsk****",
+    "review_id": "5878398",
+    "movie_id": "18346"
+  },
+  {
+    "review": "내 생애 최고의 영화!",
+    "date": "07.08.24",
+    "rating": "10",
+    "author": "fixo****",
+    "review_id": "1974837",
+    "movie_id": "18346"
+  },
+  {
+    "review": "극한상황에서도언제나희망과사랑은최후로남아있을것이다.",
+    "date": "05.10.25",
+    "rating": "8",
+    "author": "izzo****",
+    "review_id": "454450",
+    "movie_id": "18346"
+  },
+  {
+    "review": "사막에 피어나는 꽃 같은 영화...희망을 보여주는 영화...",
+    "date": "04.05.18",
+    "rating": "10",
+    "author": "gree****",
+    "review_id": "43830",
+    "movie_id": "18346"
+  },
+  {
+    "review": "감동적이지만 너무나 슬푸다..",
+    "date": "04.03.01",
+    "rating": "10",
+    "author": "lsy2****",
+    "review_id": "25805",
+    "movie_id": "18346"
+  }
+]

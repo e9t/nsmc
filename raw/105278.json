@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "9548257",
+    "movie_id": "105278",
+    "author": "leeh****",
+    "review": "흐음.. 별점 반개 마저 주고 싶긴한뎅",
+    "rating": "9",
+    "date": "15.01.01"
+  },
+  {
+    "review_id": "9265742",
+    "movie_id": "105278",
+    "author": "binc****",
+    "review": "최고다 정말 좋은 영화!!!",
+    "rating": "10",
+    "date": "14.10.05"
+  },
+  {
+    "review_id": "9170614",
+    "movie_id": "105278",
+    "author": "dds0****",
+    "review": "글쌔...뭔가 맘에 안듬",
+    "rating": "1",
+    "date": "14.09.05"
+  },
+  {
+    "review_id": "9147704",
+    "movie_id": "105278",
+    "author": "cmy3****",
+    "review": "이거 설명회봤는데 진짜 굿굿",
+    "rating": "10",
+    "date": "14.08.30"
+  }
+]

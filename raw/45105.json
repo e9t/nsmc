@@ -1,0 +1,34 @@
+[
+  {
+    "review": "2점은 아니잖아...",
+    "date": "14.08.23",
+    "rating": "10",
+    "author": "qpvi****",
+    "review_id": "9125955",
+    "movie_id": "45105"
+  },
+  {
+    "review": "dsad",
+    "date": "13.02.18",
+    "rating": "1",
+    "author": "supr****",
+    "review_id": "7277789",
+    "movie_id": "45105"
+  },
+  {
+    "review": "잼없다",
+    "date": "12.12.21",
+    "rating": "1",
+    "author": "tjdu****",
+    "review_id": "7027667",
+    "movie_id": "45105"
+  },
+  {
+    "review": "사랑하고싶다가4점씩나갑니다........",
+    "date": "06.08.01",
+    "rating": "4",
+    "author": "hell****",
+    "review_id": "954124",
+    "movie_id": "45105"
+  }
+]

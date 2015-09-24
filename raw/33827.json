@@ -1,0 +1,50 @@
+[
+  {
+    "review": "Watching the Movie, I feel so good",
+    "date": "14.08.18",
+    "rating": "8",
+    "author": "534k****",
+    "review_id": "9107550",
+    "movie_id": "33827"
+  },
+  {
+    "review": "tv에서 옛날봤다가 너무 재밌게봐서 다시 찾던중 알아냈어요.반전도있구 추천합니다.",
+    "date": "12.07.01",
+    "rating": "10",
+    "author": "lady****",
+    "review_id": "6435529",
+    "movie_id": "33827"
+  },
+  {
+    "review": "닮고싶은그녀. 빨강머리앤+ 캔디 ㅎㅎ",
+    "date": "07.05.27",
+    "rating": "9",
+    "author": "sora****",
+    "review_id": "1665923",
+    "movie_id": "33827"
+  },
+  {
+    "review": "행복은 자신의 손으로 잡는것.",
+    "date": "05.11.10",
+    "rating": "8",
+    "author": "llal****",
+    "review_id": "470282",
+    "movie_id": "33827"
+  },
+  {
+    "review": "Good",
+    "date": "05.02.21",
+    "rating": "8",
+    "author": "ssan****",
+    "review_id": "226230",
+    "movie_id": "33827"
+  },
+  {
+    "review": "보고나서 기분좋은 느낌~ 결말은 뻔했지만~",
+    "date": "04.10.20",
+    "rating": "8",
+    "author": "9741****",
+    "review_id": "129248",
+    "movie_id": "33827"
+  }
+]

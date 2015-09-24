@@ -1,0 +1,98 @@
+[
+  {
+    "review": "영화를보며 행복했어요",
+    "date": "10.12.10",
+    "rating": "10",
+    "author": "smva****",
+    "review_id": "5041500",
+    "movie_id": "32127"
+  },
+  {
+    "review": "영화가 꿈의 공장이긴 하지만 거짓말공장이진 않지요",
+    "date": "10.04.17",
+    "rating": "2",
+    "author": "erhe****",
+    "review_id": "4437414",
+    "movie_id": "32127"
+  },
+  {
+    "review": "재밌죠. 무겁지도 않고 괜찮음!!!",
+    "date": "10.01.21",
+    "rating": "10",
+    "author": "toyc****",
+    "review_id": "4195262",
+    "movie_id": "32127"
+  },
+  {
+    "review": "럭키 마누엘로",
+    "date": "09.11.22",
+    "rating": "7",
+    "author": "bbq2****",
+    "review_id": "3981975",
+    "movie_id": "32127"
+  },
+  {
+    "review": "조개를 먹다가 진주를 발견한 기분.",
+    "date": "07.11.12",
+    "rating": "9",
+    "author": "mana****",
+    "review_id": "2146517",
+    "movie_id": "32127"
+  },
+  {
+    "review": "오래전 시사회때봤었는데 참재밌게 봤던....",
+    "date": "07.03.08",
+    "rating": "10",
+    "author": "bird****",
+    "review_id": "1523925",
+    "movie_id": "32127"
+  },
+  {
+    "review": "괜찬았었던...",
+    "date": "06.09.09",
+    "rating": "8",
+    "author": "sbrl****",
+    "review_id": "1114153",
+    "movie_id": "32127"
+  },
+  {
+    "review": "본걸 후회하고 있다가, 꾸역꾸역 아까워서 보다가 막판 뒤집기",
+    "date": "06.08.24",
+    "rating": "9",
+    "author": "shiv****",
+    "review_id": "1073166",
+    "movie_id": "32127"
+  },
+  {
+    "review": "풍자적인 영화, 토요명화같은데서 우연히 볼만한 시간때울 영화",
+    "date": "06.01.20",
+    "rating": "3",
+    "author": "nadi****",
+    "review_id": "602645",
+    "movie_id": "32127"
+  },
+  {
+    "review": "조금은 유치할진 몰라도 감동을 주고야 마는 영화.",
+    "date": "05.02.05",
+    "rating": "10",
+    "author": "jcr3****",
+    "review_id": "208888",
+    "movie_id": "32127"
+  },
+  {
+    "review": "초반에는 좀 지루해도, 꿈에대한 의지[?]와감동을 느낄수 있는 영화 -",
+    "date": "04.08.14",
+    "rating": "9",
+    "author": "spag****",
+    "review_id": "90137",
+    "movie_id": "32127"
+  },
+  {
+    "review": "눈물겨운 부성애, 어설픈 납치가 빚은 촌극이 유쾌함으로 끝나는 영화.",
+    "date": "04.03.23",
+    "rating": "8",
+    "author": "hadl****",
+    "review_id": "30961",
+    "movie_id": "32127"
+  }
+]

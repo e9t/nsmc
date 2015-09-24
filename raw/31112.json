@@ -1,0 +1,34 @@
+[
+  {
+    "review": "제작과정이 더 재미있는 영화",
+    "date": "08.05.04",
+    "rating": "10",
+    "author": "newj****",
+    "review_id": "2615346",
+    "movie_id": "31112"
+  },
+  {
+    "review": "10점이 모자른영화 비디오로 3번 봤음 재밌고 감동짱 빌려보셈 추천!",
+    "date": "07.02.21",
+    "rating": "10",
+    "author": "dong****",
+    "review_id": "1492381",
+    "movie_id": "31112"
+  },
+  {
+    "review": "전형적인 동물영화",
+    "date": "05.08.14",
+    "rating": "2",
+    "author": "okjo****",
+    "review_id": "366555",
+    "movie_id": "31112"
+  },
+  {
+    "review": "너무너무 귀여운 침팬치 그리고 훌륭하게 커준 케빈!!",
+    "date": "04.06.26",
+    "rating": "9",
+    "author": "jaru****",
+    "review_id": "60991",
+    "movie_id": "31112"
+  }
+]

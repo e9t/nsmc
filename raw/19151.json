@@ -1,0 +1,34 @@
+[
+  {
+    "review": "배경이 멋있고 재미있는 영화",
+    "date": "14.05.05",
+    "rating": "10",
+    "author": "jewo****",
+    "review_id": "8706409",
+    "movie_id": "19151"
+  },
+  {
+    "review": "조연이라도 좋다♡",
+    "date": "14.04.04",
+    "rating": "10",
+    "author": "wnzl****",
+    "review_id": "8627363",
+    "movie_id": "19151"
+  },
+  {
+    "review": "이완 맥그리거 나온다고 해서 봤지만, 그는 조연이더라",
+    "date": "07.08.12",
+    "rating": "6",
+    "author": "k_yo****",
+    "review_id": "1925345",
+    "movie_id": "19151"
+  },
+  {
+    "review": "ㅋㅋ 역시 이완 맥그리거!",
+    "date": "05.08.13",
+    "rating": "10",
+    "author": "hyde****",
+    "review_id": "365205",
+    "movie_id": "19151"
+  }
+]

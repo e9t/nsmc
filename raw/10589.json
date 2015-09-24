@@ -1,0 +1,50 @@
+[
+  {
+    "review": "잊혀지지않는 영화.울며보았던...",
+    "date": "14.06.05",
+    "rating": "10",
+    "author": "euns****",
+    "review_id": "8800835",
+    "movie_id": "10589"
+  },
+  {
+    "review": "이거  진자",
+    "date": "13.03.11",
+    "rating": "10",
+    "author": "6985****",
+    "review_id": "7341677",
+    "movie_id": "10589"
+  },
+  {
+    "review": "아빠...이제 그만 가자.....ㅡㅜ",
+    "date": "10.03.08",
+    "rating": "10",
+    "author": "2000****",
+    "review_id": "4344605",
+    "movie_id": "10589"
+  },
+  {
+    "review": "시가 너무 좋다",
+    "date": "08.11.26",
+    "rating": "9",
+    "author": "maks****",
+    "review_id": "3073800",
+    "movie_id": "10589"
+  },
+  {
+    "review": "슬프다",
+    "date": "08.11.14",
+    "rating": "10",
+    "author": "zxcv****",
+    "review_id": "3049603",
+    "movie_id": "10589"
+  },
+  {
+    "review": "어릴때 본것 같은데",
+    "date": "06.05.28",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "819290",
+    "movie_id": "10589"
+  }
+]

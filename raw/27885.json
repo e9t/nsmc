@@ -1,0 +1,66 @@
+[
+  {
+    "review": "점수에 영향력을 행사하시겠다",
+    "date": "15.06.20",
+    "rating": "10",
+    "author": "tjem****",
+    "review_id": "10015991",
+    "movie_id": "27885"
+  },
+  {
+    "review": "그냥 점수가 궁금해서 올려봄.",
+    "date": "14.08.15",
+    "rating": "7",
+    "author": "dazy****",
+    "review_id": "9091703",
+    "movie_id": "27885"
+  },
+  {
+    "review": "그렇게 재밌지도 않은 영화이다",
+    "date": "14.08.14",
+    "rating": "10",
+    "author": "fr67****",
+    "review_id": "9083694",
+    "movie_id": "27885"
+  },
+  {
+    "review": "....",
+    "date": "12.12.30",
+    "rating": "1",
+    "author": "yhan****",
+    "review_id": "7063733",
+    "movie_id": "27885"
+  },
+  {
+    "review": "우왕좉타",
+    "date": "12.07.05",
+    "rating": "10",
+    "author": "dsaw****",
+    "review_id": "6448333",
+    "movie_id": "27885"
+  },
+  {
+    "review": "MB세력이던 정운찬이 항일부댜라고 한 마루타부대임?? 조선놈 OOO?",
+    "date": "11.02.17",
+    "rating": "10",
+    "author": "rlad****",
+    "review_id": "5250256",
+    "movie_id": "27885"
+  },
+  {
+    "review": "추악한 영화다.",
+    "date": "08.09.02",
+    "rating": "4",
+    "author": "hanj****",
+    "review_id": "2917870",
+    "movie_id": "27885"
+  },
+  {
+    "review": "마루타 속편?",
+    "date": "07.09.22",
+    "rating": "1",
+    "author": "evil****",
+    "review_id": "2036469",
+    "movie_id": "27885"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review": "많은것을 느끼게해주는 영화입니다. 살짝 미치면 더 행복해져요",
+    "date": "13.11.15",
+    "rating": "9",
+    "author": "d8cf****",
+    "review_id": "8140086",
+    "movie_id": "12026"
+  },
+  {
+    "review": "메이드의 가슴으로 기억하는 영화",
+    "date": "11.08.06",
+    "rating": "7",
+    "author": "garr****",
+    "review_id": "5611183",
+    "movie_id": "12026"
+  },
+  {
+    "review": "93년작 The Nutty Nut 패러디 영화로 마구 마구 짜집어 넣었다",
+    "date": "08.09.02",
+    "rating": "6",
+    "author": "deff****",
+    "review_id": "2917391",
+    "movie_id": "12026"
+  },
+  {
+    "review": "이보다 뛰어난 코미디가 있는가? ㅎㅎ",
+    "date": "07.02.27",
+    "rating": "10",
+    "author": "bigm****",
+    "review_id": "1505644",
+    "movie_id": "12026"
+  },
+  {
+    "review": "끊임없는 황당개그들 웃기고 재밌다..",
+    "date": "06.08.26",
+    "rating": "8",
+    "author": "hoju****",
+    "review_id": "1079111",
+    "movie_id": "12026"
+  }
+]

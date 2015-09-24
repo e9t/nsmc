@@ -1,0 +1,42 @@
+[
+  {
+    "review": "재미없습니다",
+    "date": "07.01.07",
+    "rating": "4",
+    "author": "yoon****",
+    "review_id": "1365321",
+    "movie_id": "33528"
+  },
+  {
+    "review": "램버트 빼고는 대부분 연기 잘하고 흥미진진하다.",
+    "date": "06.06.27",
+    "rating": "10",
+    "author": "comb****",
+    "review_id": "860215",
+    "movie_id": "33528"
+  },
+  {
+    "review": "배우들 왜이렇케 다들 연기 못하지. 복수혈전인줄 알았네.ㅋㅋ",
+    "date": "06.06.02",
+    "rating": "1",
+    "author": "time****",
+    "review_id": "827640",
+    "movie_id": "33528"
+  },
+  {
+    "review": "볼만한 액션",
+    "date": "05.12.24",
+    "rating": "6",
+    "author": "kws7****",
+    "review_id": "524708",
+    "movie_id": "33528"
+  },
+  {
+    "review": "볼만한데 끝이 좀 찝찝하네요 .2편나올려구 그런가",
+    "date": "04.11.02",
+    "rating": "7",
+    "author": "shj0****",
+    "review_id": "137974",
+    "movie_id": "33528"
+  }
+]

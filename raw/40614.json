@@ -1,0 +1,42 @@
+[
+  {
+    "review": "그냥 점수 깍고 싶어",
+    "date": "10.01.12",
+    "rating": "1",
+    "author": "guds****",
+    "review_id": "4162885",
+    "movie_id": "40614"
+  },
+  {
+    "review": "좋아요.",
+    "date": "06.09.09",
+    "rating": "9",
+    "author": "hjkt****",
+    "review_id": "1114162",
+    "movie_id": "40614"
+  },
+  {
+    "review": "애절하고 가슴아픈 사랑 이야기...",
+    "date": "05.09.12",
+    "rating": "8",
+    "author": "rpg9****",
+    "review_id": "402319",
+    "movie_id": "40614"
+  },
+  {
+    "review": "그저  1시간 10분 내내 영화와 함께 하지 못했을뿐이다.",
+    "date": "05.08.24",
+    "rating": "5",
+    "author": "gigi****",
+    "review_id": "382497",
+    "movie_id": "40614"
+  },
+  {
+    "review": "전복적이지 못한. 그렇다고 일상적이지도 못한 그냥 보편적인...",
+    "date": "05.07.22",
+    "rating": "6",
+    "author": "murt****",
+    "review_id": "329390",
+    "movie_id": "40614"
+  }
+]

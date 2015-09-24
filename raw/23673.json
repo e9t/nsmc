@@ -1,0 +1,42 @@
+[
+  {
+    "review": "역시 길동이 ㅋㅋ",
+    "date": "12.08.02",
+    "rating": "9",
+    "author": "vnfm****",
+    "review_id": "6566364",
+    "movie_id": "23673"
+  },
+  {
+    "review": "데츠카 오사무의와 비견되는,궁극의초걸작.극장판과도 바꾸지않아",
+    "date": "12.04.12",
+    "rating": "10",
+    "author": "baks****",
+    "review_id": "6211949",
+    "movie_id": "23673"
+  },
+  {
+    "review": "역시 한국만화",
+    "date": "11.06.29",
+    "rating": "10",
+    "author": "skyu****",
+    "review_id": "5506863",
+    "movie_id": "23673"
+  },
+  {
+    "review": "한국만화영화의 영원한 별빛",
+    "date": "11.01.13",
+    "rating": "10",
+    "author": "46gg****",
+    "review_id": "5155221",
+    "movie_id": "23673"
+  },
+  {
+    "review": "와우!",
+    "date": "10.01.15",
+    "rating": "10",
+    "author": "dltl****",
+    "review_id": "4172643",
+    "movie_id": "23673"
+  }
+]

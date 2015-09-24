@@ -1,0 +1,50 @@
+[
+  {
+    "review": "이건 뭐... 감흥도 없고...",
+    "date": "09.03.11",
+    "rating": "6",
+    "author": "good****",
+    "review_id": "3359792",
+    "movie_id": "33757"
+  },
+  {
+    "review": "흑인 소재의 호러물이란 것 말고는..",
+    "date": "09.01.07",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "3201055",
+    "movie_id": "33757"
+  },
+  {
+    "review": "정말 재밋내요..굿",
+    "date": "08.08.15",
+    "rating": "10",
+    "author": "kore****",
+    "review_id": "2874175",
+    "movie_id": "33757"
+  },
+  {
+    "review": "스눕씨혼자 만족할려고 만든듯한 영화. 아주 약간 무서웠다",
+    "date": "06.12.21",
+    "rating": "6",
+    "author": "offw****",
+    "review_id": "1309608",
+    "movie_id": "33757"
+  },
+  {
+    "review": "보고나서 기억에 남는게 없다.",
+    "date": "05.03.26",
+    "rating": "5",
+    "author": "pcw0****",
+    "review_id": "247417",
+    "movie_id": "33757"
+  },
+  {
+    "review": "으외.. 분위기가 무섭다..",
+    "date": "05.02.13",
+    "rating": "6",
+    "author": "urkn****",
+    "review_id": "218178",
+    "movie_id": "33757"
+  }
+]

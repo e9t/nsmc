@@ -1,0 +1,42 @@
+[
+  {
+    "review": "잠재적인 적",
+    "date": "13.02.16",
+    "rating": "7",
+    "author": "bbq2****",
+    "review_id": "7270312",
+    "movie_id": "17461"
+  },
+  {
+    "review": "왜 이렇게 지루한 거냐? 7년전에 보긴 했지만.",
+    "date": "07.12.29",
+    "rating": "4",
+    "author": "logo****",
+    "review_id": "2276718",
+    "movie_id": "17461"
+  },
+  {
+    "review": "상업적 입김에 손상치 않은 베르톨루치 젊은 작가정신 스민 작품",
+    "date": "05.08.21",
+    "rating": "10",
+    "author": "devo****",
+    "review_id": "378200",
+    "movie_id": "17461"
+  },
+  {
+    "review": "심오하다...흐음",
+    "date": "04.10.20",
+    "rating": "10",
+    "author": "caes****",
+    "review_id": "129114",
+    "movie_id": "17461"
+  },
+  {
+    "review": "한계에 부딫힌 운동에대한 절망감끝에 자신의 목숨을 내놓다. 너무 영웅적?",
+    "date": "04.08.27",
+    "rating": "9",
+    "author": "stbo****",
+    "review_id": "97809",
+    "movie_id": "17461"
+  }
+]

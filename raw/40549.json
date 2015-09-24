@@ -1,0 +1,34 @@
+[
+  {
+    "review": "모두 하늘을 봅시다!",
+    "date": "11.12.05",
+    "rating": "8",
+    "author": "youm****",
+    "review_id": "5889645",
+    "movie_id": "40549"
+  },
+  {
+    "review": "본인은 이 터키영화에 대해 긍정적인 반응을 나타내었다.",
+    "date": "10.04.04",
+    "rating": "9",
+    "author": "spar****",
+    "review_id": "4409958",
+    "movie_id": "40549"
+  },
+  {
+    "review": "세상을 아름답게 바라보는 그들...",
+    "date": "05.10.16",
+    "rating": "10",
+    "author": "adva****",
+    "review_id": "443907",
+    "movie_id": "40549"
+  },
+  {
+    "review": "jkhgj",
+    "date": "05.04.22",
+    "rating": "10",
+    "author": "oben****",
+    "review_id": "264034",
+    "movie_id": "40549"
+  }
+]

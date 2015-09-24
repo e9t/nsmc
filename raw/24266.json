@@ -1,0 +1,34 @@
+[
+  {
+    "review": "엑스파일메니아라면",
+    "date": "12.01.27",
+    "rating": "10",
+    "author": "rhdw****",
+    "review_id": "6027490",
+    "movie_id": "24266"
+  },
+  {
+    "review": "미스테리, 스릴러를 즐기시는 분들에겐 강추!!!",
+    "date": "04.08.02",
+    "rating": "10",
+    "author": "rish****",
+    "review_id": "82189",
+    "movie_id": "24266"
+  },
+  {
+    "review": "엑스파일의 감동은 무신 이영화 즐이다!!!즐!!!!쯧쯧",
+    "date": "04.07.24",
+    "rating": "1",
+    "author": "rkdr****",
+    "review_id": "76147",
+    "movie_id": "24266"
+  },
+  {
+    "review": "엑스파일의 감동이 다시 물씬. ㅠ_ㅠ",
+    "date": "04.03.25",
+    "rating": "10",
+    "author": "kule****",
+    "review_id": "31400",
+    "movie_id": "24266"
+  }
+]

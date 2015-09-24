@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9767036",
+    "movie_id": "124615",
+    "author": "hija****",
+    "review": "영화관에서 봤다면 돈 아까울뻔 했던 영화..비추비추",
+    "rating": "1",
+    "date": "15.03.08"
+  },
+  {
+    "review_id": "9758349",
+    "movie_id": "124615",
+    "author": "hell****",
+    "review": "에릭 로버츠의 연기기 돋보였던 영화",
+    "rating": "10",
+    "date": "15.03.05"
+  },
+  {
+    "review_id": "9757343",
+    "movie_id": "124615",
+    "author": "ting****",
+    "review": "이런스타일 액션영화 굿굿!!",
+    "rating": "10",
+    "date": "15.03.05"
+  },
+  {
+    "review_id": "9757340",
+    "movie_id": "124615",
+    "author": "dres****",
+    "review": "화려한 액션이 눈부심!",
+    "rating": "10",
+    "date": "15.03.05"
+  },
+  {
+    "review_id": "9757331",
+    "movie_id": "124615",
+    "author": "ymki****",
+    "review": "토팔리안 의 포스가 엄청난 위력을 발휘했던 영화!",
+    "rating": "10",
+    "date": "15.03.05"
+  }
+]

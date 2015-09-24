@@ -1,0 +1,34 @@
+[
+  {
+    "review": "영화 다시 볼려면...?",
+    "date": "14.07.23",
+    "rating": "10",
+    "author": "kkmi****",
+    "review_id": "8944059",
+    "movie_id": "12485"
+  },
+  {
+    "review": "고전에서 발견한 권선징악의 정서. 한국인의 정서.",
+    "date": "10.02.09",
+    "rating": "6",
+    "author": "evil****",
+    "review_id": "4264830",
+    "movie_id": "12485"
+  },
+  {
+    "review": "배우만으로도",
+    "date": "06.08.03",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "960213",
+    "movie_id": "12485"
+  },
+  {
+    "review": "이대근 어르신의 연기력은 전혀 흠잡을 데가 없다.",
+    "date": "06.04.17",
+    "rating": "5",
+    "author": "stag****",
+    "review_id": "765465",
+    "movie_id": "12485"
+  }
+]

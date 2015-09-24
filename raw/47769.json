@@ -1,0 +1,42 @@
+[
+  {
+    "review": "이소연 진짜 이쁘고 연기도 참 잘한다.베리굿!!!!!!!!!!!!!",
+    "date": "13.01.11",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "7101373",
+    "movie_id": "47769"
+  },
+  {
+    "review": "ㅋㅋㅋ난재밌었는데",
+    "date": "09.03.28",
+    "rating": "10",
+    "author": "gusr****",
+    "review_id": "3391768",
+    "movie_id": "47769"
+  },
+  {
+    "review": "도대체 이 작품을 왜 만들었는지 나참... -_-;;",
+    "date": "09.03.21",
+    "rating": "1",
+    "author": "ivy_****",
+    "review_id": "3377722",
+    "movie_id": "47769"
+  },
+  {
+    "review": "재미없어요",
+    "date": "09.02.03",
+    "rating": "1",
+    "author": "thn0****",
+    "review_id": "3274998",
+    "movie_id": "47769"
+  },
+  {
+    "review": "진짜 재밌다 배우들 다 잘생기고 이쁘다~",
+    "date": "08.05.11",
+    "rating": "10",
+    "author": "fore****",
+    "review_id": "2631315",
+    "movie_id": "47769"
+  }
+]

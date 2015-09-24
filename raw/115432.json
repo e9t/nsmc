@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "8012148",
+    "movie_id": "115432",
+    "author": "make****",
+    "review": "꿀잼",
+    "rating": "10",
+    "date": "13.09.23"
+  },
+  {
+    "review_id": "8001278",
+    "movie_id": "115432",
+    "author": "ski0****",
+    "review": "별로",
+    "rating": "1",
+    "date": "13.09.20"
+  },
+  {
+    "review_id": "8000277",
+    "movie_id": "115432",
+    "author": "mari****",
+    "review": "♥",
+    "rating": "10",
+    "date": "13.09.20"
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "review": "난 이런 귀여운 영화가 참 좋다. 사랑스러운 B급액션 영화",
+    "date": "15.07.22",
+    "rating": "7",
+    "author": "rost****",
+    "review_id": "10128535",
+    "movie_id": "19444"
+  },
+  {
+    "review": "엄청 기대하고 봤지만 그만큼은 아니었다...그래도 시간은 아깝지 않더라...헐리우드 캐릭터와 홍콩감독의 오묘한 조화",
+    "date": "14.09.24",
+    "rating": "8",
+    "author": "lees****",
+    "review_id": "9237759",
+    "movie_id": "19444"
+  },
+  {
+    "review": "진짜 좋아하는 영화임 걸작이나 웰메이드는 아니지만 마크 왈버그를 사랑하게 된 영화!!",
+    "date": "14.06.24",
+    "rating": "8",
+    "author": "0hwa****",
+    "review_id": "8850654",
+    "movie_id": "19444"
+  },
+  {
+    "review": "골때리는 영화의 좋은 표본.",
+    "date": "14.06.11",
+    "rating": "8",
+    "author": "reco****",
+    "review_id": "8820879",
+    "movie_id": "19444"
+  },
+  {
+    "review": "마크월버그 처음 만나게 해준 작품 후회없는 영화",
+    "date": "14.01.31",
+    "rating": "10",
+    "author": "ktpo****",
+    "review_id": "8453017",
+    "movie_id": "19444"
+  },
+  {
+    "review": "3류에서 2류급으로 넘어가는 진지한 연기들",
+    "date": "14.01.01",
+    "rating": "6",
+    "author": "bbq2****",
+    "review_id": "8335277",
+    "movie_id": "19444"
+  },
+  {
+    "review": "이 영화 왜 만들었는지 모르겠다. 감독의 역량 부족인가? 코미디며 액션이며 하나같이 조잡하다.",
+    "date": "13.08.19",
+    "rating": "2",
+    "author": "wlfa****",
+    "review_id": "7904692",
+    "movie_id": "19444"
+  },
+  {
+    "review": "끝까지 돈과함께 그가 챙긴것은 비디오ㅋㅋ",
+    "date": "13.07.29",
+    "rating": "10",
+    "author": "wnwk****",
+    "review_id": "7798448",
+    "movie_id": "19444"
+  },
+  {
+    "review": "잘 짜여진 코믹액션이었다.",
+    "date": "13.04.10",
+    "rating": "10",
+    "author": "hots****",
+    "review_id": "7447514",
+    "movie_id": "19444"
+  },
+  {
+    "review": "난 재미나게 보았다 마크왈버그 몸이 참부러웠던..",
+    "date": "12.05.19",
+    "rating": "8",
+    "author": "wjdg****",
+    "review_id": "6313553",
+    "movie_id": "19444"
+  },
+  {
+    "review": "왁자지껄 황당액션",
+    "date": "12.04.28",
+    "rating": "2",
+    "author": "milk****",
+    "review_id": "6252048",
+    "movie_id": "19444"
+  },
+  {
+    "review": "팔딱팔딱 빅재미를 선사하다. 연기자들도 열심.",
+    "date": "12.01.02",
+    "rating": "6",
+    "author": "pria****",
+    "review_id": "5953759",
+    "movie_id": "19444"
+  },
+  {
+    "review": "첫 액션은 좋았는데 그다음부터 코믹으로 빠지니까 좀...",
+    "date": "11.10.14",
+    "rating": "7",
+    "author": "dbzh****",
+    "review_id": "5787329",
+    "movie_id": "19444"
+  },
+  {
+    "review": "볼 나이가 아니었을 때.. 정말 최고의 충격이었다.",
+    "date": "11.06.09",
+    "rating": "10",
+    "author": "pree****",
+    "review_id": "5473210",
+    "movie_id": "19444"
+  },
+  {
+    "review": "비디오는 연체되지말구 제 날짜에 반납하자!",
+    "date": "11.05.23",
+    "rating": "7",
+    "author": "izzo****",
+    "review_id": "5446065",
+    "movie_id": "19444"
+  },
+  {
+    "review": "재밌다. 마크 월버그의 매력을 느끼게 해준 영화~",
+    "date": "11.02.28",
+    "rating": "8",
+    "author": "xyli****",
+    "review_id": "5281770",
+    "movie_id": "19444"
+  },
+  {
+    "review": "완전 어이없는데 웃겨ㅋㅋㅋ오랜만에 다시 보는데도 역시 어이없지만 웃기네",
+    "date": "10.08.08",
+    "rating": "9",
+    "author": "ssss****",
+    "review_id": "4721273",
+    "movie_id": "19444"
+  },
+  {
+    "review": "젊었을때찍어서그런지귀엽군ㅋㅋ근데좀현실감제로ㅋㅋㅋ근데10년전영화치곤재미있어요",
+    "date": "10.07.09",
+    "rating": "7",
+    "author": "iam_****",
+    "review_id": "4623717",
+    "movie_id": "19444"
+  },
+  {
+    "review": "액션을 가장한 코미디였군 홍콩느낌도 마니 나고 ㅋㅋ",
+    "date": "10.07.07",
+    "rating": "8",
+    "author": "pers****",
+    "review_id": "4619879",
+    "movie_id": "19444"
+  },
+  {
+    "review": "홍콩식 휘황찬란한 액션과 블랙 코미디가 맞닥들인 이분화된 영화...ㅎㅎ",
+    "date": "10.03.30",
+    "rating": "10",
+    "author": "youe****",
+    "review_id": "4397647",
+    "movie_id": "19444"
+  },
+  {
+    "review": "필립스 진짜 웃기네 ㅋㅋ 영화도 볼만하고",
+    "date": "10.03.13",
+    "rating": "8",
+    "author": "kimh****",
+    "review_id": "4354779",
+    "movie_id": "19444"
+  },
+  {
+    "review": "짱 재밌어 ㅋ",
+    "date": "10.03.02",
+    "rating": "10",
+    "author": "lord****",
+    "review_id": "4330697",
+    "movie_id": "19444"
+  },
+  {
+    "review": "Best of The Best 루 다이아몬드 필립스",
+    "date": "10.02.14",
+    "rating": "7",
+    "author": "expr****",
+    "review_id": "4280719",
+    "movie_id": "19444"
+  },
+  {
+    "review": "웃고 보기 딱 재밌어요~ ㅋㅋ",
+    "date": "10.01.17",
+    "rating": "9",
+    "author": "viol****",
+    "review_id": "4180595",
+    "movie_id": "19444"
+  },
+  {
+    "review": "유쾌하다ㅋㅋ 이단어 이외엔 생각이 나질 않는당ㅋㅋ",
+    "date": "09.11.02",
+    "rating": "10",
+    "author": "led2****",
+    "review_id": "3933971",
+    "movie_id": "19444"
+  },
+  {
+    "review": "이야기 전개가 탄탄하고 개성있는 캐릭터들과 홍콩 감독의 느와르적 요소의 복합체!",
+    "date": "09.08.02",
+    "rating": "8",
+    "author": "deka****",
+    "review_id": "3695391",
+    "movie_id": "19444"
+  },
+  {
+    "review": "이거 어릴때 재미있게 봤었음 ㅋ_ㅋ;",
+    "date": "09.07.30",
+    "rating": "7",
+    "author": "tleh****",
+    "review_id": "3684228",
+    "movie_id": "19444"
+  },
+  {
+    "review": "젊은 날의 월버그, 애플게이트, 필립스의 섹시한 용모를 보는 재미가 전부",
+    "date": "08.12.20",
+    "rating": "6",
+    "author": "grea****",
+    "review_id": "3134347",
+    "movie_id": "19444"
+  },
+  {
+    "review": "액션만은 대단히 그럴싸하다.토막시체를 치우고 있는 주인공이 대단히 언짢았던 영화.",
+    "date": "08.11.19",
+    "rating": "7",
+    "author": "baks****",
+    "review_id": "3059125",
+    "movie_id": "19444"
+  },
+  {
+    "review": "유쾌한 코믹 액션 영화!! 단순 액션이지만 웃기고 재밌다.",
+    "date": "08.10.06",
+    "rating": "10",
+    "author": "uhue****",
+    "review_id": "2987019",
+    "movie_id": "19444"
+  },
+  {
+    "review": "살짝 웃기고 황당한 액션영화",
+    "date": "08.07.07",
+    "rating": "6",
+    "author": "kpcc****",
+    "review_id": "2745989",
+    "movie_id": "19444"
+  },
+  {
+    "review": "유쾌하기는 하나 현실성이 너무 떨어진다.. 빅히트(?)할 영화는 아닌듯...",
+    "date": "08.07.05",
+    "rating": "7",
+    "author": "sinb****",
+    "review_id": "2741031",
+    "movie_id": "19444"
+  },
+  {
+    "review": "다소 허술해보이는 장면도 있었지만.. 그런데로 코믹하고 재미있다.",
+    "date": "08.07.04",
+    "rating": "7",
+    "author": "pola****",
+    "review_id": "2739492",
+    "movie_id": "19444"
+  },
+  {
+    "review": "마크 월버그의 최고",
+    "date": "08.06.04",
+    "rating": "10",
+    "author": "stea****",
+    "review_id": "2678790",
+    "movie_id": "19444"
+  },
+  {
+    "review": "재밌지 않던가? 동양여자애도 이쁘고",
+    "date": "08.03.30",
+    "rating": "10",
+    "author": "wild****",
+    "review_id": "2548821",
+    "movie_id": "19444"
+  },
+  {
+    "review": "마크땜에 본건데 재미는없다.",
+    "date": "08.01.05",
+    "rating": "6",
+    "author": "humo****",
+    "review_id": "2299967",
+    "movie_id": "19444"
+  },
+  {
+    "review": "재미난'오락'영화라보기에도무리가있다.그저그런...",
+    "date": "07.12.24",
+    "rating": "6",
+    "author": "mana****",
+    "review_id": "2261881",
+    "movie_id": "19444"
+  },
+  {
+    "review": "수작",
+    "date": "07.11.22",
+    "rating": "9",
+    "author": "cheo****",
+    "review_id": "2172962",
+    "movie_id": "19444"
+  },
+  {
+    "review": "마크월버그 완전 빠졌음 ㅋㅋㅋ 재밌다",
+    "date": "07.11.11",
+    "rating": "10",
+    "author": "hyun****",
+    "review_id": "2144241",
+    "movie_id": "19444"
+  },
+  {
+    "review": "천박하고 유치찬란하지만 무지 재밌는 영화 ㅋㅋ",
+    "date": "07.08.19",
+    "rating": "9",
+    "author": "typo****",
+    "review_id": "1960921",
+    "movie_id": "19444"
+  },
+  {
+    "review": "색다른 킬러들",
+    "date": "07.08.10",
+    "rating": "7",
+    "author": "k_yo****",
+    "review_id": "1915413",
+    "movie_id": "19444"
+  },
+  {
+    "review": "유쾌한 영화 볼만함",
+    "date": "07.07.15",
+    "rating": "8",
+    "author": "deff****",
+    "review_id": "1779368",
+    "movie_id": "19444"
+  },
+  {
+    "review": "친구들 이랑 같이보면 죽음",
+    "date": "07.06.06",
+    "rating": "10",
+    "author": "wail****",
+    "review_id": "1684259",
+    "movie_id": "19444"
+  },
+  {
+    "review": "아무생각없이 보면굉장히 재밌는영화! 그놈의 비디오 ㅋㅋ",
+    "date": "07.04.06",
+    "rating": "9",
+    "author": "tjdf****",
+    "review_id": "1575238",
+    "movie_id": "19444"
+  },
+  {
+    "review": "난 왤케 지루햇지,,",
+    "date": "06.12.15",
+    "rating": "5",
+    "author": "lys9****",
+    "review_id": "1294226",
+    "movie_id": "19444"
+  },
+  {
+    "review": "코믹과 액션 참 어울리지 않지만 어울리는 영화 였습니다.",
+    "date": "06.12.05",
+    "rating": "10",
+    "author": "bubo****",
+    "review_id": "1268523",
+    "movie_id": "19444"
+  },
+  {
+    "review": "마크 너무 좋다 재밌다",
+    "date": "06.11.07",
+    "rating": "10",
+    "author": "ghkd****",
+    "review_id": "1220576",
+    "movie_id": "19444"
+  },
+  {
+    "review": "티비에서 봤는데, 레옹과는 정반대의 성격의 청부업자얘기!!!!",
+    "date": "06.11.05",
+    "rating": "10",
+    "author": "idya****",
+    "review_id": "1218558",
+    "movie_id": "19444"
+  },
+  {
+    "review": "억지적인 스토리와 불필요할 정도로 화려한 액션",
+    "date": "06.11.05",
+    "rating": "2",
+    "author": "okjo****",
+    "review_id": "1217209",
+    "movie_id": "19444"
+  },
+  {
+    "review": "이 영화 마크의 팬이 되었다",
+    "date": "06.11.05",
+    "rating": "10",
+    "author": "bord****",
+    "review_id": "1216734",
+    "movie_id": "19444"
+  },
+  {
+    "review": "말은 안되지만 ㅋㅋ 재밌다",
+    "date": "06.11.05",
+    "rating": "7",
+    "author": "zzan****",
+    "review_id": "1216733",
+    "movie_id": "19444"
+  },
+  {
+    "review": "조따 웃겼어",
+    "date": "06.10.04",
+    "rating": "9",
+    "author": "clcl****",
+    "review_id": "1160142",
+    "movie_id": "19444"
+  },
+  {
+    "review": "조낸 잼나고 쌔끈하지 않았었나? 다시보고싶네ㅋ",
+    "date": "06.10.02",
+    "rating": "8",
+    "author": "fon9****",
+    "review_id": "1154252",
+    "movie_id": "19444"
+  },
+  {
+    "review": "무심코 비디오로 빌려봐 마크의 팬의 되버리게 만든영화",
+    "date": "06.09.30",
+    "rating": "10",
+    "author": "galp****",
+    "review_id": "1149647",
+    "movie_id": "19444"
+  },
+  {
+    "review": "액션영화로서 깔끔한 맛",
+    "date": "06.09.09",
+    "rating": "9",
+    "author": "xxss****",
+    "review_id": "1112520",
+    "movie_id": "19444"
+  },
+  {
+    "review": "마크 월버그의 또다른 매력. 오락성은 만점",
+    "date": "06.09.05",
+    "rating": "7",
+    "author": "lemo****",
+    "review_id": "1104347",
+    "movie_id": "19444"
+  },
+  {
+    "review": "아 골때리게봤찡 ㅋㅋ",
+    "date": "06.08.30",
+    "rating": "8",
+    "author": "kotm****",
+    "review_id": "1090900",
+    "movie_id": "19444"
+  },
+  {
+    "review": "매우 웃기더군...",
+    "date": "06.08.11",
+    "rating": "7",
+    "author": "moon****",
+    "review_id": "995091",
+    "movie_id": "19444"
+  },
+  {
+    "review": "미친듯이 웃었다. 오락성은 최강.",
+    "date": "06.07.17",
+    "rating": "10",
+    "author": "comb****",
+    "review_id": "901264",
+    "movie_id": "19444"
+  },
+  {
+    "review": "오락 영화로서는 무난하게 즐길수 있는 작품.",
+    "date": "06.04.09",
+    "rating": "6",
+    "author": "movi****",
+    "review_id": "754666",
+    "movie_id": "19444"
+  },
+  {
+    "review": "기대하지않고봤는데 재밌음~배우들의 연기가 봐줄만했음",
+    "date": "06.02.23",
+    "rating": "8",
+    "author": "mons****",
+    "review_id": "686866",
+    "movie_id": "19444"
+  },
+  {
+    "review": "루 필립스의 악역이 돋보였음. ^^: 잼있음",
+    "date": "06.02.20",
+    "rating": "10",
+    "author": "daer****",
+    "review_id": "682438",
+    "movie_id": "19444"
+  },
+  {
+    "review": "최고다~",
+    "date": "06.01.23",
+    "rating": "10",
+    "author": "rmad****",
+    "review_id": "613394",
+    "movie_id": "19444"
+  },
+  {
+    "review": "2명의 섹시녀들에게는 10점을 바친다.",
+    "date": "06.01.23",
+    "rating": "1",
+    "author": "scal****",
+    "review_id": "613289",
+    "movie_id": "19444"
+  },
+  {
+    "review": "마크 웰버그의 이런 영화들을 보면 간혹가다 실소가..",
+    "date": "05.12.25",
+    "rating": "6",
+    "author": "jcr3****",
+    "review_id": "527085",
+    "movie_id": "19444"
+  },
+  {
+    "review": "그래도재미있는쓰레기",
+    "date": "05.12.24",
+    "rating": "7",
+    "author": "kws7****",
+    "review_id": "524655",
+    "movie_id": "19444"
+  },
+  {
+    "review": "자연스럽지 못하고 억지스러운 스토리 전개가 실망",
+    "date": "05.12.22",
+    "rating": "4",
+    "author": "blue****",
+    "review_id": "521060",
+    "movie_id": "19444"
+  },
+  {
+    "review": "황당무계하지만 오락적인 면에선 넘 재밋다^^*",
+    "date": "05.11.30",
+    "rating": "7",
+    "author": "hye5****",
+    "review_id": "489712",
+    "movie_id": "19444"
+  },
+  {
+    "review": "재미는 있네요. 일본여자도 매력적이고..",
+    "date": "05.11.05",
+    "rating": "8",
+    "author": "jeeb****",
+    "review_id": "464907",
+    "movie_id": "19444"
+  },
+  {
+    "review": "마크월버그에 올인하겠습니다. 진짜 빠져듭니다!",
+    "date": "05.09.19",
+    "rating": "10",
+    "author": "bear****",
+    "review_id": "412511",
+    "movie_id": "19444"
+  },
+  {
+    "review": "넘넘 재밌게봣어요 정말 기발하고 너무재밌어요",
+    "date": "05.09.09",
+    "rating": "10",
+    "author": "gong****",
+    "review_id": "398580",
+    "movie_id": "19444"
+  },
+  {
+    "review": "이런 영화가 있었다니..",
+    "date": "05.09.09",
+    "rating": "1",
+    "author": "varg****",
+    "review_id": "398309",
+    "movie_id": "19444"
+  },
+  {
+    "review": "말도 안되게 웃기는 영화. 시나리오에 100점 만점!",
+    "date": "05.08.11",
+    "rating": "10",
+    "author": "kien****",
+    "review_id": "362418",
+    "movie_id": "19444"
+  },
+  {
+    "review": "이토록 시원,통쾌,쾌감을 느끼게 해줄 영화도 드물것이다!!",
+    "date": "05.07.28",
+    "rating": "9",
+    "author": "taks****",
+    "review_id": "337128",
+    "movie_id": "19444"
+  },
+  {
+    "review": "화끈한 액숀과 ost가 어울리는 영화~ 동양여자 넘 예뽀~ㅎㅎ",
+    "date": "05.06.06",
+    "rating": "10",
+    "author": "2320****",
+    "review_id": "294950",
+    "movie_id": "19444"
+  },
+  {
+    "review": "액션볼만, 이야기의 전개나 유치한 설정은 짜증남",
+    "date": "05.05.20",
+    "rating": "3",
+    "author": "si2p****",
+    "review_id": "281562",
+    "movie_id": "19444"
+  },
+  {
+    "review": "액션만은 화려하다. 하지만 그외는 3류",
+    "date": "05.03.14",
+    "rating": "6",
+    "author": "fren****",
+    "review_id": "241218",
+    "movie_id": "19444"
+  },
+  {
+    "review": "재미만은 있다. 헌데 다른 장점은 못찾겠다",
+    "date": "05.02.26",
+    "rating": "4",
+    "author": "jtot****",
+    "review_id": "230900",
+    "movie_id": "19444"
+  },
+  {
+    "review": "재밋음 장땡이지 말이 필요있나.",
+    "date": "05.02.18",
+    "rating": "10",
+    "author": "wool****",
+    "review_id": "223406",
+    "movie_id": "19444"
+  },
+  {
+    "review": "홍콩감독이 미국으로 건너가면 절대 장기를 살리지 못하는 듯",
+    "date": "05.02.04",
+    "rating": "7",
+    "author": "kimj****",
+    "review_id": "206317",
+    "movie_id": "19444"
+  },
+  {
+    "review": "시작은 그럴싸 하더니만.. -_-; but 통쾌한 건 사실!!",
+    "date": "05.01.30",
+    "rating": "7",
+    "author": "hana****",
+    "review_id": "201089",
+    "movie_id": "19444"
+  },
+  {
+    "review": "매트릭스의 슬로우장면을 본듯하다..(99년도에 봄)",
+    "date": "04.11.11",
+    "rating": "5",
+    "author": "lemo****",
+    "review_id": "143903",
+    "movie_id": "19444"
+  },
+  {
+    "review": "잘만든것 같다~재미와 액션둘다 가졌다",
+    "date": "04.09.26",
+    "rating": "10",
+    "author": "xyan****",
+    "review_id": "114970",
+    "movie_id": "19444"
+  },
+  {
+    "review": "자연스럽지 못하고 억지스러운 스토리 전개가 실망. 짱깨감독 답다.",
+    "date": "04.09.20",
+    "rating": "5",
+    "author": "jjs7****",
+    "review_id": "111655",
+    "movie_id": "19444"
+  },
+  {
+    "review": "기발함에 머리도 눈도 행복하다~ 충분히 매력적인 영화 >신고",
+    "date": "04.09.14",
+    "rating": "10",
+    "author": "musi****",
+    "review_id": "108461",
+    "movie_id": "19444"
+  },
+  {
+    "review": "액션 굿~! 심리 굿~! 코메디 였던가?",
+    "date": "04.09.10",
+    "rating": "9",
+    "author": "dsd1****",
+    "review_id": "105993",
+    "movie_id": "19444"
+  },
+  {
+    "review": "현실감각은 전혀없다. 그래서 잼있다..",
+    "date": "04.08.24",
+    "rating": "8",
+    "author": "phbl****",
+    "review_id": "95944",
+    "movie_id": "19444"
+  },
+  {
+    "review": "진짜 재밌게 본 영화 ^^ 마크 웰버그의 액션에 반해 버림!~",
+    "date": "04.07.03",
+    "rating": "10",
+    "author": "chen****",
+    "review_id": "64659",
+    "movie_id": "19444"
+  },
+  {
+    "review": "뭔가 부족해;; 한 3% 부족한듯...",
+    "date": "04.05.08",
+    "rating": "7",
+    "author": "yikl****",
+    "review_id": "41678",
+    "movie_id": "19444"
+  },
+  {
+    "review": "화끈액션.. 10퍼센트의 누아르와 90퍼센트의 홍콩액션",
+    "date": "04.02.07",
+    "rating": "10",
+    "author": "minb****",
+    "review_id": "17473",
+    "movie_id": "19444"
+  },
+  {
+    "review": "우연히 티비에서 보게 됐는데 볼만했어요 ㅋ",
+    "date": "04.01.22",
+    "rating": "8",
+    "author": "sedb****",
+    "review_id": "12241",
+    "movie_id": "19444"
+  },
+  {
+    "review": "제목 그대로,,, 진짜 크게 때리는 영화",
+    "date": "03.12.16",
+    "rating": "4",
+    "author": "dimp****",
+    "review_id": "3148",
+    "movie_id": "19444"
+  }
+]

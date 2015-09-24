@@ -1,0 +1,34 @@
+[
+  {
+    "review": "잼있어요...",
+    "date": "09.07.13",
+    "rating": "10",
+    "author": "qhde****",
+    "review_id": "3629224",
+    "movie_id": "65733"
+  },
+  {
+    "review": "미친",
+    "date": "09.02.27",
+    "rating": "1",
+    "author": "sin3****",
+    "review_id": "3336529",
+    "movie_id": "65733"
+  },
+  {
+    "review": "섹시 코미디??? ㄱ-",
+    "date": "08.05.13",
+    "rating": "1",
+    "author": "cool****",
+    "review_id": "2638949",
+    "movie_id": "65733"
+  },
+  {
+    "review": "13번! 진료는 안하고 뭔 엉뚱한 짓이냐 ^^;;-하우스를넘많이봐서,,,,",
+    "date": "08.05.11",
+    "rating": "10",
+    "author": "adel****",
+    "review_id": "2632789",
+    "movie_id": "65733"
+  }
+]

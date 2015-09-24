@@ -1,0 +1,802 @@
+[
+  {
+    "review": "보고나서 한참을 멍-하게 만든 영화.. 다시보고싶은데..",
+    "date": "15.06.23",
+    "rating": "10",
+    "author": "anz8****",
+    "review_id": "10024535",
+    "movie_id": "38563"
+  },
+  {
+    "review": "이영화의 라스트씬의 느낌은 여행을 하고 돌아오기전의 마지막 모습과 돌아온후 그곳을 추억하는 아련함과 비슷했다",
+    "date": "14.03.19",
+    "rating": "10",
+    "author": "hshd****",
+    "review_id": "8587306",
+    "movie_id": "38563"
+  },
+  {
+    "review": "Ocn에서 하는거 무심코 봤다가 입 떡 벌리고 본 영화.. 영상도 너무 아름답고 낭만적이다. 근데 제목때문에 어디가서 이 영화 좋다고 못말하겠어!!",
+    "date": "13.12.17",
+    "rating": "10",
+    "author": "kdj0****",
+    "review_id": "8220735",
+    "movie_id": "38563"
+  },
+  {
+    "review": "5년전에 봤지만 또 보고 싶은 영화. 뭔가 진한 아픔이 느껴진다.",
+    "date": "12.03.31",
+    "rating": "10",
+    "author": "dnfl****",
+    "review_id": "6182025",
+    "movie_id": "38563"
+  },
+  {
+    "review": "한번 보고, 두번고 세번봐도 여운을 남기게 하는 영화..",
+    "date": "12.02.06",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "6055431",
+    "movie_id": "38563"
+  },
+  {
+    "review": "이 영화... 참 좋았는데, 또 보고 싶은데 구할 수가 없네",
+    "date": "11.06.04",
+    "rating": "8",
+    "author": "unkn****",
+    "review_id": "5464044",
+    "movie_id": "38563"
+  },
+  {
+    "review": "지인의 추천으로 별생각없이 봤는데.. 나도모르게 몰입되어있었다.",
+    "date": "10.11.24",
+    "rating": "10",
+    "author": "rueg****",
+    "review_id": "4986489",
+    "movie_id": "38563"
+  },
+  {
+    "review": "로드무비는 항상설레인다 ~~~~~~~~",
+    "date": "10.08.30",
+    "rating": "5",
+    "author": "fnsk****",
+    "review_id": "4806737",
+    "movie_id": "38563"
+  },
+  {
+    "review": "로드무비는 꾸밈없는 현실의 거울이다.  꾸밈없이 현실을 표현한 작품이다",
+    "date": "10.06.19",
+    "rating": "10",
+    "author": "arti****",
+    "review_id": "4576575",
+    "movie_id": "38563"
+  },
+  {
+    "review": "5년전 우연히 일본영화제에서 만난 류이치. 그 설렘은 여전히 기억나",
+    "date": "09.11.08",
+    "rating": "7",
+    "author": "erhe****",
+    "review_id": "3945112",
+    "movie_id": "38563"
+  },
+  {
+    "review": "자아를 찾아나서는 고요한 항해",
+    "date": "09.04.10",
+    "rating": "7",
+    "author": "bbq2****",
+    "review_id": "3414563",
+    "movie_id": "38563"
+  },
+  {
+    "review": "아주 재밌게 본 영화 중 하나.^^",
+    "date": "09.01.10",
+    "rating": "10",
+    "author": "sopu****",
+    "review_id": "3207266",
+    "movie_id": "38563"
+  },
+  {
+    "review": "뒤끝에 여운이 오래머무는 영화, 마음이 허전해 지면서 슬퍼지는건 뭐지",
+    "date": "08.09.30",
+    "rating": "10",
+    "author": "leeo****",
+    "review_id": "2976456",
+    "movie_id": "38563"
+  },
+  {
+    "review": "일본영화 특유의 지루함은 어쩔 수 없다.",
+    "date": "08.09.09",
+    "rating": "6",
+    "author": "kz13****",
+    "review_id": "2932324",
+    "movie_id": "38563"
+  },
+  {
+    "review": "한 사람이라도 더 보았으면 하는 그런 영화^^",
+    "date": "08.08.20",
+    "rating": "10",
+    "author": "kmg0****",
+    "review_id": "2889930",
+    "movie_id": "38563"
+  },
+  {
+    "review": "아플때보면그때의마음을치유해주는영화,'오오모리나오' 굉장한배우를만나게해준영화",
+    "date": "08.07.06",
+    "rating": "10",
+    "author": "ejso****",
+    "review_id": "2745088",
+    "movie_id": "38563"
+  },
+  {
+    "review": "좋다.............................................",
+    "date": "08.06.07",
+    "rating": "9",
+    "author": "wnff****",
+    "review_id": "2684558",
+    "movie_id": "38563"
+  },
+  {
+    "review": "20번 넘게 본 영화... 볼때마다 이상하게 눈물이 나는 영화...",
+    "date": "08.06.03",
+    "rating": "10",
+    "author": "ohgo****",
+    "review_id": "2678175",
+    "movie_id": "38563"
+  },
+  {
+    "review": "에로물인 줄 알았는데... 하지만 낚이길 잘 했단 생각도 드는 건...? ㅡㅡ;;",
+    "date": "08.05.31",
+    "rating": "7",
+    "author": "ilhy****",
+    "review_id": "2672948",
+    "movie_id": "38563"
+  },
+  {
+    "review": "너무 깊어서 그 바닥을 알수없으니 이를 어찌할꼬...",
+    "date": "08.05.17",
+    "rating": "7",
+    "author": "meth****",
+    "review_id": "2645716",
+    "movie_id": "38563"
+  },
+  {
+    "review": "치유됨이 부럽고 끝남이 아쉬운 영화...일본영화가 새로이 보이기 시작하다.",
+    "date": "08.03.31",
+    "rating": "10",
+    "author": "kale****",
+    "review_id": "2551505",
+    "movie_id": "38563"
+  },
+  {
+    "review": "나도한번 근심.걱정 모든고민들을 떨쳐버리고 어디론가 가고싶다..",
+    "date": "08.03.22",
+    "rating": "10",
+    "author": "todt****",
+    "review_id": "2534661",
+    "movie_id": "38563"
+  },
+  {
+    "review": "무엇이 인간적인지 느끼고 싶은 오픈마인드의 소유자라면..",
+    "date": "08.01.25",
+    "rating": "9",
+    "author": "blun****",
+    "review_id": "2369996",
+    "movie_id": "38563"
+  },
+  {
+    "review": "끈적끈적한 로드무비..",
+    "date": "08.01.21",
+    "rating": "6",
+    "author": "evil****",
+    "review_id": "2353615",
+    "movie_id": "38563"
+  },
+  {
+    "review": "정말심장까지 떨려오는느낌.. 상큼한로드무비, 한여자의자아찾기!역시일본영화의힘.",
+    "date": "07.12.14",
+    "rating": "10",
+    "author": "han7****",
+    "review_id": "2232341",
+    "movie_id": "38563"
+  },
+  {
+    "review": "음악의 여운이 아직까지...10 점 만점~~!!",
+    "date": "07.11.03",
+    "rating": "10",
+    "author": "shaw****",
+    "review_id": "2129293",
+    "movie_id": "38563"
+  },
+  {
+    "review": "멋져",
+    "date": "07.10.13",
+    "rating": "10",
+    "author": "tolb****",
+    "review_id": "2087850",
+    "movie_id": "38563"
+  },
+  {
+    "review": "트럭을 타여행하는듯한 나도 먼가떠나고싶은생각자연스럽게잘표현된거같다",
+    "date": "07.10.03",
+    "rating": "10",
+    "author": "kty3****",
+    "review_id": "2068047",
+    "movie_id": "38563"
+  },
+  {
+    "review": "휘파람소리로 짧지만 짙은 여운이 끝났다. 일상과의 재회",
+    "date": "07.09.12",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "2015601",
+    "movie_id": "38563"
+  },
+  {
+    "review": "야한건줄알고봤으나 드물게..너무도 잘본 일본영화.",
+    "date": "07.09.02",
+    "rating": "10",
+    "author": "novi****",
+    "review_id": "1995752",
+    "movie_id": "38563"
+  },
+  {
+    "review": "그녀의 생각들이 너무 좋았던ㅋ",
+    "date": "07.08.31",
+    "rating": "9",
+    "author": "whit****",
+    "review_id": "1990898",
+    "movie_id": "38563"
+  },
+  {
+    "review": "영화를 보면서 소설을 읽고 있는 듯한 느낌...좋다.",
+    "date": "07.08.27",
+    "rating": "10",
+    "author": "flyn****",
+    "review_id": "1982839",
+    "movie_id": "38563"
+  },
+  {
+    "review": "마지막장면이 생생하게 기억나요. 둘이함께 떠나길 바랬는데",
+    "date": "07.08.14",
+    "rating": "10",
+    "author": "mars****",
+    "review_id": "1936235",
+    "movie_id": "38563"
+  },
+  {
+    "review": "그와, 그의 트럭이 떠남과 동시에 내마음도 함께 공허해졌다..",
+    "date": "07.07.29",
+    "rating": "10",
+    "author": "penz****",
+    "review_id": "1823373",
+    "movie_id": "38563"
+  },
+  {
+    "review": "최저예산을 자랑할거 같은 영화 하지만 꽤 괘찮았다",
+    "date": "07.04.24",
+    "rating": "8",
+    "author": "kims****",
+    "review_id": "1604028",
+    "movie_id": "38563"
+  },
+  {
+    "review": "끝이 없어서 끝이 좋은 영화",
+    "date": "07.04.07",
+    "rating": "10",
+    "author": "newh****",
+    "review_id": "1576778",
+    "movie_id": "38563"
+  },
+  {
+    "review": "'그를 먹었고 그에게 먹혔다, 단지 그것뿐이었다' 독특하고 재밌게 본~",
+    "date": "07.04.07",
+    "rating": "9",
+    "author": "coco****",
+    "review_id": "1575835",
+    "movie_id": "38563"
+  },
+  {
+    "review": "자신을 미치도록 사랑하고 싶어서 미치도록 외로운~~~",
+    "date": "07.04.04",
+    "rating": "10",
+    "author": "kdb8****",
+    "review_id": "1571643",
+    "movie_id": "38563"
+  },
+  {
+    "review": "끝내는 돌아와버린 일상",
+    "date": "07.03.16",
+    "rating": "10",
+    "author": "skyd****",
+    "review_id": "1536979",
+    "movie_id": "38563"
+  },
+  {
+    "review": "로드무비를 가장한 에로물?",
+    "date": "07.03.05",
+    "rating": "5",
+    "author": "salm****",
+    "review_id": "1519772",
+    "movie_id": "38563"
+  },
+  {
+    "review": "제목만 보고 1점준 놈들은,..그런생각밖에 못하냐?",
+    "date": "07.02.28",
+    "rating": "10",
+    "author": "heyw****",
+    "review_id": "1508713",
+    "movie_id": "38563"
+  },
+  {
+    "review": "그래도 드는 의문은 왜 함께하지 않았을까",
+    "date": "07.01.27",
+    "rating": "10",
+    "author": "kago****",
+    "review_id": "1417909",
+    "movie_id": "38563"
+  },
+  {
+    "review": "로드무비 같은,,,,, 재밌는,,,,,",
+    "date": "07.01.11",
+    "rating": "8",
+    "author": "sink****",
+    "review_id": "1375907",
+    "movie_id": "38563"
+  },
+  {
+    "review": "볼만함",
+    "date": "06.12.19",
+    "rating": "9",
+    "author": "01ei****",
+    "review_id": "1304186",
+    "movie_id": "38563"
+  },
+  {
+    "review": "이 영화는심리영화기에사람들의평점이다제각기네요.",
+    "date": "06.10.30",
+    "rating": "10",
+    "author": "gusw****",
+    "review_id": "1206820",
+    "movie_id": "38563"
+  },
+  {
+    "review": "아놔~~ 심리영화이해하기 어렵네...볼만은 했는데...",
+    "date": "06.10.09",
+    "rating": "4",
+    "author": "kfe2****",
+    "review_id": "1173519",
+    "movie_id": "38563"
+  },
+  {
+    "review": "저도새벽에본영화 정말 괜찮은영화임~",
+    "date": "06.09.24",
+    "rating": "10",
+    "author": "jijv****",
+    "review_id": "1141447",
+    "movie_id": "38563"
+  },
+  {
+    "review": "트럭에탄남자,서로 말없이 바라보다 헤어질때 후..",
+    "date": "06.09.24",
+    "rating": "10",
+    "author": "o9o9****",
+    "review_id": "1140400",
+    "movie_id": "38563"
+  },
+  {
+    "review": "새벽에 본 영화 .... 재밌네",
+    "date": "06.09.24",
+    "rating": "10",
+    "author": "ktk3****",
+    "review_id": "1140210",
+    "movie_id": "38563"
+  },
+  {
+    "review": "너무 좋은 영화. 사랑하고픈 여자와 그를 달래주는 남자.",
+    "date": "06.09.16",
+    "rating": "10",
+    "author": "maur****",
+    "review_id": "1126682",
+    "movie_id": "38563"
+  },
+  {
+    "review": "너무 좋았던..",
+    "date": "06.09.13",
+    "rating": "10",
+    "author": "baro****",
+    "review_id": "1119457",
+    "movie_id": "38563"
+  },
+  {
+    "review": "잔잔한여운이 남는영화 남자분 참 친절하죠. 아 따뜻한영화예요",
+    "date": "06.08.18",
+    "rating": "10",
+    "author": "mt76****",
+    "review_id": "1049028",
+    "movie_id": "38563"
+  },
+  {
+    "review": "적절하다",
+    "date": "06.08.17",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "1045645",
+    "movie_id": "38563"
+  },
+  {
+    "review": "아...나두 바람 쐬고 싶어...",
+    "date": "06.08.13",
+    "rating": "6",
+    "author": "lks3****",
+    "review_id": "1021733",
+    "movie_id": "38563"
+  },
+  {
+    "review": "누군가에 이끌려 힘든지 알면서도 떠나고싶을때",
+    "date": "06.08.09",
+    "rating": "7",
+    "author": "dive****",
+    "review_id": "986415",
+    "movie_id": "38563"
+  },
+  {
+    "review": "건조하고 담백하고 여배우 이쁘고, 좋다",
+    "date": "06.06.08",
+    "rating": "10",
+    "author": "qksg****",
+    "review_id": "836316",
+    "movie_id": "38563"
+  },
+  {
+    "review": "나도 만지고 싶어효 만지고 싶어효",
+    "date": "06.04.08",
+    "rating": "9",
+    "author": "oguf****",
+    "review_id": "752767",
+    "movie_id": "38563"
+  },
+  {
+    "review": "오랫만에 본 괜찮은 영화",
+    "date": "06.03.14",
+    "rating": "10",
+    "author": "youn****",
+    "review_id": "716800",
+    "movie_id": "38563"
+  },
+  {
+    "review": "잔잔히 남는 여운, 감성이 충만해 지는 영화~",
+    "date": "06.03.14",
+    "rating": "9",
+    "author": "tiny****",
+    "review_id": "716383",
+    "movie_id": "38563"
+  },
+  {
+    "review": "정말 여운이 많이 남네요... 꿈에서도 남자주인공이 나왔어요!!",
+    "date": "06.01.24",
+    "rating": "10",
+    "author": "part****",
+    "review_id": "617300",
+    "movie_id": "38563"
+  },
+  {
+    "review": "지루하기만 했던시간..",
+    "date": "06.01.15",
+    "rating": "4",
+    "author": "wing****",
+    "review_id": "589414",
+    "movie_id": "38563"
+  },
+  {
+    "review": "제목이 여자 ... 그거??",
+    "date": "06.01.12",
+    "rating": "1",
+    "author": "qnqn****",
+    "review_id": "581326",
+    "movie_id": "38563"
+  },
+  {
+    "review": "여운이 남는.. 감성충족.",
+    "date": "06.01.11",
+    "rating": "10",
+    "author": "hkyl****",
+    "review_id": "580674",
+    "movie_id": "38563"
+  },
+  {
+    "review": "로드무비의 정점.",
+    "date": "06.01.11",
+    "rating": "8",
+    "author": "powe****",
+    "review_id": "578918",
+    "movie_id": "38563"
+  },
+  {
+    "review": "좋았다.",
+    "date": "06.01.10",
+    "rating": "9",
+    "author": "c7pe****",
+    "review_id": "578134",
+    "movie_id": "38563"
+  },
+  {
+    "review": "ㅡ,. 이딴게 잼니 밑에 있는넘 대가리에 총맞았나?",
+    "date": "06.01.10",
+    "rating": "1",
+    "author": "3881****",
+    "review_id": "577940",
+    "movie_id": "38563"
+  },
+  {
+    "review": "반복되던 말과 그녀의 반복적 떨림이 느껴진다.",
+    "date": "06.01.10",
+    "rating": "9",
+    "author": "miji****",
+    "review_id": "577059",
+    "movie_id": "38563"
+  },
+  {
+    "review": "-_-",
+    "date": "06.01.08",
+    "rating": "1",
+    "author": "leo4****",
+    "review_id": "571914",
+    "movie_id": "38563"
+  },
+  {
+    "review": "재밌냐..",
+    "date": "06.01.08",
+    "rating": "1",
+    "author": "star****",
+    "review_id": "571793",
+    "movie_id": "38563"
+  },
+  {
+    "review": "즐",
+    "date": "06.01.08",
+    "rating": "1",
+    "author": "aya3****",
+    "review_id": "571771",
+    "movie_id": "38563"
+  },
+  {
+    "review": "뭐니..",
+    "date": "06.01.08",
+    "rating": "1",
+    "author": "fbwl****",
+    "review_id": "571512",
+    "movie_id": "38563"
+  },
+  {
+    "review": "제목보고 놀랬다",
+    "date": "06.01.08",
+    "rating": "3",
+    "author": "tpdl****",
+    "review_id": "571456",
+    "movie_id": "38563"
+  },
+  {
+    "review": "완전구려염 -_-",
+    "date": "06.01.08",
+    "rating": "1",
+    "author": "hano****",
+    "review_id": "571440",
+    "movie_id": "38563"
+  },
+  {
+    "review": "별루;",
+    "date": "06.01.08",
+    "rating": "4",
+    "author": "ghdt****",
+    "review_id": "570865",
+    "movie_id": "38563"
+  },
+  {
+    "review": "그다지..-_-;",
+    "date": "06.01.08",
+    "rating": "1",
+    "author": "haqo****",
+    "review_id": "570451",
+    "movie_id": "38563"
+  },
+  {
+    "review": "평점 10 이라고 쓴놈들 모냐",
+    "date": "06.01.08",
+    "rating": "1",
+    "author": "unzz****",
+    "review_id": "570256",
+    "movie_id": "38563"
+  },
+  {
+    "review": "그녀는 치유되어야만 했다!",
+    "date": "06.01.07",
+    "rating": "8",
+    "author": "haen****",
+    "review_id": "567649",
+    "movie_id": "38563"
+  },
+  {
+    "review": "그녀의 아픔이 치유되는 과정이 잔잔하게.",
+    "date": "06.01.07",
+    "rating": "9",
+    "author": "ho32****",
+    "review_id": "566966",
+    "movie_id": "38563"
+  },
+  {
+    "review": "저예산으로썬 최고의 영화! 무언가 와닿는 느낌이 좋았다..",
+    "date": "06.01.04",
+    "rating": "10",
+    "author": "dood****",
+    "review_id": "559990",
+    "movie_id": "38563"
+  },
+  {
+    "review": "거의 모든대사에 의미가 있는듯.",
+    "date": "06.01.04",
+    "rating": "10",
+    "author": "ynot****",
+    "review_id": "559791",
+    "movie_id": "38563"
+  },
+  {
+    "review": "우연히찾아온 진동은 삶의구토를 진정시켜주었다..",
+    "date": "05.12.23",
+    "rating": "10",
+    "author": "celi****",
+    "review_id": "522386",
+    "movie_id": "38563"
+  },
+  {
+    "review": "좋다! 새벽에 눈이 떠있었다는 건 행운이다! 산뜻한 느낌!",
+    "date": "05.12.23",
+    "rating": "10",
+    "author": "akwl****",
+    "review_id": "522037",
+    "movie_id": "38563"
+  },
+  {
+    "review": "알수없는 가슴의 치임에 놀랍도록 먹먹해진다...",
+    "date": "05.12.03",
+    "rating": "10",
+    "author": "juli****",
+    "review_id": "492788",
+    "movie_id": "38563"
+  },
+  {
+    "review": ".........굳이 글로 쓰고 싶지 않은, 쓸 수 없는.........",
+    "date": "05.11.29",
+    "rating": "10",
+    "author": "spri****",
+    "review_id": "488338",
+    "movie_id": "38563"
+  },
+  {
+    "review": "이치 나온다.",
+    "date": "05.11.14",
+    "rating": "10",
+    "author": "ktoh****",
+    "review_id": "474491",
+    "movie_id": "38563"
+  },
+  {
+    "review": "세명의 주인공(남,여,트럭)은 놀랍도록 내 가슴에 파고든다.",
+    "date": "05.10.03",
+    "rating": "10",
+    "author": "dryn****",
+    "review_id": "432002",
+    "movie_id": "38563"
+  },
+  {
+    "review": "음",
+    "date": "05.06.22",
+    "rating": "10",
+    "author": "wlfh****",
+    "review_id": "304515",
+    "movie_id": "38563"
+  },
+  {
+    "review": "엽편소설 읽은 기분-그러나 약하다",
+    "date": "05.05.13",
+    "rating": "5",
+    "author": "omye****",
+    "review_id": "277085",
+    "movie_id": "38563"
+  },
+  {
+    "review": "떠남과 위안에 관한 영화, 강추!",
+    "date": "05.04.22",
+    "rating": "10",
+    "author": "wbla****",
+    "review_id": "264052",
+    "movie_id": "38563"
+  },
+  {
+    "review": "외로움과 그리움이 교차되는 차가운 시선.",
+    "date": "05.04.19",
+    "rating": "8",
+    "author": "p1ns****",
+    "review_id": "262389",
+    "movie_id": "38563"
+  },
+  {
+    "review": "야하지만 절대 야하지 않은영화",
+    "date": "05.04.17",
+    "rating": "10",
+    "author": "life****",
+    "review_id": "261115",
+    "movie_id": "38563"
+  },
+  {
+    "review": "이해",
+    "date": "05.04.05",
+    "rating": "10",
+    "author": "ssia****",
+    "review_id": "254261",
+    "movie_id": "38563"
+  },
+  {
+    "review": "음악에 심취해 볼수 있었던 영화...",
+    "date": "05.04.02",
+    "rating": "10",
+    "author": "303i****",
+    "review_id": "251589",
+    "movie_id": "38563"
+  },
+  {
+    "review": "나를 이해해 주는 사람은 어디에?",
+    "date": "05.04.02",
+    "rating": "10",
+    "author": "kkam****",
+    "review_id": "251588",
+    "movie_id": "38563"
+  },
+  {
+    "review": "모처럼 찾던 종류의 영화..좋다..멜로+심리위주 관객 초강추!",
+    "date": "05.04.02",
+    "rating": "10",
+    "author": "dait****",
+    "review_id": "251548",
+    "movie_id": "38563"
+  },
+  {
+    "review": "자신을진정으로 이해해주는 누군가를 만나는것은 쉬운일이아니다",
+    "date": "05.04.01",
+    "rating": "9",
+    "author": "tjsd****",
+    "review_id": "251010",
+    "movie_id": "38563"
+  },
+  {
+    "review": "깔끔한 음악과 영상을 통해 마음의 안정을 찾았습니다..",
+    "date": "05.03.17",
+    "rating": "9",
+    "author": "dora****",
+    "review_id": "242859",
+    "movie_id": "38563"
+  },
+  {
+    "review": "상큼한음악소리...멋진그들..보구나서.참 좋았다",
+    "date": "05.03.11",
+    "rating": "9",
+    "author": "kya7****",
+    "review_id": "238598",
+    "movie_id": "38563"
+  },
+  {
+    "review": "여백이 있어 공감할 수 있는 영화.",
+    "date": "05.03.09",
+    "rating": "10",
+    "author": "luun****",
+    "review_id": "237554",
+    "movie_id": "38563"
+  },
+  {
+    "review": "깔끔한 휘파람 소리...",
+    "date": "05.03.08",
+    "rating": "7",
+    "author": "terr****",
+    "review_id": "237356",
+    "movie_id": "38563"
+  }
+]

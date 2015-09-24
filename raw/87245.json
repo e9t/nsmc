@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "6668915",
+    "movie_id": "87245",
+    "author": "hood****",
+    "review": "끝까지 볼래도 못보겠어 꺼버렸다..",
+    "rating": "1",
+    "date": "12.09.04"
+  },
+  {
+    "review_id": "6649792",
+    "movie_id": "87245",
+    "author": "mui8****",
+    "review": "무슨 뽕삘이냐?",
+    "rating": "3",
+    "date": "12.08.28"
+  },
+  {
+    "review_id": "6648645",
+    "movie_id": "87245",
+    "author": "shin****",
+    "review": "헐 대박~",
+    "rating": "10",
+    "date": "12.08.27"
+  }
+]

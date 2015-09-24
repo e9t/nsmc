@@ -1,0 +1,34 @@
+[
+  {
+    "review": "어릴 때 구슬동자 로보트 가지고 있는 아이가 그렇게 부러웠는데",
+    "date": "11.11.07",
+    "rating": "7",
+    "author": "qudr****",
+    "review_id": "5835475",
+    "movie_id": "34370"
+  },
+  {
+    "review": "뷁",
+    "date": "07.01.26",
+    "rating": "7",
+    "author": "zeed****",
+    "review_id": "1413924",
+    "movie_id": "34370"
+  },
+  {
+    "review": "유치한건 그렇다 쳐도 너무 오래 우려먹는다",
+    "date": "06.09.18",
+    "rating": "2",
+    "author": "okjo****",
+    "review_id": "1131442",
+    "movie_id": "34370"
+  },
+  {
+    "review": "되게 궁금하다^^",
+    "date": "04.03.13",
+    "rating": "10",
+    "author": "whwe****",
+    "review_id": "28730",
+    "movie_id": "34370"
+  }
+]

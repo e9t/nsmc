@@ -1,0 +1,50 @@
+[
+  {
+    "review": "한국인의 감정과 엇박자의 영화",
+    "date": "07.02.08",
+    "rating": "7",
+    "author": "supe****",
+    "review_id": "1453787",
+    "movie_id": "18194"
+  },
+  {
+    "review": "대체왜대부분의한국인들은재미없어요라는식의자기중심적으말할까",
+    "date": "07.01.26",
+    "rating": "10",
+    "author": "taba****",
+    "review_id": "1415724",
+    "movie_id": "18194"
+  },
+  {
+    "review": "음악도 좋았지만 원작의 감동에는 못 미친다",
+    "date": "07.01.15",
+    "rating": "8",
+    "author": "nala****",
+    "review_id": "1386759",
+    "movie_id": "18194"
+  },
+  {
+    "review": "미카엘 엔데의 잔잔하고 아름다운 판타지",
+    "date": "06.01.27",
+    "rating": "8",
+    "author": "atzu****",
+    "review_id": "625077",
+    "movie_id": "18194"
+  },
+  {
+    "review": "재미 없어요",
+    "date": "05.10.01",
+    "rating": "4",
+    "author": "yuky****",
+    "review_id": "429953",
+    "movie_id": "18194"
+  },
+  {
+    "review": "비 오는 날, 촛불 켜고 이불 덮고 샌드위치 먹으며 읽던 환타지소설",
+    "date": "04.08.21",
+    "rating": "8",
+    "author": "mono****",
+    "review_id": "93895",
+    "movie_id": "18194"
+  }
+]

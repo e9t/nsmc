@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "9131500",
+    "movie_id": "101490",
+    "author": "hana****",
+    "review": "말이 필요 없다 ...乃",
+    "rating": "10",
+    "date": "14.08.25"
+  },
+  {
+    "review_id": "7768682",
+    "movie_id": "101490",
+    "author": "hong****",
+    "review": "재미있어요",
+    "rating": "10",
+    "date": "13.07.20"
+  },
+  {
+    "review_id": "7264605",
+    "movie_id": "101490",
+    "author": "dlrh****",
+    "review": "Very Good",
+    "rating": "10",
+    "date": "13.02.14"
+  }
+]

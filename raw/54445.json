@@ -1,0 +1,802 @@
+[
+  {
+    "review": "일단 연기부터 제대로 하고 말씀을 하세요",
+    "date": "14.07.31",
+    "rating": "1",
+    "author": "expr****",
+    "review_id": "8996657",
+    "movie_id": "54445"
+  },
+  {
+    "review": "아쉽네..",
+    "date": "13.07.27",
+    "rating": "3",
+    "author": "audr****",
+    "review_id": "7789678",
+    "movie_id": "54445"
+  },
+  {
+    "review": "누군가가 그랬지... 아프니까 청춘이라고... 아프냐? 나도 아프다...",
+    "date": "12.10.25",
+    "rating": "5",
+    "author": "deka****",
+    "review_id": "6826210",
+    "movie_id": "54445"
+  },
+  {
+    "review": "영화잼없게 만드는것두 재주인듯.. 흠..",
+    "date": "12.02.08",
+    "rating": "4",
+    "author": "kis5****",
+    "review_id": "6061952",
+    "movie_id": "54445"
+  },
+  {
+    "review": "그럴싸하지만.. 별로..",
+    "date": "11.12.06",
+    "rating": "6",
+    "author": "tn99****",
+    "review_id": "5891789",
+    "movie_id": "54445"
+  },
+  {
+    "review": "뭘 고했나. Go했었더라면 좋았을텐데.",
+    "date": "11.11.07",
+    "rating": "5",
+    "author": "boyc****",
+    "review_id": "5833704",
+    "movie_id": "54445"
+  },
+  {
+    "review": "전 그닥... 지루했고, 뭘 말하고싶은건지 모르겠어요",
+    "date": "11.02.14",
+    "rating": "3",
+    "author": "ksi_****",
+    "review_id": "5242119",
+    "movie_id": "54445"
+  },
+  {
+    "review": "감독이 아이디 바꿔가며 60여번 호평 올리느라 애썼겠다.",
+    "date": "11.02.03",
+    "rating": "1",
+    "author": "effd****",
+    "review_id": "5209569",
+    "movie_id": "54445"
+  },
+  {
+    "review": "세번째이야기를 위한 원투펀치 탕탕 ! !",
+    "date": "11.01.08",
+    "rating": "7",
+    "author": "gurw****",
+    "review_id": "5140845",
+    "movie_id": "54445"
+  },
+  {
+    "review": "나른한 오후 이 영화를 본 후 더 나른해진다.....",
+    "date": "10.08.25",
+    "rating": "4",
+    "author": "oliv****",
+    "review_id": "4791207",
+    "movie_id": "54445"
+  },
+  {
+    "review": "뭐지 이병맛..",
+    "date": "10.07.16",
+    "rating": "6",
+    "author": "dlrj****",
+    "review_id": "4643304",
+    "movie_id": "54445"
+  },
+  {
+    "review": "삶의 청춘",
+    "date": "10.06.01",
+    "rating": "7",
+    "author": "bkm1****",
+    "review_id": "4537534",
+    "movie_id": "54445"
+  },
+  {
+    "review": "붙잡아 두기엔 너무 나른하고 무기력한 청춘.. 고해봤자 답은 없다.",
+    "date": "10.05.23",
+    "rating": "8",
+    "author": "heod****",
+    "review_id": "4517583",
+    "movie_id": "54445"
+  },
+  {
+    "review": "김국진 어딨냐 OO",
+    "date": "10.05.11",
+    "rating": "10",
+    "author": "suki****",
+    "review_id": "4493382",
+    "movie_id": "54445"
+  },
+  {
+    "review": "평점 낮다",
+    "date": "10.03.16",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "4361733",
+    "movie_id": "54445"
+  },
+  {
+    "review": "군인은뭐 군인이라지",
+    "date": "10.02.04",
+    "rating": "4",
+    "author": "psp2****",
+    "review_id": "4243795",
+    "movie_id": "54445"
+  },
+  {
+    "review": "청춘일때 이래 보는거지 뭐",
+    "date": "10.01.20",
+    "rating": "5",
+    "author": "bbq2****",
+    "review_id": "4191758",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이상우땜에 봐준다;",
+    "date": "10.01.16",
+    "rating": "10",
+    "author": "igua****",
+    "review_id": "4175081",
+    "movie_id": "54445"
+  },
+  {
+    "review": "너무 얄팍한, 드라마적인 시점의 옴니버스 영화.",
+    "date": "09.08.04",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "3705794",
+    "movie_id": "54445"
+  },
+  {
+    "review": "바로 우리들의 모습이다.",
+    "date": "09.03.29",
+    "rating": "10",
+    "author": "agid****",
+    "review_id": "3394956",
+    "movie_id": "54445"
+  },
+  {
+    "review": "대사가 어색하지만 리얼리티가 적절히 녹아 있는 영화",
+    "date": "09.01.02",
+    "rating": "7",
+    "author": "rach****",
+    "review_id": "3180291",
+    "movie_id": "54445"
+  },
+  {
+    "review": "공감은 안되지만 이해는 되는, 서툴게 살아가는 사람들의 평범한 이야기. 좋다!",
+    "date": "08.09.07",
+    "rating": "10",
+    "author": "julo****",
+    "review_id": "2927245",
+    "movie_id": "54445"
+  },
+  {
+    "review": "너무 영화스럽지 않은 지극히 일상적인 영화들이 난 좋더라",
+    "date": "08.08.06",
+    "rating": "7",
+    "author": "bboj****",
+    "review_id": "2840173",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이게 고함이냐",
+    "date": "08.07.15",
+    "rating": "5",
+    "author": "311p****",
+    "review_id": "2765698",
+    "movie_id": "54445"
+  },
+  {
+    "review": "영화같은 나날도 하루 이틀이지 듣기 간지러운 대본에 뭘 더 고할까",
+    "date": "08.06.06",
+    "rating": "5",
+    "author": "voyo****",
+    "review_id": "2683788",
+    "movie_id": "54445"
+  },
+  {
+    "review": "설익은 대본과 연출, 겉멋을 벗어야 한다.",
+    "date": "08.03.28",
+    "rating": "10",
+    "author": "gasp****",
+    "review_id": "2545953",
+    "movie_id": "54445"
+  },
+  {
+    "review": "세번째 이야기는 괜찮았지만, 전체적으로 어디서 이미 본듯한 이미지와 내용들..",
+    "date": "08.03.19",
+    "rating": "5",
+    "author": "yak0****",
+    "review_id": "2529139",
+    "movie_id": "54445"
+  },
+  {
+    "review": "마지막 에피소드 이외에는 쓸데없는 이야기...",
+    "date": "08.01.01",
+    "rating": "6",
+    "author": "aaal****",
+    "review_id": "2287075",
+    "movie_id": "54445"
+  },
+  {
+    "review": "한권의 단편소설을 읽고 난 느낌.",
+    "date": "07.12.11",
+    "rating": "8",
+    "author": "frot****",
+    "review_id": "2222492",
+    "movie_id": "54445"
+  },
+  {
+    "review": "그냥 사는 이야기",
+    "date": "07.11.14",
+    "rating": "7",
+    "author": "tere****",
+    "review_id": "2151764",
+    "movie_id": "54445"
+  },
+  {
+    "review": "작가의 제한된 공간과 인물의 대한 상상력 결핍 치명적이다.역시한국;;",
+    "date": "07.11.08",
+    "rating": "1",
+    "author": "s010****",
+    "review_id": "2139442",
+    "movie_id": "54445"
+  },
+  {
+    "review": "뭐야 왜저래 이말만 반복;;",
+    "date": "07.10.24",
+    "rating": "1",
+    "author": "ukhk****",
+    "review_id": "2108674",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이런 영화 많이 만들었으면",
+    "date": "07.10.19",
+    "rating": "8",
+    "author": "nano****",
+    "review_id": "2099002",
+    "movie_id": "54445"
+  },
+  {
+    "review": "억지로 끼워맞추느라 고생했다..이건 뭐 내용도 없고..",
+    "date": "07.10.05",
+    "rating": "1",
+    "author": "thec****",
+    "review_id": "2072580",
+    "movie_id": "54445"
+  },
+  {
+    "review": "김태우는 언제나 나에게 있어 감동인 사람. 세번째 이야기가 마음에 든다.",
+    "date": "07.10.04",
+    "rating": "8",
+    "author": "purp****",
+    "review_id": "2069892",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이제는안통한다...",
+    "date": "07.09.28",
+    "rating": "4",
+    "author": "wnsg****",
+    "review_id": "2056785",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이건 좀 아니었다",
+    "date": "07.09.24",
+    "rating": "5",
+    "author": "high****",
+    "review_id": "2044223",
+    "movie_id": "54445"
+  },
+  {
+    "review": "김병장의 이야기만으로",
+    "date": "07.08.14",
+    "rating": "7",
+    "author": "bomb****",
+    "review_id": "1936439",
+    "movie_id": "54445"
+  },
+  {
+    "review": "배우들의 심리묘사..섬세한 연출. 진지한 상황속에서 찾아가는 우리의 청춘",
+    "date": "07.08.12",
+    "rating": "8",
+    "author": "lsh1****",
+    "review_id": "1927858",
+    "movie_id": "54445"
+  },
+  {
+    "review": "잔잔함이 무료하진 않았지만 내가 너무 명확한 답을 원했던 걸까.",
+    "date": "07.07.29",
+    "rating": "7",
+    "author": "penz****",
+    "review_id": "1822829",
+    "movie_id": "54445"
+  },
+  {
+    "review": "역시 마지막이야기가 끌렸다...지루한건 있었지만...",
+    "date": "07.07.22",
+    "rating": "7",
+    "author": "sch1****",
+    "review_id": "1800117",
+    "movie_id": "54445"
+  },
+  {
+    "review": "너무나도 섬세한 터치...",
+    "date": "07.07.14",
+    "rating": "9",
+    "author": "ghos****",
+    "review_id": "1772815",
+    "movie_id": "54445"
+  },
+  {
+    "review": "로카르노의 시각으로 보려고 노력했지만..여주인공 어색연기 넘 한다..",
+    "date": "07.07.06",
+    "rating": "2",
+    "author": "cath****",
+    "review_id": "1750256",
+    "movie_id": "54445"
+  },
+  {
+    "review": "슬프다 내 청춘은 벌써 저만큼 달아나고 있다",
+    "date": "07.07.06",
+    "rating": "7",
+    "author": "titi****",
+    "review_id": "1749925",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이 영화 참 맘에 든다.",
+    "date": "07.07.04",
+    "rating": "8",
+    "author": "2001****",
+    "review_id": "1745740",
+    "movie_id": "54445"
+  },
+  {
+    "review": "만만치않은사회?마누라도있고 애인도있어야한다",
+    "date": "07.06.06",
+    "rating": "6",
+    "author": "zzzo****",
+    "review_id": "1686590",
+    "movie_id": "54445"
+  },
+  {
+    "review": "좀 마니 어색",
+    "date": "07.05.28",
+    "rating": "5",
+    "author": "bell****",
+    "review_id": "1668934",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이런영화즘 많이만들어라 쫌",
+    "date": "07.04.22",
+    "rating": "10",
+    "author": "rhcn****",
+    "review_id": "1600709",
+    "movie_id": "54445"
+  },
+  {
+    "review": "김태우에게 5점이다",
+    "date": "07.04.10",
+    "rating": "5",
+    "author": "hisf****",
+    "review_id": "1582340",
+    "movie_id": "54445"
+  },
+  {
+    "review": "술집에서 가십거리로 남의 이야기 하듯이 나불거리는걸 들은듯한 느낌",
+    "date": "07.04.04",
+    "rating": "5",
+    "author": "hvsm****",
+    "review_id": "1571759",
+    "movie_id": "54445"
+  },
+  {
+    "review": "붙박이 리얼리티.단편영화에서 장편으로.더 나아가야 한다.",
+    "date": "07.04.01",
+    "rating": "8",
+    "author": "west****",
+    "review_id": "1565738",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이런스타일영화가좋다",
+    "date": "07.03.09",
+    "rating": "10",
+    "author": "crom****",
+    "review_id": "1525566",
+    "movie_id": "54445"
+  },
+  {
+    "review": "그리고 그 다음은?... 청춘에게 무엇을 고한 건지요?",
+    "date": "07.02.24",
+    "rating": "5",
+    "author": "un84****",
+    "review_id": "1497754",
+    "movie_id": "54445"
+  },
+  {
+    "review": "내청춘에게 고함",
+    "date": "07.02.20",
+    "rating": "10",
+    "author": "mudu****",
+    "review_id": "1488409",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이게 왜 18세? 그냥...공감가고..그러니까 재밌네요",
+    "date": "07.01.31",
+    "rating": "10",
+    "author": "cjdg****",
+    "review_id": "1429818",
+    "movie_id": "54445"
+  },
+  {
+    "review": "앞에 두 이야기연기들..정말 꽝.받아들여지지않는다",
+    "date": "07.01.30",
+    "rating": "2",
+    "author": "este****",
+    "review_id": "1428490",
+    "movie_id": "54445"
+  },
+  {
+    "review": "겉모양새는 그럴듯하지만 매력적인 접근은 아쉬운",
+    "date": "07.01.13",
+    "rating": "6",
+    "author": "erhe****",
+    "review_id": "1380662",
+    "movie_id": "54445"
+  },
+  {
+    "review": "너무 허술하다.",
+    "date": "07.01.12",
+    "rating": "7",
+    "author": "sspi****",
+    "review_id": "1376248",
+    "movie_id": "54445"
+  },
+  {
+    "review": "한마디로 생뚱맞은 긴~~단편영화.",
+    "date": "07.01.08",
+    "rating": "6",
+    "author": "tubt****",
+    "review_id": "1367719",
+    "movie_id": "54445"
+  },
+  {
+    "review": "여운이 많이 남는 영화. 설명이 지나치게 없어서 아쉽",
+    "date": "06.12.30",
+    "rating": "8",
+    "author": "soul****",
+    "review_id": "1342821",
+    "movie_id": "54445"
+  },
+  {
+    "review": "완전 재미없다..1점도 아까워",
+    "date": "06.12.27",
+    "rating": "1",
+    "author": "glor****",
+    "review_id": "1332431",
+    "movie_id": "54445"
+  },
+  {
+    "review": "영화가 지루하면 고역이고 죄야!!ㅡㅡ",
+    "date": "06.12.26",
+    "rating": "4",
+    "author": "drd1****",
+    "review_id": "1329165",
+    "movie_id": "54445"
+  },
+  {
+    "review": "뭔지 모르겠다. 나에겐 어렵다.",
+    "date": "06.12.26",
+    "rating": "6",
+    "author": "top3****",
+    "review_id": "1327936",
+    "movie_id": "54445"
+  },
+  {
+    "review": "엄마",
+    "date": "06.12.12",
+    "rating": "10",
+    "author": "beas****",
+    "review_id": "1287055",
+    "movie_id": "54445"
+  },
+  {
+    "review": "미안한데,, 잊혀지는 영화 -_-a",
+    "date": "06.12.10",
+    "rating": "5",
+    "author": "makj****",
+    "review_id": "1281918",
+    "movie_id": "54445"
+  },
+  {
+    "review": "외면하고 싶은, 고루한 청춘. 따가운 시선이 느껴진다.",
+    "date": "06.12.09",
+    "rating": "6",
+    "author": "aral****",
+    "review_id": "1279273",
+    "movie_id": "54445"
+  },
+  {
+    "review": "아 X X 내 아까운 롯데포인트. 포인트도 아깝다.",
+    "date": "06.12.04",
+    "rating": "3",
+    "author": "nvyu****",
+    "review_id": "1267171",
+    "movie_id": "54445"
+  },
+  {
+    "review": "생각하게되는영화",
+    "date": "06.12.03",
+    "rating": "9",
+    "author": "sohe****",
+    "review_id": "1265742",
+    "movie_id": "54445"
+  },
+  {
+    "review": "초반부터 압박하는 지루함은.... 참고 견디면.. 빛을보리라",
+    "date": "06.11.26",
+    "rating": "3",
+    "author": "urkn****",
+    "review_id": "1251613",
+    "movie_id": "54445"
+  },
+  {
+    "review": "흔해진 청춘의 이미지를 어설프게 낭발한다.김태우만 살아있다.",
+    "date": "06.11.25",
+    "rating": "7",
+    "author": "itpt****",
+    "review_id": "1250028",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이 영화가 어려운 영화인냥 의의를 두는 사람들이 참..연기도 참",
+    "date": "06.11.25",
+    "rating": "5",
+    "author": "gyu2****",
+    "review_id": "1249410",
+    "movie_id": "54445"
+  },
+  {
+    "review": "이게 뭐니? 이게... ㅡ ㅡ+",
+    "date": "06.11.22",
+    "rating": "1",
+    "author": "haru****",
+    "review_id": "1245566",
+    "movie_id": "54445"
+  },
+  {
+    "review": "김태우는 괜찮았어.",
+    "date": "06.11.18",
+    "rating": "8",
+    "author": "do33****",
+    "review_id": "1238896",
+    "movie_id": "54445"
+  },
+  {
+    "review": "어렵다..",
+    "date": "06.11.17",
+    "rating": "7",
+    "author": "pw12****",
+    "review_id": "1237570",
+    "movie_id": "54445"
+  },
+  {
+    "review": "회의적이야...",
+    "date": "06.11.17",
+    "rating": "8",
+    "author": "perf****",
+    "review_id": "1237551",
+    "movie_id": "54445"
+  },
+  {
+    "review": "지루하지는 않는데.. 어렵다.",
+    "date": "06.11.15",
+    "rating": "7",
+    "author": "zhin****",
+    "review_id": "1234492",
+    "movie_id": "54445"
+  },
+  {
+    "review": "1점주기도아깝다조조로봤음에도돈이 아까웟던영화..",
+    "date": "06.11.15",
+    "rating": "1",
+    "author": "tkgp****",
+    "review_id": "1233759",
+    "movie_id": "54445"
+  },
+  {
+    "review": "청춘이 이다지도 고루하단 말이냐!",
+    "date": "06.11.15",
+    "rating": "5",
+    "author": "revi****",
+    "review_id": "1233434",
+    "movie_id": "54445"
+  },
+  {
+    "review": "홍상수감독 스타일이당...젊은날은 어쩜 불우한 나날이 아닐지..",
+    "date": "06.11.14",
+    "rating": "6",
+    "author": "agaw****",
+    "review_id": "1232403",
+    "movie_id": "54445"
+  },
+  {
+    "review": "불안,불우,불쌍한 이땅에 청춘들에게 무엇인가 전해주었다면야",
+    "date": "06.11.13",
+    "rating": "7",
+    "author": "znzn****",
+    "review_id": "1231727",
+    "movie_id": "54445"
+  },
+  {
+    "review": "홍상수 감독 영화라 했으면 더 좋은 평을 받지 않았을까?",
+    "date": "06.11.13",
+    "rating": "8",
+    "author": "jals****",
+    "review_id": "1231099",
+    "movie_id": "54445"
+  },
+  {
+    "review": "지루한감은있지만괜찮았던영화.특히,마지막 이야기가 재밌었네요",
+    "date": "06.11.11",
+    "rating": "10",
+    "author": "sopu****",
+    "review_id": "1226993",
+    "movie_id": "54445"
+  },
+  {
+    "review": "정말 재밌네요^^  연기도 다들 잘하고 재밌게 봤어요",
+    "date": "06.11.11",
+    "rating": "10",
+    "author": "shar****",
+    "review_id": "1226681",
+    "movie_id": "54445"
+  },
+  {
+    "review": "뭘말하고 싶은지는 알겠는데 너무지루해,",
+    "date": "06.11.11",
+    "rating": "4",
+    "author": "shre****",
+    "review_id": "1226061",
+    "movie_id": "54445"
+  },
+  {
+    "review": "시간을가지고보면 알게된다",
+    "date": "06.11.09",
+    "rating": "10",
+    "author": "inpa****",
+    "review_id": "1224019",
+    "movie_id": "54445"
+  },
+  {
+    "review": "마지막 장면... 여운이 남네. 좋은 영화였다.",
+    "date": "06.11.07",
+    "rating": "10",
+    "author": "shoo****",
+    "review_id": "1221531",
+    "movie_id": "54445"
+  },
+  {
+    "review": "내 청춘은 어떨까? 그들과 얼마나 다른지를 생각하는 영화",
+    "date": "06.11.06",
+    "rating": "8",
+    "author": "lbhf****",
+    "review_id": "1218945",
+    "movie_id": "54445"
+  },
+  {
+    "review": "뭔가 심오한 뜻을 담고자 한 것 같긴한데..난 이런영화 질색",
+    "date": "06.11.05",
+    "rating": "1",
+    "author": "myco****",
+    "review_id": "1216642",
+    "movie_id": "54445"
+  },
+  {
+    "review": "아마추어적 과장만 제거된다면...",
+    "date": "06.11.03",
+    "rating": "8",
+    "author": "ocdg****",
+    "review_id": "1212808",
+    "movie_id": "54445"
+  },
+  {
+    "review": "아직도 기억나는 마지막 장면...후!",
+    "date": "06.11.02",
+    "rating": "8",
+    "author": "heph****",
+    "review_id": "1211502",
+    "movie_id": "54445"
+  },
+  {
+    "review": "감독의 심오한 의도... 의도는 다파악되지않았지만 괜찮았다",
+    "date": "06.11.01",
+    "rating": "10",
+    "author": "kytb****",
+    "review_id": "1210064",
+    "movie_id": "54445"
+  },
+  {
+    "review": "치밀한 현실성.. 결과적 냉소는 더 포경선을 만선한듯 하다.",
+    "date": "06.11.01",
+    "rating": "9",
+    "author": "sbee****",
+    "review_id": "1210015",
+    "movie_id": "54445"
+  },
+  {
+    "review": "끝장면 인상적.양은용,신동미 굿!김감독 이름 기억해 두겠쓰~",
+    "date": "06.11.01",
+    "rating": "8",
+    "author": "simo****",
+    "review_id": "1209702",
+    "movie_id": "54445"
+  },
+  {
+    "review": "굿굿굿 베리 굿. 인간의 속내를 드러낸 대사 멋짐",
+    "date": "06.11.01",
+    "rating": "9",
+    "author": "qlal****",
+    "review_id": "1209697",
+    "movie_id": "54445"
+  },
+  {
+    "review": "현실성에 치중 둔 영화...하지만 3번째 이야기 제외하고는 최악",
+    "date": "06.10.31",
+    "rating": "4",
+    "author": "yhjy****",
+    "review_id": "1209553",
+    "movie_id": "54445"
+  },
+  {
+    "review": "내겐, 평론을 위해 지루한 영화를 참고 봐야할 인내가 없다.",
+    "date": "06.10.31",
+    "rating": "3",
+    "author": "onch****",
+    "review_id": "1208495",
+    "movie_id": "54445"
+  },
+  {
+    "review": "견.뎌.야.만.하는 비루한 청춘.",
+    "date": "06.10.31",
+    "rating": "8",
+    "author": "book****",
+    "review_id": "1208257",
+    "movie_id": "54445"
+  },
+  {
+    "review": "일상의 터치를 옮겨놓은 공감가는 이야기.",
+    "date": "06.10.30",
+    "rating": "9",
+    "author": "toma****",
+    "review_id": "1207478",
+    "movie_id": "54445"
+  },
+  {
+    "review": "재밌네요~",
+    "date": "06.10.30",
+    "rating": "9",
+    "author": "qase****",
+    "review_id": "1207341",
+    "movie_id": "54445"
+  },
+  {
+    "review": "뭐가 연결되지? 지루하지만 뭐 이런영화도 봐죠야..",
+    "date": "06.10.30",
+    "rating": "7",
+    "author": "gree****",
+    "review_id": "1207184",
+    "movie_id": "54445"
+  }
+]

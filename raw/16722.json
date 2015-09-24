@@ -1,0 +1,34 @@
+[
+  {
+    "review": "옛날에 꽤 재미있게 봤었는데.. ^^",
+    "date": "11.07.16",
+    "rating": "8",
+    "author": "lomo****",
+    "review_id": "5546425",
+    "movie_id": "16722"
+  },
+  {
+    "review": "원조만한 짝퉁은 없다.",
+    "date": "10.10.26",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "4922980",
+    "movie_id": "16722"
+  },
+  {
+    "review": "의외의 재미가 있는 작품 그리 수준이 나쁘지도 않다",
+    "date": "07.11.02",
+    "rating": "8",
+    "author": "deff****",
+    "review_id": "2128534",
+    "movie_id": "16722"
+  },
+  {
+    "review": "터미네이터 아류작..",
+    "date": "07.06.20",
+    "rating": "6",
+    "author": "hide****",
+    "review_id": "1710749",
+    "movie_id": "16722"
+  }
+]

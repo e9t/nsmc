@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9478245",
+    "movie_id": "123537",
+    "author": "inst****",
+    "review": "사랑한다. 사랑하지 않는다. 다시 사랑한다",
+    "rating": "10",
+    "date": "14.12.16"
+  },
+  {
+    "review_id": "9257770",
+    "movie_id": "123537",
+    "author": "setm****",
+    "review": "사랑하기에 보냈고 사랑했기에 다시 품는다",
+    "rating": "9",
+    "date": "14.10.03"
+  },
+  {
+    "review_id": "9249097",
+    "movie_id": "123537",
+    "author": "naks****",
+    "review": "오 이거 꼭 보고싶엉?ㄷ",
+    "rating": "10",
+    "date": "14.09.29"
+  },
+  {
+    "review_id": "9210429",
+    "movie_id": "123537",
+    "author": "tim6****",
+    "review": "뭐냐 이거 뭐야  뭐야뭐야",
+    "rating": "1",
+    "date": "14.09.13"
+  },
+  {
+    "review_id": "9207059",
+    "movie_id": "123537",
+    "author": "euny****",
+    "review": "대박이다 이건 완전 쩌는데?",
+    "rating": "10",
+    "date": "14.09.12"
+  }
+]

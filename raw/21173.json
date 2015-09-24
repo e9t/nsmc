@@ -1,0 +1,26 @@
+[
+  {
+    "review": "오.. 34년이나 흘렀네..",
+    "date": "14.02.18",
+    "rating": "10",
+    "author": "chas****",
+    "review_id": "8519373",
+    "movie_id": "21173"
+  },
+  {
+    "review": "오.. 25년이나 흘렀네..",
+    "date": "05.12.25",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "528747",
+    "movie_id": "21173"
+  },
+  {
+    "review": "홍콩익스프레스의 원작.. 이게 좀 더 나을듯",
+    "date": "05.04.09",
+    "rating": "8",
+    "author": "hiss****",
+    "review_id": "256848",
+    "movie_id": "21173"
+  }
+]

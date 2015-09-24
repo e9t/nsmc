@@ -1,0 +1,42 @@
+[
+  {
+    "review": "어릴때 재미있게 보았는데 옛날 생각나네",
+    "date": "14.08.22",
+    "rating": "7",
+    "author": "adiv****",
+    "review_id": "9121074",
+    "movie_id": "21905"
+  },
+  {
+    "review": "캐스팅 봐라,지금 보니 대박이네",
+    "date": "11.05.13",
+    "rating": "10",
+    "author": "dkas****",
+    "review_id": "5424863",
+    "movie_id": "21905"
+  },
+  {
+    "review": "최고의 하이틴스타들이 집합!!",
+    "date": "05.12.23",
+    "rating": "9",
+    "author": "blue****",
+    "review_id": "522124",
+    "movie_id": "21905"
+  },
+  {
+    "review": "아름다운 시절신고",
+    "date": "05.01.12",
+    "rating": "10",
+    "author": "kyun****",
+    "review_id": "183454",
+    "movie_id": "21905"
+  },
+  {
+    "review": "박중훈 멋이있다!",
+    "date": "04.12.26",
+    "rating": "10",
+    "author": "cine****",
+    "review_id": "169781",
+    "movie_id": "21905"
+  }
+]

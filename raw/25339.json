@@ -1,0 +1,802 @@
+[
+  {
+    "review": "평점조절. 한 8점 정도.",
+    "date": "15.07.14",
+    "rating": "10",
+    "author": "lsh5****",
+    "review_id": "10103409",
+    "movie_id": "25339"
+  },
+  {
+    "review": "이게 왜 평점이 낮지? 이거 진짜 핵꿀잼인데",
+    "date": "15.05.11",
+    "rating": "10",
+    "author": "dksw****",
+    "review_id": "9911723",
+    "movie_id": "25339"
+  },
+  {
+    "review": "주제가가 익숙하네 놓쳤던 영화 찾아보는 재미",
+    "date": "15.04.09",
+    "rating": "7",
+    "author": "pass****",
+    "review_id": "9836829",
+    "movie_id": "25339"
+  },
+  {
+    "review": "서부극에 다양한 장르를 혼합시킨 퓨젼요리가 맛 더럽게 없는 짬뽕일 줄이야",
+    "date": "15.03.22",
+    "rating": "4",
+    "author": "rcan****",
+    "review_id": "9800455",
+    "movie_id": "25339"
+  },
+  {
+    "review": "타임지 선정 최악의 여름 블록버스터 영화 10위. 2억불이 넘는 제작비로 거하게 말아드신 영화. 하지만 여전히 매니아들이 지지하는 영화이며 서부물을 좋아한다면 아마 재밌고 신선하게 볼 수 있을 듯.",
+    "date": "15.01.16",
+    "rating": "6",
+    "author": "uhpj****",
+    "review_id": "9599791",
+    "movie_id": "25339"
+  },
+  {
+    "review": "6점.. 납득할수없는 평점이다 적어도 8점대는 될줄 알았는데",
+    "date": "14.12.07",
+    "rating": "10",
+    "author": "jkyo****",
+    "review_id": "9456649",
+    "movie_id": "25339"
+  },
+  {
+    "review": "전무후무했던 할리우드산 본격 스팀펑크. 기계의 구현도 좋고 이야기의 방향도 좋았는데, 문제는 온통 장난하는 듯한 쭉정이보다 더 가벼운 영화의 무게감이다.",
+    "date": "14.11.17",
+    "rating": "6",
+    "author": "cksn****",
+    "review_id": "9395871",
+    "movie_id": "25339"
+  },
+  {
+    "review": "꿀잼인데, ㅋㅋㅋㅋ..",
+    "date": "14.10.18",
+    "rating": "10",
+    "author": "ogok****",
+    "review_id": "9299787",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재미로만 보면 만점..",
+    "date": "14.09.20",
+    "rating": "1",
+    "author": "mool****",
+    "review_id": "9229057",
+    "movie_id": "25339"
+  },
+  {
+    "review": "걍 잼있음 이유를 모르겠네",
+    "date": "14.07.03",
+    "rating": "10",
+    "author": "bear****",
+    "review_id": "8879758",
+    "movie_id": "25339"
+  },
+  {
+    "review": "솔직히 6점대는 아니지않나???",
+    "date": "14.05.11",
+    "rating": "10",
+    "author": "ske4****",
+    "review_id": "8722854",
+    "movie_id": "25339"
+  },
+  {
+    "review": "스팀펑크장르에 로봇이 등장한다고 혹평한다는건 트렌스포머에 로봇이 나온다고  따지는것만큼 멍청한소리다. 이 영화는 감독이 스팀펑크가 무엇인지 대중에게 보여준 영화라고 본다.",
+    "date": "14.04.07",
+    "rating": "10",
+    "author": "byeo****",
+    "review_id": "8634146",
+    "movie_id": "25339"
+  },
+  {
+    "review": "배우는 좋았다. 하지만 스토리가 쓰레기다 싶을 정도다. 서부시대에 로봇에다 전투형 가대 거미라니... 진짜 개망작이다...",
+    "date": "14.04.06",
+    "rating": "1",
+    "author": "hang****",
+    "review_id": "8632368",
+    "movie_id": "25339"
+  },
+  {
+    "review": "최고의 배우와 코믹적인 요소 기발함 다 갖췃다",
+    "date": "14.03.01",
+    "rating": "10",
+    "author": "funn****",
+    "review_id": "8549315",
+    "movie_id": "25339"
+  },
+  {
+    "review": "꼭 보고싶은영화인데 dvd 판매도 하나 모르겠네요",
+    "date": "14.02.16",
+    "rating": "10",
+    "author": "gyul****",
+    "review_id": "8512323",
+    "movie_id": "25339"
+  },
+  {
+    "review": "영화 장르만 봐도 오묘함. 실질적 내용도 99년 개봉작 치고는 좀...",
+    "date": "14.01.23",
+    "rating": "4",
+    "author": "jjaj****",
+    "review_id": "8416752",
+    "movie_id": "25339"
+  },
+  {
+    "review": "윌 스미스가 힘겨워 보였다",
+    "date": "13.09.15",
+    "rating": "6",
+    "author": "soqu****",
+    "review_id": "7982041",
+    "movie_id": "25339"
+  },
+  {
+    "review": "8점",
+    "date": "13.05.18",
+    "rating": "8",
+    "author": "klei****",
+    "review_id": "7537278",
+    "movie_id": "25339"
+  },
+  {
+    "review": "괜찮은데..평점 왜 낮은지 모르겠다. 괜찮은 오락 영화.",
+    "date": "12.11.23",
+    "rating": "8",
+    "author": "bull****",
+    "review_id": "6917381",
+    "movie_id": "25339"
+  },
+  {
+    "review": "pree//99년도 영화를 극장에서 혼자 봤다고?? 그땐 몇살이었냐?ㅋㅋㅋㅋㅋ",
+    "date": "12.10.08",
+    "rating": "7",
+    "author": "mink****",
+    "review_id": "6774788",
+    "movie_id": "25339"
+  },
+  {
+    "review": "어렸을때 봐서 그런가 재밌게 봤었는데 평점 너무 낮네 킬링타임용으로 나쁘지않았던거같은데",
+    "date": "12.07.26",
+    "rating": "8",
+    "author": "orop****",
+    "review_id": "6537231",
+    "movie_id": "25339"
+  },
+  {
+    "review": "이건 뭐, 감동도 없고, 유머도 희박하고, 감흥도 적고. 뭐에 매력을 느끼란 건가?",
+    "date": "12.05.11",
+    "rating": "3",
+    "author": "brot****",
+    "review_id": "6290401",
+    "movie_id": "25339"
+  },
+  {
+    "review": "거미 로봇이 압권이네",
+    "date": "12.02.11",
+    "rating": "5",
+    "author": "kos4****",
+    "review_id": "6067151",
+    "movie_id": "25339"
+  },
+  {
+    "review": "난 왜 재밋지",
+    "date": "12.02.07",
+    "rating": "8",
+    "author": "sala****",
+    "review_id": "6059195",
+    "movie_id": "25339"
+  },
+  {
+    "review": "눈요기 하며 시간 보내기에 충분하다",
+    "date": "12.01.11",
+    "rating": "7",
+    "author": "kimg****",
+    "review_id": "5977808",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재밌다고",
+    "date": "11.10.29",
+    "rating": "10",
+    "author": "kdgk****",
+    "review_id": "5817418",
+    "movie_id": "25339"
+  },
+  {
+    "review": "쫌 별점좀 잘주길",
+    "date": "11.10.29",
+    "rating": "10",
+    "author": "kdg0****",
+    "review_id": "5817414",
+    "movie_id": "25339"
+  },
+  {
+    "review": "서부와 SF를 좀 섞고 코메디를 듬뿍 담다. 하지만 도식화된 전개는 약하다",
+    "date": "11.09.20",
+    "rating": "5",
+    "author": "reno****",
+    "review_id": "5742941",
+    "movie_id": "25339"
+  },
+  {
+    "review": "난 암만봐도 재미있던데.... 내가 이상한건가;; 만화책임 이건",
+    "date": "11.08.17",
+    "rating": "7",
+    "author": "djfi****",
+    "review_id": "5661184",
+    "movie_id": "25339"
+  },
+  {
+    "review": "노래가 좋아좋아",
+    "date": "11.08.16",
+    "rating": "10",
+    "author": "whgm****",
+    "review_id": "5658342",
+    "movie_id": "25339"
+  },
+  {
+    "review": "감독이 이 수준이었던가?",
+    "date": "11.07.17",
+    "rating": "1",
+    "author": "pria****",
+    "review_id": "5551586",
+    "movie_id": "25339"
+  },
+  {
+    "review": "돈을 어디에 쓴거야.",
+    "date": "11.07.17",
+    "rating": "3",
+    "author": "tori****",
+    "review_id": "5550782",
+    "movie_id": "25339"
+  },
+  {
+    "review": "내게는 의미있는 추억의 영화라 10점!!!",
+    "date": "11.07.04",
+    "rating": "10",
+    "author": "elha****",
+    "review_id": "5522590",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재미가 없는건 아닌데 어디가 재밌는지도 모르겠더라",
+    "date": "11.06.23",
+    "rating": "6",
+    "author": "seed****",
+    "review_id": "5494656",
+    "movie_id": "25339"
+  },
+  {
+    "review": "당시엔 참신했음.ㅋ",
+    "date": "11.03.11",
+    "rating": "10",
+    "author": "orin****",
+    "review_id": "5305249",
+    "movie_id": "25339"
+  },
+  {
+    "review": "뭔가좀 어정쩡하다.",
+    "date": "11.02.28",
+    "rating": "7",
+    "author": "pis6****",
+    "review_id": "5284711",
+    "movie_id": "25339"
+  },
+  {
+    "review": "꽤 재밌음",
+    "date": "11.01.18",
+    "rating": "10",
+    "author": "giho****",
+    "review_id": "5166962",
+    "movie_id": "25339"
+  },
+  {
+    "review": "극장에서 혼자 본 영화. 우리나라 정서엔 좀 안맞았다.",
+    "date": "11.01.17",
+    "rating": "7",
+    "author": "pree****",
+    "review_id": "5164379",
+    "movie_id": "25339"
+  },
+  {
+    "review": "정말 뜬금없다.",
+    "date": "10.11.04",
+    "rating": "4",
+    "author": "inos****",
+    "review_id": "4938874",
+    "movie_id": "25339"
+  },
+  {
+    "review": "솔직히 얻은 교훈은 없으나 정말 재미있게 본 영화!",
+    "date": "10.10.01",
+    "rating": "10",
+    "author": "ukyu****",
+    "review_id": "4878761",
+    "movie_id": "25339"
+  },
+  {
+    "review": "판타지와 서부활극 결합하는 실험적인 시도는 훌륭!!",
+    "date": "10.09.25",
+    "rating": "6",
+    "author": "yaky****",
+    "review_id": "4867964",
+    "movie_id": "25339"
+  },
+  {
+    "review": "윌스미스가나온영화중가장재미없다/....",
+    "date": "10.07.21",
+    "rating": "1",
+    "author": "qwea****",
+    "review_id": "4658519",
+    "movie_id": "25339"
+  },
+  {
+    "review": "눈이 즐거우면서 무난히 시원시원 볼 수 있었던^^",
+    "date": "10.03.15",
+    "rating": "8",
+    "author": "ydh3****",
+    "review_id": "4360486",
+    "movie_id": "25339"
+  },
+  {
+    "review": "뭐지...",
+    "date": "10.03.14",
+    "rating": "3",
+    "author": "drd1****",
+    "review_id": "4355989",
+    "movie_id": "25339"
+  },
+  {
+    "review": "이건 좀 아니지 싶은데..",
+    "date": "10.01.08",
+    "rating": "5",
+    "author": "mans****",
+    "review_id": "4146146",
+    "movie_id": "25339"
+  },
+  {
+    "review": "이만하면 충분하지 않은가? 뭘 더 바래",
+    "date": "09.12.18",
+    "rating": "10",
+    "author": "eml6****",
+    "review_id": "4053889",
+    "movie_id": "25339"
+  },
+  {
+    "review": "특수효과도 상당히 괜춘하고 재밌게 봤는데 평가는 최악이네",
+    "date": "09.10.08",
+    "rating": "7",
+    "author": "expr****",
+    "review_id": "3879985",
+    "movie_id": "25339"
+  },
+  {
+    "review": "유쾌, 상쾌, 통쾌~",
+    "date": "09.09.30",
+    "rating": "8",
+    "author": "lord****",
+    "review_id": "3861832",
+    "movie_id": "25339"
+  },
+  {
+    "review": "빈약한 개그적 요소를 19세기라는 시대적 배경에 대입한 형평없는 코미디 서부극",
+    "date": "09.09.29",
+    "rating": "1",
+    "author": "dg_d****",
+    "review_id": "3860397",
+    "movie_id": "25339"
+  },
+  {
+    "review": "매트릭스 주연자리를 걷어차고 이 작품을 택한걸 굉장히 후회스러워한 윌스미스 형...",
+    "date": "09.08.30",
+    "rating": "4",
+    "author": "in3p****",
+    "review_id": "3798457",
+    "movie_id": "25339"
+  },
+  {
+    "review": "영화배경을 서부개척시대 미국으로 잡은건 큰잘못. 차라리 먼 미래로 잡지...",
+    "date": "09.08.12",
+    "rating": "3",
+    "author": "soo_****",
+    "review_id": "3740891",
+    "movie_id": "25339"
+  },
+  {
+    "review": "지금스토리온에서해주는데!윌스미스너무좋은데 ㅋㅋㅋ",
+    "date": "09.08.12",
+    "rating": "10",
+    "author": "7390****",
+    "review_id": "3740752",
+    "movie_id": "25339"
+  },
+  {
+    "review": "놈놈놈이 훨 재밌다 -_-",
+    "date": "09.01.26",
+    "rating": "3",
+    "author": "n869****",
+    "review_id": "3251669",
+    "movie_id": "25339"
+  },
+  {
+    "review": "난 재밌게 봤는데 평점 왜 이리 낫은거지?",
+    "date": "08.11.21",
+    "rating": "9",
+    "author": "tltl****",
+    "review_id": "3063080",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재밌지 않았나? 물론 내용 말고 윌스미스가...",
+    "date": "08.10.16",
+    "rating": "7",
+    "author": "jiyu****",
+    "review_id": "3002108",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재미있는 상상력이 만들어낸 재미없는 이야기",
+    "date": "08.07.21",
+    "rating": "4",
+    "author": "lshs****",
+    "review_id": "2787277",
+    "movie_id": "25339"
+  },
+  {
+    "review": "역시 윌스미스식 코믹은 어디에 붙여도 통하지만 스토리가 약해서...7점",
+    "date": "08.07.10",
+    "rating": "7",
+    "author": "slal****",
+    "review_id": "2752480",
+    "movie_id": "25339"
+  },
+  {
+    "review": "역시나 나오는 윌스미스의 센스플레이",
+    "date": "08.06.29",
+    "rating": "10",
+    "author": "wsni****",
+    "review_id": "2727640",
+    "movie_id": "25339"
+  },
+  {
+    "review": "이만한 오락영화 보기는 오랜만인데....",
+    "date": "08.05.23",
+    "rating": "10",
+    "author": "yul3****",
+    "review_id": "2658369",
+    "movie_id": "25339"
+  },
+  {
+    "review": "코믹에 액션까지 ㅋㅋㅋ 잼잇어요~~",
+    "date": "08.05.09",
+    "rating": "8",
+    "author": "bchn****",
+    "review_id": "2627245",
+    "movie_id": "25339"
+  },
+  {
+    "review": "ㅋㅋㅋ내내 ㅋㅋㅋ 이러면서 본 영화~ 정말 유쾌함!",
+    "date": "08.04.19",
+    "rating": "10",
+    "author": "farf****",
+    "review_id": "2588881",
+    "movie_id": "25339"
+  },
+  {
+    "review": "상당히 유쾌한 SF 서부액션물",
+    "date": "08.04.05",
+    "rating": "7",
+    "author": "uds0****",
+    "review_id": "2559266",
+    "movie_id": "25339"
+  },
+  {
+    "review": "난 이거 존내 재밌던데 ㅋㅋㅋ 평점이 왜이래",
+    "date": "08.03.21",
+    "rating": "10",
+    "author": "qkrw****",
+    "review_id": "2532069",
+    "movie_id": "25339"
+  },
+  {
+    "review": "맨인블랙을 서부에다 옮겨놓은 조잡한 영화",
+    "date": "08.02.23",
+    "rating": "5",
+    "author": "baye****",
+    "review_id": "2473936",
+    "movie_id": "25339"
+  },
+  {
+    "review": "미국에서는 대박을친 영화지만 정작한국에서는....",
+    "date": "07.12.26",
+    "rating": "10",
+    "author": "heyy****",
+    "review_id": "2267650",
+    "movie_id": "25339"
+  },
+  {
+    "review": "소넨필드와 윌 스미스의 첫 만남은 성공. 두번째 만남은 흐지부지",
+    "date": "07.11.22",
+    "rating": "4",
+    "author": "paci****",
+    "review_id": "2172745",
+    "movie_id": "25339"
+  },
+  {
+    "review": "그냥 킬링타임용이지뭐",
+    "date": "07.11.11",
+    "rating": "6",
+    "author": "pksj****",
+    "review_id": "2145298",
+    "movie_id": "25339"
+  },
+  {
+    "review": "풍요속의 빈곤.. 화려함속에 텅빈 이야기...",
+    "date": "07.10.26",
+    "rating": "6",
+    "author": "sinb****",
+    "review_id": "2111986",
+    "movie_id": "25339"
+  },
+  {
+    "review": "이정도면 꽤 잼는데?평점이 넘 낮다",
+    "date": "07.10.14",
+    "rating": "10",
+    "author": "dhwk****",
+    "review_id": "2089096",
+    "movie_id": "25339"
+  },
+  {
+    "review": "제국의 역습 AT-AT의 서부 개조판? 케네스의 연기 변신이 놀라워~",
+    "date": "07.10.09",
+    "rating": "4",
+    "author": "sykm****",
+    "review_id": "2079882",
+    "movie_id": "25339"
+  },
+  {
+    "review": "스토리에 너무 집착하지 않는다면 오락영화로선 충분하다.",
+    "date": "07.10.04",
+    "rating": "9",
+    "author": "cjst****",
+    "review_id": "2070101",
+    "movie_id": "25339"
+  },
+  {
+    "review": "나는 진짜재미잇게봤는데...",
+    "date": "07.09.23",
+    "rating": "10",
+    "author": "aqzz****",
+    "review_id": "2040638",
+    "movie_id": "25339"
+  },
+  {
+    "review": "흥미성, 주의성 나름 합격점.",
+    "date": "07.09.16",
+    "rating": "7",
+    "author": "zzaz****",
+    "review_id": "2023531",
+    "movie_id": "25339"
+  },
+  {
+    "review": "영화는 그저그랬지만 음악은 정말좋았지.ㅎ재미는 적어도 한8점대는된다",
+    "date": "07.09.11",
+    "rating": "9",
+    "author": "1pim****",
+    "review_id": "2013912",
+    "movie_id": "25339"
+  },
+  {
+    "review": "윌 스미스의 연기력 덕분에 7점",
+    "date": "07.08.19",
+    "rating": "7",
+    "author": "v292****",
+    "review_id": "1959779",
+    "movie_id": "25339"
+  },
+  {
+    "review": "케빈 클라인, 왜!!",
+    "date": "07.08.10",
+    "rating": "6",
+    "author": "k_yo****",
+    "review_id": "1915452",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재밌는 요소가 상당히 많았다...볼만햇어..",
+    "date": "07.08.08",
+    "rating": "8",
+    "author": "typo****",
+    "review_id": "1901688",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재밋던데 중반부터봐서그런가 -ㅁ- .. 평점왜이따구지",
+    "date": "07.08.07",
+    "rating": "9",
+    "author": "sksi****",
+    "review_id": "1898081",
+    "movie_id": "25339"
+  },
+  {
+    "review": "이 졸작 한편으로 베리가 한동안 주류영화를 못찍었다.",
+    "date": "07.08.05",
+    "rating": "1",
+    "author": "jero****",
+    "review_id": "1881887",
+    "movie_id": "25339"
+  },
+  {
+    "review": "잼있는데 ㅋㅋ",
+    "date": "07.07.28",
+    "rating": "10",
+    "author": "dlru****",
+    "review_id": "1820429",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재밋구만 왠 난리",
+    "date": "07.07.27",
+    "rating": "10",
+    "author": "rudc****",
+    "review_id": "1815550",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재미있던데 밑에 왜 ㅈㄹ들인지...",
+    "date": "07.07.23",
+    "rating": "10",
+    "author": "qkr2****",
+    "review_id": "1803112",
+    "movie_id": "25339"
+  },
+  {
+    "review": "OOO~~",
+    "date": "07.07.19",
+    "rating": "1",
+    "author": "herr****",
+    "review_id": "1791396",
+    "movie_id": "25339"
+  },
+  {
+    "review": "극장에서 관객들 모두 \"이게 뭐야\" 라며 실망했던 최악의 졸작.OST만 좋았던 작품",
+    "date": "07.07.17",
+    "rating": "5",
+    "author": "lsh1****",
+    "review_id": "1784496",
+    "movie_id": "25339"
+  },
+  {
+    "review": "이런 젠장 온갖 쌍욕 다 나오게 일본애니 몰다이버를 표절하고 있다",
+    "date": "07.07.17",
+    "rating": "1",
+    "author": "baks****",
+    "review_id": "1783547",
+    "movie_id": "25339"
+  },
+  {
+    "review": "우리가 보는 서양을 표현했음",
+    "date": "07.07.16",
+    "rating": "10",
+    "author": "yeoh****",
+    "review_id": "1781811",
+    "movie_id": "25339"
+  },
+  {
+    "review": "창조적이고 감각적인 감독의 생각이 보인다..반가운 케빈 클라인의 연기..",
+    "date": "07.06.26",
+    "rating": "8",
+    "author": "skat****",
+    "review_id": "1722933",
+    "movie_id": "25339"
+  },
+  {
+    "review": "부르스 나오는 허드슨 호크랑 비슷한 필을 받음",
+    "date": "07.06.22",
+    "rating": "8",
+    "author": "seun****",
+    "review_id": "1714928",
+    "movie_id": "25339"
+  },
+  {
+    "review": "재밌음. 민섭아 이거 1점줬었지?",
+    "date": "07.06.09",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "1692919",
+    "movie_id": "25339"
+  },
+  {
+    "review": "서부를 소재로 한 SF 낯설기는 하지만 볼만한 작품임",
+    "date": "07.05.26",
+    "rating": "7",
+    "author": "deff****",
+    "review_id": "1662712",
+    "movie_id": "25339"
+  },
+  {
+    "review": "나름데로 볼만한...",
+    "date": "07.05.23",
+    "rating": "6",
+    "author": "qeof****",
+    "review_id": "1652023",
+    "movie_id": "25339"
+  },
+  {
+    "review": "난 나름 재미있었다,ㅋ",
+    "date": "07.04.25",
+    "rating": "9",
+    "author": "kbr5****",
+    "review_id": "1605423",
+    "movie_id": "25339"
+  },
+  {
+    "review": "코미디 서부 액션 SF 영화!! 특수 기관차만 볼만함ㅋ",
+    "date": "07.02.20",
+    "rating": "6",
+    "author": "nohy****",
+    "review_id": "1488493",
+    "movie_id": "25339"
+  },
+  {
+    "review": "그냥 그랬음",
+    "date": "07.02.12",
+    "rating": "5",
+    "author": "robi****",
+    "review_id": "1465442",
+    "movie_id": "25339"
+  },
+  {
+    "review": "굿굿. 처음엔 지루하지만 끝부분 갈수록 재미있다.",
+    "date": "07.02.04",
+    "rating": "8",
+    "author": "jse1****",
+    "review_id": "1443900",
+    "movie_id": "25339"
+  },
+  {
+    "review": "난 잘 봤는데..윌스미스~!!",
+    "date": "07.01.29",
+    "rating": "9",
+    "author": "cjsd****",
+    "review_id": "1424229",
+    "movie_id": "25339"
+  },
+  {
+    "review": "내용이 없냐.. 최악이였음 -_-",
+    "date": "07.01.27",
+    "rating": "2",
+    "author": "gree****",
+    "review_id": "1417181",
+    "movie_id": "25339"
+  },
+  {
+    "review": "ㅋㅋ 월스미스때메",
+    "date": "07.01.24",
+    "rating": "8",
+    "author": "kanj****",
+    "review_id": "1411402",
+    "movie_id": "25339"
+  },
+  {
+    "review": "뭐냐 이 영환;;",
+    "date": "07.01.09",
+    "rating": "1",
+    "author": "ppp0****",
+    "review_id": "1369493",
+    "movie_id": "25339"
+  },
+  {
+    "review": "돈만 쏟아부었다고 대작이되나",
+    "date": "07.01.07",
+    "rating": "1",
+    "author": "nala****",
+    "review_id": "1363979",
+    "movie_id": "25339"
+  }
+]

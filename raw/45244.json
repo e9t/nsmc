@@ -1,0 +1,34 @@
+[
+  {
+    "review": "보고 싶은데 어디로 가야 볼수있나요??",
+    "date": "14.11.30",
+    "rating": "8",
+    "author": "worl****",
+    "review_id": "9434371",
+    "movie_id": "45244"
+  },
+  {
+    "review": "tv 전기세가 진심으로 아까웠다!!!",
+    "date": "14.08.24",
+    "rating": "1",
+    "author": "ske4****",
+    "review_id": "9128552",
+    "movie_id": "45244"
+  },
+  {
+    "review": "ㄴㄴ",
+    "date": "13.07.10",
+    "rating": "10",
+    "author": "dhap****",
+    "review_id": "7723299",
+    "movie_id": "45244"
+  },
+  {
+    "review": "...?",
+    "date": "13.06.08",
+    "rating": "1",
+    "author": "wkdt****",
+    "review_id": "7608135",
+    "movie_id": "45244"
+  }
+]

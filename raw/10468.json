@@ -1,0 +1,82 @@
+[
+  {
+    "review": "옛날에 보지못해서 너무 아쉬워요 지금은 다운로드 서비스 안되고 너무 우울해요",
+    "date": "14.12.31",
+    "rating": "10",
+    "author": "kwac****",
+    "review_id": "9542352",
+    "movie_id": "10468"
+  },
+  {
+    "review": "어릴적 명절때면 언제나 보고 감동.",
+    "date": "06.12.17",
+    "rating": "10",
+    "author": "cher****",
+    "review_id": "1300036",
+    "movie_id": "10468"
+  },
+  {
+    "review": "이대근씨 만으로도",
+    "date": "06.12.12",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "1286215",
+    "movie_id": "10468"
+  },
+  {
+    "review": "이런영화도 있었네. 이대근씨 주연이니깐 10점",
+    "date": "06.01.18",
+    "rating": "10",
+    "author": "khor****",
+    "review_id": "598021",
+    "movie_id": "10468"
+  },
+  {
+    "review": "연산군의 해학을 잘 드러낸 이야기를 영화화한 것",
+    "date": "06.01.17",
+    "rating": "10",
+    "author": "lees****",
+    "review_id": "595480",
+    "movie_id": "10468"
+  },
+  {
+    "review": "이정도면 훌륭한거 아닌가요",
+    "date": "06.01.17",
+    "rating": "10",
+    "author": "hong****",
+    "review_id": "595479",
+    "movie_id": "10468"
+  },
+  {
+    "review": "아버님새대 후르노비됴.",
+    "date": "06.01.16",
+    "rating": "10",
+    "author": "qazz****",
+    "review_id": "593080",
+    "movie_id": "10468"
+  },
+  {
+    "review": "그리 좋지만은 않은듯..",
+    "date": "06.01.03",
+    "rating": "6",
+    "author": "dmst****",
+    "review_id": "555906",
+    "movie_id": "10468"
+  },
+  {
+    "review": "조연들덕분에 많이 웃었어요 ㅎㅎ 재미있었습니다",
+    "date": "05.12.28",
+    "rating": "10",
+    "author": "fjqm****",
+    "review_id": "535076",
+    "movie_id": "10468"
+  },
+  {
+    "review": "반가운 얼굴들 많이 보이네요",
+    "date": "05.12.28",
+    "rating": "10",
+    "author": "xero****",
+    "review_id": "534796",
+    "movie_id": "10468"
+  }
+]

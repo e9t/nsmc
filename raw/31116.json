@@ -1,0 +1,522 @@
+[
+  {
+    "review": "별로 였는데 평이 높네??? 너무 산만해서 넋놓고 봤는데...",
+    "date": "15.07.27",
+    "rating": "10",
+    "author": "3226****",
+    "review_id": "10150239",
+    "movie_id": "31116"
+  },
+  {
+    "review": "내가본영화다 그냥 잼나다",
+    "date": "15.07.17",
+    "rating": "10",
+    "author": "2328****",
+    "review_id": "10112938",
+    "movie_id": "31116"
+  },
+  {
+    "review": "명불허전 서극의 숨은  명작",
+    "date": "15.07.13",
+    "rating": "10",
+    "author": "max7****",
+    "review_id": "10101918",
+    "movie_id": "31116"
+  },
+  {
+    "review": "이게....머지...;;;머지...;;",
+    "date": "15.02.15",
+    "rating": "6",
+    "author": "do11****",
+    "review_id": "9698787",
+    "movie_id": "31116"
+  },
+  {
+    "review": "2000년 제작임을 감안하면 시대를 앞선 촬영과 액션구성.이후 무수한 작품에 영향끼침. 아파트액션은 대단하다!",
+    "date": "14.12.28",
+    "rating": "10",
+    "author": "pano****",
+    "review_id": "9527436",
+    "movie_id": "31116"
+  },
+  {
+    "review": "다시 봐도 역시 명작이다.",
+    "date": "14.04.30",
+    "rating": "8",
+    "author": "band****",
+    "review_id": "8683690",
+    "movie_id": "31116"
+  },
+  {
+    "review": "본지 10년이 넘었지만 아직까지 기억에 남아 있는 영화..칼과 함께 서극이 만든 명작중 하나,.,,",
+    "date": "14.04.07",
+    "rating": "9",
+    "author": "icet****",
+    "review_id": "8634856",
+    "movie_id": "31116"
+  },
+  {
+    "review": "어느날 갑자기 용자가 되거나 악인이 되는 자는 없다.",
+    "date": "12.10.06",
+    "rating": "4",
+    "author": "kos4****",
+    "review_id": "6765925",
+    "movie_id": "31116"
+  },
+  {
+    "review": "첫 감상. 생경하다. 한마디로 '이게 뭐지?'",
+    "date": "12.08.01",
+    "rating": "6",
+    "author": "cube****",
+    "review_id": "6561391",
+    "movie_id": "31116"
+  },
+  {
+    "review": "필요없는 내용까지 들어가서 뜬금없이 전개되는 이야기에 당혹스러웠지만 액션은 참신",
+    "date": "12.06.21",
+    "rating": "8",
+    "author": "hwae****",
+    "review_id": "6406255",
+    "movie_id": "31116"
+  },
+  {
+    "review": "액션은 본 씨리즈 수준, 부실한 배경음악과 이펙트 사운드가 아쉽고, 좀 산만함.",
+    "date": "12.02.28",
+    "rating": "7",
+    "author": "smh0****",
+    "review_id": "6110421",
+    "movie_id": "31116"
+  },
+  {
+    "review": "서극의 날샌 스타일은 여전하다",
+    "date": "12.02.22",
+    "rating": "9",
+    "author": "skyb****",
+    "review_id": "6095614",
+    "movie_id": "31116"
+  },
+  {
+    "review": "정신없고 산만하다 무슨 내용인지...지루한 액션영화",
+    "date": "12.02.04",
+    "rating": "3",
+    "author": "kbn7****",
+    "review_id": "6052314",
+    "movie_id": "31116"
+  },
+  {
+    "review": "이건 뭐 코믹이야 뭐야 도대체 정체가...",
+    "date": "11.11.26",
+    "rating": "1",
+    "author": "dbzh****",
+    "review_id": "5871810",
+    "movie_id": "31116"
+  },
+  {
+    "review": "장백을 중심으로 펼쳐지는 액션은 여타 미진함을 상쇄한다",
+    "date": "11.11.07",
+    "rating": "9",
+    "author": "czsu****",
+    "review_id": "5834078",
+    "movie_id": "31116"
+  },
+  {
+    "review": "너무 산만하다. 날라다니는 것 빼곤 볼게 없음.",
+    "date": "11.03.03",
+    "rating": "6",
+    "author": "hard****",
+    "review_id": "5290651",
+    "movie_id": "31116"
+  },
+  {
+    "review": "액션씬만큼은 최고인 영화..... 정말 스타일리쉬한 액션",
+    "date": "10.07.28",
+    "rating": "10",
+    "author": "mcjj****",
+    "review_id": "4678692",
+    "movie_id": "31116"
+  },
+  {
+    "review": "아주오래전에 우연히본영화인데 너무재밌었어요 넘멋져..",
+    "date": "09.10.01",
+    "rating": "10",
+    "author": "infl****",
+    "review_id": "3864913",
+    "movie_id": "31116"
+  },
+  {
+    "review": "이야기의 유기성은 떨어지지만 마지막은 인상적이다",
+    "date": "09.08.18",
+    "rating": "5",
+    "author": "evil****",
+    "review_id": "3762244",
+    "movie_id": "31116"
+  },
+  {
+    "review": "개명작",
+    "date": "09.04.15",
+    "rating": "10",
+    "author": "meta****",
+    "review_id": "3423387",
+    "movie_id": "31116"
+  },
+  {
+    "review": "홍콩영화에 대한 선입견이 없다면 정말 재미있게 볼 수 있는 멋진 액션영화~!!!",
+    "date": "09.03.23",
+    "rating": "8",
+    "author": "kuke****",
+    "review_id": "3382118",
+    "movie_id": "31116"
+  },
+  {
+    "review": "액션이긴박감넘치고스릴있으며사실감까지있다.서극이뭔가보여주었다.",
+    "date": "08.12.12",
+    "rating": "10",
+    "author": "yons****",
+    "review_id": "3109123",
+    "movie_id": "31116"
+  },
+  {
+    "review": "희망고문의 최고봉,서극. 이래서 망가진 영화를 들고 나와도 또 다시 기대 하게된다.",
+    "date": "08.10.27",
+    "rating": "10",
+    "author": "clcl****",
+    "review_id": "3022711",
+    "movie_id": "31116"
+  },
+  {
+    "review": "정말 최고의 영화 아파트에서의 액션신은 정말 최고인거 같다..정말 굿",
+    "date": "08.09.04",
+    "rating": "10",
+    "author": "blac****",
+    "review_id": "2921282",
+    "movie_id": "31116"
+  },
+  {
+    "review": "계속 좀 요런 스타일로 영화 만들어 주삼 서극행님아 ㅜ..ㅜ",
+    "date": "08.07.25",
+    "rating": "10",
+    "author": "gore****",
+    "review_id": "2803063",
+    "movie_id": "31116"
+  },
+  {
+    "review": "걸작. 홍성진씨 영화평을 보는 건 정말 괴롭다.",
+    "date": "07.10.01",
+    "rating": "9",
+    "author": "wish****",
+    "review_id": "2063384",
+    "movie_id": "31116"
+  },
+  {
+    "review": "액션만큼은 현존최고가 아닐지... 아파트에서의 총격전 개.간.지",
+    "date": "07.07.23",
+    "rating": "10",
+    "author": "resp****",
+    "review_id": "1801305",
+    "movie_id": "31116"
+  },
+  {
+    "review": "저주받은 걸작이란 호칭이 전혀 아깝지 않다...",
+    "date": "07.07.07",
+    "rating": "9",
+    "author": "ghos****",
+    "review_id": "1754801",
+    "movie_id": "31116"
+  },
+  {
+    "review": "다른건 몰라도 아파트 액션씬과 공석량은 정말...간지좔좔",
+    "date": "07.03.26",
+    "rating": "10",
+    "author": "dion****",
+    "review_id": "1556167",
+    "movie_id": "31116"
+  },
+  {
+    "review": "재미있게 봤어요~ GOOD~!",
+    "date": "07.02.06",
+    "rating": "9",
+    "author": "shei****",
+    "review_id": "1447607",
+    "movie_id": "31116"
+  },
+  {
+    "review": "굿굿. 재미있는 액션 영화. 사정봉 정말 잘생겼다.",
+    "date": "07.02.04",
+    "rating": "9",
+    "author": "jse1****",
+    "review_id": "1444069",
+    "movie_id": "31116"
+  },
+  {
+    "review": "너무 난잡함....서든어택하는줄.............",
+    "date": "07.01.22",
+    "rating": "6",
+    "author": "2nom****",
+    "review_id": "1405404",
+    "movie_id": "31116"
+  },
+  {
+    "review": "관람한지 6년도 더 된 영화지만 괜찮았던 홍콩영화~",
+    "date": "07.01.15",
+    "rating": "10",
+    "author": "cksh****",
+    "review_id": "1388065",
+    "movie_id": "31116"
+  },
+  {
+    "review": "아파트에서의 액션신 만큼은 최고!!",
+    "date": "06.11.27",
+    "rating": "10",
+    "author": "mezq****",
+    "review_id": "1255139",
+    "movie_id": "31116"
+  },
+  {
+    "review": "액션신의애서의 세련된 스타일..",
+    "date": "06.10.01",
+    "rating": "9",
+    "author": "clcl****",
+    "review_id": "1151947",
+    "movie_id": "31116"
+  },
+  {
+    "review": "화려한 총격전 스타일 굿 10점이 아깝지 않은 영화",
+    "date": "06.08.24",
+    "rating": "10",
+    "author": "tico****",
+    "review_id": "1074682",
+    "movie_id": "31116"
+  },
+  {
+    "review": "열기가 느껴지는 액션!",
+    "date": "06.07.02",
+    "rating": "10",
+    "author": "a_ss****",
+    "review_id": "867245",
+    "movie_id": "31116"
+  },
+  {
+    "review": "스토리의 난해함을 극복하면, 진정 쿨한 액션 영화!",
+    "date": "06.05.21",
+    "rating": "9",
+    "author": "subc****",
+    "review_id": "811066",
+    "movie_id": "31116"
+  },
+  {
+    "review": "아파트에서의 로프액션신... 그리고 느와르적스토리굿",
+    "date": "06.05.14",
+    "rating": "10",
+    "author": "zang****",
+    "review_id": "799075",
+    "movie_id": "31116"
+  },
+  {
+    "review": "이상한 편집 이상해",
+    "date": "05.12.25",
+    "rating": "6",
+    "author": "kws7****",
+    "review_id": "527157",
+    "movie_id": "31116"
+  },
+  {
+    "review": "잼있네요 꽤볼만함",
+    "date": "05.12.20",
+    "rating": "10",
+    "author": "june****",
+    "review_id": "517236",
+    "movie_id": "31116"
+  },
+  {
+    "review": "서극은 아주 가끔 걸작을 만들어내는데 이 영화가 바로..",
+    "date": "05.12.20",
+    "rating": "9",
+    "author": "gkdl****",
+    "review_id": "516242",
+    "movie_id": "31116"
+  },
+  {
+    "review": "정말 재밌당~ ㅠ.ㅠ",
+    "date": "05.12.16",
+    "rating": "10",
+    "author": "gogo****",
+    "review_id": "508481",
+    "movie_id": "31116"
+  },
+  {
+    "review": "꽤나 좋았다. 서극 만세!!~~~",
+    "date": "05.12.06",
+    "rating": "10",
+    "author": "bu31****",
+    "review_id": "495623",
+    "movie_id": "31116"
+  },
+  {
+    "review": "아파트로프액션과 느와르적인 분위기 공석량의카리스마 Good",
+    "date": "05.10.28",
+    "rating": "10",
+    "author": "reve****",
+    "review_id": "457292",
+    "movie_id": "31116"
+  },
+  {
+    "review": "보고나서 심장뛰어 죽는줄알았다. 화려한 액션.",
+    "date": "05.08.09",
+    "rating": "10",
+    "author": "roug****",
+    "review_id": "358682",
+    "movie_id": "31116"
+  },
+  {
+    "review": "그냥 봐서는 알 수 없는 정신없는 전개, 뭐하는 건지.",
+    "date": "05.03.27",
+    "rating": "5",
+    "author": "jcr3****",
+    "review_id": "248437",
+    "movie_id": "31116"
+  },
+  {
+    "review": "잊을수 없는 최고의액션...별100개 못줘서 아쉬울뿐ㅠㅠ",
+    "date": "05.03.14",
+    "rating": "10",
+    "author": "ljw1****",
+    "review_id": "241024",
+    "movie_id": "31116"
+  },
+  {
+    "review": "재미있다.",
+    "date": "05.02.13",
+    "rating": "10",
+    "author": "wise****",
+    "review_id": "218258",
+    "movie_id": "31116"
+  },
+  {
+    "review": "잭키찬영화같은 느낌을 받았다",
+    "date": "05.02.04",
+    "rating": "9",
+    "author": "ykss****",
+    "review_id": "207781",
+    "movie_id": "31116"
+  },
+  {
+    "review": "근래의 서극 영화 중에 가장 인상 깊었던 영화. 멋지다.",
+    "date": "05.02.03",
+    "rating": "9",
+    "author": "kimj****",
+    "review_id": "206236",
+    "movie_id": "31116"
+  },
+  {
+    "review": "스타일리쉬 액션의 진수를 보여준다.",
+    "date": "05.01.20",
+    "rating": "7",
+    "author": "k4he****",
+    "review_id": "191295",
+    "movie_id": "31116"
+  },
+  {
+    "review": "재밌고 액션도 대단해요~스타일도 괜찮네요~",
+    "date": "04.11.22",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "149986",
+    "movie_id": "31116"
+  },
+  {
+    "review": "으아~~~액션짱ㅜㅜ무지재밌어요",
+    "date": "04.11.20",
+    "rating": "10",
+    "author": "vvvv****",
+    "review_id": "149123",
+    "movie_id": "31116"
+  },
+  {
+    "review": "스토리엉망... 액션만 볼만하네.. 스토리는 난잡한수준..",
+    "date": "04.11.20",
+    "rating": "5",
+    "author": "mg50****",
+    "review_id": "148860",
+    "movie_id": "31116"
+  },
+  {
+    "review": "정말 재미없다... 액션도 그저 그렇다...",
+    "date": "04.11.20",
+    "rating": "5",
+    "author": "ej03****",
+    "review_id": "148851",
+    "movie_id": "31116"
+  },
+  {
+    "review": "액션 대박. fps게임 유저라면 꼭보셈.",
+    "date": "04.11.20",
+    "rating": "8",
+    "author": "skdl****",
+    "review_id": "148753",
+    "movie_id": "31116"
+  },
+  {
+    "review": "초반에 너무 지루하다. 후반액숀은 꽤~~",
+    "date": "04.10.23",
+    "rating": "7",
+    "author": "fkdl****",
+    "review_id": "131148",
+    "movie_id": "31116"
+  },
+  {
+    "review": "사정봉이 출연한 영화중에 젤 재미없다,,",
+    "date": "04.10.13",
+    "rating": "5",
+    "author": "psyc****",
+    "review_id": "125191",
+    "movie_id": "31116"
+  },
+  {
+    "review": "잊혀지지않는 영상..",
+    "date": "04.09.24",
+    "rating": "9",
+    "author": "blue****",
+    "review_id": "113631",
+    "movie_id": "31116"
+  },
+  {
+    "review": "진정한 스타일리쉬",
+    "date": "04.09.19",
+    "rating": "10",
+    "author": "star****",
+    "review_id": "111090",
+    "movie_id": "31116"
+  },
+  {
+    "review": "확실히 서극은 개성이 있다...",
+    "date": "04.09.18",
+    "rating": "8",
+    "author": "oheu****",
+    "review_id": "110361",
+    "movie_id": "31116"
+  },
+  {
+    "review": "독특한분위기가나는 세련된 액션영화",
+    "date": "04.08.04",
+    "rating": "9",
+    "author": "yenj****",
+    "review_id": "83477",
+    "movie_id": "31116"
+  },
+  {
+    "review": "서극. 조금 실망한.. 총을 버리고 칼을 택했음하는 ..허나인상적인영화",
+    "date": "04.07.04",
+    "rating": "7",
+    "author": "n012****",
+    "review_id": "64774",
+    "movie_id": "31116"
+  },
+  {
+    "review": "음..화면 구성이 특이한 영화에요..그래픽이 인상적이더군요.",
+    "date": "04.02.04",
+    "rating": "6",
+    "author": "anoc****",
+    "review_id": "15843",
+    "movie_id": "31116"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review": "솔직히 보지도 않았으면서 1점,10점은 좀 아님 점수좀 맞춰야지.",
+    "date": "11.05.31",
+    "rating": "5",
+    "author": "kimy****",
+    "review_id": "5458340",
+    "movie_id": "31410"
+  },
+  {
+    "review": "우왕굳 ㅋㅋ",
+    "date": "10.11.05",
+    "rating": "10",
+    "author": "kkl1****",
+    "review_id": "4940191",
+    "movie_id": "31410"
+  },
+  {
+    "review": "솔직히 보지도 않았으면서 10점은 좀 아님. 점수좀 맞춰야지.",
+    "date": "10.01.23",
+    "rating": "1",
+    "author": "ss98****",
+    "review_id": "4201259",
+    "movie_id": "31410"
+  },
+  {
+    "review": "그냥 10점 ㅅㄱ",
+    "date": "09.11.29",
+    "rating": "10",
+    "author": "ads_****",
+    "review_id": "4001580",
+    "movie_id": "31410"
+  },
+  {
+    "review": "제목이 멋져서",
+    "date": "07.02.23",
+    "rating": "10",
+    "author": "kill****",
+    "review_id": "1496765",
+    "movie_id": "31410"
+  }
+]

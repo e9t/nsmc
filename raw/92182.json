@@ -1,0 +1,58 @@
+[
+  {
+    "review_id": "7955155",
+    "movie_id": "92182",
+    "author": "mist****",
+    "review": "10",
+    "rating": "10",
+    "date": "13.09.07"
+  },
+  {
+    "review_id": "6572844",
+    "movie_id": "92182",
+    "author": "yang****",
+    "review": "재미없다..",
+    "rating": "1",
+    "date": "12.08.05"
+  },
+  {
+    "review_id": "6159109",
+    "movie_id": "92182",
+    "author": "clie****",
+    "review": "볼만하고",
+    "rating": "8",
+    "date": "12.03.21"
+  },
+  {
+    "review_id": "6151409",
+    "movie_id": "92182",
+    "author": "jnjt****",
+    "review": "모차르트 예술의 절정을 메트 오페라로 느끼다.",
+    "rating": "9",
+    "date": "12.03.18"
+  },
+  {
+    "review_id": "6116227",
+    "movie_id": "92182",
+    "author": "paul****",
+    "review": "재밌음",
+    "rating": "10",
+    "date": "12.03.01"
+  },
+  {
+    "review_id": "6114135",
+    "movie_id": "92182",
+    "author": "rian****",
+    "review": "이걸 영화라 보는 놈도있네 이건 클래식이고 오페라다",
+    "rating": "10",
+    "date": "12.03.01"
+  },
+  {
+    "review_id": "6112680",
+    "movie_id": "92182",
+    "author": "umhj****",
+    "review": "이제껏 본것중 최악의 영화",
+    "rating": "1",
+    "date": "12.02.29"
+  }
+]

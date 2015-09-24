@@ -1,0 +1,34 @@
+[
+  {
+    "review": "그때 당시에는 흥행했는지도 모르겠지만  본인은 별로",
+    "date": "14.02.20",
+    "rating": "5",
+    "author": "xx41****",
+    "review_id": "8523970",
+    "movie_id": "62338"
+  },
+  {
+    "review": "개봉했을때 꽤 흥행했던 영화지",
+    "date": "14.01.02",
+    "rating": "8",
+    "author": "hack****",
+    "review_id": "8337726",
+    "movie_id": "62338"
+  },
+  {
+    "review": "very good !",
+    "date": "07.10.21",
+    "rating": "8",
+    "author": "cles****",
+    "review_id": "2104021",
+    "movie_id": "62338"
+  },
+  {
+    "review": "볼만",
+    "date": "07.02.04",
+    "rating": "8",
+    "author": "ysuh****",
+    "review_id": "1443690",
+    "movie_id": "62338"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "review": "OO 재미없다. 진짜 진심으로 하는 말이다.",
+    "date": "15.02.21",
+    "rating": "1",
+    "author": "geni****",
+    "review_id": "9724799",
+    "movie_id": "69065"
+  },
+  {
+    "review": "뻔한 스토리, 조잡한 효과...",
+    "date": "15.01.29",
+    "rating": "1",
+    "author": "morb****",
+    "review_id": "9647538",
+    "movie_id": "69065"
+  },
+  {
+    "review": "일본공포치고는  그럭저럭  킬링타임은  된다",
+    "date": "15.01.27",
+    "rating": "9",
+    "author": "kan3****",
+    "review_id": "9643107",
+    "movie_id": "69065"
+  }
+]

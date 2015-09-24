@@ -1,0 +1,50 @@
+[
+  {
+    "review": "나에겐 잘 전달되지 않았다",
+    "date": "14.08.21",
+    "rating": "2",
+    "author": "nala****",
+    "review_id": "9118678",
+    "movie_id": "30094"
+  },
+  {
+    "review": "기괴하다! 독특하다! 매력이 있다!",
+    "date": "08.02.03",
+    "rating": "7",
+    "author": "caca****",
+    "review_id": "2404469",
+    "movie_id": "30094"
+  },
+  {
+    "review": "Technic, System, Benefit... 세단어만 알면 자막없이 볼 수 있다. 꿈결 같다.",
+    "date": "08.01.28",
+    "rating": "10",
+    "author": "arti****",
+    "review_id": "2378936",
+    "movie_id": "30094"
+  },
+  {
+    "review": "독일현대사와 문명에대한 철학적성찰이 깊게깔린 쉽지않은 영화",
+    "date": "06.12.03",
+    "rating": "10",
+    "author": "topk****",
+    "review_id": "1264064",
+    "movie_id": "30094"
+  },
+  {
+    "review": "행복감.캬",
+    "date": "05.04.16",
+    "rating": "10",
+    "author": "shad****",
+    "review_id": "260814",
+    "movie_id": "30094"
+  },
+  {
+    "review": "좋타,, 또 다른 스타일을 보여준 영화~",
+    "date": "04.10.23",
+    "rating": "9",
+    "author": "hyej****",
+    "review_id": "130872",
+    "movie_id": "30094"
+  }
+]

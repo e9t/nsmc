@@ -1,0 +1,18 @@
+[
+  {
+    "review": "이영화 최고...",
+    "date": "09.07.31",
+    "rating": "10",
+    "author": "andy****",
+    "review_id": "3687760",
+    "movie_id": "21505"
+  },
+  {
+    "review": "이름은 거시기 하지만 꽤 괜찮은 영화",
+    "date": "04.01.24",
+    "rating": "8",
+    "author": "aris****",
+    "review_id": "12858",
+    "movie_id": "21505"
+  }
+]

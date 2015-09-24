@@ -1,0 +1,586 @@
+[
+  {
+    "review": "진짜 진~짜 할 일 없을 때 보시길...",
+    "date": "13.08.05",
+    "rating": "4",
+    "author": "2610****",
+    "review_id": "7845450",
+    "movie_id": "42839"
+  },
+  {
+    "review": "이게 왜 장르가 공포인지 모르겠다.하나도 안무섭고 잠만온다..",
+    "date": "12.08.29",
+    "rating": "1",
+    "author": "yang****",
+    "review_id": "6652189",
+    "movie_id": "42839"
+  },
+  {
+    "review": "찜찜하게 끝나네.. ㅡㅡ 엄마가 고생한 게 헛수고네..",
+    "date": "12.06.19",
+    "rating": "6",
+    "author": "wjde****",
+    "review_id": "6403024",
+    "movie_id": "42839"
+  },
+  {
+    "review": "넘 구닥다리 후졌다.눈뒤집고 입쫘악벌린 포스터봐라.. 배우들이 아까울뿐.",
+    "date": "12.05.10",
+    "rating": "3",
+    "author": "kis5****",
+    "review_id": "6287091",
+    "movie_id": "42839"
+  },
+  {
+    "review": "초반 지루했던 걸 후반에 만회, 괜찮은 편이긴 한데 불쾌한 스토리가 거슬림..",
+    "date": "12.01.11",
+    "rating": "6",
+    "author": "tscm****",
+    "review_id": "5979142",
+    "movie_id": "42839"
+  },
+  {
+    "review": "딸을 사랑하는 엄마의 간절함이 사일런트힐과 비슷했다.",
+    "date": "12.01.11",
+    "rating": "7",
+    "author": "crys****",
+    "review_id": "5977766",
+    "movie_id": "42839"
+  },
+  {
+    "review": "시간때우기용보다 못미친다.",
+    "date": "11.11.30",
+    "rating": "3",
+    "author": "cndx****",
+    "review_id": "5879721",
+    "movie_id": "42839"
+  },
+  {
+    "review": "최악...배우들의 연기가 아깝다...",
+    "date": "11.11.06",
+    "rating": "1",
+    "author": "sykm****",
+    "review_id": "5831867",
+    "movie_id": "42839"
+  },
+  {
+    "review": "다시 맞출 수 없을 정도로 산산조각난 한 가족..",
+    "date": "11.10.01",
+    "rating": "6",
+    "author": "bu98****",
+    "review_id": "5763909",
+    "movie_id": "42839"
+  },
+  {
+    "review": "?아무리 반전이라도 그렇지 모성애를 이용한 자식의 패륜적 마인드로 결론을 내는건 좀 아닌듯",
+    "date": "11.09.18",
+    "rating": "1",
+    "author": "jjpd****",
+    "review_id": "5738031",
+    "movie_id": "42839"
+  },
+  {
+    "review": "나름 볼만함...,.",
+    "date": "11.07.13",
+    "rating": "7",
+    "author": "awak****",
+    "review_id": "5540468",
+    "movie_id": "42839"
+  },
+  {
+    "review": "예상되는 스토리에 느슨한 전개",
+    "date": "11.05.10",
+    "rating": "3",
+    "author": "pama****",
+    "review_id": "5418935",
+    "movie_id": "42839"
+  },
+  {
+    "review": "속편이 액션으로 나와도 이상하지 않을법한 영화. 부제는 어머니의 복수?",
+    "date": "10.12.15",
+    "rating": "7",
+    "author": "jiyu****",
+    "review_id": "5056708",
+    "movie_id": "42839"
+  },
+  {
+    "review": "마리아벨로....",
+    "date": "10.09.16",
+    "rating": "10",
+    "author": "moto****",
+    "review_id": "4838413",
+    "movie_id": "42839"
+  },
+  {
+    "review": "잘라고누웠는데 시작하길래 생각없이 봤다가 나도몰라 몰입되게만든 영화",
+    "date": "10.08.11",
+    "rating": "8",
+    "author": "t670****",
+    "review_id": "4734028",
+    "movie_id": "42839"
+  },
+  {
+    "review": "꽤나 으시시한 연출 그리고 조금은 약하면서도 충격스런 결말",
+    "date": "09.12.06",
+    "rating": "9",
+    "author": "bac1****",
+    "review_id": "4022497",
+    "movie_id": "42839"
+  },
+  {
+    "review": "깜짝깜짝 놀라는 정도인 전설 이야기 같은 영화",
+    "date": "09.07.31",
+    "rating": "6",
+    "author": "fnql****",
+    "review_id": "3689986",
+    "movie_id": "42839"
+  },
+  {
+    "review": "오우... 반전도 있네",
+    "date": "09.07.19",
+    "rating": "6",
+    "author": "kos4****",
+    "review_id": "3648392",
+    "movie_id": "42839"
+  },
+  {
+    "review": "공포스릴러이긴한데...보고나니 멍해지네.. 마지막 목사의 표정이 섬뜩하네.",
+    "date": "09.06.30",
+    "rating": "7",
+    "author": "obsc****",
+    "review_id": "3603069",
+    "movie_id": "42839"
+  },
+  {
+    "review": "마지막 엔딩..소름끼칩니다. 땀 줄줄 흘렸다죠",
+    "date": "09.06.28",
+    "rating": "10",
+    "author": "thdg****",
+    "review_id": "3597562",
+    "movie_id": "42839"
+  },
+  {
+    "review": "관람후 - 그냥 타임머신 타고 관람전으로 돌아가고 싶다는거 -_-",
+    "date": "09.06.01",
+    "rating": "2",
+    "author": "wlsd****",
+    "review_id": "3538274",
+    "movie_id": "42839"
+  },
+  {
+    "review": "당신이 완전 호러,반전 매니아급이아니라면 최고가 될 수 도있는 수작(8점)",
+    "date": "09.05.03",
+    "rating": "10",
+    "author": "idcm****",
+    "review_id": "3461199",
+    "movie_id": "42839"
+  },
+  {
+    "review": "새로울 것 없는 반전과 공포에 지루하다",
+    "date": "09.02.27",
+    "rating": "5",
+    "author": "suno****",
+    "review_id": "3335596",
+    "movie_id": "42839"
+  },
+  {
+    "review": "진부한 내용, 뻔한 스토리",
+    "date": "09.01.02",
+    "rating": "4",
+    "author": "inst****",
+    "review_id": "3177610",
+    "movie_id": "42839"
+  },
+  {
+    "review": "전체적으로 조금 늘어지는 듯하면서도 은근히 몰입하게 된다",
+    "date": "08.11.22",
+    "rating": "7",
+    "author": "uds0****",
+    "review_id": "3065557",
+    "movie_id": "42839"
+  },
+  {
+    "review": "믿고 봐라",
+    "date": "08.10.26",
+    "rating": "10",
+    "author": "kkok****",
+    "review_id": "3021183",
+    "movie_id": "42839"
+  },
+  {
+    "review": "난 괜찮았는데. 8점. 걍 재밌어요. 볼만하구. 봐도 후회는 안할 영화.",
+    "date": "08.10.13",
+    "rating": "8",
+    "author": "kilk****",
+    "review_id": "2997866",
+    "movie_id": "42839"
+  },
+  {
+    "review": "전체적으로 루즈한 연출..그리고 따분한 스토리",
+    "date": "08.07.28",
+    "rating": "2",
+    "author": "goms****",
+    "review_id": "2811904",
+    "movie_id": "42839"
+  },
+  {
+    "review": "보여주는 잔혹함은 없지만 나름 쏠쏠한 재미가있다.",
+    "date": "08.06.21",
+    "rating": "8",
+    "author": "xixe****",
+    "review_id": "2711249",
+    "movie_id": "42839"
+  },
+  {
+    "review": "그럭저럭 괜찮은데 완성도는 조금 떨어지는 느낌이다",
+    "date": "08.06.20",
+    "rating": "7",
+    "author": "nala****",
+    "review_id": "2709864",
+    "movie_id": "42839"
+  },
+  {
+    "review": "공포는 아니고.. 그렇다고 스릴러도 아니고.. 애매하지만 볼만함~~",
+    "date": "08.03.25",
+    "rating": "10",
+    "author": "shar****",
+    "review_id": "2541839",
+    "movie_id": "42839"
+  },
+  {
+    "review": "상당히 잘만들었구먼.. 뭐..",
+    "date": "08.03.25",
+    "rating": "10",
+    "author": "kih9****",
+    "review_id": "2541837",
+    "movie_id": "42839"
+  },
+  {
+    "review": "평범해서 식상하다...",
+    "date": "08.03.15",
+    "rating": "5",
+    "author": "aaal****",
+    "review_id": "2522550",
+    "movie_id": "42839"
+  },
+  {
+    "review": "난도질을 해야만 무서운건 아니다.정말 수작.사일런트힐과 유사함",
+    "date": "07.11.19",
+    "rating": "9",
+    "author": "9973****",
+    "review_id": "2165981",
+    "movie_id": "42839"
+  },
+  {
+    "review": "마지막 몰입도가 괘얀네요.",
+    "date": "07.11.07",
+    "rating": "7",
+    "author": "lsyi****",
+    "review_id": "2138671",
+    "movie_id": "42839"
+  },
+  {
+    "review": "이런 류의 작품을 너무 많이 봤다.이젠 좀 식상.사일런트 힐과 거의 유사",
+    "date": "07.10.25",
+    "rating": "6",
+    "author": "linu****",
+    "review_id": "2110246",
+    "movie_id": "42839"
+  },
+  {
+    "review": "개봉당시 영화관에서 봤는데 대박. 후에 사일런트 힐 봤는데 비슷 암튼 굿",
+    "date": "07.10.22",
+    "rating": "10",
+    "author": "spic****",
+    "review_id": "2105901",
+    "movie_id": "42839"
+  },
+  {
+    "review": "화려하진 않지만 은근히 몰입되는 스릴러물",
+    "date": "07.10.10",
+    "rating": "8",
+    "author": "sinb****",
+    "review_id": "2081809",
+    "movie_id": "42839"
+  },
+  {
+    "review": "나름대로괜찮은.그러나 뻔한 반전때문에 끝이 좀..",
+    "date": "07.08.17",
+    "rating": "6",
+    "author": "anal****",
+    "review_id": "1949382",
+    "movie_id": "42839"
+  },
+  {
+    "review": "공포라고 하기는 그렇고 반전이 있지만 뭔가 애매한 느낌..",
+    "date": "07.08.13",
+    "rating": "8",
+    "author": "016k****",
+    "review_id": "1930298",
+    "movie_id": "42839"
+  },
+  {
+    "review": "수작 호러무비, 음산한 전설과 귀신 이야기",
+    "date": "07.08.05",
+    "rating": "10",
+    "author": "jero****",
+    "review_id": "1878344",
+    "movie_id": "42839"
+  },
+  {
+    "review": "오케이~!!이정도면 재미있고좋다!뭔가 좀 슬프구 가혹하단느낌이~;;",
+    "date": "07.06.01",
+    "rating": "7",
+    "author": "revo****",
+    "review_id": "1675456",
+    "movie_id": "42839"
+  },
+  {
+    "review": "밑에 욕하시분들..어이없음..반전의 대박",
+    "date": "07.04.30",
+    "rating": "10",
+    "author": "lui1****",
+    "review_id": "1613194",
+    "movie_id": "42839"
+  },
+  {
+    "review": "전 이거 별로였어요",
+    "date": "07.02.20",
+    "rating": "5",
+    "author": "offw****",
+    "review_id": "1487169",
+    "movie_id": "42839"
+  },
+  {
+    "review": "이게 안 유명하다는 게 솔직히 놀랍다. 어떻게 흠잡을데가 없네.",
+    "date": "07.02.03",
+    "rating": "8",
+    "author": "teo0****",
+    "review_id": "1437808",
+    "movie_id": "42839"
+  },
+  {
+    "review": "마음대로 끝내버리니",
+    "date": "07.01.22",
+    "rating": "7",
+    "author": "scs0****",
+    "review_id": "1404901",
+    "movie_id": "42839"
+  },
+  {
+    "review": "개 병 신 영화.. 반전도 이뭐병",
+    "date": "06.12.12",
+    "rating": "2",
+    "author": "pj06****",
+    "review_id": "1287783",
+    "movie_id": "42839"
+  },
+  {
+    "review": "볼만했다. 공포 스릴러라고 볼수있겠는데 굿. ㅋ",
+    "date": "06.11.27",
+    "rating": "9",
+    "author": "wsb2****",
+    "review_id": "1254742",
+    "movie_id": "42839"
+  },
+  {
+    "review": "귀신,괴물.난도질등을 좋아하시는 분은 절대 보지 마세요",
+    "date": "06.09.13",
+    "rating": "1",
+    "author": "dimm****",
+    "review_id": "1120385",
+    "movie_id": "42839"
+  },
+  {
+    "review": "여태까지본공포영화중가장무서운영화인것같습니다",
+    "date": "06.09.09",
+    "rating": "10",
+    "author": "gksc****",
+    "review_id": "1114445",
+    "movie_id": "42839"
+  },
+  {
+    "review": "그냥 보자",
+    "date": "06.09.05",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "1103864",
+    "movie_id": "42839"
+  },
+  {
+    "review": "괜찬은 영화ㅎ",
+    "date": "06.08.09",
+    "rating": "9",
+    "author": "wlgn****",
+    "review_id": "988624",
+    "movie_id": "42839"
+  },
+  {
+    "review": "사후세계에서뭐야",
+    "date": "06.07.31",
+    "rating": "6",
+    "author": "tera****",
+    "review_id": "946481",
+    "movie_id": "42839"
+  },
+  {
+    "review": "코믹영화에요! 코믹을좋아하시는분들에게 강추!!!!!",
+    "date": "06.07.18",
+    "rating": "10",
+    "author": "chtq****",
+    "review_id": "903816",
+    "movie_id": "42839"
+  },
+  {
+    "review": "막판에 지루하던 찰나에 반전 좋은데..",
+    "date": "06.07.01",
+    "rating": "8",
+    "author": "juha****",
+    "review_id": "864924",
+    "movie_id": "42839"
+  },
+  {
+    "review": "별루.....",
+    "date": "06.06.01",
+    "rating": "3",
+    "author": "wwww****",
+    "review_id": "825954",
+    "movie_id": "42839"
+  },
+  {
+    "review": "중간에 졸았다...하지만 이해하는데 전혀 지장이 없었다..ㅠㅠ",
+    "date": "06.05.31",
+    "rating": "2",
+    "author": "taka****",
+    "review_id": "824931",
+    "movie_id": "42839"
+  },
+  {
+    "review": "스켈리톤키 보다 더 잘 된 영화.",
+    "date": "06.05.15",
+    "rating": "10",
+    "author": "redc****",
+    "review_id": "801831",
+    "movie_id": "42839"
+  },
+  {
+    "review": "전반적으로 괸찬았다 반전이 있는 그저그런 영화",
+    "date": "06.05.14",
+    "rating": "7",
+    "author": "kimm****",
+    "review_id": "799225",
+    "movie_id": "42839"
+  },
+  {
+    "review": "평작, 끝까지 보는데 별 무리는 없지만, 큰 기대는 금물",
+    "date": "06.05.05",
+    "rating": "7",
+    "author": "anar****",
+    "review_id": "787930",
+    "movie_id": "42839"
+  },
+  {
+    "review": "잔인한 걸 좋아하는 나같은 마니아에겐 평작에도 못 미치는 졸작",
+    "date": "06.05.05",
+    "rating": "2",
+    "author": "lim2****",
+    "review_id": "786376",
+    "movie_id": "42839"
+  },
+  {
+    "review": "흥미부재의 뻔한 가족형 호러물...",
+    "date": "06.05.04",
+    "rating": "4",
+    "author": "gall****",
+    "review_id": "785576",
+    "movie_id": "42839"
+  },
+  {
+    "review": "저말 옥 같은 영화.",
+    "date": "06.04.29",
+    "rating": "10",
+    "author": "lhcg****",
+    "review_id": "779019",
+    "movie_id": "42839"
+  },
+  {
+    "review": "내용넘 헷갈리게 하는군요 반전두 맘에 안들고",
+    "date": "06.04.28",
+    "rating": "3",
+    "author": "tke0****",
+    "review_id": "778671",
+    "movie_id": "42839"
+  },
+  {
+    "review": "의외의 수작",
+    "date": "06.04.27",
+    "rating": "10",
+    "author": "show****",
+    "review_id": "777411",
+    "movie_id": "42839"
+  },
+  {
+    "review": "적당히 안전선에 걸쳐진 아쉬움",
+    "date": "06.04.20",
+    "rating": "6",
+    "author": "zomb****",
+    "review_id": "769005",
+    "movie_id": "42839"
+  },
+  {
+    "review": "외국호러같지 않은, 동양적 魂. 그리고 나름 괜찮은 반전.",
+    "date": "06.04.18",
+    "rating": "9",
+    "author": "djpa****",
+    "review_id": "766053",
+    "movie_id": "42839"
+  },
+  {
+    "review": "간만에 잼있게 봤음. 막판 반전도 괜찮음..",
+    "date": "06.04.14",
+    "rating": "9",
+    "author": "hats****",
+    "review_id": "760263",
+    "movie_id": "42839"
+  },
+  {
+    "review": "기대이상이네요.특히 결말이 아주 맘에 듭니다.",
+    "date": "06.04.10",
+    "rating": "9",
+    "author": "jhj8****",
+    "review_id": "756568",
+    "movie_id": "42839"
+  },
+  {
+    "review": "소름이 ~~~~~ 쫙~~ 이게 정말 공포다!!",
+    "date": "06.04.10",
+    "rating": "9",
+    "author": "krpa****",
+    "review_id": "756075",
+    "movie_id": "42839"
+  },
+  {
+    "review": "반전 영화 인줄 알았지만~ 아닌~~ 재밌는 영화~",
+    "date": "06.04.08",
+    "rating": "8",
+    "author": "pcws****",
+    "review_id": "752683",
+    "movie_id": "42839"
+  },
+  {
+    "review": "시간때우기용약간지루하나끝에서는괜찮음",
+    "date": "06.04.07",
+    "rating": "7",
+    "author": "jj34****",
+    "review_id": "751924",
+    "movie_id": "42839"
+  },
+  {
+    "review": "엄마의 사랑과 괜찮은 소재들..마리아 벨로의 열연.",
+    "date": "06.02.10",
+    "rating": "10",
+    "author": "cher****",
+    "review_id": "659693",
+    "movie_id": "42839"
+  }
+]

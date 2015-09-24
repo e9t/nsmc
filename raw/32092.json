@@ -1,0 +1,34 @@
+[
+  {
+    "review": "본의 아니게 상처받고 주는게 사랑.. 이지만 책임도 따라야한다. 잘만들어진 영화임.",
+    "date": "14.10.15",
+    "rating": "10",
+    "author": "allg****",
+    "review_id": "9293797",
+    "movie_id": "32092"
+  },
+  {
+    "review": "나 진짜 이거보면서 속이 타들어갔음^^",
+    "date": "08.10.16",
+    "rating": "10",
+    "author": "humu****",
+    "review_id": "3001955",
+    "movie_id": "32092"
+  },
+  {
+    "review": "멜로영화라 그런지 꽤 괜찮네",
+    "date": "05.10.31",
+    "rating": "10",
+    "author": "ollc****",
+    "review_id": "460765",
+    "movie_id": "32092"
+  },
+  {
+    "review": "볼게 못된다",
+    "date": "05.10.16",
+    "rating": "1",
+    "author": "iamf****",
+    "review_id": "444055",
+    "movie_id": "32092"
+  }
+]

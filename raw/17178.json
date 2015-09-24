@@ -1,0 +1,378 @@
+[
+  {
+    "review": "재밌는 두콤비의 액션 오락 영화",
+    "date": "15.08.07",
+    "rating": "7",
+    "author": "come****",
+    "review_id": "10196052",
+    "movie_id": "17178"
+  },
+  {
+    "review": "전형적인 헐리우드 액션 영화... tv에서 해줄때 부담없이 재밌게 볼 수 있었던 영화",
+    "date": "15.06.21",
+    "rating": "8",
+    "author": "dhfb****",
+    "review_id": "10017454",
+    "movie_id": "17178"
+  },
+  {
+    "review": "90년대 할리우드 시나리오 정석",
+    "date": "14.12.05",
+    "rating": "10",
+    "author": "chun****",
+    "review_id": "9448384",
+    "movie_id": "17178"
+  },
+  {
+    "review": "경찰이 머니 트레인을 지키는게 아니라 터네.. ㅋㅋ",
+    "date": "14.12.02",
+    "rating": "6",
+    "author": "tn99****",
+    "review_id": "9441536",
+    "movie_id": "17178"
+  },
+  {
+    "review": "덩크슛부터 최고의 콤비네요",
+    "date": "14.07.24",
+    "rating": "10",
+    "author": "hank****",
+    "review_id": "8951529",
+    "movie_id": "17178"
+  },
+  {
+    "review": "추억의 영화는 무조건 9점이상 ㅋㅋ",
+    "date": "14.06.18",
+    "rating": "9",
+    "author": "mcvp****",
+    "review_id": "8837857",
+    "movie_id": "17178"
+  },
+  {
+    "review": "설정의 골때림을 제외하곤 모조리 평범하다.",
+    "date": "14.05.28",
+    "rating": "6",
+    "author": "reco****",
+    "review_id": "8771723",
+    "movie_id": "17178"
+  },
+  {
+    "review": "어릴대 비디오로 재미있게 봤던 영화 굿!!!",
+    "date": "14.01.18",
+    "rating": "10",
+    "author": "ske4****",
+    "review_id": "8394213",
+    "movie_id": "17178"
+  },
+  {
+    "review": "특별한 사건도. 내용도 없는 그저그런 B급영화! 등장인물들이 아깝네ㅋ",
+    "date": "13.10.04",
+    "rating": "5",
+    "author": "twel****",
+    "review_id": "8033493",
+    "movie_id": "17178"
+  },
+  {
+    "review": "평점이 왜이리 낮을까요?;; 이거 재미있습니다 ㅇㅇ",
+    "date": "13.09.09",
+    "rating": "10",
+    "author": "yabe****",
+    "review_id": "7962419",
+    "movie_id": "17178"
+  },
+  {
+    "review": "재밌는데.....??",
+    "date": "13.01.12",
+    "rating": "10",
+    "author": "kwy2****",
+    "review_id": "7103581",
+    "movie_id": "17178"
+  },
+  {
+    "review": "웨슬리와 우디 콤비 굿...인종을 넘어선 우정이 보기좋구나..당시엔 비디오빌리기도 힘들었음..",
+    "date": "12.11.09",
+    "rating": "10",
+    "author": "bajj****",
+    "review_id": "6869360",
+    "movie_id": "17178"
+  },
+  {
+    "review": "구구굿",
+    "date": "12.04.22",
+    "rating": "10",
+    "author": "wjsq****",
+    "review_id": "6239010",
+    "movie_id": "17178"
+  },
+  {
+    "review": "액션 코믹!!",
+    "date": "11.05.08",
+    "rating": "7",
+    "author": "pree****",
+    "review_id": "5414477",
+    "movie_id": "17178"
+  },
+  {
+    "review": "왜~난 괜찮든데 ㅎㅎㅎ",
+    "date": "10.11.29",
+    "rating": "10",
+    "author": "newj****",
+    "review_id": "5005807",
+    "movie_id": "17178"
+  },
+  {
+    "review": "킬링타임용",
+    "date": "10.07.27",
+    "rating": "5",
+    "author": "0323****",
+    "review_id": "4677505",
+    "movie_id": "17178"
+  },
+  {
+    "review": "사랑 그리고 애증 또 하나 액션.. 이런 모습이 삶의 일부분 아닐까...",
+    "date": "10.05.08",
+    "rating": "8",
+    "author": "bete****",
+    "review_id": "4486055",
+    "movie_id": "17178"
+  },
+  {
+    "review": "꽤괜찬음",
+    "date": "09.03.30",
+    "rating": "10",
+    "author": "dmx7****",
+    "review_id": "3396906",
+    "movie_id": "17178"
+  },
+  {
+    "review": "재미있다가도 재미없다가 다시 재미있어지는 이상한 영화다",
+    "date": "08.12.07",
+    "rating": "7",
+    "author": "jeon****",
+    "review_id": "3097624",
+    "movie_id": "17178"
+  },
+  {
+    "review": "기대만큼의 재미를 선사하지 못했던 작품",
+    "date": "08.11.27",
+    "rating": "6",
+    "author": "gall****",
+    "review_id": "3076210",
+    "movie_id": "17178"
+  },
+  {
+    "review": "돈을 실고 가는 기차 액션만 보면 그럭저럭 두 배우가 좀 아깝다",
+    "date": "08.10.17",
+    "rating": "6",
+    "author": "deff****",
+    "review_id": "3004225",
+    "movie_id": "17178"
+  },
+  {
+    "review": "시간때우기론 괜찮다. 비급 액션코미디라.",
+    "date": "08.08.28",
+    "rating": "6",
+    "author": "jere****",
+    "review_id": "2906796",
+    "movie_id": "17178"
+  },
+  {
+    "review": "우리를 짜증나게 하는 여러 개나리들에게 날리는 핵주먹 한방!",
+    "date": "07.09.23",
+    "rating": "8",
+    "author": "stra****",
+    "review_id": "2040459",
+    "movie_id": "17178"
+  },
+  {
+    "review": "한영화에 담은 두가지 종류의영화.수준은 낮아도 독특하다는 점은 보장",
+    "date": "07.09.17",
+    "rating": "7",
+    "author": "baks****",
+    "review_id": "2026666",
+    "movie_id": "17178"
+  },
+  {
+    "review": "웨슬리 스나입스는 무언가 좀 어설퍼서..영화도 좀 어설퍼...",
+    "date": "07.04.27",
+    "rating": "5",
+    "author": "skat****",
+    "review_id": "1607533",
+    "movie_id": "17178"
+  },
+  {
+    "review": "괜찮은 주제였는데 그걸 살려내지 못하다니... 스릴도 없고 재미도 없다.",
+    "date": "07.02.18",
+    "rating": "4",
+    "author": "yhr_****",
+    "review_id": "1482823",
+    "movie_id": "17178"
+  },
+  {
+    "review": "인종을 뛰어넘는 우정의 훈훈함과, 매력적인 로페즈와의 로맨스",
+    "date": "07.01.21",
+    "rating": "10",
+    "author": "nunu****",
+    "review_id": "1402579",
+    "movie_id": "17178"
+  },
+  {
+    "review": "한국인 남편이상으로 멋진배우 웨슬리..그리고 스타이전의제니퍼",
+    "date": "07.01.17",
+    "rating": "8",
+    "author": "ghkd****",
+    "review_id": "1392377",
+    "movie_id": "17178"
+  },
+  {
+    "review": "1995년 당시 제니퍼 로페즈 젖 보는것만으로도 본전이상",
+    "date": "07.01.09",
+    "rating": "8",
+    "author": "hiss****",
+    "review_id": "1370130",
+    "movie_id": "17178"
+  },
+  {
+    "review": "모냐 이게",
+    "date": "07.01.08",
+    "rating": "1",
+    "author": "nala****",
+    "review_id": "1368096",
+    "movie_id": "17178"
+  },
+  {
+    "review": "이런것도 가끔은 나쁘지 않겠지...",
+    "date": "06.08.19",
+    "rating": "6",
+    "author": "psyc****",
+    "review_id": "1058760",
+    "movie_id": "17178"
+  },
+  {
+    "review": "예전엔 이런 버디 액션물이 좋았다우. 요즘엔 못 만들어.",
+    "date": "06.05.21",
+    "rating": "8",
+    "author": "donj****",
+    "review_id": "809493",
+    "movie_id": "17178"
+  },
+  {
+    "review": "전형적인 \"킬링타임\"용 버디 액셕극.",
+    "date": "06.04.27",
+    "rating": "6",
+    "author": "movi****",
+    "review_id": "777097",
+    "movie_id": "17178"
+  },
+  {
+    "review": "백인오빠에, 흑인오빠, 라티노 시스터 까지..-_-",
+    "date": "06.02.20",
+    "rating": "10",
+    "author": "daer****",
+    "review_id": "682451",
+    "movie_id": "17178"
+  },
+  {
+    "review": "스나입스의 돌려차기가 일품",
+    "date": "05.12.24",
+    "rating": "7",
+    "author": "kws7****",
+    "review_id": "524641",
+    "movie_id": "17178"
+  },
+  {
+    "review": "전형적인 B급. 킬링타임 전용!",
+    "date": "05.12.12",
+    "rating": "2",
+    "author": "tara****",
+    "review_id": "502031",
+    "movie_id": "17178"
+  },
+  {
+    "review": "재밌다...한방때려줄때의통쾌함~",
+    "date": "05.12.08",
+    "rating": "7",
+    "author": "mela****",
+    "review_id": "497664",
+    "movie_id": "17178"
+  },
+  {
+    "review": "돈이얼마나 많으면 기차로 운반한다냐.",
+    "date": "05.07.29",
+    "rating": "6",
+    "author": "izzo****",
+    "review_id": "339041",
+    "movie_id": "17178"
+  },
+  {
+    "review": "액션영화중 명작..왜케 평점이 낮은지",
+    "date": "05.05.29",
+    "rating": "10",
+    "author": "alft****",
+    "review_id": "289469",
+    "movie_id": "17178"
+  },
+  {
+    "review": "보문, 그럭저럭 시간때우기론 괜찮을거예요.",
+    "date": "05.04.06",
+    "rating": "7",
+    "author": "pjyl****",
+    "review_id": "254569",
+    "movie_id": "17178"
+  },
+  {
+    "review": "그럭저럭 b급영화",
+    "date": "05.02.26",
+    "rating": "6",
+    "author": "wodl****",
+    "review_id": "230961",
+    "movie_id": "17178"
+  },
+  {
+    "review": "시간은 그럭저럭 때웠다는 느낌. 봤을 당시엔.",
+    "date": "05.02.15",
+    "rating": "6",
+    "author": "hack****",
+    "review_id": "221118",
+    "movie_id": "17178"
+  },
+  {
+    "review": "킬링타임용으로 추천은 해두자.",
+    "date": "05.02.15",
+    "rating": "7",
+    "author": "jcr3****",
+    "review_id": "220693",
+    "movie_id": "17178"
+  },
+  {
+    "review": "참 영화 쉽게 만든다..",
+    "date": "04.10.29",
+    "rating": "3",
+    "author": "thin****",
+    "review_id": "134820",
+    "movie_id": "17178"
+  },
+  {
+    "review": "최고의 드라마 액션 영화다! 조셉 루벤 감독의 점수 높은 역작임!",
+    "date": "04.10.28",
+    "rating": "10",
+    "author": "macl****",
+    "review_id": "134266",
+    "movie_id": "17178"
+  },
+  {
+    "review": "저는 중간에 껐어요..ㅡㅡ;;",
+    "date": "04.09.22",
+    "rating": "1",
+    "author": "buzz****",
+    "review_id": "112505",
+    "movie_id": "17178"
+  },
+  {
+    "review": "최고로 재밌음.. 완벽한 콤비다!!! 제니퍼도 최고로 이쁠때..",
+    "date": "04.08.17",
+    "rating": "10",
+    "author": "m2mb****",
+    "review_id": "91854",
+    "movie_id": "17178"
+  }
+]

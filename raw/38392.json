@@ -1,0 +1,42 @@
+[
+  {
+    "review": "이정진은 꽃미남이자 훈남이다.",
+    "date": "12.09.03",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "6667856",
+    "movie_id": "38392"
+  },
+  {
+    "review": "점수 너무 높다",
+    "date": "09.04.10",
+    "rating": "1",
+    "author": "imsm****",
+    "review_id": "3414305",
+    "movie_id": "38392"
+  },
+  {
+    "review": "군대에서 봤었는데",
+    "date": "06.07.30",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "946265",
+    "movie_id": "38392"
+  },
+  {
+    "review": "ㅋㅋ",
+    "date": "06.06.24",
+    "rating": "1",
+    "author": "juni****",
+    "review_id": "855969",
+    "movie_id": "38392"
+  },
+  {
+    "review": "진짜좋음 상미누나도 마니 좋아요",
+    "date": "05.09.21",
+    "rating": "10",
+    "author": "dbwl****",
+    "review_id": "416368",
+    "movie_id": "38392"
+  }
+]

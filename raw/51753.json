@@ -1,0 +1,66 @@
+[
+  {
+    "review": "재미없어",
+    "date": "13.07.25",
+    "rating": "1",
+    "author": "abab****",
+    "review_id": "7783424",
+    "movie_id": "51753"
+  },
+  {
+    "review": "1000점만점에 1000점이라고 해도 과언이 아님.",
+    "date": "11.02.19",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "5256688",
+    "movie_id": "51753"
+  },
+  {
+    "review": "최고다 ㅠㅠ",
+    "date": "10.04.17",
+    "rating": "10",
+    "author": "cvbn****",
+    "review_id": "4437638",
+    "movie_id": "51753"
+  },
+  {
+    "review": "재밌었어요",
+    "date": "10.03.26",
+    "rating": "10",
+    "author": "dorn****",
+    "review_id": "4389424",
+    "movie_id": "51753"
+  },
+  {
+    "review": "재밌게보고있어요",
+    "date": "09.02.11",
+    "rating": "10",
+    "author": "pym6****",
+    "review_id": "3294859",
+    "movie_id": "51753"
+  },
+  {
+    "review": "10000점만점에 10000점",
+    "date": "09.02.10",
+    "rating": "10",
+    "author": "dlwo****",
+    "review_id": "3293108",
+    "movie_id": "51753"
+  },
+  {
+    "review": "1000점만점에 1000점",
+    "date": "09.02.10",
+    "rating": "10",
+    "author": "rudg****",
+    "review_id": "3293096",
+    "movie_id": "51753"
+  },
+  {
+    "review": "100점만점에 100점",
+    "date": "09.01.04",
+    "rating": "10",
+    "author": "soon****",
+    "review_id": "3186483",
+    "movie_id": "51753"
+  }
+]

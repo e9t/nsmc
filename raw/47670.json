@@ -1,0 +1,34 @@
+[
+  {
+    "review": "정말 좋아하는 드라마입니다",
+    "date": "14.03.24",
+    "rating": "10",
+    "author": "kjs9****",
+    "review_id": "8604662",
+    "movie_id": "47670"
+  },
+  {
+    "review": "굿",
+    "date": "13.03.17",
+    "rating": "10",
+    "author": "wldm****",
+    "review_id": "7356654",
+    "movie_id": "47670"
+  },
+  {
+    "review": "배우들의 연기도 좋았고, 꽤 재밌었던 드라마.. 다정이가 참 귀여웠었는데..",
+    "date": "10.08.27",
+    "rating": "8",
+    "author": "mygr****",
+    "review_id": "4794822",
+    "movie_id": "47670"
+  },
+  {
+    "review": "재밌습니다. 이것 때문에 회사 지각;;",
+    "date": "08.04.25",
+    "rating": "10",
+    "author": "cber****",
+    "review_id": "2597880",
+    "movie_id": "47670"
+  }
+]

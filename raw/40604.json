@@ -1,0 +1,66 @@
+[
+  {
+    "review": "어디서 보나요 ㅜㅜ",
+    "date": "10.01.17",
+    "rating": "10",
+    "author": "spar****",
+    "review_id": "4179230",
+    "movie_id": "40604"
+  },
+  {
+    "review": "처음에는 아리송, 나중에는 커다란 무게감....",
+    "date": "06.08.31",
+    "rating": "10",
+    "author": "sill****",
+    "review_id": "1091279",
+    "movie_id": "40604"
+  },
+  {
+    "review": "작지만 큰영화",
+    "date": "05.08.12",
+    "rating": "9",
+    "author": "hope****",
+    "review_id": "363040",
+    "movie_id": "40604"
+  },
+  {
+    "review": ";;",
+    "date": "05.05.26",
+    "rating": "1",
+    "author": "nala****",
+    "review_id": "286425",
+    "movie_id": "40604"
+  },
+  {
+    "review": "지루하긴하지만 제예산치고는잘만든영화",
+    "date": "05.05.22",
+    "rating": "8",
+    "author": "opq7****",
+    "review_id": "283197",
+    "movie_id": "40604"
+  },
+  {
+    "review": "파전, 김치전, 호박전 전 세개를 뒤집다.",
+    "date": "05.05.21",
+    "rating": "1",
+    "author": "sncl****",
+    "review_id": "282464",
+    "movie_id": "40604"
+  },
+  {
+    "review": "전세계를 울리는 감동의 영화!",
+    "date": "05.05.14",
+    "rating": "10",
+    "author": "lj34****",
+    "review_id": "277871",
+    "movie_id": "40604"
+  },
+  {
+    "review": "한국영화계를 뒤집을 지적인 영화",
+    "date": "05.04.28",
+    "rating": "10",
+    "author": "necr****",
+    "review_id": "267560",
+    "movie_id": "40604"
+  }
+]

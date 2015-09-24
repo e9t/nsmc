@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "7866139",
+    "movie_id": "98513",
+    "author": "psp2****",
+    "review": "이 영화를 보는것만으로 도",
+    "rating": "2",
+    "date": "13.08.10"
+  },
+  {
+    "review_id": "7862381",
+    "movie_id": "98513",
+    "author": "agaw****",
+    "review": "여배우 몸매는 좋지만 코가 들창코다...그냥 킬링타임용...",
+    "rating": "6",
+    "date": "13.08.09"
+  },
+  {
+    "review_id": "7830852",
+    "movie_id": "98513",
+    "author": "bles****",
+    "review": "부질없는 짓거리군",
+    "rating": "3",
+    "date": "13.08.03"
+  },
+  {
+    "review_id": "7825681",
+    "movie_id": "98513",
+    "author": "ksch****",
+    "review": "엉성하기 짝이 없음... 옛다 3점!",
+    "rating": "3",
+    "date": "13.08.03"
+  },
+  {
+    "review_id": "7824727",
+    "movie_id": "98513",
+    "author": "hama****",
+    "review": "정말 대박 재미있음..극장에서 못 보신분 빨리 보시길...^^",
+    "rating": "10",
+    "date": "13.08.03"
+  }
+]

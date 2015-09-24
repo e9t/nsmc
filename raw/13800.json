@@ -1,0 +1,34 @@
+[
+  {
+    "review": "너무 재미있고 잘된영화",
+    "date": "10.02.11",
+    "rating": "10",
+    "author": "jh56****",
+    "review_id": "4268959",
+    "movie_id": "13800"
+  },
+  {
+    "review": "좋은 배우와 좋은 로케로 망친영화",
+    "date": "09.12.09",
+    "rating": "5",
+    "author": "woon****",
+    "review_id": "4031099",
+    "movie_id": "13800"
+  },
+  {
+    "review": "어느 배우도 두각을 나타내지 못하고 사라져간다",
+    "date": "06.03.31",
+    "rating": "6",
+    "author": "goma****",
+    "review_id": "743084",
+    "movie_id": "13800"
+  },
+  {
+    "review": "안보는게 좋습니다",
+    "date": "06.03.14",
+    "rating": "5",
+    "author": "scal****",
+    "review_id": "716392",
+    "movie_id": "13800"
+  }
+]

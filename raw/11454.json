@@ -1,0 +1,26 @@
+[
+  {
+    "review": "재밌다",
+    "date": "10.04.14",
+    "rating": "10",
+    "author": "eek5****",
+    "review_id": "4431830",
+    "movie_id": "11454"
+  },
+  {
+    "review": "대빵!!!재밌다!!!",
+    "date": "08.01.26",
+    "rating": "10",
+    "author": "rrar****",
+    "review_id": "2372694",
+    "movie_id": "11454"
+  },
+  {
+    "review": "샤론스톤이 너무 매력적이다",
+    "date": "05.12.25",
+    "rating": "8",
+    "author": "kws7****",
+    "review_id": "527173",
+    "movie_id": "11454"
+  }
+]

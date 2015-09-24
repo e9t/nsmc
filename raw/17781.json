@@ -1,0 +1,26 @@
+[
+  {
+    "review": "별로",
+    "date": "13.03.20",
+    "rating": "1",
+    "author": "tmdg****",
+    "review_id": "7379084",
+    "movie_id": "17781"
+  },
+  {
+    "review": "완전 특이 영상이다.초반부 ㅋㅋㅋㅋ",
+    "date": "09.12.25",
+    "rating": "9",
+    "author": "dma9****",
+    "review_id": "4080756",
+    "movie_id": "17781"
+  },
+  {
+    "review": "최고",
+    "date": "09.10.13",
+    "rating": "10",
+    "author": "nerv****",
+    "review_id": "3891213",
+    "movie_id": "17781"
+  }
+]

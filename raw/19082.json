@@ -1,0 +1,50 @@
+[
+  {
+    "review": "언제나 놀라운 홉킨스의 연기. 영화도 꽤 흥미로움.",
+    "date": "07.07.27",
+    "rating": "6",
+    "author": "taij****",
+    "review_id": "1813790",
+    "movie_id": "19082"
+  },
+  {
+    "review": "골때린다",
+    "date": "06.09.02",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "1097459",
+    "movie_id": "19082"
+  },
+  {
+    "review": "초중반까지는 정말 최고였다. 풍자 가득한 블랙 코미디의 진수!",
+    "date": "06.07.06",
+    "rating": "8",
+    "author": "movi****",
+    "review_id": "872804",
+    "movie_id": "19082"
+  },
+  {
+    "review": "무정부주의적 코메디의 진수",
+    "date": "05.08.03",
+    "rating": "10",
+    "author": "para****",
+    "review_id": "350382",
+    "movie_id": "19082"
+  },
+  {
+    "review": "말초신경을 자극하는 기가막힌 해학과 풍자, 매우 신선하다.",
+    "date": "05.05.28",
+    "rating": "8",
+    "author": "that****",
+    "review_id": "287959",
+    "movie_id": "19082"
+  },
+  {
+    "review": "특이한 영화 ㅋㅋ",
+    "date": "05.01.28",
+    "rating": "7",
+    "author": "kans****",
+    "review_id": "198227",
+    "movie_id": "19082"
+  }
+]

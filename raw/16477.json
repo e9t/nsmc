@@ -1,0 +1,42 @@
+[
+  {
+    "review": "지나 데이비스 너무 좋음에도 영화는 조금 지루했음.",
+    "date": "12.01.04",
+    "rating": "7",
+    "author": "nkot****",
+    "review_id": "5960453",
+    "movie_id": "16477"
+  },
+  {
+    "review": "학창시절 본 영화지만 아직까지도 마음에 남아있다.",
+    "date": "08.07.07",
+    "rating": "8",
+    "author": "linu****",
+    "review_id": "2747228",
+    "movie_id": "16477"
+  },
+  {
+    "review": "스토리의 고갈을 드러내듯 갈수록 망가지는 작품",
+    "date": "06.12.23",
+    "rating": "4",
+    "author": "okjo****",
+    "review_id": "1316830",
+    "movie_id": "16477"
+  },
+  {
+    "review": "잔잔한 드라마이자 지나 데이비스의 명연기를 볼수 있다.",
+    "date": "06.03.25",
+    "rating": "7",
+    "author": "movi****",
+    "review_id": "732649",
+    "movie_id": "16477"
+  },
+  {
+    "review": "지나 데이비스의 매력.",
+    "date": "06.01.03",
+    "rating": "9",
+    "author": "cher****",
+    "review_id": "555560",
+    "movie_id": "16477"
+  }
+]

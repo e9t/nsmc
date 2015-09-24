@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "6615689",
+    "movie_id": "76779",
+    "author": "yang****",
+    "review": "지루한액션..재미없다..",
+    "rating": "2",
+    "date": "12.08.16"
+  },
+  {
+    "review_id": "6152142",
+    "movie_id": "76779",
+    "author": "gall****",
+    "review": "검증된 마코 자러의 마샬 아츠 액션과 여주인공 미모가 그나마 볼거리",
+    "rating": "4",
+    "date": "12.03.18"
+  },
+  {
+    "review_id": "6142655",
+    "movie_id": "76779",
+    "author": "bles****",
+    "review": "부질없는 복고의 추억",
+    "rating": "4",
+    "date": "12.03.14"
+  },
+  {
+    "review_id": "6070777",
+    "movie_id": "76779",
+    "author": "mck2****",
+    "review": "의도된 복고풍의 낭만. 하지만 투박했다.",
+    "rating": "7",
+    "date": "12.02.12"
+  }
+]

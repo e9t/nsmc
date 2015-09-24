@@ -1,0 +1,50 @@
+[
+  {
+    "review": "이투마마.. 그 이상도 이하도 아닌... 흔하디 흔한 멜로. ㅋ",
+    "date": "12.11.03",
+    "rating": "6",
+    "author": "fcup****",
+    "review_id": "6847546",
+    "movie_id": "68445"
+  },
+  {
+    "review": "이국적인, 하지만 즐겁지만은 않은 영화",
+    "date": "11.10.13",
+    "rating": "6",
+    "author": "scha****",
+    "review_id": "5785986",
+    "movie_id": "68445"
+  },
+  {
+    "review": "페르난다",
+    "date": "10.04.11",
+    "rating": "9",
+    "author": "donq****",
+    "review_id": "4425353",
+    "movie_id": "68445"
+  },
+  {
+    "review": "누군가의 가슴에 안긴다는 것, 따스하지...",
+    "date": "09.10.01",
+    "rating": "5",
+    "author": "caca****",
+    "review_id": "3862969",
+    "movie_id": "68445"
+  },
+  {
+    "review": "뻬르난다~",
+    "date": "09.06.09",
+    "rating": "6",
+    "author": "okyk****",
+    "review_id": "3554819",
+    "movie_id": "68445"
+  },
+  {
+    "review": "뻘쭘한 연예담을 끝까지 들어주기",
+    "date": "09.05.29",
+    "rating": "2",
+    "author": "evil****",
+    "review_id": "3531317",
+    "movie_id": "68445"
+  }
+]

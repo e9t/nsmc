@@ -1,0 +1,50 @@
+[
+  {
+    "review_id": "8506254",
+    "movie_id": "91440",
+    "author": "bigb****",
+    "review": "처음엔 노잼 나중에 예스잼",
+    "rating": "8",
+    "date": "14.02.14"
+  },
+  {
+    "review_id": "8137052",
+    "movie_id": "91440",
+    "author": "tkdt****",
+    "review": "엔딩 비드로 모양 강력추천 ㅎㅎ",
+    "rating": "10",
+    "date": "13.11.14"
+  },
+  {
+    "review_id": "7762125",
+    "movie_id": "91440",
+    "author": "x_qu****",
+    "review": "Roh잼",
+    "rating": "1",
+    "date": "13.07.19"
+  },
+  {
+    "review_id": "7762123",
+    "movie_id": "91440",
+    "author": "ikgm****",
+    "review": "예스잼",
+    "rating": "10",
+    "date": "13.07.19"
+  },
+  {
+    "review_id": "7762122",
+    "movie_id": "91440",
+    "author": "jseo****",
+    "review": "노잼",
+    "rating": "1",
+    "date": "13.07.19"
+  },
+  {
+    "review_id": "6145348",
+    "movie_id": "91440",
+    "author": "09dl****",
+    "review": "굿",
+    "rating": "10",
+    "date": "12.03.15"
+  }
+]

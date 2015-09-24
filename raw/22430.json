@@ -1,0 +1,42 @@
+[
+  {
+    "review": "어제 EBS에서 봤는데 나도 모르게 끝까지 보게되었네요.~",
+    "date": "11.12.12",
+    "rating": "9",
+    "author": "jhle****",
+    "review_id": "5901607",
+    "movie_id": "22430"
+  },
+  {
+    "review": "장미희씨 정말 최고내요~!미모갔러져요~!!",
+    "date": "11.07.24",
+    "rating": "10",
+    "author": "syj5****",
+    "review_id": "5565465",
+    "movie_id": "22430"
+  },
+  {
+    "review": "한국영화 만세 넘 재밌다요!",
+    "date": "11.04.19",
+    "rating": "7",
+    "author": "evil****",
+    "review_id": "5383512",
+    "movie_id": "22430"
+  },
+  {
+    "review": "장미희씨 젊었을 떄 진짜 예뻣더라고요~~ 몸매도 짱",
+    "date": "11.03.24",
+    "rating": "10",
+    "author": "look****",
+    "review_id": "5331763",
+    "movie_id": "22430"
+  },
+  {
+    "review": "만점 만들기 ㅋㅋ",
+    "date": "09.07.09",
+    "rating": "10",
+    "author": "ansd****",
+    "review_id": "3619987",
+    "movie_id": "22430"
+  }
+]

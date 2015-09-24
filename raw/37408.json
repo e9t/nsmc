@@ -1,0 +1,802 @@
+[
+  {
+    "review": "멋도 없고 재미도 없고 센스도 없고 의미도 없다 갈수록 진부해질 뿐",
+    "date": "15.04.14",
+    "rating": "2",
+    "author": "juli****",
+    "review_id": "9845137",
+    "movie_id": "37408"
+  },
+  {
+    "review": "코믹인거같은데 그닥웃기진않군요...좀 졸다봤어요..ㅎㅎ",
+    "date": "14.10.06",
+    "rating": "5",
+    "author": "seon****",
+    "review_id": "9270353",
+    "movie_id": "37408"
+  },
+  {
+    "review": "기대안하고봤다만 소소하이 볼만한 영화 ㅎㅎㅎ",
+    "date": "14.06.18",
+    "rating": "10",
+    "author": "noip****",
+    "review_id": "8838692",
+    "movie_id": "37408"
+  },
+  {
+    "review": "컴퓨터 전기세가 아깝다!!!",
+    "date": "14.06.06",
+    "rating": "1",
+    "author": "ske4****",
+    "review_id": "8802421",
+    "movie_id": "37408"
+  },
+  {
+    "review": "군대 있을 때 본 최악의 영화. 캐스팅 이래 놓고 소재며 스토리 진짜 3류.",
+    "date": "14.03.21",
+    "rating": "1",
+    "author": "jjaj****",
+    "review_id": "8591952",
+    "movie_id": "37408"
+  },
+  {
+    "review": "바쁘고 일하고 싶은 사람과, 한가하게 살고 싶은 사람... 의미 있었지만... 끝나기 전에 악당들과 싸우는 게 조금 지루했다.",
+    "date": "13.11.02",
+    "rating": "7",
+    "author": "koko****",
+    "review_id": "8110589",
+    "movie_id": "37408"
+  },
+  {
+    "review": "그저그런 영화.... 시간때우기용",
+    "date": "13.05.04",
+    "rating": "5",
+    "author": "adiv****",
+    "review_id": "7507219",
+    "movie_id": "37408"
+  },
+  {
+    "review": "재미가없네..",
+    "date": "13.04.06",
+    "rating": "2",
+    "author": "kis5****",
+    "review_id": "7437928",
+    "movie_id": "37408"
+  },
+  {
+    "review": "설정은 좋았으나, 시나리오가 문제다",
+    "date": "13.02.13",
+    "rating": "5",
+    "author": "marx****",
+    "review_id": "7259468",
+    "movie_id": "37408"
+  },
+  {
+    "review": "역시 재밌는 코미디영화.",
+    "date": "12.01.10",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "5975768",
+    "movie_id": "37408"
+  },
+  {
+    "review": "재미 없네요 ~",
+    "date": "12.01.04",
+    "rating": "2",
+    "author": "umas****",
+    "review_id": "5959209",
+    "movie_id": "37408"
+  },
+  {
+    "review": "동근아.. 영화 잘못골랐다.",
+    "date": "11.07.18",
+    "rating": "4",
+    "author": "gk2g****",
+    "review_id": "5551956",
+    "movie_id": "37408"
+  },
+  {
+    "review": "재미없다. 특히 음향감독 누굴까 ... ㅎ 어처구니가 없다 .",
+    "date": "10.11.01",
+    "rating": "1",
+    "author": "nadd****",
+    "review_id": "4932015",
+    "movie_id": "37408"
+  },
+  {
+    "review": "뭡니까 이게 ~ 감독님 나바요 ~ !",
+    "date": "10.03.09",
+    "rating": "2",
+    "author": "evil****",
+    "review_id": "4346796",
+    "movie_id": "37408"
+  },
+  {
+    "review": "양동근나와서 와일드 카든줄 알았는데 심심할때 볼만해요",
+    "date": "10.01.22",
+    "rating": "5",
+    "author": "lume****",
+    "review_id": "4198374",
+    "movie_id": "37408"
+  },
+  {
+    "review": "시험끝나고 티비에서 하길래봤는데 ... 별로다 ...",
+    "date": "09.12.15",
+    "rating": "4",
+    "author": "wlwy****",
+    "review_id": "4046036",
+    "movie_id": "37408"
+  },
+  {
+    "review": "뭐고 이거...",
+    "date": "09.10.03",
+    "rating": "1",
+    "author": "orde****",
+    "review_id": "3868296",
+    "movie_id": "37408"
+  },
+  {
+    "review": "재밋구만",
+    "date": "09.08.05",
+    "rating": "10",
+    "author": "made****",
+    "review_id": "3711977",
+    "movie_id": "37408"
+  },
+  {
+    "review": "지적인코메디",
+    "date": "09.08.05",
+    "rating": "10",
+    "author": "shyw****",
+    "review_id": "3711974",
+    "movie_id": "37408"
+  },
+  {
+    "review": "심심한 오락물",
+    "date": "09.06.13",
+    "rating": "4",
+    "author": "cmh4****",
+    "review_id": "3562173",
+    "movie_id": "37408"
+  },
+  {
+    "review": "그냥 어이가없는영화어떤의지인지물어보고싶다 내인생최악 영화관에서 잠자기는처음",
+    "date": "09.05.26",
+    "rating": "1",
+    "author": "kims****",
+    "review_id": "3524427",
+    "movie_id": "37408"
+  },
+  {
+    "review": "그냥 볼만했던 기억이 남.",
+    "date": "09.03.24",
+    "rating": "6",
+    "author": "jkh0****",
+    "review_id": "3384378",
+    "movie_id": "37408"
+  },
+  {
+    "review": "연기는 괜찮지만 시나리오가 부실해서 아쉬운..",
+    "date": "09.03.23",
+    "rating": "6",
+    "author": "blue****",
+    "review_id": "3383314",
+    "movie_id": "37408"
+  },
+  {
+    "review": "덕분에, 눈 아픕니다.",
+    "date": "09.02.26",
+    "rating": "1",
+    "author": "soul****",
+    "review_id": "3335435",
+    "movie_id": "37408"
+  },
+  {
+    "review": "양동근 1점 더하기 하얀늑대 1점 총 2점 끝",
+    "date": "09.02.26",
+    "rating": "2",
+    "author": "blac****",
+    "review_id": "3334662",
+    "movie_id": "37408"
+  },
+  {
+    "review": "재미있게 봤어요 ㅎㅎ 은근 재미 ㅎㅎ",
+    "date": "09.01.12",
+    "rating": "8",
+    "author": "djdo****",
+    "review_id": "3213739",
+    "movie_id": "37408"
+  },
+  {
+    "review": "시골에서의 죄충우돌 황정민과 양동근 아주 잘 어울린다 나오는 사람들이 모두 선하다",
+    "date": "09.01.03",
+    "rating": "7",
+    "author": "deff****",
+    "review_id": "3183661",
+    "movie_id": "37408"
+  },
+  {
+    "review": "4점이 적당하지만 고평가된 평점때문에 2점",
+    "date": "08.12.23",
+    "rating": "2",
+    "author": "hyuc****",
+    "review_id": "3142154",
+    "movie_id": "37408"
+  },
+  {
+    "review": "안 웃기다. 배우의 연기만 믿고 어설픈 상황극에 취한 감독 때문에 메세지도 약하다.",
+    "date": "08.12.23",
+    "rating": "3",
+    "author": "sads****",
+    "review_id": "3141768",
+    "movie_id": "37408"
+  },
+  {
+    "review": "양동근 때문에 3점 ㅋㅋ 종니 지루했다 ㄱ-",
+    "date": "08.12.21",
+    "rating": "3",
+    "author": "capg****",
+    "review_id": "3136920",
+    "movie_id": "37408"
+  },
+  {
+    "review": "이걸 보고 잤다니 미치게",
+    "date": "08.12.12",
+    "rating": "10",
+    "author": "zjcm****",
+    "review_id": "3110039",
+    "movie_id": "37408"
+  },
+  {
+    "review": "이야기도 없고 연기도 없다.",
+    "date": "08.11.17",
+    "rating": "2",
+    "author": "skat****",
+    "review_id": "3057350",
+    "movie_id": "37408"
+  },
+  {
+    "review": "돈내고 보다가 도저히 재미없어서 더는 못보겠는 영화...--",
+    "date": "08.10.19",
+    "rating": "1",
+    "author": "dhtn****",
+    "review_id": "3007895",
+    "movie_id": "37408"
+  },
+  {
+    "review": "개봉 당시 내가 이거 보자고 했다가 아직까지 친구들한테 종종 욕 듣고 있음",
+    "date": "08.06.21",
+    "rating": "1",
+    "author": "sjan****",
+    "review_id": "2711386",
+    "movie_id": "37408"
+  },
+  {
+    "review": "걸출한 두배우를 데리고 이런 영화를 만들다니........",
+    "date": "08.04.15",
+    "rating": "4",
+    "author": "si2p****",
+    "review_id": "2582792",
+    "movie_id": "37408"
+  },
+  {
+    "review": "웃기지도 않코 액션도 없고.. 몰보라는겨..;;",
+    "date": "07.12.12",
+    "rating": "3",
+    "author": "urkn****",
+    "review_id": "2225519",
+    "movie_id": "37408"
+  },
+  {
+    "review": "초반이 맘에들었다 후반으로 갈수록...",
+    "date": "07.12.07",
+    "rating": "6",
+    "author": "radi****",
+    "review_id": "2212438",
+    "movie_id": "37408"
+  },
+  {
+    "review": "두배우땜에 봤는데 솔직히 재미없다...",
+    "date": "07.11.12",
+    "rating": "7",
+    "author": "2001****",
+    "review_id": "2148026",
+    "movie_id": "37408"
+  },
+  {
+    "review": "돋보이는 연기력과 유치한 전개",
+    "date": "07.10.25",
+    "rating": "5",
+    "author": "v292****",
+    "review_id": "2110758",
+    "movie_id": "37408"
+  },
+  {
+    "review": "배우들 연기가 좋아서 10점 -_-",
+    "date": "07.10.23",
+    "rating": "10",
+    "author": "lthd****",
+    "review_id": "2107589",
+    "movie_id": "37408"
+  },
+  {
+    "review": "김현정이 귀여워서 10점준다 -.-",
+    "date": "07.10.15",
+    "rating": "10",
+    "author": "sara****",
+    "review_id": "2090804",
+    "movie_id": "37408"
+  },
+  {
+    "review": "후화하하하함 이거10분보고 잤내;;(수면제 영화 굿)",
+    "date": "07.08.09",
+    "rating": "10",
+    "author": "rlat****",
+    "review_id": "1910997",
+    "movie_id": "37408"
+  },
+  {
+    "review": "유치하지만 신선해~",
+    "date": "07.07.16",
+    "rating": "7",
+    "author": "juya****",
+    "review_id": "1783065",
+    "movie_id": "37408"
+  },
+  {
+    "review": "유치한 내용, 산만한 전개",
+    "date": "07.06.30",
+    "rating": "4",
+    "author": "jeon****",
+    "review_id": "1733533",
+    "movie_id": "37408"
+  },
+  {
+    "review": "참 좋았습니다, 웰메이드 영화네요 ^ㅡ^",
+    "date": "07.06.27",
+    "rating": "10",
+    "author": "rexs****",
+    "review_id": "1724458",
+    "movie_id": "37408"
+  },
+  {
+    "review": "심심한데 .............",
+    "date": "07.06.25",
+    "rating": "3",
+    "author": "ukhk****",
+    "review_id": "1719810",
+    "movie_id": "37408"
+  },
+  {
+    "review": "재미있게 봤습니다~ *^^*",
+    "date": "07.05.18",
+    "rating": "10",
+    "author": "with****",
+    "review_id": "1643528",
+    "movie_id": "37408"
+  },
+  {
+    "review": "이거 보고 싶어 죽는줄 알았는데...",
+    "date": "07.05.10",
+    "rating": "7",
+    "author": "vict****",
+    "review_id": "1630295",
+    "movie_id": "37408"
+  },
+  {
+    "review": "뭐 이렇게 산만하냐",
+    "date": "07.05.03",
+    "rating": "6",
+    "author": "gkfq****",
+    "review_id": "1617551",
+    "movie_id": "37408"
+  },
+  {
+    "review": "깝스 따라한건가?",
+    "date": "07.03.21",
+    "rating": "4",
+    "author": "pung****",
+    "review_id": "1546740",
+    "movie_id": "37408"
+  },
+  {
+    "review": "재미도 없고 웃기지도 않고 짬뽕나!!!!",
+    "date": "07.03.10",
+    "rating": "2",
+    "author": "dhkq****",
+    "review_id": "1526825",
+    "movie_id": "37408"
+  },
+  {
+    "review": "재밌게 봤는데 평점이 너무 낮네... 그래서 나라도 10점",
+    "date": "07.02.24",
+    "rating": "10",
+    "author": "bbeg****",
+    "review_id": "1498356",
+    "movie_id": "37408"
+  },
+  {
+    "review": "어설픈 표절작",
+    "date": "07.01.07",
+    "rating": "1",
+    "author": "nala****",
+    "review_id": "1364141",
+    "movie_id": "37408"
+  },
+  {
+    "review": "나쁘진 않지만...영화가 너무 심심하다..",
+    "date": "07.01.04",
+    "rating": "5",
+    "author": "hjy6****",
+    "review_id": "1355854",
+    "movie_id": "37408"
+  },
+  {
+    "review": "뒤가 아니야 뒤...",
+    "date": "06.11.11",
+    "rating": "4",
+    "author": "ijmu****",
+    "review_id": "1226343",
+    "movie_id": "37408"
+  },
+  {
+    "review": "확 끌어당기는 맛이 지나치게 없다",
+    "date": "06.10.18",
+    "rating": "7",
+    "author": "comp****",
+    "review_id": "1187299",
+    "movie_id": "37408"
+  },
+  {
+    "review": "평점이예상외로낮다...",
+    "date": "06.08.21",
+    "rating": "10",
+    "author": "bang****",
+    "review_id": "1063690",
+    "movie_id": "37408"
+  },
+  {
+    "review": "여유있는 대사 간극이 너무나 좋은 영화",
+    "date": "06.08.19",
+    "rating": "8",
+    "author": "clam****",
+    "review_id": "1058577",
+    "movie_id": "37408"
+  },
+  {
+    "review": "모르겠다...왠지 설정이 어정쩡한 것 같아서",
+    "date": "06.08.06",
+    "rating": "6",
+    "author": "pseu****",
+    "review_id": "977722",
+    "movie_id": "37408"
+  },
+  {
+    "review": "배우나 아이디어는 나쁘지 않음. 다만 연출력이 별로 인 듯...",
+    "date": "06.08.03",
+    "rating": "5",
+    "author": "pcyn****",
+    "review_id": "964126",
+    "movie_id": "37408"
+  },
+  {
+    "review": "오지 파출소 수호기 & 탈출기 ㅋ, 심심해~~~~~~",
+    "date": "06.08.03",
+    "rating": "8",
+    "author": "nano****",
+    "review_id": "960876",
+    "movie_id": "37408"
+  },
+  {
+    "review": "주연,조연 다 좋은데 넘 심심하다. 조금 더 코믹하게 찍지~~!",
+    "date": "06.05.31",
+    "rating": "6",
+    "author": "hye5****",
+    "review_id": "824248",
+    "movie_id": "37408"
+  },
+  {
+    "review": "아쉽다.. 배우는 참 좋은데 말야...",
+    "date": "06.05.14",
+    "rating": "6",
+    "author": "kain****",
+    "review_id": "800026",
+    "movie_id": "37408"
+  },
+  {
+    "review": "주연, 조연. 배우가 아까운 영화. 시나리오가 양심이 있어야지.",
+    "date": "06.05.04",
+    "rating": "5",
+    "author": "yoon****",
+    "review_id": "786160",
+    "movie_id": "37408"
+  },
+  {
+    "review": "영화를 건성으로 만든듯한 .. 좀더 치밀했담하는 아쉬움..",
+    "date": "06.04.03",
+    "rating": "6",
+    "author": "inki****",
+    "review_id": "747141",
+    "movie_id": "37408"
+  },
+  {
+    "review": "내가 돈냈음에도 불구하고 끝나고 친구한테 맞을뻔한..",
+    "date": "06.03.02",
+    "rating": "1",
+    "author": "kiru****",
+    "review_id": "700143",
+    "movie_id": "37408"
+  },
+  {
+    "review": "이건 뭐 웃기지도 않고.. 황정민,양동근이 왜 이런데 나왔냐?",
+    "date": "06.02.24",
+    "rating": "3",
+    "author": "teo0****",
+    "review_id": "688956",
+    "movie_id": "37408"
+  },
+  {
+    "review": "1점주기도 아까운영화 ㅡㅡ;; 0점이 없어 1점준거",
+    "date": "06.02.20",
+    "rating": "1",
+    "author": "geni****",
+    "review_id": "681457",
+    "movie_id": "37408"
+  },
+  {
+    "review": "좋아하는오빠랑 봤는데..영화 개임  양동근때문에 10점 추가",
+    "date": "06.02.14",
+    "rating": "10",
+    "author": "z1zy****",
+    "review_id": "670966",
+    "movie_id": "37408"
+  },
+  {
+    "review": "양동근이라서 빛난!!",
+    "date": "06.02.04",
+    "rating": "10",
+    "author": "66ki****",
+    "review_id": "646907",
+    "movie_id": "37408"
+  },
+  {
+    "review": "농땡이를 피우믄 안된다는 교훈을 준 영화인가?",
+    "date": "06.01.08",
+    "rating": "6",
+    "author": "shh7****",
+    "review_id": "572353",
+    "movie_id": "37408"
+  },
+  {
+    "review": "킬링타임용.",
+    "date": "05.12.29",
+    "rating": "4",
+    "author": "c283****",
+    "review_id": "538521",
+    "movie_id": "37408"
+  },
+  {
+    "review": "도대체 장르가 뭐냐",
+    "date": "05.12.28",
+    "rating": "2",
+    "author": "kws7****",
+    "review_id": "534057",
+    "movie_id": "37408"
+  },
+  {
+    "review": "뭔가 이건??. 웃으려다 짜증이...",
+    "date": "05.12.26",
+    "rating": "5",
+    "author": "sold****",
+    "review_id": "530110",
+    "movie_id": "37408"
+  },
+  {
+    "review": "tv드라마로 나와도 욕먹을 영화.",
+    "date": "05.12.22",
+    "rating": "5",
+    "author": "blue****",
+    "review_id": "521085",
+    "movie_id": "37408"
+  },
+  {
+    "review": "역시 평점은 날속이지 않는구나 즐이다-_-",
+    "date": "05.12.21",
+    "rating": "5",
+    "author": "rver****",
+    "review_id": "518955",
+    "movie_id": "37408"
+  },
+  {
+    "review": "꼭 보셔요...웃음이 배어납니다...",
+    "date": "05.11.30",
+    "rating": "10",
+    "author": "utte****",
+    "review_id": "489117",
+    "movie_id": "37408"
+  },
+  {
+    "review": "난 재밌더만",
+    "date": "05.11.14",
+    "rating": "10",
+    "author": "scal****",
+    "review_id": "474444",
+    "movie_id": "37408"
+  },
+  {
+    "review": "이렇게 살고싶다..",
+    "date": "05.11.12",
+    "rating": "10",
+    "author": "punk****",
+    "review_id": "471605",
+    "movie_id": "37408"
+  },
+  {
+    "review": "깝스 보기 전에 봐서 8점~ 잼나게 봤다.",
+    "date": "05.11.04",
+    "rating": "7",
+    "author": "seun****",
+    "review_id": "464119",
+    "movie_id": "37408"
+  },
+  {
+    "review": "깝스 보다 못한....",
+    "date": "05.10.28",
+    "rating": "7",
+    "author": "sbg8****",
+    "review_id": "457015",
+    "movie_id": "37408"
+  },
+  {
+    "review": "양동근을 좋아해서 정말 기대하고 봤는데.. 사실지겨웠음 ㅠ",
+    "date": "05.10.03",
+    "rating": "7",
+    "author": "sooy****",
+    "review_id": "432462",
+    "movie_id": "37408"
+  },
+  {
+    "review": "설정도 재밌고..황정민의 순박한연기는 단연 으뜸..괜찮았음",
+    "date": "05.10.03",
+    "rating": "9",
+    "author": "faye****",
+    "review_id": "432244",
+    "movie_id": "37408"
+  },
+  {
+    "review": "마음이 흡족해지는 영화...",
+    "date": "05.10.03",
+    "rating": "8",
+    "author": "purp****",
+    "review_id": "431520",
+    "movie_id": "37408"
+  },
+  {
+    "review": "솔직히 졸작...;;",
+    "date": "05.10.01",
+    "rating": "3",
+    "author": "nocn****",
+    "review_id": "429336",
+    "movie_id": "37408"
+  },
+  {
+    "review": "짜증난다 진짜 재미 졸라 없네~",
+    "date": "05.09.16",
+    "rating": "1",
+    "author": "popc****",
+    "review_id": "407236",
+    "movie_id": "37408"
+  },
+  {
+    "review": "내용과 주제가 따로노는 희귀한 영화",
+    "date": "05.08.16",
+    "rating": "1",
+    "author": "okjo****",
+    "review_id": "370328",
+    "movie_id": "37408"
+  },
+  {
+    "review": "지겹다 ~",
+    "date": "05.08.10",
+    "rating": "3",
+    "author": "hone****",
+    "review_id": "361051",
+    "movie_id": "37408"
+  },
+  {
+    "review": "자기가 가진 환경에 만족하며 사는 사람들은 역시나 없는것일까?",
+    "date": "05.07.29",
+    "rating": "7",
+    "author": "izzo****",
+    "review_id": "338987",
+    "movie_id": "37408"
+  },
+  {
+    "review": "정말 짜증나게 재미없는....  영화..ㅡㅡ",
+    "date": "05.07.24",
+    "rating": "1",
+    "author": "ocm5****",
+    "review_id": "332449",
+    "movie_id": "37408"
+  },
+  {
+    "review": "항상 그렇듯 너무 많은 기대는 커다란 실망으로 돌아와..",
+    "date": "05.07.23",
+    "rating": "5",
+    "author": "prdk****",
+    "review_id": "331145",
+    "movie_id": "37408"
+  },
+  {
+    "review": "쓰레기. 빌렸는데 다 못봤다.",
+    "date": "05.07.22",
+    "rating": "1",
+    "author": "star****",
+    "review_id": "329895",
+    "movie_id": "37408"
+  },
+  {
+    "review": "볼만하던데..ㅋㅋ",
+    "date": "05.06.20",
+    "rating": "8",
+    "author": "7fro****",
+    "review_id": "303100",
+    "movie_id": "37408"
+  },
+  {
+    "review": "극과극의 평점들.. 그래도 난 10점 준다..잼있더만..",
+    "date": "05.06.10",
+    "rating": "10",
+    "author": "kina****",
+    "review_id": "297043",
+    "movie_id": "37408"
+  },
+  {
+    "review": "심심한 소동으로 끝나버린 영화",
+    "date": "05.05.07",
+    "rating": "4",
+    "author": "ghdl****",
+    "review_id": "272944",
+    "movie_id": "37408"
+  },
+  {
+    "review": "진짜 뭐가 이리 잼없노...",
+    "date": "05.05.06",
+    "rating": "1",
+    "author": "play****",
+    "review_id": "272040",
+    "movie_id": "37408"
+  },
+  {
+    "review": "스토리 황당. 고순경이랑 렉카차 기사 웃김.",
+    "date": "05.04.26",
+    "rating": "3",
+    "author": "rpdm****",
+    "review_id": "266302",
+    "movie_id": "37408"
+  },
+  {
+    "review": "귀여운 영화이긴 한데... 좀 아쉬워~~~",
+    "date": "05.04.02",
+    "rating": "7",
+    "author": "muku****",
+    "review_id": "251998",
+    "movie_id": "37408"
+  },
+  {
+    "review": "스토리는 황당하지만 양동근 땜에 그럭저럭 봤네요. ^^",
+    "date": "05.03.26",
+    "rating": "7",
+    "author": "milk****",
+    "review_id": "247067",
+    "movie_id": "37408"
+  },
+  {
+    "review": "너무잼있어서 쓰러질뻔한 영화. 양동근의 연기에 푹 빠졌다.",
+    "date": "05.03.11",
+    "rating": "10",
+    "author": "narn****",
+    "review_id": "238437",
+    "movie_id": "37408"
+  }
+]

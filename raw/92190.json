@@ -1,0 +1,74 @@
+[
+  {
+    "review_id": "9843041",
+    "movie_id": "92190",
+    "author": "cokk****",
+    "review": "평점이 너무 안좋은데?",
+    "rating": "10",
+    "date": "15.04.12"
+  },
+  {
+    "review_id": "8537100",
+    "movie_id": "92190",
+    "author": "blog****",
+    "review": "드라마스페셜 너무 좋다 ㅠㅠ 재밌게봣습니다.",
+    "rating": "9",
+    "date": "14.02.25"
+  },
+  {
+    "review_id": "7063335",
+    "movie_id": "92190",
+    "author": "top3****",
+    "review": "잘했다잘했옹♥♥♥",
+    "rating": "10",
+    "date": "12.12.30"
+  },
+  {
+    "review_id": "6907103",
+    "movie_id": "92190",
+    "author": "hm98****",
+    "review": "재밌네여",
+    "rating": "10",
+    "date": "12.11.20"
+  },
+  {
+    "review_id": "6630364",
+    "movie_id": "92190",
+    "author": "vaar****",
+    "review": "드라마씨티서 건진 드라마",
+    "rating": "7",
+    "date": "12.08.20"
+  },
+  {
+    "review_id": "6390100",
+    "movie_id": "92190",
+    "author": "sona****",
+    "review": "과거사진상규명위원회?",
+    "rating": "3",
+    "date": "12.06.14"
+  },
+  {
+    "review_id": "6193802",
+    "movie_id": "92190",
+    "author": "moir****",
+    "review": "한 여자로 인해 겪는 한 남자의 순애(殉愛).",
+    "rating": "7",
+    "date": "12.04.05"
+  },
+  {
+    "review_id": "6190819",
+    "movie_id": "92190",
+    "author": "kjm3****",
+    "review": "잘 만들었네요...보는 내 얼마나 울었는지 몰라요.,.",
+    "rating": "9",
+    "date": "12.04.03"
+  },
+  {
+    "review_id": "6053034",
+    "movie_id": "92190",
+    "author": "mygr****",
+    "review": "뜻밖에 건진 드라마 한 편, 너무 짧아 아쉽긴 했지만 강해창의 사랑에 마음이 짠했다",
+    "rating": "8",
+    "date": "12.02.05"
+  }
+]

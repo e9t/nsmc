@@ -1,0 +1,50 @@
+[
+  {
+    "review": "노년의 폴 뉴먼을 보는 즐거움.",
+    "date": "06.01.09",
+    "rating": "7",
+    "author": "movi****",
+    "review_id": "573939",
+    "movie_id": "29544"
+  },
+  {
+    "review": "피오렌티노 뉴먼의 조화가 좋은작품",
+    "date": "05.12.26",
+    "rating": "8",
+    "author": "kws7****",
+    "review_id": "530554",
+    "movie_id": "29544"
+  },
+  {
+    "review": "한 중간정도 아님 조금 더 좋은 정도",
+    "date": "05.08.14",
+    "rating": "5",
+    "author": "okjo****",
+    "review_id": "366521",
+    "movie_id": "29544"
+  },
+  {
+    "review": "그냥 은행을 터는 것만큼이나 영화도 그냥 만든...",
+    "date": "05.08.11",
+    "rating": "6",
+    "author": "hadl****",
+    "review_id": "361779",
+    "movie_id": "29544"
+  },
+  {
+    "review": "많이 재미있는 영화",
+    "date": "05.08.08",
+    "rating": "10",
+    "author": "gtyu****",
+    "review_id": "357800",
+    "movie_id": "29544"
+  },
+  {
+    "review": "꽤 재미있는 범죄 영화",
+    "date": "05.08.08",
+    "rating": "10",
+    "author": "kimj****",
+    "review_id": "357515",
+    "movie_id": "29544"
+  }
+]

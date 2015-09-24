@@ -1,0 +1,50 @@
+[
+  {
+    "review": "엠플렉스 고마워요",
+    "date": "12.12.24",
+    "rating": "5",
+    "author": "kdk6****",
+    "review_id": "7037160",
+    "movie_id": "20643"
+  },
+  {
+    "review": "스크린과 비디오의 경계 어디쯤.",
+    "date": "12.03.22",
+    "rating": "1",
+    "author": "pria****",
+    "review_id": "6161106",
+    "movie_id": "20643"
+  },
+  {
+    "review": "제목그데로 떡(!!) 치는 영화..",
+    "date": "08.01.31",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "2392362",
+    "movie_id": "20643"
+  },
+  {
+    "review": "새벽에 안자고 tv보면 이딴걸 보게될때도 있다",
+    "date": "07.03.31",
+    "rating": "1",
+    "author": "nala****",
+    "review_id": "1564108",
+    "movie_id": "20643"
+  },
+  {
+    "review": "선우일란씨 예쁘게 나오셨네",
+    "date": "07.02.03",
+    "rating": "7",
+    "author": "zeed****",
+    "review_id": "1437813",
+    "movie_id": "20643"
+  },
+  {
+    "review": "선우일란을 뒤쫒는 오욱철",
+    "date": "06.12.17",
+    "rating": "6",
+    "author": "ssbn****",
+    "review_id": "1298745",
+    "movie_id": "20643"
+  }
+]

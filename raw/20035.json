@@ -1,0 +1,26 @@
+[
+  {
+    "review": "3등.. 재미없다",
+    "date": "11.01.23",
+    "rating": "1",
+    "author": "kdg0****",
+    "review_id": "5179242",
+    "movie_id": "20035"
+  },
+  {
+    "review": "2등!",
+    "date": "10.01.04",
+    "rating": "10",
+    "author": "vlf1****",
+    "review_id": "4130546",
+    "movie_id": "20035"
+  },
+  {
+    "review": "1등... 이것 또한 새로운 발견 -ㅅ-",
+    "date": "09.01.02",
+    "rating": "10",
+    "author": "msn1****",
+    "review_id": "3177084",
+    "movie_id": "20035"
+  }
+]

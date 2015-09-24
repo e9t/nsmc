@@ -1,0 +1,26 @@
+[
+  {
+    "review": "이 영화 어떻게 구함요...",
+    "date": "13.12.17",
+    "rating": "10",
+    "author": "shee****",
+    "review_id": "8221526",
+    "movie_id": "18675"
+  },
+  {
+    "review": "이 좋은 영화를 한국에서는 호암 아트홀에서 일주일 동안만 상영했었다.",
+    "date": "10.10.11",
+    "rating": "10",
+    "author": "japa****",
+    "review_id": "4897420",
+    "movie_id": "18675"
+  },
+  {
+    "review": "summer kisses winter tears 외에도 남는게 많은 영환데...",
+    "date": "07.02.18",
+    "rating": "7",
+    "author": "rach****",
+    "review_id": "1481812",
+    "movie_id": "18675"
+  }
+]

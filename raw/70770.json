@@ -1,0 +1,34 @@
+[
+  {
+    "review": "몰입도 좋아 잘봤습니다.",
+    "date": "15.04.13",
+    "rating": "9",
+    "author": "yong****",
+    "review_id": "9844861",
+    "movie_id": "70770"
+  },
+  {
+    "review": "평점바뀌나한번한번1점드려봄",
+    "date": "14.01.11",
+    "rating": "1",
+    "author": "pooh****",
+    "review_id": "8368956",
+    "movie_id": "70770"
+  },
+  {
+    "review": "쇼리 예뻐서 무조건 10점",
+    "date": "13.11.03",
+    "rating": "10",
+    "author": "kgmk****",
+    "review_id": "8113576",
+    "movie_id": "70770"
+  },
+  {
+    "review": "와 진짜 개잼잇음",
+    "date": "11.05.08",
+    "rating": "10",
+    "author": "gusa****",
+    "review_id": "5414307",
+    "movie_id": "70770"
+  }
+]

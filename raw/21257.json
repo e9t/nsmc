@@ -1,0 +1,26 @@
+[
+  {
+    "review": "이거 볼 수 있는 방법 없을까여,....",
+    "date": "14.05.17",
+    "rating": "10",
+    "author": "srki****",
+    "review_id": "8739749",
+    "movie_id": "21257"
+  },
+  {
+    "review": "사실... 암튼 10점유지",
+    "date": "13.09.10",
+    "rating": "10",
+    "author": "1pol****",
+    "review_id": "7964012",
+    "movie_id": "21257"
+  },
+  {
+    "review": "빙점 잼있음",
+    "date": "10.02.22",
+    "rating": "10",
+    "author": "alsx****",
+    "review_id": "4309066",
+    "movie_id": "21257"
+  }
+]

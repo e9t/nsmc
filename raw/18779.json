@@ -1,0 +1,26 @@
+[
+  {
+    "review": "이때가 감독님의 베스트",
+    "date": "11.09.22",
+    "rating": "8",
+    "author": "ddgt****",
+    "review_id": "5745173",
+    "movie_id": "18779"
+  },
+  {
+    "review": "잘봤어",
+    "date": "08.07.11",
+    "rating": "10",
+    "author": "bloo****",
+    "review_id": "2753417",
+    "movie_id": "18779"
+  },
+  {
+    "review": "못봤어",
+    "date": "08.01.11",
+    "rating": "1",
+    "author": "wjdt****",
+    "review_id": "2317465",
+    "movie_id": "18779"
+  }
+]

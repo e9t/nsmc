@@ -1,0 +1,42 @@
+[
+  {
+    "review": "작위적이고 밍밍하다",
+    "date": "09.11.30",
+    "rating": "2",
+    "author": "quil****",
+    "review_id": "4005043",
+    "movie_id": "16490"
+  },
+  {
+    "review": "고등학교때 ddr 치려고 빌려봤던 비디오. 의자에서 떡치는 장면이 좋았다.",
+    "date": "08.12.20",
+    "rating": "4",
+    "author": "bepl****",
+    "review_id": "3132077",
+    "movie_id": "16490"
+  },
+  {
+    "review": "그냥 재탕 속편이다...ㅜㅜ",
+    "date": "07.07.16",
+    "rating": "4",
+    "author": "blue****",
+    "review_id": "1781279",
+    "movie_id": "16490"
+  },
+  {
+    "review": "ㅋㅋ",
+    "date": "06.10.22",
+    "rating": "10",
+    "author": "sivo****",
+    "review_id": "1193288",
+    "movie_id": "16490"
+  },
+  {
+    "review": "별로 재미없다",
+    "date": "06.05.13",
+    "rating": "4",
+    "author": "pseu****",
+    "review_id": "798264",
+    "movie_id": "16490"
+  }
+]

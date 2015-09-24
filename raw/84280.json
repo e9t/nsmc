@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9730499",
+    "movie_id": "84280",
+    "author": "eon1****",
+    "review": "꽤 볼만한 일일드라마.",
+    "rating": "10",
+    "date": "15.02.23"
+  },
+  {
+    "review_id": "8956388",
+    "movie_id": "84280",
+    "author": "sorh****",
+    "review": "이런 막장은 제발 이제 그만..",
+    "rating": "1",
+    "date": "14.07.25"
+  },
+  {
+    "review_id": "8806367",
+    "movie_id": "84280",
+    "author": "sung****",
+    "review": "1점 준 인간 때문에 10점 준다...",
+    "rating": "10",
+    "date": "14.06.07"
+  },
+  {
+    "review_id": "6784464",
+    "movie_id": "84280",
+    "author": "iamw****",
+    "review": "밑에놈 때문에 1점 준다",
+    "rating": "1",
+    "date": "12.10.12"
+  },
+  {
+    "review_id": "6232833",
+    "movie_id": "84280",
+    "author": "odjs****",
+    "review": "역시 이창훈은 미중년이다.",
+    "rating": "10",
+    "date": "12.04.19"
+  }
+]

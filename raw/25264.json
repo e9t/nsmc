@@ -1,0 +1,642 @@
+[
+  {
+    "review": "이재은이 엄청 배고픈 시절. 날씬한 거 보소.",
+    "date": "15.08.11",
+    "rating": "3",
+    "author": "pont****",
+    "review_id": "10214880",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이같은 오랜 논란으로 감독,배우 모두 만족할듯한 영화.",
+    "date": "15.07.07",
+    "rating": "1",
+    "author": "ryut****",
+    "review_id": "10079057",
+    "movie_id": "25264"
+  },
+  {
+    "review": "옛말에 쓰레기 눈엔 쓰레기밖에 안보인다고 영화를 보고 평을쓰는건지 야동보고 쓰는건지 모르겠네 대한민국 의식수준이 이토록 쓰레기니 겁나서 옷벗겠나",
+    "date": "15.07.01",
+    "rating": "10",
+    "author": "cho0****",
+    "review_id": "10058779",
+    "movie_id": "25264"
+  },
+  {
+    "review": "누가 이영화를 포르노라 하는가?",
+    "date": "15.06.29",
+    "rating": "9",
+    "author": "wagr****",
+    "review_id": "10053297",
+    "movie_id": "25264"
+  },
+  {
+    "review": "영화 내용자체는 질이 낮지만 그 시대만의 특유한 분위기라던가 염세적인 분위기에 매력이있음 킬링타임 매드무비로 제격 나름 90's 풍도 돋보임 또라이영화라 재밌음",
+    "date": "15.02.17",
+    "rating": "8",
+    "author": "mar9****",
+    "review_id": "9704560",
+    "movie_id": "25264"
+  },
+  {
+    "review": "영화 자체는 B급이지만 특유의 염세적 분위기가 매력적임",
+    "date": "14.09.07",
+    "rating": "7",
+    "author": "boke****",
+    "review_id": "9178513",
+    "movie_id": "25264"
+  },
+  {
+    "review": "킬링타임용으로 괜찮은 매드무비",
+    "date": "14.08.29",
+    "rating": "7",
+    "author": "alst****",
+    "review_id": "9144247",
+    "movie_id": "25264"
+  },
+  {
+    "review": "참 안됬다...가족 때문에;;",
+    "date": "14.08.29",
+    "rating": "10",
+    "author": "cjfg****",
+    "review_id": "9143811",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이게 왜 이렇게 평이 안좋지?",
+    "date": "14.08.29",
+    "rating": "10",
+    "author": "divi****",
+    "review_id": "9143515",
+    "movie_id": "25264"
+  },
+  {
+    "review": "개인적으로 이영화의 뜻을 잘이해할수있었던영화",
+    "date": "14.08.25",
+    "rating": "9",
+    "author": "ssam****",
+    "review_id": "9131507",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은 아.. 지못미다.",
+    "date": "14.07.04",
+    "rating": "6",
+    "author": "clou****",
+    "review_id": "8883004",
+    "movie_id": "25264"
+  },
+  {
+    "review": "당시 아역에서 최고 스타였던 이재은 배울를 망처놓은 영화",
+    "date": "14.06.27",
+    "rating": "1",
+    "author": "lees****",
+    "review_id": "8862102",
+    "movie_id": "25264"
+  },
+  {
+    "review": "난 이 영화보고 이재은 한테 홀딱 반했었는데? 배우 인생 쓰레기라니 너무하네. 한국 사회가 이래서 안되는거다. 성에 억압적인 분위기, 유교적인 분위기가 팽배하는게 너무 싫다.",
+    "date": "14.03.21",
+    "rating": "10",
+    "author": "zera****",
+    "review_id": "8591644",
+    "movie_id": "25264"
+  },
+  {
+    "review": "노랗게 물들인 모발이 손에 쥐어주는 것이 있으랴? 부성애든 인정투쟁에서든",
+    "date": "14.02.10",
+    "rating": "6",
+    "author": "tjrw****",
+    "review_id": "8495998",
+    "movie_id": "25264"
+  },
+  {
+    "review": "당시에 이재은의 과감한 노출로 주목받은 영화",
+    "date": "14.01.02",
+    "rating": "4",
+    "author": "adiv****",
+    "review_id": "8340203",
+    "movie_id": "25264"
+  },
+  {
+    "review": "당시 놀라게 하다.",
+    "date": "13.03.20",
+    "rating": "2",
+    "author": "pria****",
+    "review_id": "7380761",
+    "movie_id": "25264"
+  },
+  {
+    "review": "아역배우의 성인영화 출연 그리고 노출....사람의 궁금증을 유발해 극장유인은 성공했으나....초저예산 저급한 이미지로 원했던거보단 그저그런 애로영화로만 기억되는 영화....패러디물 [노란국물]이 더 회자되고있다.",
+    "date": "13.02.13",
+    "rating": "6",
+    "author": "bajj****",
+    "review_id": "7258682",
+    "movie_id": "25264"
+  },
+  {
+    "review": "아역 배우 이재은 이 영화 끝으로 배우 인생 쓰레기 되었던 최악의 영화",
+    "date": "12.05.30",
+    "rating": "1",
+    "author": "hana****",
+    "review_id": "6349114",
+    "movie_id": "25264"
+  },
+  {
+    "review": "노랑머리 이재은의 파격노출--> 이슈 이슈 핫이슈~",
+    "date": "12.02.27",
+    "rating": "5",
+    "author": "gall****",
+    "review_id": "6108879",
+    "movie_id": "25264"
+  },
+  {
+    "review": "나름 영화 내면에 담고 있는 메시지가 있다.....",
+    "date": "11.10.17",
+    "rating": "7",
+    "author": "ansa****",
+    "review_id": "5794360",
+    "movie_id": "25264"
+  },
+  {
+    "review": "그냥 포르노",
+    "date": "11.04.02",
+    "rating": "2",
+    "author": "inos****",
+    "review_id": "5348349",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은의 알흠다운 ㅅㄱ 쵝오!",
+    "date": "11.01.20",
+    "rating": "10",
+    "author": "save****",
+    "review_id": "5170347",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은은 정말이지 양귀비의 화신~~~아으~~~",
+    "date": "10.11.22",
+    "rating": "10",
+    "author": "vedd****",
+    "review_id": "4980807",
+    "movie_id": "25264"
+  },
+  {
+    "review": "노출 때문에 본거 같다.. 영화 내용이 뭔지 모르겠음..",
+    "date": "10.08.11",
+    "rating": "10",
+    "author": "seot****",
+    "review_id": "4734764",
+    "movie_id": "25264"
+  },
+  {
+    "review": "등보판정을 개봉당시 적극적인 홍보수단으로 이용했단 게 이 영화의 목적을 말해준다",
+    "date": "10.03.26",
+    "rating": "4",
+    "author": "mygr****",
+    "review_id": "4387427",
+    "movie_id": "25264"
+  },
+  {
+    "review": "여배우들 가슴나와서 봄 ㅋㅋ",
+    "date": "09.12.13",
+    "rating": "10",
+    "author": "sky1****",
+    "review_id": "4039540",
+    "movie_id": "25264"
+  },
+  {
+    "review": "나름괜찮았음.물론 시간이 흐른 지금에서야 이 영화의 가치를 좀 느낄것같지만;;",
+    "date": "09.12.13",
+    "rating": "8",
+    "author": "ydr1****",
+    "review_id": "4039458",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이걸 영화본다는 기분으로 본 사람은 거의 없을걸.. 얼만큼 벗느냐가 중요했지 .",
+    "date": "09.05.30",
+    "rating": "4",
+    "author": "imf0****",
+    "review_id": "3531932",
+    "movie_id": "25264"
+  },
+  {
+    "review": "인습이나 도덕적 관념을 던져놓고 바라보자. 야한게 뭐가 문제지? 심리가 살아있는데.",
+    "date": "09.03.13",
+    "rating": "6",
+    "author": "acin****",
+    "review_id": "3363667",
+    "movie_id": "25264"
+  },
+  {
+    "review": "파격적인 노출 외엔 아무것도 느낄 수 없었음. 우리 막나가! 하고 민망하게 외치는 꼴",
+    "date": "09.03.10",
+    "rating": "3",
+    "author": "bepl****",
+    "review_id": "3358074",
+    "movie_id": "25264"
+  },
+  {
+    "review": "유나의 반사이코적인 집착증이 무서웠던영화 연기잘했음 ㄷ",
+    "date": "09.02.09",
+    "rating": "10",
+    "author": "tjem****",
+    "review_id": "3289769",
+    "movie_id": "25264"
+  },
+  {
+    "review": "뭔가 시사하는바가 있던 영화",
+    "date": "09.02.09",
+    "rating": "10",
+    "author": "nayo****",
+    "review_id": "3289767",
+    "movie_id": "25264"
+  },
+  {
+    "review": "군대에서 외박나왔을때 봤던영화......상당히 좋게 봤는데 난",
+    "date": "09.02.09",
+    "rating": "10",
+    "author": "kmc8****",
+    "review_id": "3289764",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은 시도는 좋으나.. 이런영화.. ㅠㅠ 이재은씨 아깝다..",
+    "date": "09.02.09",
+    "rating": "6",
+    "author": "rich****",
+    "review_id": "3289632",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은을 세상에 알린 영화",
+    "date": "08.12.06",
+    "rating": "10",
+    "author": "zldn****",
+    "review_id": "3094005",
+    "movie_id": "25264"
+  },
+  {
+    "review": "가슴은 9점 영화는 1점",
+    "date": "08.12.01",
+    "rating": "1",
+    "author": "bacc****",
+    "review_id": "3083559",
+    "movie_id": "25264"
+  },
+  {
+    "review": "머하자는건지....논란만 끌어보자고?",
+    "date": "08.12.01",
+    "rating": "1",
+    "author": "deep****",
+    "review_id": "3083552",
+    "movie_id": "25264"
+  },
+  {
+    "review": "세상의 편견을 넘기엔 부족한...",
+    "date": "08.07.12",
+    "rating": "3",
+    "author": "meth****",
+    "review_id": "2756757",
+    "movie_id": "25264"
+  },
+  {
+    "review": "으.. 잊을수가없지;;",
+    "date": "08.02.29",
+    "rating": "6",
+    "author": "pksj****",
+    "review_id": "2492299",
+    "movie_id": "25264"
+  },
+  {
+    "review": "영화는 야한데 야한 배우는 없다...",
+    "date": "07.12.12",
+    "rating": "5",
+    "author": "ozfa****",
+    "review_id": "2226250",
+    "movie_id": "25264"
+  },
+  {
+    "review": "말레나는 예술,,,이건 외설,,,",
+    "date": "07.11.22",
+    "rating": "2",
+    "author": "seag****",
+    "review_id": "2173274",
+    "movie_id": "25264"
+  },
+  {
+    "review": "감독의 도마위에서 괜찮은 배우들 난도질 당한영화",
+    "date": "07.11.06",
+    "rating": "1",
+    "author": "stra****",
+    "review_id": "2136869",
+    "movie_id": "25264"
+  },
+  {
+    "review": "그 당시 여친이랑 볼려다가 말았지..;;",
+    "date": "07.10.26",
+    "rating": "2",
+    "author": "2601****",
+    "review_id": "2113696",
+    "movie_id": "25264"
+  },
+  {
+    "review": "관심끌려는거?",
+    "date": "07.09.18",
+    "rating": "4",
+    "author": "golt****",
+    "review_id": "2028417",
+    "movie_id": "25264"
+  },
+  {
+    "review": "당시 아주 논란이 되었던 작품..",
+    "date": "07.09.14",
+    "rating": "10",
+    "author": "wh32****",
+    "review_id": "2019744",
+    "movie_id": "25264"
+  },
+  {
+    "review": "역시 이런 영화는 연출이 상당히 힘들어보인다..전달을 하려고 하긴 했는데.",
+    "date": "07.05.10",
+    "rating": "5",
+    "author": "skat****",
+    "review_id": "1630690",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은이 불쌍하다고 느낀영화-_-",
+    "date": "07.04.21",
+    "rating": "3",
+    "author": "sjej****",
+    "review_id": "1599293",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은씨에게 박수를... 단순히 에로영화가 아니다",
+    "date": "07.03.05",
+    "rating": "10",
+    "author": "ollc****",
+    "review_id": "1520429",
+    "movie_id": "25264"
+  },
+  {
+    "review": "남자가 너무 진따로 나와서 짜증났었다. -_-",
+    "date": "07.01.18",
+    "rating": "6",
+    "author": "jaeb****",
+    "review_id": "1395524",
+    "movie_id": "25264"
+  },
+  {
+    "review": "내용성 전혀 없구 캐스팅을 이재은빼고는 완전 엉망",
+    "date": "07.01.07",
+    "rating": "1",
+    "author": "kjhl****",
+    "review_id": "1364980",
+    "movie_id": "25264"
+  },
+  {
+    "review": "과감한 노출씬 그러나 어설픈 메세지는 모냐",
+    "date": "07.01.07",
+    "rating": "3",
+    "author": "nala****",
+    "review_id": "1363894",
+    "movie_id": "25264"
+  },
+  {
+    "review": "제대로 보면 괜찮다",
+    "date": "06.11.19",
+    "rating": "7",
+    "author": "cheo****",
+    "review_id": "1240281",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이걸 영화라고 포스터 부터 압박적이다",
+    "date": "06.11.12",
+    "rating": "1",
+    "author": "kims****",
+    "review_id": "1229062",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은의 연기력!",
+    "date": "06.10.27",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "1200861",
+    "movie_id": "25264"
+  },
+  {
+    "review": "단순한에로영화가아니다..실험정신이 돋보이는 일탈영화",
+    "date": "06.08.05",
+    "rating": "9",
+    "author": "hide****",
+    "review_id": "972278",
+    "movie_id": "25264"
+  },
+  {
+    "review": "일탈행위를 느낄 수 있었던 영화~",
+    "date": "06.06.21",
+    "rating": "7",
+    "author": "sanj****",
+    "review_id": "851587",
+    "movie_id": "25264"
+  },
+  {
+    "review": "더러운 영화",
+    "date": "06.05.21",
+    "rating": "1",
+    "author": "sara****",
+    "review_id": "810482",
+    "movie_id": "25264"
+  },
+  {
+    "review": "생각있게 만든 영화마냥 치장하긴.쯧쯧.진짜 영 아니올씨다.",
+    "date": "06.04.17",
+    "rating": "1",
+    "author": "pjhl****",
+    "review_id": "765229",
+    "movie_id": "25264"
+  },
+  {
+    "review": "방황하는 젊은이의 갈등을 다룬 그런대로 기억에 남는 영화",
+    "date": "06.04.17",
+    "rating": "7",
+    "author": "bzmj****",
+    "review_id": "765119",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은의 노출조차 없었다면...",
+    "date": "06.02.13",
+    "rating": "5",
+    "author": "qkrs****",
+    "review_id": "668583",
+    "movie_id": "25264"
+  },
+  {
+    "review": "여기저기서 아이디어를 빌려서 짜집기한 영화",
+    "date": "06.01.09",
+    "rating": "1",
+    "author": "kws7****",
+    "review_id": "573860",
+    "movie_id": "25264"
+  },
+  {
+    "review": "우엑~~",
+    "date": "05.12.22",
+    "rating": "1",
+    "author": "boyi****",
+    "review_id": "521424",
+    "movie_id": "25264"
+  },
+  {
+    "review": "노랑머리 - 이재은 = 無",
+    "date": "05.12.05",
+    "rating": "2",
+    "author": "enso****",
+    "review_id": "495459",
+    "movie_id": "25264"
+  },
+  {
+    "review": "엄청짫은런타임 ㅎㅎ 이재은연기굿",
+    "date": "05.12.04",
+    "rating": "10",
+    "author": "jung****",
+    "review_id": "493594",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은이 너무 아까운 영화",
+    "date": "05.10.26",
+    "rating": "6",
+    "author": "card****",
+    "review_id": "455273",
+    "movie_id": "25264"
+  },
+  {
+    "review": "재미 없었다",
+    "date": "05.08.05",
+    "rating": "2",
+    "author": "hell****",
+    "review_id": "352383",
+    "movie_id": "25264"
+  },
+  {
+    "review": "첫작품으로써좀더가벼운걸로하시징.",
+    "date": "05.07.25",
+    "rating": "4",
+    "author": "izzo****",
+    "review_id": "333143",
+    "movie_id": "25264"
+  },
+  {
+    "review": "입 닥치고 이런 영화 찍지마",
+    "date": "05.07.17",
+    "rating": "1",
+    "author": "summ****",
+    "review_id": "325056",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은...",
+    "date": "05.07.01",
+    "rating": "5",
+    "author": "luvi****",
+    "review_id": "310058",
+    "movie_id": "25264"
+  },
+  {
+    "review": "큰 화제만큼의 영화는 절대로 아니다 아쉽다",
+    "date": "05.05.31",
+    "rating": "4",
+    "author": "si2p****",
+    "review_id": "290770",
+    "movie_id": "25264"
+  },
+  {
+    "review": "........",
+    "date": "05.05.09",
+    "rating": "8",
+    "author": "sksg****",
+    "review_id": "274057",
+    "movie_id": "25264"
+  },
+  {
+    "review": "재은아..  왜그랬니..",
+    "date": "05.03.29",
+    "rating": "4",
+    "author": "smil****",
+    "review_id": "249559",
+    "movie_id": "25264"
+  },
+  {
+    "review": "다른 말 필요없는...쓰레기....",
+    "date": "05.01.06",
+    "rating": "1",
+    "author": "best****",
+    "review_id": "178734",
+    "movie_id": "25264"
+  },
+  {
+    "review": "이재은 대단해여",
+    "date": "04.12.27",
+    "rating": "10",
+    "author": "fuck****",
+    "review_id": "170933",
+    "movie_id": "25264"
+  },
+  {
+    "review": "나의사랑스런이재은결혼하고싶다사랑한다이재은",
+    "date": "04.08.17",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "92085",
+    "movie_id": "25264"
+  },
+  {
+    "review": "대담한 이재은에게 박수를..",
+    "date": "04.07.28",
+    "rating": "6",
+    "author": "kjhg****",
+    "review_id": "78748",
+    "movie_id": "25264"
+  },
+  {
+    "review": "어릴때의 이재은은 좋았는데... 너 왜 그렇게 됐니?",
+    "date": "04.07.14",
+    "rating": "1",
+    "author": "kpcc****",
+    "review_id": "70799",
+    "movie_id": "25264"
+  },
+  {
+    "review": "나르시즘을 느끼게 하는..영화인듯.",
+    "date": "04.01.21",
+    "rating": "10",
+    "author": "xkim****",
+    "review_id": "12174",
+    "movie_id": "25264"
+  },
+  {
+    "review": "보이는건 마음으로 느껴야 한다;쾌락주위? 버려진 환경..",
+    "date": "04.01.19",
+    "rating": "10",
+    "author": "suna****",
+    "review_id": "11569",
+    "movie_id": "25264"
+  },
+  {
+    "review": "좋다",
+    "date": "03.12.24",
+    "rating": "7",
+    "author": "jhjo****",
+    "review_id": "5601",
+    "movie_id": "25264"
+  }
+]

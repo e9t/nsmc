@@ -1,0 +1,42 @@
+[
+  {
+    "review": "정말 내겐 너무 사랑스러웠던 장나라...",
+    "date": "15.04.20",
+    "rating": "10",
+    "author": "ro24****",
+    "review_id": "9854121",
+    "movie_id": "38812"
+  },
+  {
+    "review": "역시 연정훈이 주연인 드라마는 다 재밌어.",
+    "date": "12.01.23",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "6012538",
+    "movie_id": "38812"
+  },
+  {
+    "review": "멋있어요.!",
+    "date": "05.10.22",
+    "rating": "10",
+    "author": "nara****",
+    "review_id": "451603",
+    "movie_id": "38812"
+  },
+  {
+    "review": "안타깝다 장나라...",
+    "date": "05.02.08",
+    "rating": "6",
+    "author": "yoju****",
+    "review_id": "212957",
+    "movie_id": "38812"
+  },
+  {
+    "review": "연정훈이랑 , 연하늘이라는 배역이 되게 잘 맞는 것 같아요♡ 되게 멋짐",
+    "date": "04.09.07",
+    "rating": "10",
+    "author": "dbac****",
+    "review_id": "104203",
+    "movie_id": "38812"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "review": "이건...OO입니다",
+    "date": "09.06.08",
+    "rating": "10",
+    "author": "wkdt****",
+    "review_id": "3553768",
+    "movie_id": "21665"
+  },
+  {
+    "review": "이건 좀.... 지루함",
+    "date": "09.03.15",
+    "rating": "3",
+    "author": "sion****",
+    "review_id": "3367823",
+    "movie_id": "21665"
+  },
+  {
+    "review": "내가 첨이넴 ~",
+    "date": "08.07.08",
+    "rating": "10",
+    "author": "jjkl****",
+    "review_id": "2747757",
+    "movie_id": "21665"
+  }
+]

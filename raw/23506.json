@@ -1,0 +1,26 @@
+[
+  {
+    "review": "대한독립 만세~ 이순신 장군 만세",
+    "date": "15.03.03",
+    "rating": "10",
+    "author": "agne****",
+    "review_id": "9753660",
+    "movie_id": "23506"
+  },
+  {
+    "review": "나도",
+    "date": "13.07.02",
+    "rating": "1",
+    "author": "whak****",
+    "review_id": "7698827",
+    "movie_id": "23506"
+  },
+  {
+    "review": "보고싶다",
+    "date": "13.07.02",
+    "rating": "1",
+    "author": "audw****",
+    "review_id": "7698821",
+    "movie_id": "23506"
+  }
+]

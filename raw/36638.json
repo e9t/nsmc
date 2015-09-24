@@ -1,0 +1,786 @@
+[
+  {
+    "review": "잘만든 영화는 맞지만... 왜이렇게 지루하고 몰입이 안되는걸까?!",
+    "date": "15.01.21",
+    "rating": "5",
+    "author": "sinb****",
+    "review_id": "9618666",
+    "movie_id": "36638"
+  },
+  {
+    "review": "브래드피트가 나온다  침체기에 손댄 cia 잘나갈때 위험이 엄습해온다",
+    "date": "15.01.07",
+    "rating": "10",
+    "author": "hose****",
+    "review_id": "9569650",
+    "movie_id": "36638"
+  },
+  {
+    "review": "조지에게라면 이런 따분한 영화를 만들 권리가 있지",
+    "date": "14.12.22",
+    "rating": "1",
+    "author": "hrns****",
+    "review_id": "9500038",
+    "movie_id": "36638"
+  },
+  {
+    "review": "꽤나 괜찮은 영화....가벼워 보이지만 나름 진지한...좋왔음",
+    "date": "14.12.20",
+    "rating": "8",
+    "author": "park****",
+    "review_id": "9491487",
+    "movie_id": "36638"
+  },
+  {
+    "review": "참신한 소재와 여러가지 생각할 꺼리를 주는 영화",
+    "date": "14.04.13",
+    "rating": "9",
+    "author": "ykdi****",
+    "review_id": "8648523",
+    "movie_id": "36638"
+  },
+  {
+    "review": "이 정도면 재밌지 그냥 딱 재미있는 영화",
+    "date": "13.11.03",
+    "rating": "8",
+    "author": "magd****",
+    "review_id": "8111679",
+    "movie_id": "36638"
+  },
+  {
+    "review": "평점이 너무 낮아서",
+    "date": "12.07.27",
+    "rating": "10",
+    "author": "rhfl****",
+    "review_id": "6541760",
+    "movie_id": "36638"
+  },
+  {
+    "review": "양념이 너무 가미되서 실화의 본 맛을 떨어뜨린 클루니감독의 망작..",
+    "date": "12.05.12",
+    "rating": "2",
+    "author": "ykm3****",
+    "review_id": "6291407",
+    "movie_id": "36638"
+  },
+  {
+    "review": "스토리만으론 부족해서 배우들의 명성에 기대려 했지만 역부족이었다",
+    "date": "12.04.18",
+    "rating": "6",
+    "author": "cont****",
+    "review_id": "6231727",
+    "movie_id": "36638"
+  },
+  {
+    "review": "킬러 척배리스가 아닌 쇼든 자서전이든 상업적인 척배리스의 모습이 안타깝다",
+    "date": "12.03.26",
+    "rating": "8",
+    "author": "wlfa****",
+    "review_id": "6170717",
+    "movie_id": "36638"
+  },
+  {
+    "review": "토해",
+    "date": "12.03.22",
+    "rating": "1",
+    "author": "dbzh****",
+    "review_id": "6160534",
+    "movie_id": "36638"
+  },
+  {
+    "review": "평점이 너무 낮네",
+    "date": "11.12.22",
+    "rating": "10",
+    "author": "magi****",
+    "review_id": "5922874",
+    "movie_id": "36638"
+  },
+  {
+    "review": "영화가 다루는 소재에 비해 가볍게 볼 수 있는게 아쉽게 느껴진다",
+    "date": "11.07.04",
+    "rating": "6",
+    "author": "kimg****",
+    "review_id": "5521377",
+    "movie_id": "36638"
+  },
+  {
+    "review": "샘락웰오빠 귀요미! 찰리카프만!",
+    "date": "11.05.07",
+    "rating": "9",
+    "author": "gamj****",
+    "review_id": "5412418",
+    "movie_id": "36638"
+  },
+  {
+    "review": "화려한 캐스팅, 카우프만 각본에 비하면 아쉽지만, 조지 클루니의 성공적인 데뷔작",
+    "date": "10.12.14",
+    "rating": "8",
+    "author": "rush****",
+    "review_id": "5054096",
+    "movie_id": "36638"
+  },
+  {
+    "review": "최고의 영화였다...",
+    "date": "10.03.20",
+    "rating": "10",
+    "author": "dltj****",
+    "review_id": "4370520",
+    "movie_id": "36638"
+  },
+  {
+    "review": "평점 높다",
+    "date": "10.03.18",
+    "rating": "1",
+    "author": "blue****",
+    "review_id": "4365370",
+    "movie_id": "36638"
+  },
+  {
+    "review": "가벼운 듯 재치있고, 진지하면서도 웃기다. 인상적인 감독 데뷔작",
+    "date": "10.02.12",
+    "rating": "10",
+    "author": "heod****",
+    "review_id": "4271913",
+    "movie_id": "36638"
+  },
+  {
+    "review": "어디까지가 진실일까? 감독 클루니도 좋구나",
+    "date": "10.02.03",
+    "rating": "10",
+    "author": "bajj****",
+    "review_id": "4241367",
+    "movie_id": "36638"
+  },
+  {
+    "review": "와 진짜 재미있다... 철학적내용까지",
+    "date": "09.11.06",
+    "rating": "10",
+    "author": "leel****",
+    "review_id": "3941014",
+    "movie_id": "36638"
+  },
+  {
+    "review": "진짜 재밌게봤는데",
+    "date": "09.11.02",
+    "rating": "10",
+    "author": "ddab****",
+    "review_id": "3933623",
+    "movie_id": "36638"
+  },
+  {
+    "review": "컨페션, 말 그대로 척 배리스라는 한 남자의 고백 뒤에 숨어있는 약간의 반전도 재미.",
+    "date": "09.10.15",
+    "rating": "8",
+    "author": "mode****",
+    "review_id": "3894151",
+    "movie_id": "36638"
+  },
+  {
+    "review": "그의 인생 자체가 한 편의 쇼! 굿~",
+    "date": "09.10.14",
+    "rating": "10",
+    "author": "dlrh****",
+    "review_id": "3891695",
+    "movie_id": "36638"
+  },
+  {
+    "review": "브래드피트와 맷데이먼을 두고 뚱보를 고르는 데이링게임~",
+    "date": "09.08.24",
+    "rating": "8",
+    "author": "bbq2****",
+    "review_id": "3782897",
+    "movie_id": "36638"
+  },
+  {
+    "review": "대체 무엇을 말하려했는지.. 그냥 눈으로 즐기는 영화라면 실패다!",
+    "date": "09.03.21",
+    "rating": "5",
+    "author": "tleh****",
+    "review_id": "3378119",
+    "movie_id": "36638"
+  },
+  {
+    "review": "흥미로운 소재였지만, 조잡하고 볼것없는 영상에 지루함만 쌓였다.",
+    "date": "09.02.19",
+    "rating": "7",
+    "author": "neol****",
+    "review_id": "3316741",
+    "movie_id": "36638"
+  },
+  {
+    "review": "지루한 느낌이다. 흥미롭지만,,,",
+    "date": "09.02.17",
+    "rating": "6",
+    "author": "ttws****",
+    "review_id": "3310861",
+    "movie_id": "36638"
+  },
+  {
+    "review": "즐거움과 괴로움...척 배리스 그에게 남은 것은??",
+    "date": "08.03.30",
+    "rating": "7",
+    "author": "egyp****",
+    "review_id": "2549536",
+    "movie_id": "36638"
+  },
+  {
+    "review": "장르가.. 코미디인게 이영화의 유일한 단점이다.",
+    "date": "08.02.03",
+    "rating": "10",
+    "author": "csw1****",
+    "review_id": "2404814",
+    "movie_id": "36638"
+  },
+  {
+    "review": "꽤 인상적인 마무리였어. 그정도?",
+    "date": "08.01.23",
+    "rating": "7",
+    "author": "lafg****",
+    "review_id": "2362823",
+    "movie_id": "36638"
+  },
+  {
+    "review": "주된 잡설 속 스타군단 보기와 가볍지만 충실할 줄은 아는 데뷔작",
+    "date": "07.11.20",
+    "rating": "6",
+    "author": "paci****",
+    "review_id": "2168043",
+    "movie_id": "36638"
+  },
+  {
+    "review": "굿!",
+    "date": "07.11.10",
+    "rating": "10",
+    "author": "yong****",
+    "review_id": "2141877",
+    "movie_id": "36638"
+  },
+  {
+    "review": "어느 정도만 넘기면 미칠듯이 빨아들이는 흡입력",
+    "date": "07.10.13",
+    "rating": "8",
+    "author": "1986****",
+    "review_id": "2087202",
+    "movie_id": "36638"
+  },
+  {
+    "review": "크게 기대하지 않았었는데 근래에 드물게 처음부터 끝까지 몰입해서 본 영화",
+    "date": "07.09.16",
+    "rating": "9",
+    "author": "cosm****",
+    "review_id": "2025550",
+    "movie_id": "36638"
+  },
+  {
+    "review": "흐흠 솔직히 너무 조잡스럽다...긴장감도없고",
+    "date": "07.08.13",
+    "rating": "1",
+    "author": "dj16****",
+    "review_id": "1931340",
+    "movie_id": "36638"
+  },
+  {
+    "review": "연기, 영상, 재미. 난 너무 좋았는데 평점왜이래?",
+    "date": "07.08.04",
+    "rating": "10",
+    "author": "00al****",
+    "review_id": "1877269",
+    "movie_id": "36638"
+  },
+  {
+    "review": "이건 너무하네요..즐길영화를 보실분은 이영화는 비추입니다.",
+    "date": "07.08.04",
+    "rating": "1",
+    "author": "baek****",
+    "review_id": "1868865",
+    "movie_id": "36638"
+  },
+  {
+    "review": "기억으로는 재미없다는 생각만 남는군",
+    "date": "07.07.28",
+    "rating": "5",
+    "author": "deff****",
+    "review_id": "1820971",
+    "movie_id": "36638"
+  },
+  {
+    "review": "조지클루니...호오...",
+    "date": "07.03.18",
+    "rating": "9",
+    "author": "fore****",
+    "review_id": "1541703",
+    "movie_id": "36638"
+  },
+  {
+    "review": "재밌는데 남는게 없는거 같은 영화,,",
+    "date": "07.01.19",
+    "rating": "7",
+    "author": "one1****",
+    "review_id": "1396765",
+    "movie_id": "36638"
+  },
+  {
+    "review": "살인과 사람을 이용한 티비쇼 프로그램은 다르지 않았다",
+    "date": "07.01.13",
+    "rating": "9",
+    "author": "itsm****",
+    "review_id": "1379843",
+    "movie_id": "36638"
+  },
+  {
+    "review": "위험한 정신과 웃기는 행동. 인간이 다 그렇지.",
+    "date": "07.01.08",
+    "rating": "8",
+    "author": "teo0****",
+    "review_id": "1367017",
+    "movie_id": "36638"
+  },
+  {
+    "review": "시나리오와 캐릭터의 승리. 재미있다.",
+    "date": "07.01.07",
+    "rating": "8",
+    "author": "kalh****",
+    "review_id": "1364896",
+    "movie_id": "36638"
+  },
+  {
+    "review": "꼭 잘 보고..느끼고..말하자..",
+    "date": "06.11.05",
+    "rating": "10",
+    "author": "hide****",
+    "review_id": "1217459",
+    "movie_id": "36638"
+  },
+  {
+    "review": "이야기를풀어갈줄아는작가인데,카우프만각본이라 더실망",
+    "date": "06.10.31",
+    "rating": "5",
+    "author": "bebe****",
+    "review_id": "1208622",
+    "movie_id": "36638"
+  },
+  {
+    "review": "인생무상..사는게 즐거울수만은 없지...",
+    "date": "06.09.26",
+    "rating": "8",
+    "author": "jaux****",
+    "review_id": "1143296",
+    "movie_id": "36638"
+  },
+  {
+    "review": "실망...",
+    "date": "06.09.21",
+    "rating": "4",
+    "author": "kmg5****",
+    "review_id": "1134824",
+    "movie_id": "36638"
+  },
+  {
+    "review": "아 이거 기억하고 싶지 않은... 상당히 지루했던 거 밖에",
+    "date": "06.07.24",
+    "rating": "1",
+    "author": "char****",
+    "review_id": "918256",
+    "movie_id": "36638"
+  },
+  {
+    "review": "조금 지루하기는 했지만 괜찮았다.",
+    "date": "06.07.15",
+    "rating": "9",
+    "author": "grea****",
+    "review_id": "894575",
+    "movie_id": "36638"
+  },
+  {
+    "review": "꼭 dvd 서플먼트를 볼 것. 조금 의욕이 앞섰지만 그래도 굿!",
+    "date": "06.05.20",
+    "rating": "8",
+    "author": "donj****",
+    "review_id": "807556",
+    "movie_id": "36638"
+  },
+  {
+    "review": "브레드피트...ㅋㅋㅋㅋ놀랐다",
+    "date": "06.03.28",
+    "rating": "8",
+    "author": "maya****",
+    "review_id": "738562",
+    "movie_id": "36638"
+  },
+  {
+    "review": "재미가 있다.",
+    "date": "06.03.25",
+    "rating": "10",
+    "author": "aaal****",
+    "review_id": "734096",
+    "movie_id": "36638"
+  },
+  {
+    "review": "이렇게 멋진 배우들로 이렇게 지루할수 있다니.",
+    "date": "06.01.25",
+    "rating": "3",
+    "author": "cher****",
+    "review_id": "619233",
+    "movie_id": "36638"
+  },
+  {
+    "review": "좋은 시나리오로 연출 망친 아쉬움..",
+    "date": "06.01.14",
+    "rating": "6",
+    "author": "blue****",
+    "review_id": "586557",
+    "movie_id": "36638"
+  },
+  {
+    "review": "배우들의 색깔있는 연기 만으로도 굿!!",
+    "date": "05.11.27",
+    "rating": "8",
+    "author": "qudt****",
+    "review_id": "486379",
+    "movie_id": "36638"
+  },
+  {
+    "review": "기대도 않했는데...재미있었다!! 조지클루니 다시 봤는데~",
+    "date": "05.11.22",
+    "rating": "10",
+    "author": "autn****",
+    "review_id": "482018",
+    "movie_id": "36638"
+  },
+  {
+    "review": "좀 지루했따~",
+    "date": "05.11.17",
+    "rating": "6",
+    "author": "perz****",
+    "review_id": "476987",
+    "movie_id": "36638"
+  },
+  {
+    "review": "조지 클루니의 데뷔는 화려 하지만 그리 재밌지는 않다",
+    "date": "05.10.15",
+    "rating": "5",
+    "author": "okjo****",
+    "review_id": "443663",
+    "movie_id": "36638"
+  },
+  {
+    "review": "카우프만의 각본을 코엔과 소더버그식으로 연출한 조지 클루니",
+    "date": "05.09.29",
+    "rating": "8",
+    "author": "jals****",
+    "review_id": "426658",
+    "movie_id": "36638"
+  },
+  {
+    "review": "최고의 배우들을 가지고도 잼없는 영화가 있다는 것을 알았다",
+    "date": "05.09.24",
+    "rating": "6",
+    "author": "idda****",
+    "review_id": "420713",
+    "movie_id": "36638"
+  },
+  {
+    "review": "이런영화가 잼없다면 이세상에 잼잇는영화가 있을까?",
+    "date": "05.08.30",
+    "rating": "10",
+    "author": "lees****",
+    "review_id": "388446",
+    "movie_id": "36638"
+  },
+  {
+    "review": "출연진이 화려해서 기대하고 봤는데 그냥 무난함",
+    "date": "05.07.25",
+    "rating": "6",
+    "author": "hell****",
+    "review_id": "333318",
+    "movie_id": "36638"
+  },
+  {
+    "review": "왠지모를 여운이 남는다.",
+    "date": "05.05.23",
+    "rating": "8",
+    "author": "ecla****",
+    "review_id": "284431",
+    "movie_id": "36638"
+  },
+  {
+    "review": "지루하지만 그래도 볼만함",
+    "date": "05.05.10",
+    "rating": "10",
+    "author": "gita****",
+    "review_id": "275321",
+    "movie_id": "36638"
+  },
+  {
+    "review": "8~9점 정도는 되야하는영화. 조지클루니 실력있네.",
+    "date": "05.04.21",
+    "rating": "10",
+    "author": "same****",
+    "review_id": "263354",
+    "movie_id": "36638"
+  },
+  {
+    "review": "진흙속에서 우연히 찾아낸 진주..",
+    "date": "05.03.31",
+    "rating": "10",
+    "author": "popb****",
+    "review_id": "250802",
+    "movie_id": "36638"
+  },
+  {
+    "review": "흥행에 실패한 것이 안타까울 뿐이다.",
+    "date": "05.03.27",
+    "rating": "9",
+    "author": "jcr3****",
+    "review_id": "248436",
+    "movie_id": "36638"
+  },
+  {
+    "review": "그네들의 생활에 거부감과 지루함이 든다. 영화는 괜찮았다.",
+    "date": "05.03.26",
+    "rating": "7",
+    "author": "kimj****",
+    "review_id": "247122",
+    "movie_id": "36638"
+  },
+  {
+    "review": "괴리감, 피곤함, 지루함을 참게 해주는 신선함이 있음",
+    "date": "05.03.22",
+    "rating": "7",
+    "author": "msum****",
+    "review_id": "245409",
+    "movie_id": "36638"
+  },
+  {
+    "review": "뭔가 재치있고 괜찮지만 엉성한 구성",
+    "date": "05.03.14",
+    "rating": "7",
+    "author": "hdsu****",
+    "review_id": "240775",
+    "movie_id": "36638"
+  },
+  {
+    "review": "이해하기 힘든 엉성한 구성",
+    "date": "05.03.10",
+    "rating": "7",
+    "author": "hkkr****",
+    "review_id": "238353",
+    "movie_id": "36638"
+  },
+  {
+    "review": "시대적 배경은 잘 살렸으나 엉성한 각본이란..",
+    "date": "05.03.06",
+    "rating": "7",
+    "author": "p1ns****",
+    "review_id": "236518",
+    "movie_id": "36638"
+  },
+  {
+    "review": "할리웃 영화라 그런가? 전문가집단.. 우리영화 사랑 좀 해줘..",
+    "date": "05.03.06",
+    "rating": "7",
+    "author": "bern****",
+    "review_id": "236297",
+    "movie_id": "36638"
+  },
+  {
+    "review": "이 영화의 적정 점수는 7점대",
+    "date": "05.03.04",
+    "rating": "10",
+    "author": "kori****",
+    "review_id": "235032",
+    "movie_id": "36638"
+  },
+  {
+    "review": "삶에서 연민만큼 깊은감정은 없다.대상이 타인이든 자기자신이든",
+    "date": "05.02.13",
+    "rating": "10",
+    "author": "tjsd****",
+    "review_id": "218834",
+    "movie_id": "36638"
+  },
+  {
+    "review": "배우들의 연기는 좋았으나 다소 실망스러운 작품",
+    "date": "05.02.09",
+    "rating": "5",
+    "author": "kate****",
+    "review_id": "213863",
+    "movie_id": "36638"
+  },
+  {
+    "review": "꽤잘만들었음..",
+    "date": "05.02.02",
+    "rating": "8",
+    "author": "sasi****",
+    "review_id": "204887",
+    "movie_id": "36638"
+  },
+  {
+    "review": "어두운영화.불건전한장면 별로보기안좋음",
+    "date": "05.01.23",
+    "rating": "1",
+    "author": "kitt****",
+    "review_id": "194087",
+    "movie_id": "36638"
+  },
+  {
+    "review": "조지클루니의 성공적 감독 데뷔 축하!!!",
+    "date": "05.01.15",
+    "rating": "9",
+    "author": "royo****",
+    "review_id": "186039",
+    "movie_id": "36638"
+  },
+  {
+    "review": "그리 칭찬 할만한 영화는 아닌듯..",
+    "date": "04.11.16",
+    "rating": "6",
+    "author": "wen1****",
+    "review_id": "146923",
+    "movie_id": "36638"
+  },
+  {
+    "review": "잼나던데.. 한 사람의 일대기. 믿기지도 않지만..",
+    "date": "04.11.06",
+    "rating": "10",
+    "author": "colo****",
+    "review_id": "140389",
+    "movie_id": "36638"
+  },
+  {
+    "review": "괜찮군요.나름데로해피엔딩이고.척베리스란사람을잘안다면더재밌을거같네요.",
+    "date": "04.09.14",
+    "rating": "10",
+    "author": "tlsu****",
+    "review_id": "108120",
+    "movie_id": "36638"
+  },
+  {
+    "review": "네티즌 리뷰에 \"hhoper\"님 말에 올인 별로 권하고싶지 않은영화",
+    "date": "04.09.04",
+    "rating": "5",
+    "author": "ks30****",
+    "review_id": "102619",
+    "movie_id": "36638"
+  },
+  {
+    "review": "샘 락웰에 올인",
+    "date": "04.08.30",
+    "rating": "7",
+    "author": "thin****",
+    "review_id": "99841",
+    "movie_id": "36638"
+  },
+  {
+    "review": "재밌게 봤습니다!! 추천하는 영화~!",
+    "date": "04.08.25",
+    "rating": "9",
+    "author": "mcja****",
+    "review_id": "96511",
+    "movie_id": "36638"
+  },
+  {
+    "review": "잘 모르겠다.. 재미도, 긴장감도.. 나는 별로...",
+    "date": "04.08.16",
+    "rating": "4",
+    "author": "lall****",
+    "review_id": "91442",
+    "movie_id": "36638"
+  },
+  {
+    "review": "영화 헛봤네..내가 집중을 못한건지.. 영화가 엉성한건지..",
+    "date": "04.08.09",
+    "rating": "2",
+    "author": "doji****",
+    "review_id": "87409",
+    "movie_id": "36638"
+  },
+  {
+    "review": "그다지..추천하지 않은 작품~실화를 바탕으로 한영화",
+    "date": "04.08.07",
+    "rating": "5",
+    "author": "newa****",
+    "review_id": "85302",
+    "movie_id": "36638"
+  },
+  {
+    "review": "완성도 높은 영화 추천합니다!!!",
+    "date": "04.08.04",
+    "rating": "10",
+    "author": "gack****",
+    "review_id": "83183",
+    "movie_id": "36638"
+  },
+  {
+    "review": "재미도 있고, 심리 묘사도 괜찮지만 진행이 다소 산만한...",
+    "date": "04.07.16",
+    "rating": "8",
+    "author": "cool****",
+    "review_id": "71834",
+    "movie_id": "36638"
+  },
+  {
+    "review": "미친상상의 천재적표현",
+    "date": "04.07.15",
+    "rating": "9",
+    "author": "xaax****",
+    "review_id": "71047",
+    "movie_id": "36638"
+  },
+  {
+    "review": "조지클루니가 꽤 괜찮은 영화를 만들었군- 외로운 영화!",
+    "date": "04.07.14",
+    "rating": "9",
+    "author": "polo****",
+    "review_id": "70321",
+    "movie_id": "36638"
+  },
+  {
+    "review": "이 영화가 왜 별 두개일까? 이해할 수 없음..",
+    "date": "04.06.20",
+    "rating": "8",
+    "author": "ipar****",
+    "review_id": "57302",
+    "movie_id": "36638"
+  },
+  {
+    "review": "난 상당히 괜찮게 봤던 기억이.. 샘 록웰 연기 굿~",
+    "date": "04.05.13",
+    "rating": "8",
+    "author": "meme****",
+    "review_id": "42876",
+    "movie_id": "36638"
+  },
+  {
+    "review": "척 배리스의 연기를 훌륭하게 소화한 샘 록웰!",
+    "date": "04.02.02",
+    "rating": "7",
+    "author": "ruby****",
+    "review_id": "15296",
+    "movie_id": "36638"
+  },
+  {
+    "review": "좀 싸이고코 적인데가 있는 영화..",
+    "date": "04.02.02",
+    "rating": "2",
+    "author": "grea****",
+    "review_id": "15188",
+    "movie_id": "36638"
+  },
+  {
+    "review": "너무 재미없어서 보다가 말았습니다.참고 끝까지 보기엔 시간이 아까워서.",
+    "date": "04.01.28",
+    "rating": "1",
+    "author": "rosk****",
+    "review_id": "13903",
+    "movie_id": "36638"
+  },
+  {
+    "review": "약간은 난해한...하지만 요즘 내모습을 보면 척이 나쁜진 않아보인다.^^",
+    "date": "04.01.05",
+    "rating": "4",
+    "author": "wimw****",
+    "review_id": "8653",
+    "movie_id": "36638"
+  }
+]

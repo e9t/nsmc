@@ -1,0 +1,562 @@
+[
+  {
+    "review": "좋군요",
+    "date": "06.11.28",
+    "rating": "10",
+    "author": "mate****",
+    "review_id": "1255792",
+    "movie_id": "34731"
+  },
+  {
+    "review": "동음이의어의 힘!! 디테일한 소품에 감동+_+",
+    "date": "06.11.20",
+    "rating": "10",
+    "author": "oden****",
+    "review_id": "1243578",
+    "movie_id": "34731"
+  },
+  {
+    "review": "완전 노가다 하셨네요  굳굳굳...",
+    "date": "06.11.16",
+    "rating": "10",
+    "author": "gara****",
+    "review_id": "1235041",
+    "movie_id": "34731"
+  },
+  {
+    "review": "하하 정말 기발한 아이디어 들이네요 ^^ 재미있게 잘봤습니다",
+    "date": "06.11.10",
+    "rating": "10",
+    "author": "shot****",
+    "review_id": "1225514",
+    "movie_id": "34731"
+  },
+  {
+    "review": "아기자기하다...슬픈현실을 잘 보여주는듯",
+    "date": "06.11.07",
+    "rating": "8",
+    "author": "lllm****",
+    "review_id": "1221431",
+    "movie_id": "34731"
+  },
+  {
+    "review": "멋지네요^^",
+    "date": "06.10.15",
+    "rating": "10",
+    "author": "ouio****",
+    "review_id": "1183017",
+    "movie_id": "34731"
+  },
+  {
+    "review": "볼거리 못지 않게 발상의 신선함과 메시지도 빛난다.",
+    "date": "06.10.09",
+    "rating": "7",
+    "author": "hadl****",
+    "review_id": "1173264",
+    "movie_id": "34731"
+  },
+  {
+    "review": "졍말 소품들도 섬세하고 내용도 재미나고 좋아요^^",
+    "date": "06.10.08",
+    "rating": "10",
+    "author": "nova****",
+    "review_id": "1171719",
+    "movie_id": "34731"
+  },
+  {
+    "review": "처음에 너무 귀여워서 웃음이..그런데 팍팍한 생활이 보이네요",
+    "date": "06.09.30",
+    "rating": "10",
+    "author": "min8****",
+    "review_id": "1151343",
+    "movie_id": "34731"
+  },
+  {
+    "review": "귀엽지만 소름돋게 톡톡튀는 작품",
+    "date": "06.09.29",
+    "rating": "6",
+    "author": "okjo****",
+    "review_id": "1148858",
+    "movie_id": "34731"
+  },
+  {
+    "review": "마지막에 반전까지 정말 아이디어 좋습니다 ^ ^",
+    "date": "06.09.07",
+    "rating": "10",
+    "author": "ymlo****",
+    "review_id": "1108823",
+    "movie_id": "34731"
+  },
+  {
+    "review": "내용도, 디테일도 멋집니다.",
+    "date": "06.08.28",
+    "rating": "10",
+    "author": "rimb****",
+    "review_id": "1086595",
+    "movie_id": "34731"
+  },
+  {
+    "review": "재밌게 잘봤습니다. 세심한 부분도 신경을 잘 쓰신 거 같아여",
+    "date": "06.08.28",
+    "rating": "10",
+    "author": "rice****",
+    "review_id": "1086205",
+    "movie_id": "34731"
+  },
+  {
+    "review": "참 재밌네요..아이디어가 참...",
+    "date": "06.08.28",
+    "rating": "10",
+    "author": "hsj7****",
+    "review_id": "1085932",
+    "movie_id": "34731"
+  },
+  {
+    "review": "수고하셨네요~^^;;",
+    "date": "06.08.27",
+    "rating": "10",
+    "author": "snak****",
+    "review_id": "1085280",
+    "movie_id": "34731"
+  },
+  {
+    "review": "잼나네요",
+    "date": "06.08.27",
+    "rating": "10",
+    "author": "bolt****",
+    "review_id": "1084178",
+    "movie_id": "34731"
+  },
+  {
+    "review": "후후훗재밌게보구가요ㅋㅋㅋ",
+    "date": "06.08.27",
+    "rating": "10",
+    "author": "nele****",
+    "review_id": "1084162",
+    "movie_id": "34731"
+  },
+  {
+    "review": "굿",
+    "date": "06.08.27",
+    "rating": "10",
+    "author": "dbsr****",
+    "review_id": "1083023",
+    "movie_id": "34731"
+  },
+  {
+    "review": "수고하셨습니다. 멋지네요^^",
+    "date": "06.08.26",
+    "rating": "10",
+    "author": "sm6s****",
+    "review_id": "1080958",
+    "movie_id": "34731"
+  },
+  {
+    "review": "기발하고 잼있어요!! 화이팅!!",
+    "date": "06.08.26",
+    "rating": "9",
+    "author": "deer****",
+    "review_id": "1080331",
+    "movie_id": "34731"
+  },
+  {
+    "review": "어느가수의뮤비에서호응이대단함",
+    "date": "06.08.26",
+    "rating": "10",
+    "author": "sbw8****",
+    "review_id": "1078844",
+    "movie_id": "34731"
+  },
+  {
+    "review": "이야~~정말 재미있어요_뭔가 주는것 같기도 같고~ 꼭 성공하세요",
+    "date": "06.08.24",
+    "rating": "10",
+    "author": "ddon****",
+    "review_id": "1074738",
+    "movie_id": "34731"
+  },
+  {
+    "review": "굳ㅠ",
+    "date": "06.08.24",
+    "rating": "9",
+    "author": "awin****",
+    "review_id": "1074699",
+    "movie_id": "34731"
+  },
+  {
+    "review": "아이디어가 참 좋네요.",
+    "date": "06.08.24",
+    "rating": "10",
+    "author": "jinw****",
+    "review_id": "1073657",
+    "movie_id": "34731"
+  },
+  {
+    "review": "나를 감동시키는군요.",
+    "date": "06.08.23",
+    "rating": "10",
+    "author": "firm****",
+    "review_id": "1070938",
+    "movie_id": "34731"
+  },
+  {
+    "review": "zzz",
+    "date": "06.08.23",
+    "rating": "8",
+    "author": "wngh****",
+    "review_id": "1070516",
+    "movie_id": "34731"
+  },
+  {
+    "review": "thank you! very good job ^^",
+    "date": "06.08.23",
+    "rating": "10",
+    "author": "sjm9****",
+    "review_id": "1069994",
+    "movie_id": "34731"
+  },
+  {
+    "review": "유쾌!",
+    "date": "06.08.22",
+    "rating": "9",
+    "author": "yunn****",
+    "review_id": "1069235",
+    "movie_id": "34731"
+  },
+  {
+    "review": "모두가 꼭 보았으면 하는 영화.",
+    "date": "06.08.20",
+    "rating": "10",
+    "author": "sanf****",
+    "review_id": "1061284",
+    "movie_id": "34731"
+  },
+  {
+    "review": "참 재미있었어요",
+    "date": "06.08.18",
+    "rating": "10",
+    "author": "jung****",
+    "review_id": "1052910",
+    "movie_id": "34731"
+  },
+  {
+    "review": "발상이 신선합니다. 재미있습니다.",
+    "date": "06.08.15",
+    "rating": "8",
+    "author": "aeky****",
+    "review_id": "1036230",
+    "movie_id": "34731"
+  },
+  {
+    "review": "얄팍한 현실도피네요..똑같은 자리를 맴도는.. 잘봤습니다.",
+    "date": "06.08.15",
+    "rating": "8",
+    "author": "woon****",
+    "review_id": "1035325",
+    "movie_id": "34731"
+  },
+  {
+    "review": "잘봤습니다",
+    "date": "06.08.15",
+    "rating": "10",
+    "author": "cjy7****",
+    "review_id": "1033103",
+    "movie_id": "34731"
+  },
+  {
+    "review": "다이나믹듀오-불면증뮤직비디오가 이 영화일줄은...잘봤습니다",
+    "date": "06.08.12",
+    "rating": "10",
+    "author": "mstd****",
+    "review_id": "1004241",
+    "movie_id": "34731"
+  },
+  {
+    "review": "씁쓸하네요...",
+    "date": "06.08.11",
+    "rating": "10",
+    "author": "shal****",
+    "review_id": "999976",
+    "movie_id": "34731"
+  },
+  {
+    "review": "여운이 남는영화 ㅜ.ㅜ 잘봤슴당",
+    "date": "06.08.11",
+    "rating": "10",
+    "author": "mari****",
+    "review_id": "999340",
+    "movie_id": "34731"
+  },
+  {
+    "review": "재미있게 보았습니다.  다음엔 근사한 애니를 만드시길",
+    "date": "06.08.11",
+    "rating": "10",
+    "author": "jl08****",
+    "review_id": "998581",
+    "movie_id": "34731"
+  },
+  {
+    "review": "일상을 돌아 볼 수 있음",
+    "date": "06.08.10",
+    "rating": "9",
+    "author": "kg76****",
+    "review_id": "991836",
+    "movie_id": "34731"
+  },
+  {
+    "review": "잘봤습니다.",
+    "date": "06.08.10",
+    "rating": "10",
+    "author": "shin****",
+    "review_id": "990308",
+    "movie_id": "34731"
+  },
+  {
+    "review": "마우스 속 마우스, 제대로 신선한 발상! :)",
+    "date": "06.08.10",
+    "rating": "9",
+    "author": "appl****",
+    "review_id": "989702",
+    "movie_id": "34731"
+  },
+  {
+    "review": "성형,행동속도와직결된생계,.,얍삽함 후회..씁쓸한느낌",
+    "date": "06.08.09",
+    "rating": "10",
+    "author": "ibet****",
+    "review_id": "986241",
+    "movie_id": "34731"
+  },
+  {
+    "review": "한국 애니 기대됩니다.  재밌습니다.",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "ezi8****",
+    "review_id": "985815",
+    "movie_id": "34731"
+  },
+  {
+    "review": "와... 대단해요...ㅂ; 재밌구요...ㅋ",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "jiae****",
+    "review_id": "985662",
+    "movie_id": "34731"
+  },
+  {
+    "review": "불면증;ㅂ;쵁오",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "leey****",
+    "review_id": "985421",
+    "movie_id": "34731"
+  },
+  {
+    "review": "완전대박 반전 OTL......",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "last****",
+    "review_id": "985351",
+    "movie_id": "34731"
+  },
+  {
+    "review": "진짜 재미있네여..마지막반전이~~",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "me53****",
+    "review_id": "985140",
+    "movie_id": "34731"
+  },
+  {
+    "review": "쇼킹",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "thes****",
+    "review_id": "984953",
+    "movie_id": "34731"
+  },
+  {
+    "review": "마우스.......말그대로 쥐-ㅅ-;; 진짜 기발해요ㅋㅋ",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "eh3d****",
+    "review_id": "984796",
+    "movie_id": "34731"
+  },
+  {
+    "review": "기발한 아이디어 재미있네요^^",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "sogm****",
+    "review_id": "984759",
+    "movie_id": "34731"
+  },
+  {
+    "review": "조금만 더 다듬으면 좀 더 좋은 작품이 ^^*",
+    "date": "06.08.08",
+    "rating": "8",
+    "author": "mini****",
+    "review_id": "984625",
+    "movie_id": "34731"
+  },
+  {
+    "review": "좋음,",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "alli****",
+    "review_id": "984506",
+    "movie_id": "34731"
+  },
+  {
+    "review": "이미 예전에 그 진가를 인정받았던.. ^^ 좋아요, 굿!!",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "bedb****",
+    "review_id": "984120",
+    "movie_id": "34731"
+  },
+  {
+    "review": "정말 기발하고 신선하다 :)",
+    "date": "06.08.08",
+    "rating": "9",
+    "author": "pota****",
+    "review_id": "984074",
+    "movie_id": "34731"
+  },
+  {
+    "review": "상상력좋고~사회를 대변하능거 같아서 더 좋고~!!!",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "eill****",
+    "review_id": "983985",
+    "movie_id": "34731"
+  },
+  {
+    "review": "마지막 정말 재밌었어요 만점!",
+    "date": "06.08.08",
+    "rating": "10",
+    "author": "mwsa****",
+    "review_id": "983616",
+    "movie_id": "34731"
+  },
+  {
+    "review": "의미있는 상상력 좋습니다.",
+    "date": "06.08.07",
+    "rating": "9",
+    "author": "www0****",
+    "review_id": "982452",
+    "movie_id": "34731"
+  },
+  {
+    "review": "내용:5점, 아이디어:4점, 노력:10점",
+    "date": "06.08.07",
+    "rating": "7",
+    "author": "ithi****",
+    "review_id": "981337",
+    "movie_id": "34731"
+  },
+  {
+    "review": "어디서 본듯한 캐릭터들..",
+    "date": "06.08.07",
+    "rating": "4",
+    "author": "lttl****",
+    "review_id": "981153",
+    "movie_id": "34731"
+  },
+  {
+    "review": "부모님이 주신 그대로가 최고다!!",
+    "date": "06.08.07",
+    "rating": "9",
+    "author": "stsp****",
+    "review_id": "981139",
+    "movie_id": "34731"
+  },
+  {
+    "review": "고생하신 흔적이 보이지만 조금 더 깔끔했으면",
+    "date": "06.08.05",
+    "rating": "9",
+    "author": "mave****",
+    "review_id": "972712",
+    "movie_id": "34731"
+  },
+  {
+    "review": "감독의 상상력과 세심한 사물디자인에 또 박수",
+    "date": "06.08.04",
+    "rating": "9",
+    "author": "jyan****",
+    "review_id": "970176",
+    "movie_id": "34731"
+  },
+  {
+    "review": "기발한 아이디어에 박수를..^-^",
+    "date": "06.08.04",
+    "rating": "9",
+    "author": "fall****",
+    "review_id": "968838",
+    "movie_id": "34731"
+  },
+  {
+    "review": "우리 일상과 똑같은 소품하며.. 땀이 보인다",
+    "date": "06.08.04",
+    "rating": "10",
+    "author": "saik****",
+    "review_id": "967793",
+    "movie_id": "34731"
+  },
+  {
+    "review": "정말 기발하다.",
+    "date": "06.08.04",
+    "rating": "10",
+    "author": "kem2****",
+    "review_id": "967790",
+    "movie_id": "34731"
+  },
+  {
+    "review": "진짜 아이디어 괜찬내여..너무 신선하다.",
+    "date": "06.08.04",
+    "rating": "10",
+    "author": "suho****",
+    "review_id": "967724",
+    "movie_id": "34731"
+  },
+  {
+    "review": "우리의 현실을 비추는듯하다..",
+    "date": "06.08.04",
+    "rating": "9",
+    "author": "su82****",
+    "review_id": "967370",
+    "movie_id": "34731"
+  },
+  {
+    "review": "리얼리티.. ㅋㅋ",
+    "date": "06.08.04",
+    "rating": "9",
+    "author": "coco****",
+    "review_id": "967042",
+    "movie_id": "34731"
+  },
+  {
+    "review": "우리가 사는 빡빡한 현실을 보는 듯 하네요.. 기발한 아이디어",
+    "date": "06.08.03",
+    "rating": "10",
+    "author": "shin****",
+    "review_id": "961534",
+    "movie_id": "34731"
+  },
+  {
+    "review": "이거 다이나믹듀오의 불면증 뮤비에 나오는 거네",
+    "date": "06.08.03",
+    "rating": "10",
+    "author": "poto****",
+    "review_id": "960803",
+    "movie_id": "34731"
+  },
+  {
+    "review": "참신한 소재..의미심장한 내용..",
+    "date": "04.02.07",
+    "rating": "10",
+    "author": "dica****",
+    "review_id": "17104",
+    "movie_id": "34731"
+  }
+]

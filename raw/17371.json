@@ -1,0 +1,82 @@
+[
+  {
+    "review": "재미있게 본 영화중 하나",
+    "date": "12.06.15",
+    "rating": "10",
+    "author": "mess****",
+    "review_id": "6393305",
+    "movie_id": "17371"
+  },
+  {
+    "review": "옛생각나네",
+    "date": "08.09.03",
+    "rating": "10",
+    "author": "shar****",
+    "review_id": "2918985",
+    "movie_id": "17371"
+  },
+  {
+    "review": "짜증 나는 영화.한마디로 감독이 뇌가 없다",
+    "date": "07.12.23",
+    "rating": "2",
+    "author": "baks****",
+    "review_id": "2256501",
+    "movie_id": "17371"
+  },
+  {
+    "review": "데릴한나 이때까지만해도 참 예뻣는데...",
+    "date": "07.08.17",
+    "rating": "8",
+    "author": "typo****",
+    "review_id": "1949309",
+    "movie_id": "17371"
+  },
+  {
+    "review": "속고속이는 삼각관계이야기...",
+    "date": "07.02.15",
+    "rating": "7",
+    "author": "give****",
+    "review_id": "1473743",
+    "movie_id": "17371"
+  },
+  {
+    "review": "반데라스 최고의 코미디 영화!!!",
+    "date": "06.10.08",
+    "rating": "10",
+    "author": "half****",
+    "review_id": "1169259",
+    "movie_id": "17371"
+  },
+  {
+    "review": "미스 캐스팅과 연출의 실패... 지루한 코미디와 설익은 멜로",
+    "date": "06.09.21",
+    "rating": "6",
+    "author": "goma****",
+    "review_id": "1134923",
+    "movie_id": "17371"
+  },
+  {
+    "review": "재밌는데~ㅋㅋ 평점평균올려주기",
+    "date": "06.04.25",
+    "rating": "9",
+    "author": "iron****",
+    "review_id": "774897",
+    "movie_id": "17371"
+  },
+  {
+    "review": "어릴때봤는데 재밌었어",
+    "date": "06.03.01",
+    "rating": "8",
+    "author": "jsh4****",
+    "review_id": "698677",
+    "movie_id": "17371"
+  },
+  {
+    "review": "양다린 힘들어...",
+    "date": "05.10.28",
+    "rating": "7",
+    "author": "sbg8****",
+    "review_id": "457014",
+    "movie_id": "17371"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "7161937",
+    "movie_id": "98186",
+    "author": "whdt****",
+    "review": "강지영",
+    "rating": "10",
+    "date": "13.01.23"
+  },
+  {
+    "review_id": "7063332",
+    "movie_id": "98186",
+    "author": "top3****",
+    "review": "내가좋아하는 지영이랑건일오빠까지!!.꼭보고프다 봐야겠음~!!",
+    "rating": "10",
+    "date": "12.12.30"
+  },
+  {
+    "review_id": "6870110",
+    "movie_id": "98186",
+    "author": "ment****",
+    "review": "쵝저",
+    "rating": "1",
+    "date": "12.11.09"
+  },
+  {
+    "review_id": "6752507",
+    "movie_id": "98186",
+    "author": "jimo****",
+    "review": "쵝오",
+    "rating": "10",
+    "date": "12.10.02"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "신해철 음악이라능..",
+    "date": "14.10.23",
+    "rating": "10",
+    "author": "fbqn****",
+    "review_id": "9309920",
+    "movie_id": "13324"
+  },
+  {
+    "review": "옥소리가 청순하던 시절.. 음악이 참 좋았던..",
+    "date": "14.04.28",
+    "rating": "8",
+    "author": "pont****",
+    "review_id": "8678975",
+    "movie_id": "13324"
+  },
+  {
+    "review": "강현종이나와서",
+    "date": "12.01.07",
+    "rating": "10",
+    "author": "banb****",
+    "review_id": "5968892",
+    "movie_id": "13324"
+  },
+  {
+    "review": "평점이 없네요",
+    "date": "05.12.30",
+    "rating": "6",
+    "author": "han8****",
+    "review_id": "542386",
+    "movie_id": "13324"
+  }
+]

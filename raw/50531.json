@@ -1,0 +1,58 @@
+[
+  {
+    "review": "보고싶어요",
+    "date": "13.03.22",
+    "rating": "10",
+    "author": "8366****",
+    "review_id": "7395496",
+    "movie_id": "50531"
+  },
+  {
+    "review": "점수올리기",
+    "date": "13.01.07",
+    "rating": "10",
+    "author": "happ****",
+    "review_id": "7089236",
+    "movie_id": "50531"
+  },
+  {
+    "review": "11분 15초",
+    "date": "12.01.08",
+    "rating": "10",
+    "author": "jjpa****",
+    "review_id": "5970206",
+    "movie_id": "50531"
+  },
+  {
+    "review": "2점의 영화라긴 조금 아깝다;;",
+    "date": "11.08.20",
+    "rating": "10",
+    "author": "khum****",
+    "review_id": "5672176",
+    "movie_id": "50531"
+  },
+  {
+    "review": "관념은 없고, 행위만 있다.",
+    "date": "11.08.15",
+    "rating": "1",
+    "author": "ll3l****",
+    "review_id": "5652069",
+    "movie_id": "50531"
+  },
+  {
+    "review": "빨리보기로 5분만에 봤다...",
+    "date": "09.02.02",
+    "rating": "3",
+    "author": "free****",
+    "review_id": "3272124",
+    "movie_id": "50531"
+  },
+  {
+    "review": "도대체 무슨 영화야? 이거",
+    "date": "09.01.31",
+    "rating": "2",
+    "author": "love****",
+    "review_id": "3266631",
+    "movie_id": "50531"
+  }
+]

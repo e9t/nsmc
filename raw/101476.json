@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "9408685",
+    "movie_id": "101476",
+    "author": "magi****",
+    "review": "정말 신기하고 재미있어요~",
+    "rating": "10",
+    "date": "14.11.22"
+  },
+  {
+    "review_id": "8290161",
+    "movie_id": "101476",
+    "author": "garr****",
+    "review": "존나 유치해 재미없어 등장인물 성괴네 ㅋㅋㅋ",
+    "rating": "1",
+    "date": "13.12.24"
+  },
+  {
+    "review_id": "7326451",
+    "movie_id": "101476",
+    "author": "2thd****",
+    "review": "재밌다~",
+    "rating": "10",
+    "date": "13.03.05"
+  }
+]

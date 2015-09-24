@@ -1,0 +1,26 @@
+[
+  {
+    "review": "걍 어쩌다가 들왓음 먼 영화인지 모름 내가 마지막이되길 바라며 ㅋ",
+    "date": "09.07.06",
+    "rating": "10",
+    "author": "yewo****",
+    "review_id": "3615042",
+    "movie_id": "21793"
+  },
+  {
+    "review": "우와! 심청전 good이다!",
+    "date": "08.10.29",
+    "rating": "10",
+    "author": "jerm****",
+    "review_id": "3025978",
+    "movie_id": "21793"
+  },
+  {
+    "review": "신데렐라가 아니다! 심청전이다!",
+    "date": "07.10.02",
+    "rating": "10",
+    "author": "stra****",
+    "review_id": "2066445",
+    "movie_id": "21793"
+  }
+]

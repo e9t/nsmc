@@ -1,0 +1,66 @@
+[
+  {
+    "review": "정말 속은느낌이다",
+    "date": "09.02.07",
+    "rating": "1",
+    "author": "boyb****",
+    "review_id": "3284962",
+    "movie_id": "65645"
+  },
+  {
+    "review": "수학여행을 선생님께 속아서 수련회 갔다온 느낌이다",
+    "date": "08.08.18",
+    "rating": "2",
+    "author": "xmrt****",
+    "review_id": "2884410",
+    "movie_id": "65645"
+  },
+  {
+    "review": "순전히 베이루트 풍경이 보고싶어 VOD 봤다..",
+    "date": "07.07.06",
+    "rating": "1",
+    "author": "cath****",
+    "review_id": "1750252",
+    "movie_id": "65645"
+  },
+  {
+    "review": "무쓴",
+    "date": "07.06.05",
+    "rating": "1",
+    "author": "glee****",
+    "review_id": "1682358",
+    "movie_id": "65645"
+  },
+  {
+    "review": "보다가 뛰쳐 나왔음,",
+    "date": "07.02.22",
+    "rating": "2",
+    "author": "qweb****",
+    "review_id": "1493836",
+    "movie_id": "65645"
+  },
+  {
+    "review": "재밌네요..",
+    "date": "07.02.18",
+    "rating": "10",
+    "author": "seru****",
+    "review_id": "1480842",
+    "movie_id": "65645"
+  },
+  {
+    "review": "ㅉㅉㅉ",
+    "date": "07.02.08",
+    "rating": "1",
+    "author": "hone****",
+    "review_id": "1455325",
+    "movie_id": "65645"
+  },
+  {
+    "review": "good~",
+    "date": "07.02.05",
+    "rating": "10",
+    "author": "hslo****",
+    "review_id": "1444857",
+    "movie_id": "65645"
+  }
+]

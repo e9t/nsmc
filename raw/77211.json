@@ -1,0 +1,66 @@
+[
+  {
+    "review_id": "6483779",
+    "movie_id": "77211",
+    "author": "yang****",
+    "review": "근데 지루하다...",
+    "rating": "2",
+    "date": "12.07.16"
+  },
+  {
+    "review_id": "6468538",
+    "movie_id": "77211",
+    "author": "kim_****",
+    "review": "무조건 봐야한다.",
+    "rating": "10",
+    "date": "12.07.10"
+  },
+  {
+    "review_id": "5630286",
+    "movie_id": "77211",
+    "author": "poke****",
+    "review": "죽인다.",
+    "rating": "10",
+    "date": "11.08.10"
+  },
+  {
+    "review_id": "5394157",
+    "movie_id": "77211",
+    "author": "nico****",
+    "review": "작품성 최고다",
+    "rating": "10",
+    "date": "11.04.27"
+  },
+  {
+    "review_id": "5387528",
+    "movie_id": "77211",
+    "author": "evil****",
+    "review": "이정도는 되야 킬링타임도 가치가 있지",
+    "rating": "5",
+    "date": "11.04.22"
+  },
+  {
+    "review_id": "5338574",
+    "movie_id": "77211",
+    "author": "mhho****",
+    "review": "예술의 경지를 향해. 삶에 대한 열망과 견뎌내는 힘. 그리고 독특하고 신선한 작법...",
+    "rating": "8",
+    "date": "11.03.27"
+  },
+  {
+    "review_id": "5245498",
+    "movie_id": "77211",
+    "author": "mlop****",
+    "review": "미요코 짱짱!",
+    "rating": "9",
+    "date": "11.02.15"
+  },
+  {
+    "review_id": "5243274",
+    "movie_id": "77211",
+    "author": "ljhw****",
+    "review": "켄지나오는영화네요",
+    "rating": "8",
+    "date": "11.02.14"
+  }
+]

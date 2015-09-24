@@ -1,0 +1,802 @@
+[
+  {
+    "review": "최고!!! 진짜 최고ㅎㅎㅎ",
+    "date": "15.08.11",
+    "rating": "10",
+    "author": "esca****",
+    "review_id": "10216213",
+    "movie_id": "66686"
+  },
+  {
+    "review": "이 영화에서 나온 Peter Dinklage 보고 대단한 배우가 될 꺼라 예상한 1인",
+    "date": "15.06.09",
+    "rating": "8",
+    "author": "milk****",
+    "review_id": "9986891",
+    "movie_id": "66686"
+  },
+  {
+    "review": "영국 리메이크작  원작에  못미침",
+    "date": "15.05.28",
+    "rating": "7",
+    "author": "kan3****",
+    "review_id": "9957901",
+    "movie_id": "66686"
+  },
+  {
+    "review": "야밤에 완전 깔깔대고 웃었다 정신없고 재밌음 ㅋㅋ",
+    "date": "15.03.14",
+    "rating": "10",
+    "author": "shin****",
+    "review_id": "9779307",
+    "movie_id": "66686"
+  },
+  {
+    "review": "블랙코미디라기엔 덜 웃기고, 덜 치밀한.",
+    "date": "15.01.07",
+    "rating": "6",
+    "author": "tear****",
+    "review_id": "9569816",
+    "movie_id": "66686"
+  },
+  {
+    "review": "정말 재밌는 블랙코미디 ^^",
+    "date": "14.12.06",
+    "rating": "10",
+    "author": "huny****",
+    "review_id": "9453293",
+    "movie_id": "66686"
+  },
+  {
+    "review": "제일 재밌게 봤던 코미디 영화인데 나이들어서 다시보니 그 전 보다 덜 웃겨서 슬프네요 ㅋㅋㅋㅋ 암튼 최고",
+    "date": "14.11.27",
+    "rating": "10",
+    "author": "nyk3****",
+    "review_id": "9427878",
+    "movie_id": "66686"
+  },
+  {
+    "review": "괜찮은 코미디 영화 킬링타임용보다 약간 더 높게 쳐줄만한듯",
+    "date": "14.11.02",
+    "rating": "8",
+    "author": "brow****",
+    "review_id": "9336091",
+    "movie_id": "66686"
+  },
+  {
+    "review": "생각보단 꽤 웃기네...",
+    "date": "14.10.03",
+    "rating": "8",
+    "author": "dbzh****",
+    "review_id": "9259782",
+    "movie_id": "66686"
+  },
+  {
+    "review": "크게 터지는건 없지만 상황, 상황이 나름 웃겼다. 하지만 결말은 너무 갑작스러웠다",
+    "date": "14.07.01",
+    "rating": "7",
+    "author": "vm4e****",
+    "review_id": "8873463",
+    "movie_id": "66686"
+  },
+  {
+    "review": "근래에 본 가장 자연스러운 코미디 극.",
+    "date": "14.04.07",
+    "rating": "9",
+    "author": "cred****",
+    "review_id": "8635427",
+    "movie_id": "66686"
+  },
+  {
+    "review": "옛다! 7.5점 그냥~그런 코믹",
+    "date": "14.01.30",
+    "rating": "7",
+    "author": "wein****",
+    "review_id": "8447677",
+    "movie_id": "66686"
+  },
+  {
+    "review": "끝이 별로라 그렇지 재미는 있었다 ㅋㅋㅋ",
+    "date": "13.12.05",
+    "rating": "8",
+    "author": "alan****",
+    "review_id": "8192367",
+    "movie_id": "66686"
+  },
+  {
+    "review": "매튜맥퍼딘때문에 보게되어 모든 출연 배우의 팬이 되는 영화!ㅋㅋㅋㅋ 숨어있는 웰메이드 무비 ㅋㅋㅋㅋㅋㅋ 이런 코미디좀 많이 만들어져라!",
+    "date": "13.09.22",
+    "rating": "10",
+    "author": "milf****",
+    "review_id": "8009419",
+    "movie_id": "66686"
+  },
+  {
+    "review": "이것이 영국식유머인가?정말 재밌다ㅋㅋㅋ빵빵터짐",
+    "date": "13.07.17",
+    "rating": "9",
+    "author": "woni****",
+    "review_id": "7749436",
+    "movie_id": "66686"
+  },
+  {
+    "review": "정말 재미있네요.. 대박웃음보단 깨알같은 상황으로 웃음을 주네요. 잘 만든 작품입니다. ㅎㅎ",
+    "date": "13.03.17",
+    "rating": "8",
+    "author": "stze****",
+    "review_id": "7356068",
+    "movie_id": "66686"
+  },
+  {
+    "review": "좀 억지스러운 부분은 있긴하지만 너무 웃겼다ㅋㅋ 생각보다 재밌었다ㅋㅋ",
+    "date": "13.02.26",
+    "rating": "8",
+    "author": "ehwj****",
+    "review_id": "7303217",
+    "movie_id": "66686"
+  },
+  {
+    "review": "요새는 재밌는 코미디 영화 보기가 하늘의 별따기였는데 이 작품은 정말 재밌었다. 요근래 본 영화중 가장 많이 웃으면서 봤다. 미국식 코미디랑은 웃기는 방식이 좀 다르지만...그래도 이정도면 많이 대중적인 편이다",
+    "date": "13.02.05",
+    "rating": "9",
+    "author": "thda****",
+    "review_id": "7226806",
+    "movie_id": "66686"
+  },
+  {
+    "review": ".",
+    "date": "13.01.15",
+    "rating": "8",
+    "author": "njel****",
+    "review_id": "7119911",
+    "movie_id": "66686"
+  },
+  {
+    "review": "근래 본거 중에 최고네요...",
+    "date": "12.12.30",
+    "rating": "10",
+    "author": "podo****",
+    "review_id": "7065472",
+    "movie_id": "66686"
+  },
+  {
+    "review": "매튜 맥퍼딘>신고",
+    "date": "12.03.24",
+    "rating": "8",
+    "author": "smao****",
+    "review_id": "6163509",
+    "movie_id": "66686"
+  },
+  {
+    "review": "예전에 봤을때 드럽게 재미없던데 의외로 평점이 높네;",
+    "date": "12.03.09",
+    "rating": "4",
+    "author": "rudd****",
+    "review_id": "6132759",
+    "movie_id": "66686"
+  },
+  {
+    "review": "친구가추천해줘서봤던영화, 내용기억안나는데 웃긴건기억남",
+    "date": "12.02.04",
+    "rating": "8",
+    "author": "thdu****",
+    "review_id": "6051886",
+    "movie_id": "66686"
+  },
+  {
+    "review": "Mr. 후 아 유",
+    "date": "11.10.12",
+    "rating": "7",
+    "author": "gmyi****",
+    "review_id": "5784442",
+    "movie_id": "66686"
+  },
+  {
+    "review": "해프닝 밑에 깔려버린 아버지의 장례식, 균형을 잃고 한쪽이 너무 가벼워",
+    "date": "11.08.16",
+    "rating": "6",
+    "author": "tabu****",
+    "review_id": "5656603",
+    "movie_id": "66686"
+  },
+  {
+    "review": "억지로 웃기는 영화, 배우들 불쌍해 보임.",
+    "date": "11.08.05",
+    "rating": "1",
+    "author": "safe****",
+    "review_id": "5606335",
+    "movie_id": "66686"
+  },
+  {
+    "review": "웃기다 주인공들얼굴다 익숙해서 더 재미쏘ㅎ_ㅎ",
+    "date": "11.07.10",
+    "rating": "8",
+    "author": "park****",
+    "review_id": "5533706",
+    "movie_id": "66686"
+  },
+  {
+    "review": "Awesome!!! This movie deserves more attention.",
+    "date": "11.07.08",
+    "rating": "10",
+    "author": "kyo1****",
+    "review_id": "5529442",
+    "movie_id": "66686"
+  },
+  {
+    "review": "너무너무 재밌게 본 영화 스토리며 인물최고의영화 우울할때 보면 기분 정말 좋아져요",
+    "date": "11.06.10",
+    "rating": "10",
+    "author": "yul9****",
+    "review_id": "5474382",
+    "movie_id": "66686"
+  },
+  {
+    "review": "ㅋㅋㅋㅋ 재미있다 ㅋㅋㅋㅋㅋㅋㅋ 이런 코미디 ㅋㅋㅋㅋ",
+    "date": "11.04.25",
+    "rating": "7",
+    "author": "ho42****",
+    "review_id": "5391548",
+    "movie_id": "66686"
+  },
+  {
+    "review": "6.5",
+    "date": "11.04.13",
+    "rating": "7",
+    "author": "one5****",
+    "review_id": "5370464",
+    "movie_id": "66686"
+  },
+  {
+    "review": "죽음과 유머의 산뜻한 조합. 과장과 익살스런 한바탕 소동이 유쾌하게 그려졌다.",
+    "date": "11.04.07",
+    "rating": "8",
+    "author": "anti****",
+    "review_id": "5359235",
+    "movie_id": "66686"
+  },
+  {
+    "review": "간만에 본 재밌는영화 ㅋㅋㅋㅋㅋㅋ",
+    "date": "11.03.05",
+    "rating": "10",
+    "author": "jugo****",
+    "review_id": "5294334",
+    "movie_id": "66686"
+  },
+  {
+    "review": "재밌는 킬링타임용",
+    "date": "11.02.06",
+    "rating": "8",
+    "author": "dkas****",
+    "review_id": "5220160",
+    "movie_id": "66686"
+  },
+  {
+    "review": "뭐 아무생각없이 볼수있는 웃기는 영화임ㅎㅎㅎ",
+    "date": "11.01.18",
+    "rating": "6",
+    "author": "bobo****",
+    "review_id": "5167158",
+    "movie_id": "66686"
+  },
+  {
+    "review": "재미있긴햇지만 평점이 높은게 아닌가싶다",
+    "date": "10.12.11",
+    "rating": "7",
+    "author": "basa****",
+    "review_id": "5044715",
+    "movie_id": "66686"
+  },
+  {
+    "review": "피식 피식 ㅋㅋㅋ",
+    "date": "10.12.04",
+    "rating": "7",
+    "author": "po34****",
+    "review_id": "5020242",
+    "movie_id": "66686"
+  },
+  {
+    "review": "이거한번 보면 빵빵빵 터진다 아ㅋㅋㅋ",
+    "date": "10.12.02",
+    "rating": "10",
+    "author": "rheh****",
+    "review_id": "5015292",
+    "movie_id": "66686"
+  },
+  {
+    "review": "진짜 빵빵 터지더라.. 이런 코미디가 뭍혀있었다니...ㅋ",
+    "date": "10.11.22",
+    "rating": "9",
+    "author": "kky7****",
+    "review_id": "4978724",
+    "movie_id": "66686"
+  },
+  {
+    "review": "환각제하나 사소한(?)실수 몇개로 사람을 미치게한다~! 크하하하하~!!!!끅끅 ㅠㅠ",
+    "date": "10.11.21",
+    "rating": "10",
+    "author": "dudw****",
+    "review_id": "4977594",
+    "movie_id": "66686"
+  },
+  {
+    "review": "볼만 하네요.",
+    "date": "10.11.08",
+    "rating": "7",
+    "author": "marc****",
+    "review_id": "4946559",
+    "movie_id": "66686"
+  },
+  {
+    "review": "코드가 맞지 않았다고치기엔 정말 별로 못웃긴 영화인듯...",
+    "date": "10.09.09",
+    "rating": "6",
+    "author": "hhaa****",
+    "review_id": "4825001",
+    "movie_id": "66686"
+  },
+  {
+    "review": "초반에졸라지루 ㅡㅡ끝나기 20분전부터 볼만했음",
+    "date": "10.09.08",
+    "rating": "6",
+    "author": "hymm****",
+    "review_id": "4824072",
+    "movie_id": "66686"
+  },
+  {
+    "review": "보면 미칩니다! ㅋㅋㅋ",
+    "date": "10.08.23",
+    "rating": "10",
+    "author": "skma****",
+    "review_id": "4785738",
+    "movie_id": "66686"
+  },
+  {
+    "review": "역시 원작의 위트가 더 맛깔스럽다~",
+    "date": "10.08.18",
+    "rating": "10",
+    "author": "yaho****",
+    "review_id": "4760946",
+    "movie_id": "66686"
+  },
+  {
+    "review": "마지막 장면에 정말 빵! 터졌어-",
+    "date": "10.08.18",
+    "rating": "10",
+    "author": "me01****",
+    "review_id": "4760812",
+    "movie_id": "66686"
+  },
+  {
+    "review": "볼만함",
+    "date": "10.08.17",
+    "rating": "7",
+    "author": "tall****",
+    "review_id": "4759295",
+    "movie_id": "66686"
+  },
+  {
+    "review": "재미있네여..",
+    "date": "10.08.17",
+    "rating": "10",
+    "author": "a109****",
+    "review_id": "4757863",
+    "movie_id": "66686"
+  },
+  {
+    "review": "ㅋㅋ진짜이거대박!처음에끄고싶거나졸리지만좀만견디면진짜장애인같이웃겨요ㅋㅋ",
+    "date": "10.08.08",
+    "rating": "10",
+    "author": "chog****",
+    "review_id": "4724368",
+    "movie_id": "66686"
+  },
+  {
+    "review": "로그인하게만듬 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ아웃겨 ㅋㅋㅋㅋ",
+    "date": "10.07.23",
+    "rating": "10",
+    "author": "nani****",
+    "review_id": "4662446",
+    "movie_id": "66686"
+  },
+  {
+    "review": "처음에 끌까말까 고비넘기니 신세계가 ....... GOOD!! 신선한코미디다",
+    "date": "10.07.10",
+    "rating": "10",
+    "author": "odau****",
+    "review_id": "4626029",
+    "movie_id": "66686"
+  },
+  {
+    "review": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ존나웃기다",
+    "date": "10.06.21",
+    "rating": "10",
+    "author": "blai****",
+    "review_id": "4583590",
+    "movie_id": "66686"
+  },
+  {
+    "review": "너무웃기고 감동적이엿음 이영화너무좋아짐 ㅎㅎ",
+    "date": "10.04.28",
+    "rating": "10",
+    "author": "ghrj****",
+    "review_id": "4462298",
+    "movie_id": "66686"
+  },
+  {
+    "review": "꽤 대중적인 영국식 블랙코미디",
+    "date": "10.04.19",
+    "rating": "10",
+    "author": "tpfu****",
+    "review_id": "4443742",
+    "movie_id": "66686"
+  },
+  {
+    "review": "자연스러운 상황유머를 즐기고싶다면 강추",
+    "date": "10.04.19",
+    "rating": "10",
+    "author": "gany****",
+    "review_id": "4443722",
+    "movie_id": "66686"
+  },
+  {
+    "review": "초반에 지루한감이 좀 있지만....ㅋ 정말 재밌게 봤다",
+    "date": "10.04.07",
+    "rating": "10",
+    "author": "barn****",
+    "review_id": "4417380",
+    "movie_id": "66686"
+  },
+  {
+    "review": "똥부분 뺴고 다거지야... 보면안될영화네여",
+    "date": "10.02.15",
+    "rating": "1",
+    "author": "rnra****",
+    "review_id": "4282361",
+    "movie_id": "66686"
+  },
+  {
+    "review": "ㅋㅋㅋㅋㅋ웃겨",
+    "date": "10.02.12",
+    "rating": "10",
+    "author": "pink****",
+    "review_id": "4274420",
+    "movie_id": "66686"
+  },
+  {
+    "review": "보다보면 점점 웃긴다.",
+    "date": "10.02.04",
+    "rating": "7",
+    "author": "wind****",
+    "review_id": "4245614",
+    "movie_id": "66686"
+  },
+  {
+    "review": "완전 배꼽빠지네요ㅋㅋㅋㅋㅋ 강추!",
+    "date": "10.01.20",
+    "rating": "10",
+    "author": "inne****",
+    "review_id": "4190033",
+    "movie_id": "66686"
+  },
+  {
+    "review": "진짜 존나 웃김 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "10.01.15",
+    "rating": "10",
+    "author": "yeat****",
+    "review_id": "4173375",
+    "movie_id": "66686"
+  },
+  {
+    "review": "10점",
+    "date": "09.12.28",
+    "rating": "10",
+    "author": "lite****",
+    "review_id": "4101957",
+    "movie_id": "66686"
+  },
+  {
+    "review": "장난하냐 진짜...",
+    "date": "09.12.26",
+    "rating": "1",
+    "author": "cool****",
+    "review_id": "4086600",
+    "movie_id": "66686"
+  },
+  {
+    "review": "완전웃겨 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "09.12.11",
+    "rating": "10",
+    "author": "babo****",
+    "review_id": "4034506",
+    "movie_id": "66686"
+  },
+  {
+    "review": "손에 똥묻었을 때.. 내 생에 혼자 영화보다가 이렇게 미친듯이 웃은 건 처음 ㅋㅋㅋ",
+    "date": "09.12.07",
+    "rating": "10",
+    "author": "best****",
+    "review_id": "4022751",
+    "movie_id": "66686"
+  },
+  {
+    "review": "장례식장에서 벌어지는 재미난 이야기들. 코미디 영화라는 이름값을 톡톡히 한 영화",
+    "date": "09.12.04",
+    "rating": "8",
+    "author": "sham****",
+    "review_id": "4014268",
+    "movie_id": "66686"
+  },
+  {
+    "review": "시간 가는 줄 모르고 보는 내내 웃었던 영화^^",
+    "date": "09.11.02",
+    "rating": "10",
+    "author": "kapo****",
+    "review_id": "3931520",
+    "movie_id": "66686"
+  },
+  {
+    "review": "초반엔 지루한테 중반부터 재밌음. 아버지는 특별한 분이셨어요. 보면 아실듯 ㅋ",
+    "date": "09.10.10",
+    "rating": "10",
+    "author": "pupu****",
+    "review_id": "3884509",
+    "movie_id": "66686"
+  },
+  {
+    "review": "ㅋㅋㅋㅋㅋㅋㅋ완전웃김 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "09.10.03",
+    "rating": "10",
+    "author": "mode****",
+    "review_id": "3868535",
+    "movie_id": "66686"
+  },
+  {
+    "review": "잔잔하면서 웃긴게 완존 딱 내스퇄_특별한 캐릭터들.",
+    "date": "09.09.29",
+    "rating": "9",
+    "author": "otia****",
+    "review_id": "3859571",
+    "movie_id": "66686"
+  },
+  {
+    "review": "이 영화 DVD는 언제 나오는거야!!계속 기다리구 있구만..ㅠ",
+    "date": "09.09.25",
+    "rating": "10",
+    "author": "sinn****",
+    "review_id": "3848512",
+    "movie_id": "66686"
+  },
+  {
+    "review": "편하게 눈감기엔 너무 시끌벅적한 마지막 가는 길",
+    "date": "09.09.20",
+    "rating": "8",
+    "author": "uds0****",
+    "review_id": "3840077",
+    "movie_id": "66686"
+  },
+  {
+    "review": "아 진짜 눈물난다....ㅋ",
+    "date": "09.08.31",
+    "rating": "10",
+    "author": "jupi****",
+    "review_id": "3801671",
+    "movie_id": "66686"
+  },
+  {
+    "review": "그냥 그저 그럼",
+    "date": "09.08.17",
+    "rating": "5",
+    "author": "hell****",
+    "review_id": "3760873",
+    "movie_id": "66686"
+  },
+  {
+    "review": "기분나쁘진않았다..",
+    "date": "09.08.12",
+    "rating": "6",
+    "author": "bkm1****",
+    "review_id": "3739534",
+    "movie_id": "66686"
+  },
+  {
+    "review": "서양 코메디는 웃기지 않다는걸 다시 한번 느끼게 해준 영화..",
+    "date": "09.08.07",
+    "rating": "1",
+    "author": "ykm3****",
+    "review_id": "3719500",
+    "movie_id": "66686"
+  },
+  {
+    "review": "영화에서나 볼수있는 장례식에서의 시츄에이션이 재미있었습니다~",
+    "date": "09.06.15",
+    "rating": "9",
+    "author": "isem****",
+    "review_id": "3567954",
+    "movie_id": "66686"
+  },
+  {
+    "review": "진짜 재밌음!!!!",
+    "date": "09.06.04",
+    "rating": "10",
+    "author": "buge****",
+    "review_id": "3543358",
+    "movie_id": "66686"
+  },
+  {
+    "review": "무조건 10점!!",
+    "date": "09.06.02",
+    "rating": "10",
+    "author": "wooh****",
+    "review_id": "3540041",
+    "movie_id": "66686"
+  },
+  {
+    "review": "경건해야 할 장례지만, 많이 웃었습니다 ^^",
+    "date": "09.05.11",
+    "rating": "8",
+    "author": "moon****",
+    "review_id": "3487437",
+    "movie_id": "66686"
+  },
+  {
+    "review": "제목만 보고 기대없이 봤는데 완전 대박이었어요ㅋㅋ 하도 웃어서 뺨이 얼얼ㅋㅋ",
+    "date": "09.05.11",
+    "rating": "10",
+    "author": "bomi****",
+    "review_id": "3486697",
+    "movie_id": "66686"
+  },
+  {
+    "review": "간만에 매우 매우 웃긴 영화를 봐서 기분 좋게 잠들것 같군요. Very good~",
+    "date": "09.05.07",
+    "rating": "10",
+    "author": "dlat****",
+    "review_id": "3476323",
+    "movie_id": "66686"
+  },
+  {
+    "review": "대박!",
+    "date": "09.03.29",
+    "rating": "10",
+    "author": "youj****",
+    "review_id": "3393986",
+    "movie_id": "66686"
+  },
+  {
+    "review": "B급 영화 관객으로 승부를 한다면 성공할지도...",
+    "date": "09.03.25",
+    "rating": "4",
+    "author": "evil****",
+    "review_id": "3385798",
+    "movie_id": "66686"
+  },
+  {
+    "review": "웃기는 장례식..",
+    "date": "09.03.22",
+    "rating": "8",
+    "author": "yank****",
+    "review_id": "3381509",
+    "movie_id": "66686"
+  },
+  {
+    "review": "웃긴다. 말이 필여없다 보면 됀다!!",
+    "date": "09.03.22",
+    "rating": "8",
+    "author": "miki****",
+    "review_id": "3380222",
+    "movie_id": "66686"
+  },
+  {
+    "review": "정말 골때리게 웃긴 영화",
+    "date": "09.03.20",
+    "rating": "10",
+    "author": "psyc****",
+    "review_id": "3376019",
+    "movie_id": "66686"
+  },
+  {
+    "review": "나 진짜 미친듯이 웃으면서 봤음 ㅋㅋㅋㅋㅋㅋㅋ 마이 댓 워즈 언 익셉셔널 맨!!! ㅋ",
+    "date": "09.02.25",
+    "rating": "10",
+    "author": "the1****",
+    "review_id": "3331791",
+    "movie_id": "66686"
+  },
+  {
+    "review": "아 미친.. 원제가 Death at a funeral 인데 Mr. 후아유가 뭐냐... ㅉㅉ",
+    "date": "09.02.23",
+    "rating": "10",
+    "author": "nobl****",
+    "review_id": "3326947",
+    "movie_id": "66686"
+  },
+  {
+    "review": "재밌어요 ㅋㅋㅋㅋㅋㅋ소재도 그런대로 참신하고 ㅋㅋㅋㅋㅋ",
+    "date": "09.02.12",
+    "rating": "10",
+    "author": "anyt****",
+    "review_id": "3296805",
+    "movie_id": "66686"
+  },
+  {
+    "review": "이렇게 웃긴영화 평점이 왜이렇게 낮은거지;; 난 아직도 배꼽을 못찾았음 +_+",
+    "date": "09.01.27",
+    "rating": "10",
+    "author": "sky3****",
+    "review_id": "3255854",
+    "movie_id": "66686"
+  },
+  {
+    "review": "좋은 영화고르기가 쉽지 않은게 코미디영화인데 오랜만에 좋은영화 본것 같다.",
+    "date": "09.01.19",
+    "rating": "8",
+    "author": "acee****",
+    "review_id": "3232906",
+    "movie_id": "66686"
+  },
+  {
+    "review": "배 잡으면서 봤다ㅋㅋㅋ아직도 배가 아프네ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "08.12.25",
+    "rating": "10",
+    "author": "yuki****",
+    "review_id": "3148235",
+    "movie_id": "66686"
+  },
+  {
+    "review": "가끔은 이런 장르의 영화도 볼만하다 아무생각말고 킥킥거리며한번 웃어보길~",
+    "date": "08.12.24",
+    "rating": "8",
+    "author": "whia****",
+    "review_id": "3144361",
+    "movie_id": "66686"
+  },
+  {
+    "review": "웃기는 많이 웃음.",
+    "date": "08.12.18",
+    "rating": "7",
+    "author": "narm****",
+    "review_id": "3126400",
+    "movie_id": "66686"
+  },
+  {
+    "review": "그닥 코믹스럽지 않았다. 생소하지만 볼만했다",
+    "date": "08.12.12",
+    "rating": "5",
+    "author": "crea****",
+    "review_id": "3108720",
+    "movie_id": "66686"
+  },
+  {
+    "review": "재밌어요! 리틀가이가 사진꺼내서 협박할 때 너무 웃겼다 ㅋㅋㅋ",
+    "date": "08.12.05",
+    "rating": "9",
+    "author": "vmfl****",
+    "review_id": "3093594",
+    "movie_id": "66686"
+  },
+  {
+    "review": "드라마라고 하기엔 웃기고 코미디라고 하기엔 좀 부족하고",
+    "date": "08.12.05",
+    "rating": "7",
+    "author": "gren****",
+    "review_id": "3091770",
+    "movie_id": "66686"
+  },
+  {
+    "review": "세련된 블랙코미디",
+    "date": "08.12.01",
+    "rating": "10",
+    "author": "tjrd****",
+    "review_id": "3083611",
+    "movie_id": "66686"
+  },
+  {
+    "review": "이런 류의 코미디 정말 좋습니다...ㅎㅎㅎㅎ",
+    "date": "08.11.19",
+    "rating": "10",
+    "author": "dusr****",
+    "review_id": "3060141",
+    "movie_id": "66686"
+  }
+]

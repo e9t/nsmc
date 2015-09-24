@@ -1,0 +1,58 @@
+[
+  {
+    "review": "이런 류의 영화가 많아졌으면 좋겠다",
+    "date": "12.10.28",
+    "rating": "7",
+    "author": "rrdd****",
+    "review_id": "6833163",
+    "movie_id": "71209"
+  },
+  {
+    "review": "감독님, 앞으로도 좋은 영화 기대하겠습니다. 항상 응원할께요!",
+    "date": "10.08.10",
+    "rating": "10",
+    "author": "kide****",
+    "review_id": "4731640",
+    "movie_id": "71209"
+  },
+  {
+    "review": "ㅋㅋ 좋았어요",
+    "date": "10.01.21",
+    "rating": "8",
+    "author": "gamj****",
+    "review_id": "4194969",
+    "movie_id": "71209"
+  },
+  {
+    "review": "이거잼씀^^",
+    "date": "10.01.17",
+    "rating": "10",
+    "author": "asas****",
+    "review_id": "4178051",
+    "movie_id": "71209"
+  },
+  {
+    "review": "주인공과 친구들의 대사가 마음에 와닿음. 청년들의 누구나 있을법한, 그러나 특별한",
+    "date": "09.12.16",
+    "rating": "10",
+    "author": "ty17****",
+    "review_id": "4047485",
+    "movie_id": "71209"
+  },
+  {
+    "review": "예술과 철학에 빗대 놀아나는 홍상수식 따라잡기,",
+    "date": "09.12.10",
+    "rating": "3",
+    "author": "gato****",
+    "review_id": "4033302",
+    "movie_id": "71209"
+  },
+  {
+    "review": "ㅎㅎ 흥미로워요",
+    "date": "09.12.10",
+    "rating": "7",
+    "author": "imlo****",
+    "review_id": "4033030",
+    "movie_id": "71209"
+  }
+]

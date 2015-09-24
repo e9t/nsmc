@@ -1,0 +1,34 @@
+[
+  {
+    "review": "태양을 소재로 한 선샤인보다 못하지만 마지막 모리스쟈르의 음악은 대단한 찬가",
+    "date": "10.01.23",
+    "rating": "10",
+    "author": "gkdl****",
+    "review_id": "4202953",
+    "movie_id": "16497"
+  },
+  {
+    "review": "좋은소재",
+    "date": "09.01.13",
+    "rating": "10",
+    "author": "dldl****",
+    "review_id": "3218837",
+    "movie_id": "16497"
+  },
+  {
+    "review": "좋은소재",
+    "date": "06.11.20",
+    "rating": "10",
+    "author": "w3j2****",
+    "review_id": "1243294",
+    "movie_id": "16497"
+  },
+  {
+    "review": "좋은 소재였으나 조연들이 산만하게 여기저기 활보한다",
+    "date": "06.05.15",
+    "rating": "6",
+    "author": "goma****",
+    "review_id": "801723",
+    "movie_id": "16497"
+  }
+]

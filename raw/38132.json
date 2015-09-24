@@ -1,0 +1,42 @@
+[
+  {
+    "review": "최고였죠 매우슬퍼요~~",
+    "date": "13.01.24",
+    "rating": "10",
+    "author": "yes3****",
+    "review_id": "7168542",
+    "movie_id": "38132"
+  },
+  {
+    "review": "유준상과 김지호의 연기가 돋보인 따뜻한 드라마",
+    "date": "10.03.09",
+    "rating": "7",
+    "author": "mygr****",
+    "review_id": "4345263",
+    "movie_id": "38132"
+  },
+  {
+    "review": "가족 문제에 대해 가장 잘 나타낸 좋은 작품",
+    "date": "06.09.08",
+    "rating": "7",
+    "author": "okjo****",
+    "review_id": "1111241",
+    "movie_id": "38132"
+  },
+  {
+    "review": "이 드라마 좋았어",
+    "date": "06.08.03",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "960177",
+    "movie_id": "38132"
+  },
+  {
+    "review": "김사랑이 괜찮게 나왓어",
+    "date": "05.12.27",
+    "rating": "6",
+    "author": "kws7****",
+    "review_id": "532662",
+    "movie_id": "38132"
+  }
+]

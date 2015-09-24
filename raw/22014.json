@@ -1,0 +1,34 @@
+[
+  {
+    "review": "여주가 이뻐서 10점 준다",
+    "date": "15.03.03",
+    "rating": "10",
+    "author": "agne****",
+    "review_id": "9753657",
+    "movie_id": "22014"
+  },
+  {
+    "review": "그냥 전부 1점이길래 나도",
+    "date": "15.02.02",
+    "rating": "1",
+    "author": "fcba****",
+    "review_id": "9661338",
+    "movie_id": "22014"
+  },
+  {
+    "review": "영화에한번 분노하고 0점이 없어 두번분노한다",
+    "date": "15.01.19",
+    "rating": "1",
+    "author": "yuso****",
+    "review_id": "9613754",
+    "movie_id": "22014"
+  },
+  {
+    "review": "스토리 개떡... 안습인 영화",
+    "date": "07.09.08",
+    "rating": "1",
+    "author": "yhk2****",
+    "review_id": "2008649",
+    "movie_id": "22014"
+  }
+]

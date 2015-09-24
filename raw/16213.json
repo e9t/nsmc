@@ -1,0 +1,34 @@
+[
+  {
+    "review": "감독과 배우들의 연출과 연기가 인상적인 작품이다",
+    "date": "09.09.12",
+    "rating": "6",
+    "author": "deff****",
+    "review_id": "3826088",
+    "movie_id": "16213"
+  },
+  {
+    "review": "Danny de vito - I Love O.P.M.  :D 돈에 대한 희화적인 풍자, 사실적인 묘사.",
+    "date": "08.04.30",
+    "rating": "10",
+    "author": "temp****",
+    "review_id": "2606947",
+    "movie_id": "16213"
+  },
+  {
+    "review": "정말 보기드문 명작....제대로 진국",
+    "date": "08.03.09",
+    "rating": "9",
+    "author": "opus****",
+    "review_id": "2512134",
+    "movie_id": "16213"
+  },
+  {
+    "review": "아니. 이 영화의 감상평이 한개도 없다니... 정말 수작입니다.",
+    "date": "07.04.13",
+    "rating": "10",
+    "author": "33ma****",
+    "review_id": "1585542",
+    "movie_id": "16213"
+  }
+]

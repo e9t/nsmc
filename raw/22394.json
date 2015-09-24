@@ -1,0 +1,42 @@
+[
+  {
+    "review": "등장로봇은 초신성 후뢰시맨의 로봇과 닮아있다.",
+    "date": "10.12.21",
+    "rating": "3",
+    "author": "hani****",
+    "review_id": "5071471",
+    "movie_id": "22394"
+  },
+  {
+    "review": "인셉션보다 재밌네 이렇게 재밌는건 오랜만이다  아바타는 상대도 안되지",
+    "date": "10.09.26",
+    "rating": "10",
+    "author": "ehdr****",
+    "review_id": "4870458",
+    "movie_id": "22394"
+  },
+  {
+    "review": "이게 뭐야?",
+    "date": "10.07.26",
+    "rating": "10",
+    "author": "bobt****",
+    "review_id": "4673999",
+    "movie_id": "22394"
+  },
+  {
+    "review": "평점낮추기",
+    "date": "10.07.05",
+    "rating": "1",
+    "author": "kiss****",
+    "review_id": "4612310",
+    "movie_id": "22394"
+  },
+  {
+    "review": "찾아보고싶네 ~?",
+    "date": "09.07.28",
+    "rating": "10",
+    "author": "kore****",
+    "review_id": "3677057",
+    "movie_id": "22394"
+  }
+]

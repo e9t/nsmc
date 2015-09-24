@@ -1,0 +1,802 @@
+[
+  {
+    "review": "오락영화.. 이정도면.. 나쁘지 아니한가?? ^^",
+    "date": "15.08.15",
+    "rating": "10",
+    "author": "spar****",
+    "review_id": "10232323",
+    "movie_id": "17274"
+  },
+  {
+    "review": "믿고보는짐캐리!!!!",
+    "date": "15.07.23",
+    "rating": "10",
+    "author": "devi****",
+    "review_id": "10132270",
+    "movie_id": "17274"
+  },
+  {
+    "review": "이런게 코미디지 . ㅋㅋㅋ",
+    "date": "15.07.14",
+    "rating": "10",
+    "author": "veng****",
+    "review_id": "10103692",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐캐리 영화 치곤 웃기지 않았다",
+    "date": "15.06.25",
+    "rating": "2",
+    "author": "west****",
+    "review_id": "10034392",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편보다 훨씬 웃기다. 짐캐리 연기가 미쳤다 ㅋㅋㅋ 아프리카 배경도 너무 좋고 유쾌하다",
+    "date": "15.03.05",
+    "rating": "10",
+    "author": "jdud****",
+    "review_id": "9756930",
+    "movie_id": "17274"
+  },
+  {
+    "review": "전작보다 볼 거리는 늘었지만 재미는 줄었다..",
+    "date": "14.11.27",
+    "rating": "5",
+    "author": "blue****",
+    "review_id": "9427345",
+    "movie_id": "17274"
+  },
+  {
+    "review": "단순 액션물과 마찬가지로 남는 것 없는 팝콘 무비. 역시 짐 캐리 최고의 영화는 트루먼 쇼",
+    "date": "14.10.20",
+    "rating": "1",
+    "author": "jjaj****",
+    "review_id": "9304050",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐캐리의 개그는 볼만하지만 오버스럽다",
+    "date": "14.10.09",
+    "rating": "1",
+    "author": "mara****",
+    "review_id": "9279642",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편은 그냥 코믹이라면 2편은 동물보호 메시지 좀더 깊게 담겨있다",
+    "date": "14.10.07",
+    "rating": "9",
+    "author": "xx41****",
+    "review_id": "9271819",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐케리 그의 개그는 최고다.",
+    "date": "14.07.13",
+    "rating": "10",
+    "author": "buck****",
+    "review_id": "8912425",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐 캐리 아니면 할수 없는 연기지 지금 보면 어떨지 궁금하네",
+    "date": "14.07.05",
+    "rating": "7",
+    "author": "deff****",
+    "review_id": "8884870",
+    "movie_id": "17274"
+  },
+  {
+    "review": "아무나 할수 없는 짐캐리 만의 연기",
+    "date": "14.07.03",
+    "rating": "7",
+    "author": "adiv****",
+    "review_id": "8877602",
+    "movie_id": "17274"
+  },
+  {
+    "review": "정말 소름끼치는 영화다 강추!",
+    "date": "14.06.29",
+    "rating": "10",
+    "author": "ske4****",
+    "review_id": "8867558",
+    "movie_id": "17274"
+  },
+  {
+    "review": "슬랩스틱의 진수를 보여줌",
+    "date": "14.05.11",
+    "rating": "10",
+    "author": "dlcj****",
+    "review_id": "8721877",
+    "movie_id": "17274"
+  },
+  {
+    "review": "전편을 뛰어넘는 영화, 극장에서 봤을때 그 기억이. 추억이",
+    "date": "14.04.18",
+    "rating": "10",
+    "author": "leg4****",
+    "review_id": "8656674",
+    "movie_id": "17274"
+  },
+  {
+    "review": "그냥 웃고 즐기기 딱 좋은 영화.짐캐리의 표정..특히 눈썹연기는 아직도 생생하다.동물을 사랑하는 짐캐리.영화도 그도 더 좋아진다.",
+    "date": "14.04.15",
+    "rating": "8",
+    "author": "sdc2****",
+    "review_id": "8651405",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편에서처럼 짐 캐리는 여전히 재밌지만, 그의 캐릭터와 스토리는 받아들이기 힘들다.",
+    "date": "14.03.01",
+    "rating": "6",
+    "author": "zxc1****",
+    "review_id": "8547085",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편에 비해 아쉽긴하지만 재미잇다.",
+    "date": "14.02.01",
+    "rating": "6",
+    "author": "seoc****",
+    "review_id": "8462888",
+    "movie_id": "17274"
+  },
+  {
+    "review": "ㅋㅋㅋ짐캐리 짱짱맨ㅋㅋ",
+    "date": "14.01.25",
+    "rating": "9",
+    "author": "ktre****",
+    "review_id": "8425115",
+    "movie_id": "17274"
+  },
+  {
+    "review": "몸개그의 교본 짐캐리..",
+    "date": "13.12.27",
+    "rating": "9",
+    "author": "rnti****",
+    "review_id": "8309724",
+    "movie_id": "17274"
+  },
+  {
+    "review": "나 이거 비디오 소장중 쵝오!ㅋㅋㅋ캐리횽님 싸랑해요♡",
+    "date": "13.11.24",
+    "rating": "10",
+    "author": "zs65****",
+    "review_id": "8164516",
+    "movie_id": "17274"
+  },
+  {
+    "review": "친구랑 중딩때 극장에서 배 찢어지게 웃었던 기억이 나네요 ㅋㅋ진짜 겁나 우낌~",
+    "date": "13.09.04",
+    "rating": "10",
+    "author": "play****",
+    "review_id": "7946601",
+    "movie_id": "17274"
+  },
+  {
+    "review": "오늘  다시   보게되었다  아직도  봐도  너무  웃낀다 ㅋㅋㅋㅋ   이런   영화  요즘엔   안나와   아쉽다",
+    "date": "13.08.26",
+    "rating": "10",
+    "author": "miso****",
+    "review_id": "7925399",
+    "movie_id": "17274"
+  },
+  {
+    "review": "2편이 더 재미있다 코뿔소 씬에서 웃다가 오줌지렸네 ...",
+    "date": "13.07.21",
+    "rating": "9",
+    "author": "cold****",
+    "review_id": "7769857",
+    "movie_id": "17274"
+  },
+  {
+    "review": "학교에서 보여줬는데 넘 재밌어요!!",
+    "date": "13.07.17",
+    "rating": "10",
+    "author": "mokm****",
+    "review_id": "7751117",
+    "movie_id": "17274"
+  },
+  {
+    "review": "요것도 재밌긴 한데 1편보단 못한듯.",
+    "date": "13.02.19",
+    "rating": "8",
+    "author": "jere****",
+    "review_id": "7280523",
+    "movie_id": "17274"
+  },
+  {
+    "review": "웃겨서 웃는게 아니라 어이없어서",
+    "date": "13.01.14",
+    "rating": "5",
+    "author": "46to****",
+    "review_id": "7114924",
+    "movie_id": "17274"
+  },
+  {
+    "review": "간만에 봐도 웃김",
+    "date": "12.12.27",
+    "rating": "8",
+    "author": "cesa****",
+    "review_id": "7053567",
+    "movie_id": "17274"
+  },
+  {
+    "review": "몇 번 웃었다..",
+    "date": "12.12.24",
+    "rating": "5",
+    "author": "rotj****",
+    "review_id": "7036456",
+    "movie_id": "17274"
+  },
+  {
+    "review": "난 이런 개그가 너무 좋다~",
+    "date": "12.12.20",
+    "rating": "10",
+    "author": "apri****",
+    "review_id": "7021664",
+    "movie_id": "17274"
+  },
+  {
+    "review": "이런코믹을 이해못하는 인간들이 종종있지 ㅋ 보면 그런인간들 4차원적인 인간들이 많아 ㅋㅋ",
+    "date": "12.11.28",
+    "rating": "10",
+    "author": "doc1****",
+    "review_id": "6934486",
+    "movie_id": "17274"
+  },
+  {
+    "review": "덜다듬어진 짐캐리의 모습ㅋㅋ웃기지만 삼류같은느낌을 지울수가 없다",
+    "date": "12.11.25",
+    "rating": "2",
+    "author": "jjcv****",
+    "review_id": "6925517",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편 만큼 재밌게 봤음.",
+    "date": "12.11.02",
+    "rating": "9",
+    "author": "kem1****",
+    "review_id": "6844624",
+    "movie_id": "17274"
+  },
+  {
+    "review": "뭘 믿고 속편까지?",
+    "date": "12.07.23",
+    "rating": "2",
+    "author": "pria****",
+    "review_id": "6521582",
+    "movie_id": "17274"
+  },
+  {
+    "review": "신기하게 1편보다 2편이 더 재밌음.",
+    "date": "12.07.20",
+    "rating": "9",
+    "author": "saga****",
+    "review_id": "6505538",
+    "movie_id": "17274"
+  },
+  {
+    "review": "쉬카카 ㅋㅋ 올만에 봤는데 유쾌하다",
+    "date": "12.03.28",
+    "rating": "8",
+    "author": "oell****",
+    "review_id": "6174231",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐캐리는 참 대단해 그보다 더 대단한 건 남다른 센스의 유머 수준",
+    "date": "12.03.24",
+    "rating": "8",
+    "author": "ksm5****",
+    "review_id": "6163938",
+    "movie_id": "17274"
+  },
+  {
+    "review": "전편보다 더 웃긴, 자연의 동물지킴이가 돌아왔다.",
+    "date": "12.03.04",
+    "rating": "9",
+    "author": "crui****",
+    "review_id": "6123699",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편보다 나은 2편 전성기의 짐캐리 연기를 볼수 있다. 슬랩스틱 오버코믹연기의진수.",
+    "date": "11.11.16",
+    "rating": "9",
+    "author": "yaso****",
+    "review_id": "5852420",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐캐리만이 보여줄수있는 재미쩌는영화~!!!",
+    "date": "11.11.14",
+    "rating": "10",
+    "author": "xlas****",
+    "review_id": "5848253",
+    "movie_id": "17274"
+  },
+  {
+    "review": "겁나 재밌었음ㅋㅋㅋ아직도 기억에 남는다ㅋㅋ",
+    "date": "11.10.31",
+    "rating": "10",
+    "author": "oush****",
+    "review_id": "5821779",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편에 비하면 별로지만 짐캐리의 활약.",
+    "date": "11.09.21",
+    "rating": "6",
+    "author": "dldu****",
+    "review_id": "5744055",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짱 재밌음",
+    "date": "11.08.29",
+    "rating": "10",
+    "author": "gj05****",
+    "review_id": "5695557",
+    "movie_id": "17274"
+  },
+  {
+    "review": "어렸을때 비디오로 잼게봣다",
+    "date": "11.08.15",
+    "rating": "10",
+    "author": "hdh0****",
+    "review_id": "5654573",
+    "movie_id": "17274"
+  },
+  {
+    "review": "심심할때 보면 짱인듯 ,.",
+    "date": "11.08.08",
+    "rating": "10",
+    "author": "lsys****",
+    "review_id": "5619950",
+    "movie_id": "17274"
+  },
+  {
+    "review": "재밌어요...",
+    "date": "11.07.07",
+    "rating": "8",
+    "author": "xtai****",
+    "review_id": "5526707",
+    "movie_id": "17274"
+  },
+  {
+    "review": "확실히 1보다 재밌어요ㅋ 아 정말 미친코미디ㅋㅋㅋㅋㅋㅋ",
+    "date": "11.06.22",
+    "rating": "10",
+    "author": "glee****",
+    "review_id": "5493679",
+    "movie_id": "17274"
+  },
+  {
+    "review": "코믹할려면 이 정도는 해야!!",
+    "date": "11.06.08",
+    "rating": "8",
+    "author": "yaky****",
+    "review_id": "5471187",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1보다 2가 더 재밌음~ 조낸 웃낌...ㅋ",
+    "date": "11.03.26",
+    "rating": "10",
+    "author": "hsj5****",
+    "review_id": "5335681",
+    "movie_id": "17274"
+  },
+  {
+    "review": "좀 더럽지만 짐캐리땜에 재밌긴했음 ㅋ",
+    "date": "11.02.24",
+    "rating": "8",
+    "author": "lov2****",
+    "review_id": "5272857",
+    "movie_id": "17274"
+  },
+  {
+    "review": "잊기 힘든 명장면이 너무도 많다.",
+    "date": "11.02.15",
+    "rating": "7",
+    "author": "tori****",
+    "review_id": "5245466",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편보다 조금더 웃겼음.!!! 아진짜 레알 짐캐리 짱임!!",
+    "date": "11.02.12",
+    "rating": "10",
+    "author": "cofl****",
+    "review_id": "5238082",
+    "movie_id": "17274"
+  },
+  {
+    "review": "좌충우돌 주인공의 슬랩스틱 코미디",
+    "date": "10.12.07",
+    "rating": "8",
+    "author": "yser****",
+    "review_id": "5032465",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐 캐리의 에이스 벤츄라 3를 보고싶다.",
+    "date": "10.11.11",
+    "rating": "6",
+    "author": "bbq2****",
+    "review_id": "4950356",
+    "movie_id": "17274"
+  },
+  {
+    "review": "전작에 OOO 않는 속편.",
+    "date": "10.10.07",
+    "rating": "8",
+    "author": "jiyu****",
+    "review_id": "4889232",
+    "movie_id": "17274"
+  },
+  {
+    "review": "대박",
+    "date": "10.06.24",
+    "rating": "10",
+    "author": "elee****",
+    "review_id": "4588644",
+    "movie_id": "17274"
+  },
+  {
+    "review": "시카카 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "10.06.21",
+    "rating": "10",
+    "author": "exam****",
+    "review_id": "4583337",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편 보다 조금 더 웃긴 것도 같고..",
+    "date": "10.06.06",
+    "rating": "8",
+    "author": "srid****",
+    "review_id": "4547799",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편보다는 재미없지만 그래도 볼만함 짐캐리짱!!!",
+    "date": "10.05.18",
+    "rating": "8",
+    "author": "0675****",
+    "review_id": "4507100",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편보다 2편이 훨~씬 웃깁니다ㅋㅋ",
+    "date": "10.04.21",
+    "rating": "10",
+    "author": "wlfa****",
+    "review_id": "4446776",
+    "movie_id": "17274"
+  },
+  {
+    "review": "전편보다 여러모로 부족하지만 웃긴 몇 명장면이 작품을 살렸다.",
+    "date": "10.03.24",
+    "rating": "6",
+    "author": "bbob****",
+    "review_id": "4383977",
+    "movie_id": "17274"
+  },
+  {
+    "review": "2편은 재미없는데 평점왜케높지;;",
+    "date": "10.03.07",
+    "rating": "4",
+    "author": "peac****",
+    "review_id": "4340070",
+    "movie_id": "17274"
+  },
+  {
+    "review": "벤츄라1에서 부터 2까지.. 모든 이들의 눈을 실망시키지 않는다",
+    "date": "10.03.06",
+    "rating": "10",
+    "author": "liey****",
+    "review_id": "4338680",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편이 좀 더 나은 듯..",
+    "date": "10.02.24",
+    "rating": "8",
+    "author": "tn99****",
+    "review_id": "4313886",
+    "movie_id": "17274"
+  },
+  {
+    "review": "날 최고로 뿜게만드는 영화! 이 영화에 별3개 미만? 다큐를 생각하고 보셨나..?",
+    "date": "10.02.17",
+    "rating": "10",
+    "author": "s182****",
+    "review_id": "4292059",
+    "movie_id": "17274"
+  },
+  {
+    "review": "내 인생 최고의 코믹영화. 아무생각없이 마냥 웃을 수 있는영화",
+    "date": "10.01.08",
+    "rating": "9",
+    "author": "hihb****",
+    "review_id": "4146549",
+    "movie_id": "17274"
+  },
+  {
+    "review": "자꾸 ,,, 홍처리 생각나구마",
+    "date": "09.12.29",
+    "rating": "8",
+    "author": "ryue****",
+    "review_id": "4104408",
+    "movie_id": "17274"
+  },
+  {
+    "review": "내가본 영화중 악당의 최후가 제일 잔혹했던 영화......",
+    "date": "09.11.30",
+    "rating": "9",
+    "author": "ard2****",
+    "review_id": "4005199",
+    "movie_id": "17274"
+  },
+  {
+    "review": "코뿔소 엉덩이에서 짐케리 나올때 배꼽 빠질뻔했던 기억이 나네요 ㅋㅋㅋ",
+    "date": "09.11.25",
+    "rating": "10",
+    "author": "shep****",
+    "review_id": "3990353",
+    "movie_id": "17274"
+  },
+  {
+    "review": "오버는 무진장 심했지만,주옥같은 장면들에 엄청 뿜었다 ㅋㅋ",
+    "date": "09.10.19",
+    "rating": "7",
+    "author": "wild****",
+    "review_id": "3903173",
+    "movie_id": "17274"
+  },
+  {
+    "review": "진짜 웃겨ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "09.09.16",
+    "rating": "10",
+    "author": "hyuk****",
+    "review_id": "3834309",
+    "movie_id": "17274"
+  },
+  {
+    "review": "재밌었음",
+    "date": "09.09.08",
+    "rating": "10",
+    "author": "jkh0****",
+    "review_id": "3819820",
+    "movie_id": "17274"
+  },
+  {
+    "review": "진짜ㅋㅋㅋㅋㅋㅋ 간만에 웃겨 죽는줄 알았네ㅋㅋㅋㅋ",
+    "date": "09.08.29",
+    "rating": "10",
+    "author": "kkj5****",
+    "review_id": "3797189",
+    "movie_id": "17274"
+  },
+  {
+    "review": "말이 필요없어요",
+    "date": "09.04.05",
+    "rating": "10",
+    "author": "poss****",
+    "review_id": "3404958",
+    "movie_id": "17274"
+  },
+  {
+    "review": "학창시절때 극장에서 3번 봤어요",
+    "date": "09.02.08",
+    "rating": "10",
+    "author": "kyki****",
+    "review_id": "3286928",
+    "movie_id": "17274"
+  },
+  {
+    "review": "영사관에서 손으로 그림자놀이 할때 진짜 저 눈물흘렸어요..",
+    "date": "09.02.01",
+    "rating": "10",
+    "author": "elor****",
+    "review_id": "3270503",
+    "movie_id": "17274"
+  },
+  {
+    "review": "이 영화는 짐캐리만이 가능하다",
+    "date": "09.01.04",
+    "rating": "9",
+    "author": "jin0****",
+    "review_id": "3186428",
+    "movie_id": "17274"
+  },
+  {
+    "review": "일인극의 달인, 끊임없는 오버와 생각없는 전개.",
+    "date": "08.12.24",
+    "rating": "4",
+    "author": "befo****",
+    "review_id": "3144005",
+    "movie_id": "17274"
+  },
+  {
+    "review": "마취총 맞고 달릴때 쓰러졌음 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "08.12.21",
+    "rating": "10",
+    "author": "vamp****",
+    "review_id": "3134946",
+    "movie_id": "17274"
+  },
+  {
+    "review": "다리에 창꽂히는게 생각나네",
+    "date": "08.12.20",
+    "rating": "8",
+    "author": "guse****",
+    "review_id": "3131618",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1보다 2가 더 재밌지 않나여? 1은 밋밋하던데 2는 재밌는 장면이 많은데",
+    "date": "08.12.10",
+    "rating": "10",
+    "author": "czle****",
+    "review_id": "3105569",
+    "movie_id": "17274"
+  },
+  {
+    "review": "전작보다 낫다!!",
+    "date": "08.11.28",
+    "rating": "10",
+    "author": "sooj****",
+    "review_id": "3076966",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편보다 흡입력이 없는듯..",
+    "date": "08.11.22",
+    "rating": "6",
+    "author": "moon****",
+    "review_id": "3065779",
+    "movie_id": "17274"
+  },
+  {
+    "review": "대단하단 말밖에 않나온다.1편보다 더 뛰어난 짐 캐리의 연기",
+    "date": "08.11.09",
+    "rating": "7",
+    "author": "mi86****",
+    "review_id": "3042096",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐 캐리의 연기는 끝나지 않으리~",
+    "date": "08.08.23",
+    "rating": "7",
+    "author": "rlad****",
+    "review_id": "2896735",
+    "movie_id": "17274"
+  },
+  {
+    "review": "코뿔소 진짜 초대박",
+    "date": "08.08.18",
+    "rating": "9",
+    "author": "mins****",
+    "review_id": "2882398",
+    "movie_id": "17274"
+  },
+  {
+    "review": "초딩들도 유치하다고 욕할듯.",
+    "date": "08.08.18",
+    "rating": "3",
+    "author": "movi****",
+    "review_id": "2882166",
+    "movie_id": "17274"
+  },
+  {
+    "review": "웃겨죽겟네요 ㅋㅋㅋㅋㅋㅋ",
+    "date": "08.08.07",
+    "rating": "10",
+    "author": "dong****",
+    "review_id": "2843886",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐캐리가 아니면 99%모자르는영화",
+    "date": "08.05.24",
+    "rating": "10",
+    "author": "orm2****",
+    "review_id": "2659713",
+    "movie_id": "17274"
+  },
+  {
+    "review": "전편보다 살짝 더 웃긴 속편.",
+    "date": "08.02.20",
+    "rating": "6",
+    "author": "ttws****",
+    "review_id": "2465647",
+    "movie_id": "17274"
+  },
+  {
+    "review": "굿!!!이것도 최고다!!!",
+    "date": "08.01.27",
+    "rating": "10",
+    "author": "vkdl****",
+    "review_id": "2377054",
+    "movie_id": "17274"
+  },
+  {
+    "review": "쵝오!",
+    "date": "08.01.11",
+    "rating": "10",
+    "author": "ksji****",
+    "review_id": "2315523",
+    "movie_id": "17274"
+  },
+  {
+    "review": "전편만큼 웃기다",
+    "date": "08.01.04",
+    "rating": "7",
+    "author": "uds0****",
+    "review_id": "2295491",
+    "movie_id": "17274"
+  },
+  {
+    "review": "재밌군..",
+    "date": "07.12.01",
+    "rating": "10",
+    "author": "klov****",
+    "review_id": "2196713",
+    "movie_id": "17274"
+  },
+  {
+    "review": "짐캐리의 코미디가 무르익었다.",
+    "date": "07.11.15",
+    "rating": "9",
+    "author": "nokc****",
+    "review_id": "2153781",
+    "movie_id": "17274"
+  },
+  {
+    "review": "심심할때 보면 재밋지",
+    "date": "07.11.15",
+    "rating": "3",
+    "author": "dleo****",
+    "review_id": "2151944",
+    "movie_id": "17274"
+  },
+  {
+    "review": "악평들은뭐냐 존나재밋는데",
+    "date": "07.10.07",
+    "rating": "10",
+    "author": "supe****",
+    "review_id": "2077055",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1에 뒤떨어지지안는 재미,, 재밋다",
+    "date": "07.09.24",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "2045804",
+    "movie_id": "17274"
+  },
+  {
+    "review": "1편보다 나음 이때 짐캐리가 영화계에서 마스크이후로 물이 한창들었을시기",
+    "date": "07.09.16",
+    "rating": "10",
+    "author": "west****",
+    "review_id": "2023307",
+    "movie_id": "17274"
+  },
+  {
+    "review": "내가 이거 세번만 보고 대본을 다 외웠었지ㅋㅋㅋㅋ",
+    "date": "07.09.10",
+    "rating": "10",
+    "author": "dung****",
+    "review_id": "2013507",
+    "movie_id": "17274"
+  }
+]

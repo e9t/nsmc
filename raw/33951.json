@@ -1,0 +1,26 @@
+[
+  {
+    "review": "깊은 상처에 갇혀버린 그녀,",
+    "date": "11.08.18",
+    "rating": "6",
+    "author": "ll3l****",
+    "review_id": "5666367",
+    "movie_id": "33951"
+  },
+  {
+    "review": "무겁진 않으나 충분히 감동적임",
+    "date": "11.05.29",
+    "rating": "6",
+    "author": "evil****",
+    "review_id": "5455597",
+    "movie_id": "33951"
+  },
+  {
+    "review": "괜찮음, 별로 야하진 않음.",
+    "date": "10.02.01",
+    "rating": "8",
+    "author": "nasz****",
+    "review_id": "4230430",
+    "movie_id": "33951"
+  }
+]

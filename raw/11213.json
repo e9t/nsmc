@@ -1,0 +1,42 @@
+[
+  {
+    "review": "저질 액션영화가 되었다",
+    "date": "15.05.15",
+    "rating": "6",
+    "author": "awak****",
+    "review_id": "9919681",
+    "movie_id": "11213"
+  },
+  {
+    "review": "몸개그 쩌네욬ㅋㅋㅋ",
+    "date": "13.06.01",
+    "rating": "4",
+    "author": "mans****",
+    "review_id": "7568244",
+    "movie_id": "11213"
+  },
+  {
+    "review": "TV용 속편으로 나온 씨리즈 완결편. 팜므파탈 스캐너스까지 등장하나 B-급의 완성도.",
+    "date": "10.08.13",
+    "rating": "6",
+    "author": "redo****",
+    "review_id": "4740909",
+    "movie_id": "11213"
+  },
+  {
+    "review": "개인적으로 스캐너시리즈중에 최고다",
+    "date": "07.12.20",
+    "rating": "10",
+    "author": "mysa****",
+    "review_id": "2248989",
+    "movie_id": "11213"
+  },
+  {
+    "review": "갈수록 작품의 질이 다운되고",
+    "date": "07.07.16",
+    "rating": "4",
+    "author": "deff****",
+    "review_id": "1780304",
+    "movie_id": "11213"
+  }
+]

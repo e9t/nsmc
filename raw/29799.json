@@ -1,0 +1,26 @@
+[
+  {
+    "review": "흥미로운 영화예요. 추천합니다^^",
+    "date": "09.10.11",
+    "rating": "10",
+    "author": "fes2****",
+    "review_id": "3885062",
+    "movie_id": "29799"
+  },
+  {
+    "review": "보고 나서 왠지 흐뭇한 웃음이 한동안 남았습니다.",
+    "date": "04.10.15",
+    "rating": "5",
+    "author": "metj****",
+    "review_id": "125904",
+    "movie_id": "29799"
+  },
+  {
+    "review": "마음이 따뜻해지는...",
+    "date": "04.05.21",
+    "rating": "10",
+    "author": "jjin****",
+    "review_id": "44375",
+    "movie_id": "29799"
+  }
+]

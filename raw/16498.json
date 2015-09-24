@@ -1,0 +1,42 @@
+[
+  {
+    "review": "영어로만보니 볼만하다 학국어판은 별로일듯 (있나?",
+    "date": "09.03.07",
+    "rating": "9",
+    "author": "soot****",
+    "review_id": "3351916",
+    "movie_id": "16498"
+  },
+  {
+    "review": "보다 잤다",
+    "date": "07.12.22",
+    "rating": "1",
+    "author": "baks****",
+    "review_id": "2253818",
+    "movie_id": "16498"
+  },
+  {
+    "review": "숀코네리가 이런것도 찍었네. 나름 잼있당.",
+    "date": "07.03.17",
+    "rating": "8",
+    "author": "naeg****",
+    "review_id": "1538185",
+    "movie_id": "16498"
+  },
+  {
+    "review": "Bhlazamentz",
+    "date": "06.11.27",
+    "rating": "10",
+    "author": "tixo****",
+    "review_id": "1254387",
+    "movie_id": "16498"
+  },
+  {
+    "review": "from imdb",
+    "date": "05.10.06",
+    "rating": "5",
+    "author": "nwmo****",
+    "review_id": "435031",
+    "movie_id": "16498"
+  }
+]

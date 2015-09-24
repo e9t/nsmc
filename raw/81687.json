@@ -1,0 +1,50 @@
+[
+  {
+    "review_id": "5430903",
+    "movie_id": "81687",
+    "author": "moir****",
+    "review": "전작 “태양의 신전”보다는 낫다.",
+    "rating": "3",
+    "date": "11.05.16"
+  },
+  {
+    "review_id": "5319337",
+    "movie_id": "81687",
+    "author": "gall****",
+    "review": "애초부터 TV용으로 제작된 저예산임. 멀 기대함? 마르티네즈 너무 좋아~ ㅎㅎ",
+    "rating": "4",
+    "date": "11.03.17"
+  },
+  {
+    "review_id": "5257976",
+    "movie_id": "81687",
+    "author": "tell****",
+    "review": "망작",
+    "rating": "1",
+    "date": "11.02.19"
+  },
+  {
+    "review_id": "5257759",
+    "movie_id": "81687",
+    "author": "lksh****",
+    "review": "인디아나 존스 시리즈 보는게 1000배 낫지, 망할 이것도 모험물이라고 ㅉㅉ",
+    "rating": "1",
+    "date": "11.02.19"
+  },
+  {
+    "review_id": "5078029",
+    "movie_id": "81687",
+    "author": "airj****",
+    "review": "오빠다ㅋㅋ (기대하지 않으면 무난하게 볼 수 있는 TV시리즈용 드라마)",
+    "rating": "6",
+    "date": "10.12.23"
+  },
+  {
+    "review_id": "5076796",
+    "movie_id": "81687",
+    "author": "gobc****",
+    "review": "삼빠다ㅋㅋ",
+    "rating": "10",
+    "date": "10.12.23"
+  }
+]

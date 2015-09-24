@@ -1,0 +1,66 @@
+[
+  {
+    "review": "시대상을 반영한 좋은 영화입니다.",
+    "date": "14.03.16",
+    "rating": "9",
+    "author": "10jo****",
+    "review_id": "8581820",
+    "movie_id": "17820"
+  },
+  {
+    "review": "이런 영화를  만들고 싶다.",
+    "date": "12.08.26",
+    "rating": "10",
+    "author": "monz****",
+    "review_id": "6644674",
+    "movie_id": "17820"
+  },
+  {
+    "review": "힘이 곧 법인 세상을 풍자한 듯 하다.",
+    "date": "09.12.03",
+    "rating": "5",
+    "author": "almo****",
+    "review_id": "4013360",
+    "movie_id": "17820"
+  },
+  {
+    "review": "2009년이다. 초등학교 저학년 때가 언제였더라... 기억이 안난다. 아마 1999년",
+    "date": "09.09.11",
+    "rating": "8",
+    "author": "muz1****",
+    "review_id": "3824773",
+    "movie_id": "17820"
+  },
+  {
+    "review": "옛날생각 나더라~^^",
+    "date": "06.12.13",
+    "rating": "7",
+    "author": "syi0****",
+    "review_id": "1289184",
+    "movie_id": "17820"
+  },
+  {
+    "review": "내용을 떠나 샷과 샷이 붙는 게 보통이 아님.",
+    "date": "05.07.25",
+    "rating": "7",
+    "author": "m60d****",
+    "review_id": "333818",
+    "movie_id": "17820"
+  },
+  {
+    "review": "아주 재미있게 봤습니다.",
+    "date": "05.05.23",
+    "rating": "10",
+    "author": "kk99****",
+    "review_id": "285053",
+    "movie_id": "17820"
+  },
+  {
+    "review": "진부한 주제",
+    "date": "05.02.15",
+    "rating": "3",
+    "author": "plan****",
+    "review_id": "220865",
+    "movie_id": "17820"
+  }
+]

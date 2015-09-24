@@ -1,0 +1,42 @@
+[
+  {
+    "review": "당시엔 꽤나 유명세를 탔던 영화였는데",
+    "date": "12.06.25",
+    "rating": "6",
+    "author": "kos4****",
+    "review_id": "6415508",
+    "movie_id": "16196"
+  },
+  {
+    "review": "한 가족을 파탄시킨, 아니 무수한 가족들을 파멸로 이끈 분단.",
+    "date": "12.06.25",
+    "rating": "10",
+    "author": "squi****",
+    "review_id": "6414305",
+    "movie_id": "16196"
+  },
+  {
+    "review": "약간 지루하면서도 여운이 있는 영화",
+    "date": "11.01.03",
+    "rating": "10",
+    "author": "nodi****",
+    "review_id": "5119587",
+    "movie_id": "16196"
+  },
+  {
+    "review": "동족상잔의 비극이다.",
+    "date": "08.09.13",
+    "rating": "10",
+    "author": "wlsd****",
+    "review_id": "2942047",
+    "movie_id": "16196"
+  },
+  {
+    "review": "우리나라의 가슴아픈 현실을 잘 보여준 영화",
+    "date": "05.10.17",
+    "rating": "8",
+    "author": "tody****",
+    "review_id": "445453",
+    "movie_id": "16196"
+  }
+]

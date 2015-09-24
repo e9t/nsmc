@@ -1,0 +1,26 @@
+[
+  {
+    "review": "추억의 영화   진짜 웃기고 잼있음",
+    "date": "14.07.03",
+    "rating": "10",
+    "author": "cats****",
+    "review_id": "8880000",
+    "movie_id": "10558"
+  },
+  {
+    "review": "재미없다",
+    "date": "12.07.15",
+    "rating": "1",
+    "author": "wjdd****",
+    "review_id": "6481775",
+    "movie_id": "10558"
+  },
+  {
+    "review": "오오오오오~~~",
+    "date": "04.10.24",
+    "rating": "10",
+    "author": "birt****",
+    "review_id": "132131",
+    "movie_id": "10558"
+  }
+]

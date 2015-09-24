@@ -1,0 +1,34 @@
+[
+  {
+    "review": "미안하다 전도연 황정민 나오는 영화인줄 알았다..",
+    "date": "07.09.22",
+    "rating": "4",
+    "author": "evil****",
+    "review_id": "2036564",
+    "movie_id": "20225"
+  },
+  {
+    "review": "그냥 그랬음 ㅏㅏㅏ",
+    "date": "07.04.23",
+    "rating": "2",
+    "author": "salm****",
+    "review_id": "1601756",
+    "movie_id": "20225"
+  },
+  {
+    "review": "보고 싶어도 못보다 ㅜㅜ",
+    "date": "06.10.05",
+    "rating": "10",
+    "author": "tgd8****",
+    "review_id": "1161549",
+    "movie_id": "20225"
+  },
+  {
+    "review": "제목과 같은 영화 있음",
+    "date": "06.08.02",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "956513",
+    "movie_id": "20225"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9848242",
+    "movie_id": "101454",
+    "author": "tekk****",
+    "review": "정말 감동적이네요 ~~~  마지막 장면에 눈물 쏟음 ㅠㅠ",
+    "rating": "10",
+    "date": "15.04.16"
+  },
+  {
+    "review_id": "9021686",
+    "movie_id": "101454",
+    "author": "hsbr****",
+    "review": "모든 애니메이션을 뛰어넘은 명작 그이상의 작품.",
+    "rating": "10",
+    "date": "14.08.04"
+  },
+  {
+    "review_id": "8637531",
+    "movie_id": "101454",
+    "author": "gitf****",
+    "review": "말이 필요 없고... 최고",
+    "rating": "10",
+    "date": "14.04.09"
+  },
+  {
+    "review_id": "7433465",
+    "movie_id": "101454",
+    "author": "eptn****",
+    "review": "걍 신이치껀 다 최고",
+    "rating": "10",
+    "date": "13.04.04"
+  },
+  {
+    "review_id": "7361924",
+    "movie_id": "101454",
+    "author": "dion****",
+    "review": "재즈의 재미를 알아서 좋았다",
+    "rating": "10",
+    "date": "13.03.18"
+  }
+]

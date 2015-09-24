@@ -1,0 +1,26 @@
+[
+  {
+    "review": "전/라/도/네/요/",
+    "date": "14.11.11",
+    "rating": "10",
+    "author": "wmii****",
+    "review_id": "9370594",
+    "movie_id": "36130"
+  },
+  {
+    "review": "배경은 당연히 전라도겠지?",
+    "date": "13.02.25",
+    "rating": "10",
+    "author": "pado****",
+    "review_id": "7301038",
+    "movie_id": "36130"
+  },
+  {
+    "review": "잼있던데,,",
+    "date": "10.03.04",
+    "rating": "10",
+    "author": "byol****",
+    "review_id": "4333775",
+    "movie_id": "36130"
+  }
+]

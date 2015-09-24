@@ -1,0 +1,34 @@
+[
+  {
+    "review": "not bad",
+    "date": "11.08.11",
+    "rating": "5",
+    "author": "naeg****",
+    "review_id": "5637175",
+    "movie_id": "31659"
+  },
+  {
+    "review": "엄마가 생각나는 좋은 영화였어요",
+    "date": "10.06.05",
+    "rating": "10",
+    "author": "mirj****",
+    "review_id": "4545395",
+    "movie_id": "31659"
+  },
+  {
+    "review": "잼없다",
+    "date": "10.05.25",
+    "rating": "1",
+    "author": "andy****",
+    "review_id": "4524141",
+    "movie_id": "31659"
+  },
+  {
+    "review": "출연배우조차 영화를 아직 안봐서 평가하기가... 좀~~~",
+    "date": "10.03.12",
+    "rating": "10",
+    "author": "visi****",
+    "review_id": "4351252",
+    "movie_id": "31659"
+  }
+]

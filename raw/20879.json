@@ -1,0 +1,26 @@
+[
+  {
+    "review": "거지같음",
+    "date": "12.05.30",
+    "rating": "1",
+    "author": "nur0****",
+    "review_id": "6349894",
+    "movie_id": "20879"
+  },
+  {
+    "review": "아무것도 없다.",
+    "date": "10.10.03",
+    "rating": "2",
+    "author": "evil****",
+    "review_id": "4883264",
+    "movie_id": "20879"
+  },
+  {
+    "review": "실패한 서민경제와 사회부조리영화.아니면 진짜 망할필름.물레방아는 뭐야",
+    "date": "10.02.22",
+    "rating": "6",
+    "author": "dma9****",
+    "review_id": "4308249",
+    "movie_id": "20879"
+  }
+]

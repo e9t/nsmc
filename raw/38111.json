@@ -1,0 +1,50 @@
+[
+  {
+    "review": "굿",
+    "date": "12.05.14",
+    "rating": "10",
+    "author": "am_e****",
+    "review_id": "6297864",
+    "movie_id": "38111"
+  },
+  {
+    "review": "김태희 매력짱!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "date": "11.11.04",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "5827372",
+    "movie_id": "38111"
+  },
+  {
+    "review": "보통 그 이상도 이하도 아닌",
+    "date": "06.08.04",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "965133",
+    "movie_id": "38111"
+  },
+  {
+    "review": "이동건이 섹쉬한 매력남이었던..",
+    "date": "06.05.02",
+    "rating": "10",
+    "author": "lhcg****",
+    "review_id": "782991",
+    "movie_id": "38111"
+  },
+  {
+    "review": "많이 재미있지는 않습니다만 조금 재미있습니다.하지만 9점~",
+    "date": "04.05.23",
+    "rating": "9",
+    "author": "badu****",
+    "review_id": "45194",
+    "movie_id": "38111"
+  },
+  {
+    "review": "별로네요...불쌍해서 많이 줍니다...",
+    "date": "04.02.20",
+    "rating": "10",
+    "author": "wlgu****",
+    "review_id": "22001",
+    "movie_id": "38111"
+  }
+]

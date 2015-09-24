@@ -1,0 +1,42 @@
+[
+  {
+    "review": "good movie~~",
+    "date": "11.09.23",
+    "rating": "10",
+    "author": "tnql****",
+    "review_id": "5747016",
+    "movie_id": "22033"
+  },
+  {
+    "review": "소설도 잼없고 영화도 잼없네 ㄷㄷ",
+    "date": "11.09.15",
+    "rating": "1",
+    "author": "sju0****",
+    "review_id": "5732925",
+    "movie_id": "22033"
+  },
+  {
+    "review": "뭐 원작이 워낙 좋아서",
+    "date": "10.08.21",
+    "rating": "10",
+    "author": "wltj****",
+    "review_id": "4774622",
+    "movie_id": "22033"
+  },
+  {
+    "review": "괞찮네요",
+    "date": "10.05.23",
+    "rating": "10",
+    "author": "esm0****",
+    "review_id": "4520244",
+    "movie_id": "22033"
+  },
+  {
+    "review": "재미 없음",
+    "date": "10.05.12",
+    "rating": "1",
+    "author": "dani****",
+    "review_id": "4494874",
+    "movie_id": "22033"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "review": "정말 재밌어요.여기 나오는 세자매님들 정말 이쁘시네요.",
+    "date": "12.08.14",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "6603249",
+    "movie_id": "74764"
+  },
+  {
+    "review": "볼만해요",
+    "date": "12.04.11",
+    "rating": "10",
+    "author": "hyoe****",
+    "review_id": "6210279",
+    "movie_id": "74764"
+  },
+  {
+    "review": "강추",
+    "date": "12.04.09",
+    "rating": "1",
+    "author": "kimw****",
+    "review_id": "6205434",
+    "movie_id": "74764"
+  }
+]

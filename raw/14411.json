@@ -1,0 +1,42 @@
+[
+  {
+    "review": "대한민국에 엄연하게 존재하는 찬란한 깡패영화의 전통.이런게 바로 쌈마이 정신이다.",
+    "date": "11.08.06",
+    "rating": "8",
+    "author": "baks****",
+    "review_id": "5606712",
+    "movie_id": "14411"
+  },
+  {
+    "review": "본인은 이 영화에 대해 양호한 액션물이라며 합격점을 주었다.",
+    "date": "10.03.10",
+    "rating": "6",
+    "author": "spar****",
+    "review_id": "4347209",
+    "movie_id": "14411"
+  },
+  {
+    "review": "진짜 남자다 오작두는",
+    "date": "09.12.05",
+    "rating": "10",
+    "author": "asia****",
+    "review_id": "4018372",
+    "movie_id": "14411"
+  },
+  {
+    "review": "어디 영화냐? 정체는 뭐냐?",
+    "date": "09.03.26",
+    "rating": "1",
+    "author": "evil****",
+    "review_id": "3387590",
+    "movie_id": "14411"
+  },
+  {
+    "review": "액션 죽인다...",
+    "date": "08.03.26",
+    "rating": "10",
+    "author": "konu****",
+    "review_id": "2542285",
+    "movie_id": "14411"
+  }
+]

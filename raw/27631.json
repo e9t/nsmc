@@ -1,0 +1,642 @@
+[
+  {
+    "review": "애슐리 쥬드가 너무 빨리....",
+    "date": "14.03.01",
+    "rating": "7",
+    "author": "mool****",
+    "review_id": "8548134",
+    "movie_id": "27631"
+  },
+  {
+    "review": "당연히 있지...내 인내심 테스트 할라고,...OO아...",
+    "date": "13.03.13",
+    "rating": "1",
+    "author": "fort****",
+    "review_id": "7343938",
+    "movie_id": "27631"
+  },
+  {
+    "review": "좋은영화.",
+    "date": "13.03.03",
+    "rating": "10",
+    "author": "wrsa****",
+    "review_id": "7320721",
+    "movie_id": "27631"
+  },
+  {
+    "review": "하나님의 도구다. 우리들 모두...",
+    "date": "12.06.28",
+    "rating": "10",
+    "author": "aeri****",
+    "review_id": "6421553",
+    "movie_id": "27631"
+  },
+  {
+    "review": "인내심을 극한까지 밀어붙이는 멍청하고 기괴하며 속이 뒤틀리는 종교영화.",
+    "date": "12.01.28",
+    "rating": "1",
+    "author": "pria****",
+    "review_id": "6028927",
+    "movie_id": "27631"
+  },
+  {
+    "review": "이유없이 태어난 생명은 없다",
+    "date": "11.06.09",
+    "rating": "7",
+    "author": "25jo****",
+    "review_id": "5473312",
+    "movie_id": "27631"
+  },
+  {
+    "review": "하나님은 나를 이땅에 내보내신 이유가 있다",
+    "date": "11.01.26",
+    "rating": "6",
+    "author": "zzan****",
+    "review_id": "5186139",
+    "movie_id": "27631"
+  },
+  {
+    "review": "하나님께선 나를 향한 분명한 계획이 있어요. 비록 지금 내가 찌질해도 말이죠.",
+    "date": "10.08.12",
+    "rating": "10",
+    "author": "890k****",
+    "review_id": "4738814",
+    "movie_id": "27631"
+  },
+  {
+    "review": "멋있어 역시",
+    "date": "10.04.03",
+    "rating": "10",
+    "author": "lhb_****",
+    "review_id": "4407809",
+    "movie_id": "27631"
+  },
+  {
+    "review": "우정드라마..",
+    "date": "10.02.05",
+    "rating": "9",
+    "author": "yuni****",
+    "review_id": "4249095",
+    "movie_id": "27631"
+  },
+  {
+    "review": "밑에 멍청한놈들 제발사라져지감동받았다는걸 볼맛안나게 스포말해주는 친절한 ㅈㅄ",
+    "date": "10.01.28",
+    "rating": "10",
+    "author": "cech****",
+    "review_id": "4215762",
+    "movie_id": "27631"
+  },
+  {
+    "review": "교회에서 조금 보여줬는데...그렁그렁..,사이먼 죽을때 너무 감동적(?)이였어요ㅜ",
+    "date": "10.01.24",
+    "rating": "10",
+    "author": "kkeb****",
+    "review_id": "4205378",
+    "movie_id": "27631"
+  },
+  {
+    "review": "버치 친구역활이 굿바이마이프렌드의 덱스터이군요... 여기서도 멋진 우정을 만드네요",
+    "date": "10.01.04",
+    "rating": "10",
+    "author": "dksd****",
+    "review_id": "4129284",
+    "movie_id": "27631"
+  },
+  {
+    "review": "내생애 가장 아름다운 영화!! 하나님이 주신 인생을 정말 아름답게 살아갔다..",
+    "date": "10.01.02",
+    "rating": "10",
+    "author": "simo****",
+    "review_id": "4122376",
+    "movie_id": "27631"
+  },
+  {
+    "review": "학교에서 봤는데..감동..",
+    "date": "09.07.26",
+    "rating": "10",
+    "author": "eehn****",
+    "review_id": "3668763",
+    "movie_id": "27631"
+  },
+  {
+    "review": "감동적인 영화",
+    "date": "09.06.21",
+    "rating": "10",
+    "author": "ahns****",
+    "review_id": "3579024",
+    "movie_id": "27631"
+  },
+  {
+    "review": "좋다",
+    "date": "09.05.25",
+    "rating": "10",
+    "author": "j200****",
+    "review_id": "3522770",
+    "movie_id": "27631"
+  },
+  {
+    "review": "예수쟁이들이 꼭 봐야할 영화",
+    "date": "09.05.23",
+    "rating": "10",
+    "author": "elor****",
+    "review_id": "3515187",
+    "movie_id": "27631"
+  },
+  {
+    "review": "이영화는 사랑과 우정을 느낄수 있어서 좋았다.. ^ ^",
+    "date": "08.10.02",
+    "rating": "10",
+    "author": "pyb9****",
+    "review_id": "2978895",
+    "movie_id": "27631"
+  },
+  {
+    "review": "진부하고 유치한 라스트씬.",
+    "date": "08.09.13",
+    "rating": "3",
+    "author": "caca****",
+    "review_id": "2941402",
+    "movie_id": "27631"
+  },
+  {
+    "review": "우정과 사랑... 그리고 신념에 대한 따뜻한 시선을 느낄수 있어 좋았다",
+    "date": "08.08.06",
+    "rating": "8",
+    "author": "golv****",
+    "review_id": "2842736",
+    "movie_id": "27631"
+  },
+  {
+    "review": "어린 아이들에게도 추천해주고 싶지만 조금 저속한 말이 나와서;; 좋음 추천.",
+    "date": "08.08.01",
+    "rating": "10",
+    "author": "wjdd****",
+    "review_id": "2824895",
+    "movie_id": "27631"
+  },
+  {
+    "review": "너무너무 감동적이고, 우애가 깊어서 울었어요!",
+    "date": "08.06.08",
+    "rating": "10",
+    "author": "benj****",
+    "review_id": "2687140",
+    "movie_id": "27631"
+  },
+  {
+    "review": "학교에서 보여줘서 봤는 데 진~짜 감동 그자체였고!!!재밌기도 하였다~~영화추천ㅋ",
+    "date": "08.05.20",
+    "rating": "10",
+    "author": "jinh****",
+    "review_id": "2653807",
+    "movie_id": "27631"
+  },
+  {
+    "review": "너무재미있고.. 감동적이다.",
+    "date": "08.05.18",
+    "rating": "10",
+    "author": "rlad****",
+    "review_id": "2650049",
+    "movie_id": "27631"
+  },
+  {
+    "review": "기대보다 큰감동이 아닌 잔잔한 감동과 우정...",
+    "date": "08.04.16",
+    "rating": "7",
+    "author": "sinb****",
+    "review_id": "2584339",
+    "movie_id": "27631"
+  },
+  {
+    "review": "-_-..진짜지루하다 시간낭비 ;; 내시간돌려줭",
+    "date": "08.04.12",
+    "rating": "2",
+    "author": "wlsr****",
+    "review_id": "2576806",
+    "movie_id": "27631"
+  },
+  {
+    "review": "굿이예요~",
+    "date": "08.04.10",
+    "rating": "10",
+    "author": "tusl****",
+    "review_id": "2572954",
+    "movie_id": "27631"
+  },
+  {
+    "review": "장르에 100% 충실한 영화. 코미디, 드라마.. 좋은영화다..",
+    "date": "08.03.26",
+    "rating": "8",
+    "author": "sung****",
+    "review_id": "2543440",
+    "movie_id": "27631"
+  },
+  {
+    "review": "오랜만에 8점 준 기막히게 감동적인 영화.",
+    "date": "07.12.30",
+    "rating": "8",
+    "author": "wine****",
+    "review_id": "2281477",
+    "movie_id": "27631"
+  },
+  {
+    "review": "이건 뭐, 10점도 모자라네요. 자라나는 청소년들에게 적극 권장.",
+    "date": "07.12.22",
+    "rating": "10",
+    "author": "urda****",
+    "review_id": "2253553",
+    "movie_id": "27631"
+  },
+  {
+    "review": "진짜 감동...우리가 태어난데에는 이유가있다!",
+    "date": "07.12.08",
+    "rating": "10",
+    "author": "cjdw****",
+    "review_id": "2216166",
+    "movie_id": "27631"
+  },
+  {
+    "review": "내가 정말 좋아하는 영화, 눈물을 평평쏟았던.....",
+    "date": "07.12.08",
+    "rating": "10",
+    "author": "kbb9****",
+    "review_id": "2216161",
+    "movie_id": "27631"
+  },
+  {
+    "review": "대단한 아이",
+    "date": "07.11.25",
+    "rating": "8",
+    "author": "labu****",
+    "review_id": "2182116",
+    "movie_id": "27631"
+  },
+  {
+    "review": "아름다운 감동...... 절대 욕들을 영화는 아니다.",
+    "date": "07.10.30",
+    "rating": "8",
+    "author": "shh8****",
+    "review_id": "2122020",
+    "movie_id": "27631"
+  },
+  {
+    "review": "감동적이고 사이먼이 참..대단하다",
+    "date": "07.10.14",
+    "rating": "10",
+    "author": "high****",
+    "review_id": "2089695",
+    "movie_id": "27631"
+  },
+  {
+    "review": "조낸재미없그렁 싸이먼으로 나오는 애기장애인.........아진짜이상했음",
+    "date": "07.07.28",
+    "rating": "1",
+    "author": "pdv8****",
+    "review_id": "1820129",
+    "movie_id": "27631"
+  },
+  {
+    "review": "변태 싸이먼 하지만 동료애만큼은 뛰어나다. 왜소증 환자임에도 불구하고",
+    "date": "07.04.06",
+    "rating": "8",
+    "author": "dnjs****",
+    "review_id": "1575394",
+    "movie_id": "27631"
+  },
+  {
+    "review": "감수성이 많은 사람이라면 보고 눈물흘릴 영화",
+    "date": "07.03.25",
+    "rating": "10",
+    "author": "hyun****",
+    "review_id": "1554004",
+    "movie_id": "27631"
+  },
+  {
+    "review": "자기신념, 자기신앙이얼마나아름다운지알게한영화",
+    "date": "07.01.14",
+    "rating": "9",
+    "author": "bakk****",
+    "review_id": "1383495",
+    "movie_id": "27631"
+  },
+  {
+    "review": "어떻게 보면 뻔한 이야기이지만 감동적인건 어쩔수 없다",
+    "date": "06.12.30",
+    "rating": "6",
+    "author": "okjo****",
+    "review_id": "1342861",
+    "movie_id": "27631"
+  },
+  {
+    "review": "감동적,,,ㅎ",
+    "date": "06.12.17",
+    "rating": "10",
+    "author": "nso4****",
+    "review_id": "1299250",
+    "movie_id": "27631"
+  },
+  {
+    "review": "지천명이란 게 꼭 나이를 먹어야만 아는 게 아님 것으로...",
+    "date": "06.10.12",
+    "rating": "10",
+    "author": "joow****",
+    "review_id": "1177202",
+    "movie_id": "27631"
+  },
+  {
+    "review": "넘넘 감동적였어요~;;",
+    "date": "06.09.21",
+    "rating": "10",
+    "author": "amy9****",
+    "review_id": "1136020",
+    "movie_id": "27631"
+  },
+  {
+    "review": "슬프지만 마음에 아주 남는 영화는 아니였던듯...",
+    "date": "06.09.13",
+    "rating": "1",
+    "author": "kimb****",
+    "review_id": "1120033",
+    "movie_id": "27631"
+  },
+  {
+    "review": "남잔데, 이거보고 울음 참느라고 죽는줄 알앗다 ;;",
+    "date": "06.09.08",
+    "rating": "10",
+    "author": "arch****",
+    "review_id": "1111000",
+    "movie_id": "27631"
+  },
+  {
+    "review": "정말 좋았어요. 감동적이에요, 정말..",
+    "date": "06.08.22",
+    "rating": "10",
+    "author": "sszz****",
+    "review_id": "1068299",
+    "movie_id": "27631"
+  },
+  {
+    "review": "너무.. 슬퍼요.. ㅜ.. 슬픈모습볼때마다 가슴이 너무 찡해요",
+    "date": "06.07.27",
+    "rating": "10",
+    "author": "loyo****",
+    "review_id": "927435",
+    "movie_id": "27631"
+  },
+  {
+    "review": "잘못된 종교관에 일침을 가할줄 아는..!!",
+    "date": "06.06.26",
+    "rating": "10",
+    "author": "whic****",
+    "review_id": "857981",
+    "movie_id": "27631"
+  },
+  {
+    "review": "정말 너무 감동적이었어요~ㅠㅠ 정말 추천하고 싶은 영화예요~ㅠ",
+    "date": "06.05.08",
+    "rating": "10",
+    "author": "ukno****",
+    "review_id": "791807",
+    "movie_id": "27631"
+  },
+  {
+    "review": "삶에 대해 고뇌하는 작은 영웅의 이야기.",
+    "date": "06.02.10",
+    "rating": "10",
+    "author": "cher****",
+    "review_id": "659594",
+    "movie_id": "27631"
+  },
+  {
+    "review": "Simon같은 친구하나 있었으면..ㅠ 정말 아름답습니다,,",
+    "date": "05.12.10",
+    "rating": "10",
+    "author": "bana****",
+    "review_id": "500043",
+    "movie_id": "27631"
+  },
+  {
+    "review": "열라 웃었다가,,갑자기 눈물 날 뻔 했다,,",
+    "date": "05.12.05",
+    "rating": "9",
+    "author": "evdv****",
+    "review_id": "495284",
+    "movie_id": "27631"
+  },
+  {
+    "review": "웃다가.. 울다가..좋은 영화입니다.",
+    "date": "05.10.24",
+    "rating": "8",
+    "author": "miho****",
+    "review_id": "453853",
+    "movie_id": "27631"
+  },
+  {
+    "review": "말로표현못할 아름다운 영화",
+    "date": "05.10.23",
+    "rating": "10",
+    "author": "sj62****",
+    "review_id": "452034",
+    "movie_id": "27631"
+  },
+  {
+    "review": "끝없는 둘의 우정에 눈물이... 아름다운 영화네요...",
+    "date": "05.10.23",
+    "rating": "10",
+    "author": "vige****",
+    "review_id": "452027",
+    "movie_id": "27631"
+  },
+  {
+    "review": "세상에 태어난 이유를 알게 해준 영화",
+    "date": "05.10.05",
+    "rating": "10",
+    "author": "iann****",
+    "review_id": "434111",
+    "movie_id": "27631"
+  },
+  {
+    "review": "우정과 희생. 우리의 삶을 가치있고 멋지게 하는...",
+    "date": "05.07.25",
+    "rating": "10",
+    "author": "wie7****",
+    "review_id": "333527",
+    "movie_id": "27631"
+  },
+  {
+    "review": "감동의 영화. 그들에 대해 다시 생각하게 한다",
+    "date": "05.04.25",
+    "rating": "7",
+    "author": "si2p****",
+    "review_id": "266004",
+    "movie_id": "27631"
+  },
+  {
+    "review": "운명과 우연은 같을 걸까요?",
+    "date": "05.04.19",
+    "rating": "9",
+    "author": "lcjk****",
+    "review_id": "262801",
+    "movie_id": "27631"
+  },
+  {
+    "review": "사이먼 정말 대단했어요 그리고 사이먼친구조 정말멋져요 ~~~",
+    "date": "05.04.18",
+    "rating": "10",
+    "author": "alwl****",
+    "review_id": "262303",
+    "movie_id": "27631"
+  },
+  {
+    "review": "야구공 맞아 보고 말해라.",
+    "date": "05.04.17",
+    "rating": "10",
+    "author": "198w****",
+    "review_id": "260925",
+    "movie_id": "27631"
+  },
+  {
+    "review": "우연이 만드는 운명이란...올챙이가 병아리가 되는그런것일까?",
+    "date": "05.03.04",
+    "rating": "10",
+    "author": "plat****",
+    "review_id": "234725",
+    "movie_id": "27631"
+  },
+  {
+    "review": "잔잔한 스토리! 아름다운 우정!",
+    "date": "05.03.04",
+    "rating": "8",
+    "author": "sjsy****",
+    "review_id": "234724",
+    "movie_id": "27631"
+  },
+  {
+    "review": "야구공에 맞았다고 사람이 죽는,- _-, 말도 안되는 얘기,",
+    "date": "05.01.01",
+    "rating": "1",
+    "author": "kiss****",
+    "review_id": "174591",
+    "movie_id": "27631"
+  },
+  {
+    "review": "하나님이 주신 삶의 목적을 발견하고 이루어가는 사이먼이  아름답습니다.",
+    "date": "04.12.22",
+    "rating": "10",
+    "author": "even****",
+    "review_id": "167362",
+    "movie_id": "27631"
+  },
+  {
+    "review": "아름다운 우정이였어요!-ㅅㅠ",
+    "date": "04.12.10",
+    "rating": "10",
+    "author": "ojb2****",
+    "review_id": "160115",
+    "movie_id": "27631"
+  },
+  {
+    "review": "정말 감동적이예요.... ㅜㅜ",
+    "date": "04.11.27",
+    "rating": "10",
+    "author": "cook****",
+    "review_id": "152996",
+    "movie_id": "27631"
+  },
+  {
+    "review": "정말 권해주고 싶은 영화예요.. 너무 감동적인 영화였어요..",
+    "date": "04.11.07",
+    "rating": "10",
+    "author": "whdb****",
+    "review_id": "141527",
+    "movie_id": "27631"
+  },
+  {
+    "review": "이영화 정말 감동적이였어요 다시 봐도 울것 같아여",
+    "date": "04.10.27",
+    "rating": "10",
+    "author": "jug0****",
+    "review_id": "133957",
+    "movie_id": "27631"
+  },
+  {
+    "review": "사람의 정서를 유 하게 만드는 영화",
+    "date": "04.09.30",
+    "rating": "10",
+    "author": "oyog****",
+    "review_id": "118128",
+    "movie_id": "27631"
+  },
+  {
+    "review": "이런게 진짜 아름다운것",
+    "date": "04.09.27",
+    "rating": "10",
+    "author": "glty****",
+    "review_id": "115485",
+    "movie_id": "27631"
+  },
+  {
+    "review": "자신에대해생각해볼수있는영화!!",
+    "date": "04.07.29",
+    "rating": "9",
+    "author": "kcy8****",
+    "review_id": "79211",
+    "movie_id": "27631"
+  },
+  {
+    "review": "감동..",
+    "date": "04.07.24",
+    "rating": "10",
+    "author": "ssky****",
+    "review_id": "75683",
+    "movie_id": "27631"
+  },
+  {
+    "review": "조셉ㄸㅐ문에 보게되었지만 지금은 정말 기억에 남는 영화이다",
+    "date": "04.07.16",
+    "rating": "10",
+    "author": "fang****",
+    "review_id": "71897",
+    "movie_id": "27631"
+  },
+  {
+    "review": "볼 당시 처음 보는 제목의 영화였었다. 보는 동안 좋았다.",
+    "date": "04.06.26",
+    "rating": "7",
+    "author": "jcr3****",
+    "review_id": "60889",
+    "movie_id": "27631"
+  },
+  {
+    "review": "감동을 주기엔 약간 부족했지만 그래도 따뜻한 영화",
+    "date": "04.06.17",
+    "rating": "8",
+    "author": "soyb****",
+    "review_id": "55715",
+    "movie_id": "27631"
+  },
+  {
+    "review": "아름다운 이야기가 당신을 기다릴겁니다...꼭 보세요",
+    "date": "04.06.08",
+    "rating": "7",
+    "author": "rose****",
+    "review_id": "51381",
+    "movie_id": "27631"
+  },
+  {
+    "review": "이거 도덕시간에 봤는데 진짜 감동 ㅠ=ㅠ",
+    "date": "04.06.04",
+    "rating": "1",
+    "author": "ggw3****",
+    "review_id": "49364",
+    "movie_id": "27631"
+  },
+  {
+    "review": "잔잔한 재미와 감동.. 재미있어여",
+    "date": "04.03.02",
+    "rating": "8",
+    "author": "cksf****",
+    "review_id": "26443",
+    "movie_id": "27631"
+  }
+]

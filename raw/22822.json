@@ -1,0 +1,42 @@
+[
+  {
+    "review": "추리물 형식으로 문학적인 느낌이 강한 작품...볼 만 하다...",
+    "date": "14.12.11",
+    "rating": "8",
+    "author": "nine****",
+    "review_id": "9466403",
+    "movie_id": "22822"
+  },
+  {
+    "review": "한국영화사의 길이 남을 고전",
+    "date": "14.02.16",
+    "rating": "10",
+    "author": "chun****",
+    "review_id": "8513254",
+    "movie_id": "22822"
+  },
+  {
+    "review": "고독함에 질식한 자의 사인을 좇는 과정.",
+    "date": "14.01.01",
+    "rating": "7",
+    "author": "tear****",
+    "review_id": "8334531",
+    "movie_id": "22822"
+  },
+  {
+    "review": "고독. 고독. 고독.",
+    "date": "09.08.31",
+    "rating": "10",
+    "author": "lllk****",
+    "review_id": "3801762",
+    "movie_id": "22822"
+  },
+  {
+    "review": "획일화 되어가는 인간 군상에 적응하지 못하는 한 인간의 고뇌",
+    "date": "06.09.24",
+    "rating": "9",
+    "author": "izzo****",
+    "review_id": "1140133",
+    "movie_id": "22822"
+  }
+]

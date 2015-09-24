@@ -1,0 +1,26 @@
+[
+  {
+    "review": "토미리존스",
+    "date": "13.04.05",
+    "rating": "10",
+    "author": "md10****",
+    "review_id": "7437310",
+    "movie_id": "13795"
+  },
+  {
+    "review": "별로임",
+    "date": "13.03.23",
+    "rating": "1",
+    "author": "sama****",
+    "review_id": "7402331",
+    "movie_id": "13795"
+  },
+  {
+    "review": "안타깝고 애잔한 극단의 사랑이야기...",
+    "date": "12.12.07",
+    "rating": "8",
+    "author": "ggae****",
+    "review_id": "6981054",
+    "movie_id": "13795"
+  }
+]

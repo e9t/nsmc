@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "7036276",
+    "movie_id": "91571",
+    "author": "ronr****",
+    "review": "재미없어 보지마삼",
+    "rating": "1",
+    "date": "12.12.23"
+  },
+  {
+    "review_id": "6046263",
+    "movie_id": "91571",
+    "author": "cjs0****",
+    "review": "대박!근데 유재석이 없으니까 많이 아쉽당~ㅠㅠ",
+    "rating": "10",
+    "date": "12.02.02"
+  },
+  {
+    "review_id": "6026624",
+    "movie_id": "91571",
+    "author": "iiii****",
+    "review": "최고 최고!!",
+    "rating": "10",
+    "date": "12.01.27"
+  },
+  {
+    "review_id": "6022504",
+    "movie_id": "91571",
+    "author": "jw15****",
+    "review": "정규방송으로 되었으면 좋겠다.",
+    "rating": "10",
+    "date": "12.01.26"
+  },
+  {
+    "review_id": "6022411",
+    "movie_id": "91571",
+    "author": "shsh****",
+    "review": "아주 웃겼다.",
+    "rating": "10",
+    "date": "12.01.26"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review": "우~",
+    "date": "10.10.13",
+    "rating": "1",
+    "author": "doct****",
+    "review_id": "4900496",
+    "movie_id": "37121"
+  },
+  {
+    "review": "곤충아~나와라~~~~",
+    "date": "07.12.29",
+    "rating": "8",
+    "author": "hook****",
+    "review_id": "2278327",
+    "movie_id": "37121"
+  },
+  {
+    "review": "어디서보는거지 이건.",
+    "date": "06.10.15",
+    "rating": "10",
+    "author": "asdf****",
+    "review_id": "1182303",
+    "movie_id": "37121"
+  },
+  {
+    "review": "진짜 제박비응 아끼는군ㅁ",
+    "date": "05.12.26",
+    "rating": "1",
+    "author": "kws7****",
+    "review_id": "530363",
+    "movie_id": "37121"
+  },
+  {
+    "review": "스릴 있는 반전 굿이오",
+    "date": "05.01.31",
+    "rating": "10",
+    "author": "woos****",
+    "review_id": "202099",
+    "movie_id": "37121"
+  }
+]

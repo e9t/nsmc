@@ -1,0 +1,26 @@
+[
+  {
+    "review": "새로움은 좋다",
+    "date": "07.03.20",
+    "rating": "7",
+    "author": "zeed****",
+    "review_id": "1544461",
+    "movie_id": "47511"
+  },
+  {
+    "review": "아직 디지털이 익숙하지 않다... 모두 초점을 남성에 맞춘듯...",
+    "date": "07.01.17",
+    "rating": "7",
+    "author": "juck****",
+    "review_id": "1392328",
+    "movie_id": "47511"
+  },
+  {
+    "review": "혹시나해서",
+    "date": "07.01.07",
+    "rating": "1",
+    "author": "hssh****",
+    "review_id": "1364490",
+    "movie_id": "47511"
+  }
+]

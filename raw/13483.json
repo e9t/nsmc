@@ -1,0 +1,34 @@
+[
+  {
+    "review": "감동",
+    "date": "12.03.17",
+    "rating": "8",
+    "author": "soku****",
+    "review_id": "6149342",
+    "movie_id": "13483"
+  },
+  {
+    "review": "보고 싶어서 10점",
+    "date": "10.11.24",
+    "rating": "10",
+    "author": "ajtw****",
+    "review_id": "4986449",
+    "movie_id": "13483"
+  },
+  {
+    "review": "10점.누군가에겐,존길러민의킹콩이 피터잭슨의킹콩보다도 더좋았던 점과동일한 이유.",
+    "date": "10.10.27",
+    "rating": "10",
+    "author": "baks****",
+    "review_id": "4923220",
+    "movie_id": "13483"
+  },
+  {
+    "review": "재밋게 봤다 오늘",
+    "date": "10.07.16",
+    "rating": "10",
+    "author": "qmff****",
+    "review_id": "4644527",
+    "movie_id": "13483"
+  }
+]

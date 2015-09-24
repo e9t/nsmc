@@ -1,0 +1,58 @@
+[
+  {
+    "review": "잔잔한 훈훈함. 느낌있는 영화",
+    "date": "14.03.04",
+    "rating": "8",
+    "author": "goya****",
+    "review_id": "8556175",
+    "movie_id": "27420"
+  },
+  {
+    "review": "갈등이 신선하다",
+    "date": "09.02.04",
+    "rating": "8",
+    "author": "5292****",
+    "review_id": "3276760",
+    "movie_id": "27420"
+  },
+  {
+    "review": "별로",
+    "date": "08.04.27",
+    "rating": "1",
+    "author": "oran****",
+    "review_id": "2601112",
+    "movie_id": "27420"
+  },
+  {
+    "review": "예술영화?예술영화이지만어렵지않은,가슴에와닿는이야기를펼치고있다",
+    "date": "07.10.05",
+    "rating": "10",
+    "author": "tlme****",
+    "review_id": "2071609",
+    "movie_id": "27420"
+  },
+  {
+    "review": "겁먹지 마라 어려운 이야기가 아니다.",
+    "date": "07.03.10",
+    "rating": "10",
+    "author": "revi****",
+    "review_id": "1526380",
+    "movie_id": "27420"
+  },
+  {
+    "review": "독특한 영상과 기술화법이 남다르고 매우 예술적인 영화..",
+    "date": "05.06.01",
+    "rating": "10",
+    "author": "rlfr****",
+    "review_id": "291687",
+    "movie_id": "27420"
+  },
+  {
+    "review": "많은 자막만큼이나 더 펼질것이 없는 일상 그대로의 이야기.",
+    "date": "04.10.16",
+    "rating": "6",
+    "author": "ruby****",
+    "review_id": "127065",
+    "movie_id": "27420"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9999480",
+    "movie_id": "133104",
+    "author": "joon****",
+    "review": "진짜 이해안됨.딱 봐도 3류영화",
+    "rating": "1",
+    "date": "15.06.14"
+  },
+  {
+    "review_id": "9979791",
+    "movie_id": "133104",
+    "author": "jmh5****",
+    "review": "돈주고보면..안돼요!",
+    "rating": "1",
+    "date": "15.06.06"
+  },
+  {
+    "review_id": "9976245",
+    "movie_id": "133104",
+    "author": "anti****",
+    "review": "인간이라면 꼭 봐야할영화",
+    "rating": "10",
+    "date": "15.06.05"
+  },
+  {
+    "review_id": "9938340",
+    "movie_id": "133104",
+    "author": "hipa****",
+    "review": "ㅋㅋㅋ18시간 안에 라고 딱, 찝어놔서 그런지 ㅋㅋ 긴장감 넘치네요",
+    "rating": "10",
+    "date": "15.05.22"
+  },
+  {
+    "review_id": "9935771",
+    "movie_id": "133104",
+    "author": "chae****",
+    "review": "배우들의 연기가 매우 괜찮았음,  sf 느낌 많이 남. 볼만함",
+    "rating": "10",
+    "date": "15.05.21"
+  }
+]

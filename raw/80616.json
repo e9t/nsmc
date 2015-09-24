@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "5865841",
+    "movie_id": "80616",
+    "author": "iiii****",
+    "review": "뭐지?",
+    "rating": "1",
+    "date": "11.11.22"
+  },
+  {
+    "review_id": "5804639",
+    "movie_id": "80616",
+    "author": "wh34****",
+    "review": "재미있어요..",
+    "rating": "10",
+    "date": "11.10.23"
+  },
+  {
+    "review_id": "5159373",
+    "movie_id": "80616",
+    "author": "h105****",
+    "review": "그냥 뭔내용인지",
+    "rating": "1",
+    "date": "11.01.15"
+  },
+  {
+    "review_id": "5063364",
+    "movie_id": "80616",
+    "author": "baks****",
+    "review": "자이언트의조필연역할에서 보여주었던 압도적인기세를 이어가지못하는 안타까운 작품.",
+    "rating": "3",
+    "date": "10.12.18"
+  }
+]

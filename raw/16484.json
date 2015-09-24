@@ -1,0 +1,26 @@
+[
+  {
+    "review": "황당하기는 하지만 그래도 볼만한 가치는 충분한 작품이다",
+    "date": "14.01.20",
+    "rating": "6",
+    "author": "deff****",
+    "review_id": "8404574",
+    "movie_id": "16484"
+  },
+  {
+    "review": "억지 스럽고 흐지 부지 한 병맛 영화. 스타 트렉 Storm Front 보다 허접 하고 병맛 돋음.",
+    "date": "13.02.17",
+    "rating": "1",
+    "author": "cord****",
+    "review_id": "7274580",
+    "movie_id": "16484"
+  },
+  {
+    "review": "재밌습니다",
+    "date": "12.03.05",
+    "rating": "10",
+    "author": "0310****",
+    "review_id": "6124785",
+    "movie_id": "16484"
+  }
+]

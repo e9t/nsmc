@@ -1,0 +1,50 @@
+[
+  {
+    "review": "와~ 정말 재밌다! 전율을 느낄 만한 재미와 감동!",
+    "date": "14.07.05",
+    "rating": "10",
+    "author": "haya****",
+    "review_id": "8884220",
+    "movie_id": "17259"
+  },
+  {
+    "review": "감동적인 영화 꼭 보세요^^~",
+    "date": "14.07.04",
+    "rating": "10",
+    "author": "pras****",
+    "review_id": "8884214",
+    "movie_id": "17259"
+  },
+  {
+    "review": "옥소리 프로필 사진에 1점남기고 갑니다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ완전 대박이다 진짜 아우 짜증나!",
+    "date": "13.04.05",
+    "rating": "1",
+    "author": "gamm****",
+    "review_id": "7435669",
+    "movie_id": "17259"
+  },
+  {
+    "review": "개봉당시에 봤던영화인데 감동적이었다!!!!",
+    "date": "12.05.24",
+    "rating": "10",
+    "author": "rich****",
+    "review_id": "6328713",
+    "movie_id": "17259"
+  },
+  {
+    "review": "지루함,,,,",
+    "date": "10.07.30",
+    "rating": "1",
+    "author": "mode****",
+    "review_id": "4688599",
+    "movie_id": "17259"
+  },
+  {
+    "review": "재밌다",
+    "date": "08.02.29",
+    "rating": "10",
+    "author": "rlat****",
+    "review_id": "2492569",
+    "movie_id": "17259"
+  }
+]

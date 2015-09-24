@@ -1,0 +1,42 @@
+[
+  {
+    "review": "노래와 음악이 10점만점.이 정도면 인도영화 만 보고 살라고 해도 한다",
+    "date": "07.09.23",
+    "rating": "10",
+    "author": "baks****",
+    "review_id": "2040768",
+    "movie_id": "36989"
+  },
+  {
+    "review": "느낌좋은영화",
+    "date": "06.03.12",
+    "rating": "7",
+    "author": "jaey****",
+    "review_id": "713339",
+    "movie_id": "36989"
+  },
+  {
+    "review": "재밌다. 여주인공이 이쁜편",
+    "date": "06.03.12",
+    "rating": "10",
+    "author": "pure****",
+    "review_id": "713280",
+    "movie_id": "36989"
+  },
+  {
+    "review": "경쾌한 영화 굿",
+    "date": "05.08.16",
+    "rating": "7",
+    "author": "okjo****",
+    "review_id": "370479",
+    "movie_id": "36989"
+  },
+  {
+    "review": "사랑의 전주곡과 같은 매력적인 영화에 찬사를...",
+    "date": "05.02.09",
+    "rating": "10",
+    "author": "lhcg****",
+    "review_id": "214146",
+    "movie_id": "36989"
+  }
+]

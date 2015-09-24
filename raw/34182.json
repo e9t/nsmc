@@ -1,0 +1,42 @@
+[
+  {
+    "review": "감동적인 애니메이션이겠지",
+    "date": "15.06.02",
+    "rating": "10",
+    "author": "bill****",
+    "review_id": "9970128",
+    "movie_id": "34182"
+  },
+  {
+    "review": "평단가 낮추기 작업. 10점 만점이 어딨어",
+    "date": "15.06.01",
+    "rating": "7",
+    "author": "supe****",
+    "review_id": "9968999",
+    "movie_id": "34182"
+  },
+  {
+    "review": "어렸을때 첫회부터 재밌게봄 감동",
+    "date": "15.05.26",
+    "rating": "10",
+    "author": "clan****",
+    "review_id": "9951956",
+    "movie_id": "34182"
+  },
+  {
+    "review": "사랑하지 않을수 없잖아",
+    "date": "15.03.08",
+    "rating": "10",
+    "author": "paaa****",
+    "review_id": "9767199",
+    "movie_id": "34182"
+  },
+  {
+    "review": "good 완존 대봒이네여",
+    "date": "14.11.17",
+    "rating": "10",
+    "author": "h020****",
+    "review_id": "9395292",
+    "movie_id": "34182"
+  }
+]

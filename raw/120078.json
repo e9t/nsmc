@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "8851627",
+    "movie_id": "120078",
+    "author": "534k****",
+    "review": "그냥 10점 주고싶다..",
+    "rating": "10",
+    "date": "14.06.24"
+  },
+  {
+    "review_id": "8846409",
+    "movie_id": "120078",
+    "author": "kimk****",
+    "review": "신들린듯한 연주였어요실제로 못본게 아쉽 ㅠ",
+    "rating": "8",
+    "date": "14.06.22"
+  },
+  {
+    "review_id": "8832903",
+    "movie_id": "120078",
+    "author": "ari1****",
+    "review": "비주얼이 아쉽.가나다",
+    "rating": "5",
+    "date": "14.06.15"
+  },
+  {
+    "review_id": "8620613",
+    "movie_id": "120078",
+    "author": "nept****",
+    "review": "개성 넘치는 공연이구나 역시.",
+    "rating": "10",
+    "date": "14.03.31"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review": "폭풍고추 홍고추가 간다",
+    "date": "14.12.31",
+    "rating": "10",
+    "author": "qpal****",
+    "review_id": "9542114",
+    "movie_id": "22800"
+  },
+  {
+    "review": "내평점에 영화평점이달라지지./.",
+    "date": "10.10.06",
+    "rating": "10",
+    "author": "gj_d****",
+    "review_id": "4888727",
+    "movie_id": "22800"
+  },
+  {
+    "review": "야, 쓰레기! 작은고추의 매운 맛을보여주마, 포풍고추, 홍고추가 간다!",
+    "date": "10.08.17",
+    "rating": "10",
+    "author": "powe****",
+    "review_id": "4756899",
+    "movie_id": "22800"
+  },
+  {
+    "review": "어릴적 상당히 감동받았다.",
+    "date": "08.07.02",
+    "rating": "9",
+    "author": "soul****",
+    "review_id": "2735890",
+    "movie_id": "22800"
+  },
+  {
+    "review": "마지막에 끈질긴 노력으로 승리해 감동적",
+    "date": "04.10.22",
+    "rating": "8",
+    "author": "macl****",
+    "review_id": "130619",
+    "movie_id": "22800"
+  }
+]

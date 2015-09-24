@@ -1,0 +1,34 @@
+[
+  {
+    "review": "mkijpijjju",
+    "date": "14.12.09",
+    "rating": "10",
+    "author": "cogu****",
+    "review_id": "9460337",
+    "movie_id": "22672"
+  },
+  {
+    "review": "낄낄낄낄 평점 내리면 어떨거같긴 하냐 낄",
+    "date": "14.12.07",
+    "rating": "1",
+    "author": "noby****",
+    "review_id": "9455023",
+    "movie_id": "22672"
+  },
+  {
+    "review": "하하\\두번째다 내가 평점을 마음데로 조종한다",
+    "date": "14.12.04",
+    "rating": "10",
+    "author": "qwas****",
+    "review_id": "9446662",
+    "movie_id": "22672"
+  },
+  {
+    "review": "불행이 무서운 것은 한 번으로 끝나지 않는다는 것.",
+    "date": "14.11.06",
+    "rating": "7",
+    "author": "band****",
+    "review_id": "9343586",
+    "movie_id": "22672"
+  }
+]

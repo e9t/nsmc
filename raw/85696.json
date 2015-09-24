@@ -1,0 +1,50 @@
+[
+  {
+    "review_id": "9976471",
+    "movie_id": "85696",
+    "author": "miso****",
+    "review": "보시라~남자배우에 매료 될것이다..시간가는줄 모로고 봤다",
+    "rating": "10",
+    "date": "15.06.05"
+  },
+  {
+    "review_id": "7656356",
+    "movie_id": "85696",
+    "author": "ergr****",
+    "review": "나름 끌리는 영화였다 무엇보다 제목이 명작이다",
+    "rating": "8",
+    "date": "13.06.19"
+  },
+  {
+    "review_id": "6809472",
+    "movie_id": "85696",
+    "author": "outo****",
+    "review": "나름 재밌게 봤다 별내용없는 매력이 있다",
+    "rating": "8",
+    "date": "12.10.18"
+  },
+  {
+    "review_id": "6718824",
+    "movie_id": "85696",
+    "author": "sinj****",
+    "review": "질풍노도, 청소년들이 봐야 할 영화인데, 청소년은 관람불가",
+    "rating": "10",
+    "date": "12.09.22"
+  },
+  {
+    "review_id": "6612386",
+    "movie_id": "85696",
+    "author": "sold****",
+    "review": "볼만함",
+    "rating": "5",
+    "date": "12.08.16"
+  },
+  {
+    "review_id": "6526751",
+    "movie_id": "85696",
+    "author": "hood****",
+    "review": "그런대로 볼만은 하다..",
+    "rating": "5",
+    "date": "12.07.25"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "review": "개인적으로 1편보다 재밌게 봤다",
+    "date": "15.08.26",
+    "rating": "9",
+    "author": "beat****",
+    "review_id": "10275967",
+    "movie_id": "10234"
+  },
+  {
+    "review": "확실히 1편에 비하면 모든면에서 떨어지지만 그래도 오멘 시리즈의 이름값정도는 된 작품!",
+    "date": "15.05.20",
+    "rating": "7",
+    "author": "gshh****",
+    "review_id": "9934256",
+    "movie_id": "10234"
+  },
+  {
+    "review": "미소년으로 정변한 데미안과 그 포스",
+    "date": "15.03.11",
+    "rating": "10",
+    "author": "tlss****",
+    "review_id": "9771755",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편보다 죽는 사람들은 더 많아졌지만, 긴장감이나 오싹함은 1편에 비해 떨어진다.",
+    "date": "14.02.25",
+    "rating": "5",
+    "author": "zxc1****",
+    "review_id": "8535505",
+    "movie_id": "10234"
+  },
+  {
+    "review": "옛날 영화라는것을 감안해야겠지만 너무 뜬금없는 부분이나 억지가 많아서..마지막도 뭔가 생뚱맞게 끝나버린다.",
+    "date": "14.02.11",
+    "rating": "5",
+    "author": "ehwj****",
+    "review_id": "8499454",
+    "movie_id": "10234"
+  },
+  {
+    "review": "2 이정도라면 전편에 이어 잘 만들었음.",
+    "date": "13.12.27",
+    "rating": "8",
+    "author": "lion****",
+    "review_id": "8311469",
+    "movie_id": "10234"
+  },
+  {
+    "review": "전편의 명성을 잘 이어갔다고 봄.",
+    "date": "13.09.28",
+    "rating": "10",
+    "author": "kem1****",
+    "review_id": "8020134",
+    "movie_id": "10234"
+  },
+  {
+    "review": "젠장..",
+    "date": "12.12.22",
+    "rating": "3",
+    "author": "rand****",
+    "review_id": "7031289",
+    "movie_id": "10234"
+  },
+  {
+    "review": "음악과 눈빛만으론 간에 기별도 안찬다. 스토리도 지루하구... 그냥 좀 가소롭고 웃기다는...",
+    "date": "12.08.02",
+    "rating": "3",
+    "author": "kis5****",
+    "review_id": "6565357",
+    "movie_id": "10234"
+  },
+  {
+    "review": "제발 보지 마세요 이거 보는 2시간은 정말 아무것도 안한 시간낭비",
+    "date": "11.10.01",
+    "rating": "1",
+    "author": "haj1****",
+    "review_id": "5764483",
+    "movie_id": "10234"
+  },
+  {
+    "review": "오멘만의 공포가 맘에든다.",
+    "date": "11.07.31",
+    "rating": "8",
+    "author": "cndx****",
+    "review_id": "5586004",
+    "movie_id": "10234"
+  },
+  {
+    "review": "적당히 앞으로 당기면서 본 가벼운 스릴러",
+    "date": "11.07.22",
+    "rating": "4",
+    "author": "seul****",
+    "review_id": "5560740",
+    "movie_id": "10234"
+  },
+  {
+    "review": "전편의 대성공으로 속편에 대한 부담감을 연출력으로 상쇄한 돈 테일러.",
+    "date": "10.08.20",
+    "rating": "9",
+    "author": "sykm****",
+    "review_id": "4771093",
+    "movie_id": "10234"
+  },
+  {
+    "review": "전편보다 후지고 볼거라곤 미소년 적그리스도뿐",
+    "date": "10.06.22",
+    "rating": "6",
+    "author": "chun****",
+    "review_id": "4584344",
+    "movie_id": "10234"
+  },
+  {
+    "review": "공포영화는 신과 악마의 존재를 믿지 않더라도 무서워야 하는 법.",
+    "date": "09.11.05",
+    "rating": "3",
+    "author": "acin****",
+    "review_id": "3938969",
+    "movie_id": "10234"
+  },
+  {
+    "review": "어렸을때 무섭게 본 영화",
+    "date": "09.09.20",
+    "rating": "10",
+    "author": "jkh0****",
+    "review_id": "3839709",
+    "movie_id": "10234"
+  },
+  {
+    "review": "지금 보기엔 좀 지겹다..",
+    "date": "09.08.25",
+    "rating": "5",
+    "author": "jbc1****",
+    "review_id": "3787609",
+    "movie_id": "10234"
+  },
+  {
+    "review": "원작보다는 떨어지지만,나쁘진 않았다",
+    "date": "09.08.22",
+    "rating": "7",
+    "author": "west****",
+    "review_id": "3775561",
+    "movie_id": "10234"
+  },
+  {
+    "review": "속편도  수작..",
+    "date": "09.08.17",
+    "rating": "8",
+    "author": "gall****",
+    "review_id": "3762037",
+    "movie_id": "10234"
+  },
+  {
+    "review": "오멘은 그냥무섭다..잔인한 장면없이도 옥죄어오는 공포..3편부터는 절대보지마시길!",
+    "date": "09.06.06",
+    "rating": "10",
+    "author": "whia****",
+    "review_id": "3547543",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편보단 낫네. 옛날영화는 어쩔수 없는듯.",
+    "date": "09.05.10",
+    "rating": "7",
+    "author": "dcje****",
+    "review_id": "3483786",
+    "movie_id": "10234"
+  },
+  {
+    "review": "정말 할 말이 없네요. 비평조차 아깝습니다. 한마디로 장난하냐고 묻고 싶습니다.",
+    "date": "08.09.24",
+    "rating": "1",
+    "author": "prec****",
+    "review_id": "2966526",
+    "movie_id": "10234"
+  },
+  {
+    "review": "전편보단 못하지만, 업그레이드 된 악마를 만나볼 수 있다. 악마의 공포는 계속된다",
+    "date": "08.05.13",
+    "rating": "8",
+    "author": "minw****",
+    "review_id": "2639600",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1보다화질이 안좋은건 나만의 착각인가요??",
+    "date": "08.05.13",
+    "rating": "8",
+    "author": "thsg****",
+    "review_id": "2639119",
+    "movie_id": "10234"
+  },
+  {
+    "review": "이정도면 잘 만들어진 속편",
+    "date": "08.05.09",
+    "rating": "10",
+    "author": "capc****",
+    "review_id": "2626949",
+    "movie_id": "10234"
+  },
+  {
+    "review": "아 지루해지루해 전편보다 변 반틈깍아서 준다 70년대에나 획기적이었을 영화",
+    "date": "08.01.13",
+    "rating": "4",
+    "author": "8808****",
+    "review_id": "2323543",
+    "movie_id": "10234"
+  },
+  {
+    "review": "음악이 숨을 멎게 한다.",
+    "date": "07.11.24",
+    "rating": "10",
+    "author": "like****",
+    "review_id": "2178185",
+    "movie_id": "10234"
+  },
+  {
+    "review": "good",
+    "date": "07.10.21",
+    "rating": "5",
+    "author": "cles****",
+    "review_id": "2103481",
+    "movie_id": "10234"
+  },
+  {
+    "review": "속편의 한계를 어느 정도 뛰어넘었다",
+    "date": "07.09.08",
+    "rating": "8",
+    "author": "scri****",
+    "review_id": "2007242",
+    "movie_id": "10234"
+  },
+  {
+    "review": "최고 음악 무섭다",
+    "date": "07.08.18",
+    "rating": "8",
+    "author": "dlwl****",
+    "review_id": "1953663",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편을 만회해보겠다라는건가?? 감독 짱이네",
+    "date": "07.05.31",
+    "rating": "10",
+    "author": "dbsr****",
+    "review_id": "1674920",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편보단아니지만 그래도 잘만든영화다",
+    "date": "07.05.25",
+    "rating": "10",
+    "author": "moon****",
+    "review_id": "1658162",
+    "movie_id": "10234"
+  },
+  {
+    "review": "공포영화 고전이 된 오멘속편 그러나 전편의 명성에 비하면...",
+    "date": "07.03.11",
+    "rating": "7",
+    "author": "nala****",
+    "review_id": "1528930",
+    "movie_id": "10234"
+  },
+  {
+    "review": "강렬한 사고사 장면은 데스티네이션2와 견줄 수 있을 듯",
+    "date": "07.02.10",
+    "rating": "8",
+    "author": "seun****",
+    "review_id": "1460939",
+    "movie_id": "10234"
+  },
+  {
+    "review": "good",
+    "date": "07.01.30",
+    "rating": "5",
+    "author": "kcch****",
+    "review_id": "1427775",
+    "movie_id": "10234"
+  },
+  {
+    "review": "볼만은했다",
+    "date": "07.01.09",
+    "rating": "7",
+    "author": "jtlk****",
+    "review_id": "1371039",
+    "movie_id": "10234"
+  },
+  {
+    "review": "긴장감이라고는 찾아볼 수 없는 제대로 지루한 영화이다",
+    "date": "07.01.03",
+    "rating": "1",
+    "author": "smg8****",
+    "review_id": "1352196",
+    "movie_id": "10234"
+  },
+  {
+    "review": "그래도 볼만",
+    "date": "06.12.27",
+    "rating": "6",
+    "author": "ysuh****",
+    "review_id": "1333744",
+    "movie_id": "10234"
+  },
+  {
+    "review": "전편보다 못만들었다",
+    "date": "06.12.18",
+    "rating": "5",
+    "author": "kims****",
+    "review_id": "1302256",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편의 동어반복이자 재탕. 왜 만들었니?",
+    "date": "06.12.08",
+    "rating": "6",
+    "author": "movi****",
+    "review_id": "1274421",
+    "movie_id": "10234"
+  },
+  {
+    "review": "오멘공포는 계속된다...무서버..",
+    "date": "06.11.14",
+    "rating": "8",
+    "author": "toy2****",
+    "review_id": "1231874",
+    "movie_id": "10234"
+  },
+  {
+    "review": "인상적인 장면,, 그리고 제리 골드스미스의 심장을 울리는 음악",
+    "date": "06.10.30",
+    "rating": "8",
+    "author": "goma****",
+    "review_id": "1207095",
+    "movie_id": "10234"
+  },
+  {
+    "review": "데미안, 무섭기보단 측은했달까 --;",
+    "date": "06.10.15",
+    "rating": "8",
+    "author": "sunu****",
+    "review_id": "1182019",
+    "movie_id": "10234"
+  },
+  {
+    "review": "오멘씨리즈는 여기까지",
+    "date": "06.10.06",
+    "rating": "10",
+    "author": "gkdn****",
+    "review_id": "1165759",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편보다 많이 약함~",
+    "date": "06.09.26",
+    "rating": "7",
+    "author": "clou****",
+    "review_id": "1143551",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편보단 딸리지만 나름데로..",
+    "date": "06.09.19",
+    "rating": "7",
+    "author": "hide****",
+    "review_id": "1132270",
+    "movie_id": "10234"
+  },
+  {
+    "review": "데미안의 포스",
+    "date": "06.08.03",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "960126",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편보다 2편이 더잘만들어진 몇안된영화",
+    "date": "06.07.29",
+    "rating": "10",
+    "author": "natu****",
+    "review_id": "937680",
+    "movie_id": "10234"
+  },
+  {
+    "review": "신선도는 전편에 비해 떨어지나 여전히 무시무시하다.",
+    "date": "06.07.28",
+    "rating": "7",
+    "author": "rush****",
+    "review_id": "930461",
+    "movie_id": "10234"
+  },
+  {
+    "review": "오멘시리즈 중 최고 명작.",
+    "date": "06.07.27",
+    "rating": "7",
+    "author": "ktch****",
+    "review_id": "925428",
+    "movie_id": "10234"
+  },
+  {
+    "review": "원작의 공포감을 기대한 건 잘못인가 너무 럭셔리 해진 데미안",
+    "date": "06.07.25",
+    "rating": "4",
+    "author": "okjo****",
+    "review_id": "921883",
+    "movie_id": "10234"
+  },
+  {
+    "review": "재미있다 ^-^!!",
+    "date": "06.07.24",
+    "rating": "8",
+    "author": "diab****",
+    "review_id": "920223",
+    "movie_id": "10234"
+  },
+  {
+    "review": "적 그리스도로서의 각성 갈등 고뇌.. 이것이 공포영화 인가?",
+    "date": "06.07.16",
+    "rating": "10",
+    "author": "saru****",
+    "review_id": "897593",
+    "movie_id": "10234"
+  },
+  {
+    "review": "\"새\"로승부할라는건무슨시츄에이션이지. 역시 데미안. 덜덜",
+    "date": "06.07.16",
+    "rating": "8",
+    "author": "izzo****",
+    "review_id": "895632",
+    "movie_id": "10234"
+  },
+  {
+    "review": "오멘 1편보다 더 재밌는 2편~",
+    "date": "06.06.17",
+    "rating": "9",
+    "author": "coco****",
+    "review_id": "846979",
+    "movie_id": "10234"
+  },
+  {
+    "review": "역시 마지막 데미안의 미소는 의미심장하다",
+    "date": "06.06.10",
+    "rating": "8",
+    "author": "fred****",
+    "review_id": "839674",
+    "movie_id": "10234"
+  },
+  {
+    "review": "2편이 정말 최고였죠..그 소년 데미안 역의 그분 정말",
+    "date": "06.06.07",
+    "rating": "10",
+    "author": "pluv****",
+    "review_id": "835158",
+    "movie_id": "10234"
+  },
+  {
+    "review": "존내 무서웟다..어린마음에..ㄷㄷ",
+    "date": "06.06.03",
+    "rating": "9",
+    "author": "alft****",
+    "review_id": "829387",
+    "movie_id": "10234"
+  },
+  {
+    "review": "예전에 오멘 너무 재밌게 봤는데 또 보게 됐내요",
+    "date": "06.05.27",
+    "rating": "10",
+    "author": "kebi****",
+    "review_id": "818185",
+    "movie_id": "10234"
+  },
+  {
+    "review": "데미안 쏜이 9명을 죽인 살인자로 몰았던 작품",
+    "date": "06.03.01",
+    "rating": "10",
+    "author": "3tri****",
+    "review_id": "699691",
+    "movie_id": "10234"
+  },
+  {
+    "review": "데미안 역의 포스부터가 1편 보다는 약해졌다..그래도 보시길..",
+    "date": "06.02.01",
+    "rating": "8",
+    "author": "penn****",
+    "review_id": "640518",
+    "movie_id": "10234"
+  },
+  {
+    "review": "역시나 음산한 사운드 ㅠㅠ 그러나 1편보단 부족한뭔가가..",
+    "date": "05.12.26",
+    "rating": "8",
+    "author": "hyuk****",
+    "review_id": "529423",
+    "movie_id": "10234"
+  },
+  {
+    "review": "2편도 머릿속에 충격적인 장면이 오래남는영화;;",
+    "date": "05.12.04",
+    "rating": "8",
+    "author": "godj****",
+    "review_id": "493726",
+    "movie_id": "10234"
+  },
+  {
+    "review": "악마 데미안의 소년기, 다소 심심한 면도 있다.",
+    "date": "05.11.17",
+    "rating": "8",
+    "author": "jcr3****",
+    "review_id": "476890",
+    "movie_id": "10234"
+  },
+  {
+    "review": "TV에서 운좋게 봤는데 그 흡입력이란..본격적으로?할때 끝난다",
+    "date": "05.09.03",
+    "rating": "9",
+    "author": "yong****",
+    "review_id": "391777",
+    "movie_id": "10234"
+  },
+  {
+    "review": "이 시리즈는 고전적이지만 무서운 것과는 거리가 멀다.",
+    "date": "05.05.16",
+    "rating": "7",
+    "author": "kpcc****",
+    "review_id": "278743",
+    "movie_id": "10234"
+  },
+  {
+    "review": "재밌다.ㅎㅎ",
+    "date": "04.12.10",
+    "rating": "10",
+    "author": "myon****",
+    "review_id": "160119",
+    "movie_id": "10234"
+  },
+  {
+    "review": "새로운 것이 없다.",
+    "date": "04.11.30",
+    "rating": "4",
+    "author": "dio3****",
+    "review_id": "154594",
+    "movie_id": "10234"
+  },
+  {
+    "review": "소년 데미안의 과도기적 시절",
+    "date": "04.10.30",
+    "rating": "9",
+    "author": "rood****",
+    "review_id": "135797",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편 보고 기대했었는데....쩝..",
+    "date": "04.10.11",
+    "rating": "5",
+    "author": "jp47****",
+    "review_id": "124079",
+    "movie_id": "10234"
+  },
+  {
+    "review": "1편보다 2편이 더재밌음",
+    "date": "04.08.09",
+    "rating": "10",
+    "author": "dkdl****",
+    "review_id": "87003",
+    "movie_id": "10234"
+  },
+  {
+    "review": "공포감을 복돋우던 배경음이 아직도 떠나지 않는다 데미안의 성장기...!!",
+    "date": "04.08.08",
+    "rating": "10",
+    "author": "napo****",
+    "review_id": "86062",
+    "movie_id": "10234"
+  }
+]

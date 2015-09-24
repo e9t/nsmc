@@ -1,0 +1,34 @@
+[
+  {
+    "review": "안봐도 될 뻔했다",
+    "date": "12.10.07",
+    "rating": "3",
+    "author": "tkdd****",
+    "review_id": "6769140",
+    "movie_id": "17551"
+  },
+  {
+    "review": "후부나부로 갈수록 긴장감이 약해지는 영화",
+    "date": "08.12.19",
+    "rating": "6",
+    "author": "hani****",
+    "review_id": "3129995",
+    "movie_id": "17551"
+  },
+  {
+    "review": "아주 오래된 극장에서 본 탈주극",
+    "date": "07.09.01",
+    "rating": "5",
+    "author": "deff****",
+    "review_id": "1995281",
+    "movie_id": "17551"
+  },
+  {
+    "review": "두 여자 죄수의 재미없는 탈주극",
+    "date": "06.02.04",
+    "rating": "5",
+    "author": "goma****",
+    "review_id": "647353",
+    "movie_id": "17551"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review": "Childhood fantasy",
+    "date": "15.04.29",
+    "rating": "10",
+    "author": "dkss****",
+    "review_id": "9878354",
+    "movie_id": "18324"
+  },
+  {
+    "review": "정글에서 도시로 온 원시인이 벌이는 웃지못할 에피소드 중간 정도의 웃음",
+    "date": "09.04.26",
+    "rating": "5",
+    "author": "deff****",
+    "review_id": "3442120",
+    "movie_id": "18324"
+  },
+  {
+    "review": "웃자. 웃자. 잊어버리자.",
+    "date": "07.08.19",
+    "rating": "7",
+    "author": "tori****",
+    "review_id": "1960371",
+    "movie_id": "18324"
+  },
+  {
+    "review": "어설픈 코미디물",
+    "date": "07.03.20",
+    "rating": "4",
+    "author": "nala****",
+    "review_id": "1544661",
+    "movie_id": "18324"
+  },
+  {
+    "review": "원판이 훨씬 재밌다",
+    "date": "05.12.25",
+    "rating": "7",
+    "author": "kws7****",
+    "review_id": "527371",
+    "movie_id": "18324"
+  }
+]

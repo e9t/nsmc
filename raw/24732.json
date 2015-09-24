@@ -1,0 +1,50 @@
+[
+  {
+    "review": "킬링타임용 영화들을 만만히 보지마라.",
+    "date": "08.11.25",
+    "rating": "7",
+    "author": "baks****",
+    "review_id": "3072427",
+    "movie_id": "24732"
+  },
+  {
+    "review": "선택 이유는 패트릭스웨이즈 때문이었는데 큰 만족은 아니지만 그래도 볼만함",
+    "date": "08.10.19",
+    "rating": "6",
+    "author": "deff****",
+    "review_id": "3008894",
+    "movie_id": "24732"
+  },
+  {
+    "review": "지속적으로 반복되는 코드와 단조로운 스릴러의 리듬 패턴",
+    "date": "08.02.22",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "2470278",
+    "movie_id": "24732"
+  },
+  {
+    "review": "스웨이지의 B급 스릴러 작품 치고는 그럭저럭 볼만한 정도.",
+    "date": "06.06.07",
+    "rating": "6",
+    "author": "movi****",
+    "review_id": "835138",
+    "movie_id": "24732"
+  },
+  {
+    "review": "볼만한 비급 스릴러",
+    "date": "06.01.06",
+    "rating": "6",
+    "author": "kws7****",
+    "review_id": "565983",
+    "movie_id": "24732"
+  },
+  {
+    "review": "볼만한정도의 영화다",
+    "date": "05.03.07",
+    "rating": "8",
+    "author": "ipar****",
+    "review_id": "236821",
+    "movie_id": "24732"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "병tothe맛",
+    "date": "12.07.26",
+    "rating": "1",
+    "author": "dlrj****",
+    "review_id": "6537707",
+    "movie_id": "17399"
+  },
+  {
+    "review": "당시 유행하던 학창시절의 고민을 다룬 영화중에서 대표적인 실패작",
+    "date": "10.03.09",
+    "rating": "4",
+    "author": "gall****",
+    "review_id": "4346851",
+    "movie_id": "17399"
+  },
+  {
+    "review": "그당시, 학생신분으로 봤더라도 한심함을 떨칠 수 없었을 터인데",
+    "date": "06.11.01",
+    "rating": "5",
+    "author": "goma****",
+    "review_id": "1209720",
+    "movie_id": "17399"
+  },
+  {
+    "review": "잼있어요 볼만하구요",
+    "date": "04.10.08",
+    "rating": "10",
+    "author": "rhfe****",
+    "review_id": "121957",
+    "movie_id": "17399"
+  }
+]

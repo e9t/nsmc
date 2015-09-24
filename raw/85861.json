@@ -1,0 +1,58 @@
+[
+  {
+    "review_id": "8719134",
+    "movie_id": "85861",
+    "author": "dbst****",
+    "review": "괜찮았었음 재미도있었고",
+    "rating": "10",
+    "date": "14.05.10"
+  },
+  {
+    "review_id": "7337539",
+    "movie_id": "85861",
+    "author": "maxb****",
+    "review": "시즌1이젤낫지 그나마",
+    "rating": "10",
+    "date": "13.03.10"
+  },
+  {
+    "review_id": "7337488",
+    "movie_id": "85861",
+    "author": "wntm****",
+    "review": "어ㅏ우",
+    "rating": "1",
+    "date": "13.03.10"
+  },
+  {
+    "review_id": "6240887",
+    "movie_id": "85861",
+    "author": "pria****",
+    "review": "결국 무의미한 쇼로 끝나다.",
+    "rating": "1",
+    "date": "12.04.23"
+  },
+  {
+    "review_id": "5897960",
+    "movie_id": "85861",
+    "author": "iiii****",
+    "review": "그럭저럭 볼만 하다.",
+    "rating": "7",
+    "date": "11.12.10"
+  },
+  {
+    "review_id": "5537319",
+    "movie_id": "85861",
+    "author": "baks****",
+    "review": "감동을강요하다못해,쥐어짜내기위해,너무멘토들을이용하고있는,잔머리만굴리는 프로.",
+    "rating": "4",
+    "date": "11.07.12"
+  },
+  {
+    "review_id": "5534577",
+    "movie_id": "85861",
+    "author": "deff****",
+    "review": "시즌1은 너무 졸속으로 진행한 흔적이 보인다 백청강,셰인,이태권 잊혀진다",
+    "rating": "4",
+    "date": "11.07.10"
+  }
+]

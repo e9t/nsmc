@@ -1,0 +1,26 @@
+[
+  {
+    "review": "굳",
+    "date": "13.02.14",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "7264736",
+    "movie_id": "11519"
+  },
+  {
+    "review": "달은 어디에 떠 있는가?부모미생전본래면목이라...지금 고최진영군은 어디에 있는가?",
+    "date": "12.01.15",
+    "rating": "8",
+    "author": "baks****",
+    "review_id": "5987136",
+    "movie_id": "11519"
+  },
+  {
+    "review": "잘 보았습니다",
+    "date": "06.08.02",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "956165",
+    "movie_id": "11519"
+  }
+]

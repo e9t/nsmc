@@ -1,0 +1,82 @@
+[
+  {
+    "review": "로렌 바콜보다 클레어 트레버가 더 좋다",
+    "date": "15.08.24",
+    "rating": "8",
+    "author": "clef****",
+    "review_id": "10272293",
+    "movie_id": "12200"
+  },
+  {
+    "review": "역시 험프리 보가트의 연기는...",
+    "date": "09.10.27",
+    "rating": "8",
+    "author": "glty****",
+    "review_id": "3919719",
+    "movie_id": "12200"
+  },
+  {
+    "review": "탄탄하지 못한 각본.. 군더더기가 좀 많다.",
+    "date": "09.03.02",
+    "rating": "6",
+    "author": "pola****",
+    "review_id": "3344437",
+    "movie_id": "12200"
+  },
+  {
+    "review": "현대 액션물 만큼 충분히 재미있다.",
+    "date": "08.08.30",
+    "rating": "9",
+    "author": "kusa****",
+    "review_id": "2910425",
+    "movie_id": "12200"
+  },
+  {
+    "review": "남자는 때론 체면때문에 목숨을 걸기도 한다. 그것이 남자다.",
+    "date": "08.02.04",
+    "rating": "8",
+    "author": "movi****",
+    "review_id": "2407069",
+    "movie_id": "12200"
+  },
+  {
+    "review": "험브리 보가트영화 2번봤지만 그의 연기를 잊을수 없다",
+    "date": "06.10.19",
+    "rating": "10",
+    "author": "rian****",
+    "review_id": "1188691",
+    "movie_id": "12200"
+  },
+  {
+    "review": "프랭크가 영웅만 아니었어도, 난 이 영화에 10점을 줬다.",
+    "date": "06.09.13",
+    "rating": "8",
+    "author": "qufs****",
+    "review_id": "1120185",
+    "movie_id": "12200"
+  },
+  {
+    "review": "영웅주의, 정의의 실현이라는 상투적 메시지.",
+    "date": "06.09.11",
+    "rating": "6",
+    "author": "hadl****",
+    "review_id": "1117147",
+    "movie_id": "12200"
+  },
+  {
+    "review": "결말이 헐리우드적이라 좀 맘에 안드는군.",
+    "date": "06.09.10",
+    "rating": "7",
+    "author": "tubt****",
+    "review_id": "1115755",
+    "movie_id": "12200"
+  },
+  {
+    "review": "'나쁜 놈'이 두드러진 영화...",
+    "date": "06.04.18",
+    "rating": "10",
+    "author": "mani****",
+    "review_id": "766464",
+    "movie_id": "12200"
+  }
+]

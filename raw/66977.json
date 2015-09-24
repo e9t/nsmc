@@ -1,0 +1,26 @@
+[
+  {
+    "review": "굿!!!!!!!!!",
+    "date": "12.03.10",
+    "rating": "10",
+    "author": "rhdw****",
+    "review_id": "6133967",
+    "movie_id": "66977"
+  },
+  {
+    "review": "완전 만화다.",
+    "date": "10.09.21",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "4855241",
+    "movie_id": "66977"
+  },
+  {
+    "review": "잼따 ㅎㅎ",
+    "date": "08.01.27",
+    "rating": "10",
+    "author": "dona****",
+    "review_id": "2378146",
+    "movie_id": "66977"
+  }
+]

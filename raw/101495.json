@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "8821900",
+    "movie_id": "101495",
+    "author": "zaqz****",
+    "review": "이게 왜 한국 제작이라고 되어있,,,",
+    "rating": "5",
+    "date": "14.06.11"
+  },
+  {
+    "review_id": "8626747",
+    "movie_id": "101495",
+    "author": "wnql****",
+    "review": "역사 왜곡이 포함되어있기는 하지만 볼만한 애니였습니다.",
+    "rating": "6",
+    "date": "14.04.04"
+  },
+  {
+    "review_id": "8585780",
+    "movie_id": "101495",
+    "author": "mdlg****",
+    "review": "lucky엘(fndl****) 2012.12.10 14:17 신고",
+    "rating": "1",
+    "date": "14.03.18"
+  },
+  {
+    "review_id": "6991125",
+    "movie_id": "101495",
+    "author": "fndl****",
+    "review": "+",
+    "rating": "10",
+    "date": "12.12.10"
+  }
+]

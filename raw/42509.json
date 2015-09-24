@@ -1,0 +1,106 @@
+[
+  {
+    "review": "전형적인 비디오용 영화",
+    "date": "11.04.01",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "5347885",
+    "movie_id": "42509"
+  },
+  {
+    "review": "유치뽕짝",
+    "date": "09.02.03",
+    "rating": "5",
+    "author": "ysmk****",
+    "review_id": "3276062",
+    "movie_id": "42509"
+  },
+  {
+    "review": "웃음코드가 영 안맞아...유치하게만 느껴지니...",
+    "date": "09.01.08",
+    "rating": "4",
+    "author": "egyp****",
+    "review_id": "3202175",
+    "movie_id": "42509"
+  },
+  {
+    "review": "그냥 웃긴거다.",
+    "date": "08.12.09",
+    "rating": "10",
+    "author": "sang****",
+    "review_id": "3103462",
+    "movie_id": "42509"
+  },
+  {
+    "review": "이런영화에 뭔 내용이 필요한가 ㅋㅋ 잼있는걸 ~",
+    "date": "08.11.30",
+    "rating": "10",
+    "author": "rhae****",
+    "review_id": "3082026",
+    "movie_id": "42509"
+  },
+  {
+    "review": "cute, 위니터치가 영화 재미에 한 몫.",
+    "date": "07.07.12",
+    "rating": "8",
+    "author": "navy****",
+    "review_id": "1768278",
+    "movie_id": "42509"
+  },
+  {
+    "review": "어떻게 평가해도 7점이상은 주기 힘든 영화. 그냥 코미디.",
+    "date": "07.01.08",
+    "rating": "6",
+    "author": "chee****",
+    "review_id": "1368420",
+    "movie_id": "42509"
+  },
+  {
+    "review": "맘 같아선 11점 주고 싶다.",
+    "date": "06.08.26",
+    "rating": "10",
+    "author": "nano****",
+    "review_id": "1078900",
+    "movie_id": "42509"
+  },
+  {
+    "review": "오랜만에 보는 개그센스 서부영화 분위기도 나고 좋다",
+    "date": "06.07.22",
+    "rating": "9",
+    "author": "hori****",
+    "review_id": "914383",
+    "movie_id": "42509"
+  },
+  {
+    "review": "난 황야의 미나투인줄 알았네..  화투",
+    "date": "05.10.26",
+    "rating": "7",
+    "author": "ko11****",
+    "review_id": "455298",
+    "movie_id": "42509"
+  },
+  {
+    "review": "우리나리 억지 코미디와는 사뭇 다른, 건강한 코미디 영화~",
+    "date": "05.10.19",
+    "rating": "8",
+    "author": "radi****",
+    "review_id": "447582",
+    "movie_id": "42509"
+  },
+  {
+    "review": "끝나기전까지영화몰라요장진 + 주성치적당히믹스해놓은것같은",
+    "date": "05.10.19",
+    "rating": "8",
+    "author": "dayb****",
+    "review_id": "447338",
+    "movie_id": "42509"
+  },
+  {
+    "review": "크허.... 이런명작이....올해 본 영화중 가장 재밌었던 영화",
+    "date": "05.10.18",
+    "rating": "10",
+    "author": "rumi****",
+    "review_id": "447260",
+    "movie_id": "42509"
+  }
+]

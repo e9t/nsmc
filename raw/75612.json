@@ -1,0 +1,50 @@
+[
+  {
+    "review_id": "9302514",
+    "movie_id": "75612",
+    "author": "rock****",
+    "review": "최고의 잔혹 느와르. 각본. 연출. 연기. 미장센. 유머. 다 맘에 들어요. 강추합니다.",
+    "rating": "10",
+    "date": "14.10.19"
+  },
+  {
+    "review_id": "7721016",
+    "movie_id": "75612",
+    "author": "july****",
+    "review": "아...시간낭비...돈낭비....아.....화난다....",
+    "rating": "1",
+    "date": "13.07.09"
+  },
+  {
+    "review_id": "7620235",
+    "movie_id": "75612",
+    "author": "iwc7****",
+    "review": "영화 쥑인다 오랜만에",
+    "rating": "10",
+    "date": "13.06.09"
+  },
+  {
+    "review_id": "7575361",
+    "movie_id": "75612",
+    "author": "dogk****",
+    "review": "차가 괜찮네.. 괜찮아 ㅋㅋ",
+    "rating": "5",
+    "date": "13.06.03"
+  },
+  {
+    "review_id": "7499768",
+    "movie_id": "75612",
+    "author": "star****",
+    "review": "그저그렇다",
+    "rating": "7",
+    "date": "13.05.01"
+  },
+  {
+    "review_id": "7495567",
+    "movie_id": "75612",
+    "author": "seag****",
+    "review": "최고의영화 꼭봐라지린다",
+    "rating": "10",
+    "date": "13.04.30"
+  }
+]

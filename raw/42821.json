@@ -1,0 +1,26 @@
+[
+  {
+    "review": "볼려니까 종영해 버리대,",
+    "date": "08.02.01",
+    "rating": "6",
+    "author": "ekdn****",
+    "review_id": "2395723",
+    "movie_id": "42821"
+  },
+  {
+    "review": "괜찮았던 드라마",
+    "date": "07.03.02",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "1513026",
+    "movie_id": "42821"
+  },
+  {
+    "review": "우리집 라면이 맛있었는데 말야",
+    "date": "06.02.24",
+    "rating": "3",
+    "author": "kws7****",
+    "review_id": "688193",
+    "movie_id": "42821"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review": "볼만하다",
+    "date": "13.06.13",
+    "rating": "10",
+    "author": "sf01****",
+    "review_id": "7633118",
+    "movie_id": "35972"
+  },
+  {
+    "review": "액션적이다.",
+    "date": "07.08.29",
+    "rating": "10",
+    "author": "qkek****",
+    "review_id": "1987924",
+    "movie_id": "35972"
+  },
+  {
+    "review": "포스터는 있어보이는데 관객은 114명이네",
+    "date": "06.09.05",
+    "rating": "1",
+    "author": "akls****",
+    "review_id": "1105872",
+    "movie_id": "35972"
+  },
+  {
+    "review": "영화내용 죽이네",
+    "date": "04.09.25",
+    "rating": "3",
+    "author": "turn****",
+    "review_id": "114292",
+    "movie_id": "35972"
+  },
+  {
+    "review": "아 정말 재미읍다,,이게 영화인지 개봉은했나?",
+    "date": "04.03.06",
+    "rating": "1",
+    "author": "xxxx****",
+    "review_id": "27229",
+    "movie_id": "35972"
+  }
+]

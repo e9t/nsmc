@@ -1,0 +1,66 @@
+[
+  {
+    "review": "굉장히 오래전에 봤는데 재미었어요~",
+    "date": "13.01.18",
+    "rating": "8",
+    "author": "noma****",
+    "review_id": "7129149",
+    "movie_id": "17726"
+  },
+  {
+    "review": "대연이를 통해 가족의 소중함을 깨달을 수 있었다..",
+    "date": "08.06.03",
+    "rating": "7",
+    "author": "haem****",
+    "review_id": "2677114",
+    "movie_id": "17726"
+  },
+  {
+    "review": "볼만한 영화",
+    "date": "07.08.04",
+    "rating": "9",
+    "author": "zeed****",
+    "review_id": "1867163",
+    "movie_id": "17726"
+  },
+  {
+    "review": "강추",
+    "date": "07.06.05",
+    "rating": "10",
+    "author": "woos****",
+    "review_id": "1683277",
+    "movie_id": "17726"
+  },
+  {
+    "review": "색다른 설렘.. 재밌어요^^",
+    "date": "06.05.26",
+    "rating": "7",
+    "author": "coib****",
+    "review_id": "816432",
+    "movie_id": "17726"
+  },
+  {
+    "review": "꼬마 유령 캐스퍼와 함께 내일로 흐르는 강~~!",
+    "date": "06.01.31",
+    "rating": "10",
+    "author": "leeh****",
+    "review_id": "636730",
+    "movie_id": "17726"
+  },
+  {
+    "review": "쥬만지와 함께 내일로 흐르는 강~",
+    "date": "06.01.31",
+    "rating": "10",
+    "author": "lhcg****",
+    "review_id": "636724",
+    "movie_id": "17726"
+  },
+  {
+    "review": "억지로 봤는데, 못 봐주겠다.",
+    "date": "05.04.28",
+    "rating": "1",
+    "author": "jsh8****",
+    "review_id": "267470",
+    "movie_id": "17726"
+  }
+]

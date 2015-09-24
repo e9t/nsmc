@@ -1,0 +1,58 @@
+[
+  {
+    "review": "이것이야 말로 샤브롤..뭘 알아야 영화를 보지..",
+    "date": "12.03.18",
+    "rating": "10",
+    "author": "almo****",
+    "review_id": "6151176",
+    "movie_id": "27283"
+  },
+  {
+    "review": "잊을 수 없는 영화",
+    "date": "10.11.25",
+    "rating": "10",
+    "author": "st38****",
+    "review_id": "4989241",
+    "movie_id": "27283"
+  },
+  {
+    "review": "지루함",
+    "date": "10.10.17",
+    "rating": "1",
+    "author": "qhde****",
+    "review_id": "4907538",
+    "movie_id": "27283"
+  },
+  {
+    "review": "스릴러하기엔 너무 밋밋해서 재미가 없네요.......",
+    "date": "10.10.17",
+    "rating": "6",
+    "author": "psy9****",
+    "review_id": "4907020",
+    "movie_id": "27283"
+  },
+  {
+    "review": "범죄 스릴러도 프랑스산이면 지적이고 관조적이 되는군.",
+    "date": "10.10.17",
+    "rating": "6",
+    "author": "hadl****",
+    "review_id": "4906808",
+    "movie_id": "27283"
+  },
+  {
+    "review": "샤브롤..그가 좋다",
+    "date": "07.03.08",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "1524301",
+    "movie_id": "27283"
+  },
+  {
+    "review": "다시 일어나 르네..",
+    "date": "03.12.17",
+    "rating": "10",
+    "author": "cacg****",
+    "review_id": "3553",
+    "movie_id": "27283"
+  }
+]

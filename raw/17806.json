@@ -1,0 +1,50 @@
+[
+  {
+    "review": "오래전 본 영화인데요 요즘 다시 보고 싶어지네요 정말 좋았어요",
+    "date": "10.01.15",
+    "rating": "10",
+    "author": "niki****",
+    "review_id": "4173710",
+    "movie_id": "17806"
+  },
+  {
+    "review": "정말 오래 기억에 남는 좋은 소품. 의미를 모르면 재미도 없겠죠.",
+    "date": "08.03.11",
+    "rating": "10",
+    "author": "jec1****",
+    "review_id": "2514718",
+    "movie_id": "17806"
+  },
+  {
+    "review": "참신하고 아기자기한 수다코메디물. 톡톡튀는 귀여움.",
+    "date": "06.12.07",
+    "rating": "10",
+    "author": "bepl****",
+    "review_id": "1271846",
+    "movie_id": "17806"
+  },
+  {
+    "review": "현대인의 대인기피증을 심각하지 않게, 은근히...",
+    "date": "05.07.07",
+    "rating": "8",
+    "author": "hadl****",
+    "review_id": "314879",
+    "movie_id": "17806"
+  },
+  {
+    "review": "g",
+    "date": "05.01.30",
+    "rating": "1",
+    "author": "kkip****",
+    "review_id": "200387",
+    "movie_id": "17806"
+  },
+  {
+    "review": "9점주신분 이해가 안가네요.",
+    "date": "05.01.30",
+    "rating": "1",
+    "author": "kkki****",
+    "review_id": "200384",
+    "movie_id": "17806"
+  }
+]

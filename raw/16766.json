@@ -1,0 +1,34 @@
+[
+  {
+    "review": "킬링타임 최고봉인데받을데가 없네",
+    "date": "14.05.26",
+    "rating": "10",
+    "author": "ungn****",
+    "review_id": "8766376",
+    "movie_id": "16766"
+  },
+  {
+    "review": "최고의 영화",
+    "date": "10.06.16",
+    "rating": "10",
+    "author": "shmy****",
+    "review_id": "4570255",
+    "movie_id": "16766"
+  },
+  {
+    "review": "어렸을떼 3번정도 본영화 2검들이 정말 멋졌다 ㅋㅋ",
+    "date": "07.06.01",
+    "rating": "9",
+    "author": "lch7****",
+    "review_id": "1675611",
+    "movie_id": "16766"
+  },
+  {
+    "review": "볼만하다",
+    "date": "06.11.02",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "1211618",
+    "movie_id": "16766"
+  }
+]

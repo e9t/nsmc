@@ -1,0 +1,802 @@
+[
+  {
+    "review": "정말 좋은 영화, 미디어의 무서움을 보여주는 영화 이며, 대중을 조작하기 위해 어떤 일까지 벌일수 있는지를 알게 해주는 영화... 하지만.. 정말 이런 일들이 영화속에서만 있는 일 일까?",
+    "date": "15.04.15",
+    "rating": "10",
+    "author": "kwon****",
+    "review_id": "9846689",
+    "movie_id": "19378"
+  },
+  {
+    "review": "재미있네요 ㅎㅎㅎ 주작 작살남",
+    "date": "15.03.09",
+    "rating": "9",
+    "author": "tekk****",
+    "review_id": "9769655",
+    "movie_id": "19378"
+  },
+  {
+    "review": "사람은 주관적인 소신이 있어야 한다.",
+    "date": "15.03.08",
+    "rating": "7",
+    "author": "marc****",
+    "review_id": "9765729",
+    "movie_id": "19378"
+  },
+  {
+    "review": "실제로도 가능할 수 있지않을까 무섭",
+    "date": "14.12.05",
+    "rating": "6",
+    "author": "soiy****",
+    "review_id": "9450122",
+    "movie_id": "19378"
+  },
+  {
+    "review": "대중조작의 무서움을 그려낸 영화.",
+    "date": "14.11.07",
+    "rating": "10",
+    "author": "mate****",
+    "review_id": "9351040",
+    "movie_id": "19378"
+  },
+  {
+    "review": "기대하고 봤는데 개인적으로 재미없다",
+    "date": "14.10.23",
+    "rating": "1",
+    "author": "tick****",
+    "review_id": "9308839",
+    "movie_id": "19378"
+  },
+  {
+    "review": "수작이다. 이 영화는.",
+    "date": "14.03.16",
+    "rating": "10",
+    "author": "cand****",
+    "review_id": "8583018",
+    "movie_id": "19378"
+  },
+  {
+    "review": "'에이, 영화잖아', '음모론 영화'라고 깎아내릴 수는 있겠으나, 애국심이라는 것이 전체판을 좌우할 정도로 위험한 요소임은 잘 드러내고 있다.",
+    "date": "14.01.29",
+    "rating": "10",
+    "author": "kwak****",
+    "review_id": "8444099",
+    "movie_id": "19378"
+  },
+  {
+    "review": "난 이게 영화에서나 가능한 일이라고 생각하고 있었다. 하지만 13년 7월, 지금 한국의 현실이 되었다.",
+    "date": "13.07.18",
+    "rating": "9",
+    "author": "purp****",
+    "review_id": "7755638",
+    "movie_id": "19378"
+  },
+  {
+    "review": "여전히 이어지는 이미지 메이킹... 국민들은 환호하기만 하면 된다..",
+    "date": "13.07.13",
+    "rating": "8",
+    "author": "imf0****",
+    "review_id": "7732530",
+    "movie_id": "19378"
+  },
+  {
+    "review": "더스틴 호프만은 천상배우인가, 뿜어져 나오는 에너지를 시청자인 내가 느낄 정도의 배우의 힘을 봤다. 내용은 무난",
+    "date": "13.04.28",
+    "rating": "7",
+    "author": "prim****",
+    "review_id": "7489074",
+    "movie_id": "19378"
+  },
+  {
+    "review": "황당하지만 잼있는 블랙코미디..ㅋㅋ",
+    "date": "13.04.26",
+    "rating": "8",
+    "author": "do11****",
+    "review_id": "7482778",
+    "movie_id": "19378"
+  },
+  {
+    "review": "대중조작의 무서움을 그려낸 영화. 로버트 드 니로와 더스틴 호프만 두 명배우의 연기가 아주 좋았고, 정말로 영화에서 표현된 조작이 일어나고 있다면 우리는 과연 무엇을 믿고 살 것인지 미디어의 무서움을 깨닫게 해주었다.",
+    "date": "13.03.25",
+    "rating": "9",
+    "author": "0104****",
+    "review_id": "7409119",
+    "movie_id": "19378"
+  },
+  {
+    "review": "헐,,,",
+    "date": "13.02.23",
+    "rating": "10",
+    "author": "xeto****",
+    "review_id": "7294389",
+    "movie_id": "19378"
+  },
+  {
+    "review": "마지막 장면인 알바니아의 습격을 다룬 뉴스를 보는 순간 이 영화의 가치를 느낄수 있으리라",
+    "date": "13.01.29",
+    "rating": "10",
+    "author": "into****",
+    "review_id": "7193609",
+    "movie_id": "19378"
+  },
+  {
+    "review": "대통령(개)를 흔드는 꼬리(들)의 이야기. 조금 섬뜩하기도.",
+    "date": "12.12.29",
+    "rating": "8",
+    "author": "cube****",
+    "review_id": "7060321",
+    "movie_id": "19378"
+  },
+  {
+    "review": "수박 겉핥기에 그친 정치적 담론",
+    "date": "12.09.03",
+    "rating": "5",
+    "author": "rd72****",
+    "review_id": "6668411",
+    "movie_id": "19378"
+  },
+  {
+    "review": "언론을 무조건 믿어서는 안된다는 것을 깨닫게 해주는 영화",
+    "date": "12.07.19",
+    "rating": "10",
+    "author": "wuj5****",
+    "review_id": "6492809",
+    "movie_id": "19378"
+  },
+  {
+    "review": "요즘 나라꼴이 엿같아서 그런지, 그 어떤 공포영화보다 무섭게 느껴지네요..;",
+    "date": "12.07.06",
+    "rating": "9",
+    "author": "kivi****",
+    "review_id": "6451726",
+    "movie_id": "19378"
+  },
+  {
+    "review": "우리 한국도 정말 이런거 아니야? 영화가 끝나고 생각해보면 엄청 무섭다.",
+    "date": "12.06.14",
+    "rating": "8",
+    "author": "bamg****",
+    "review_id": "6391120",
+    "movie_id": "19378"
+  },
+  {
+    "review": "무심코 지나간 사건들에 대해 다시 생각해 보게 됩니다. 정말 잘봤습니다.",
+    "date": "12.06.11",
+    "rating": "10",
+    "author": "tyty****",
+    "review_id": "6384051",
+    "movie_id": "19378"
+  },
+  {
+    "review": "정치 영화로 뭐가 더 필요한가요?",
+    "date": "12.06.06",
+    "rating": "10",
+    "author": "krak****",
+    "review_id": "6368261",
+    "movie_id": "19378"
+  },
+  {
+    "review": "정치영화 중 최고수준",
+    "date": "12.04.15",
+    "rating": "10",
+    "author": "idle****",
+    "review_id": "6221601",
+    "movie_id": "19378"
+  },
+  {
+    "review": "과제로 봤지만 느낀 바가 많은 영화.",
+    "date": "12.04.11",
+    "rating": "9",
+    "author": "plat****",
+    "review_id": "6208679",
+    "movie_id": "19378"
+  },
+  {
+    "review": "깨달은 것이 많은 영화입니다 대학과제로 봤는데 느끼는 바가 크네요 보기드문수작임",
+    "date": "12.03.22",
+    "rating": "10",
+    "author": "keh3****",
+    "review_id": "6159489",
+    "movie_id": "19378"
+  },
+  {
+    "review": "그다지...",
+    "date": "12.03.10",
+    "rating": "5",
+    "author": "dbzh****",
+    "review_id": "6134024",
+    "movie_id": "19378"
+  },
+  {
+    "review": "쫄지마! 속지마! 닥치고 투표!!",
+    "date": "12.02.24",
+    "rating": "9",
+    "author": "arti****",
+    "review_id": "6099919",
+    "movie_id": "19378"
+  },
+  {
+    "review": "정말 좋은 영화",
+    "date": "11.11.17",
+    "rating": "9",
+    "author": "wjst****",
+    "review_id": "5854091",
+    "movie_id": "19378"
+  },
+  {
+    "review": "수동적으로 받아들이는 대중들.. 그리고 그것을 이용한 사기극 !",
+    "date": "11.08.11",
+    "rating": "10",
+    "author": "kiss****",
+    "review_id": "5635207",
+    "movie_id": "19378"
+  },
+  {
+    "review": "대단한 기획, 재치있는 Courage Mom.",
+    "date": "11.07.02",
+    "rating": "8",
+    "author": "wlfa****",
+    "review_id": "5515577",
+    "movie_id": "19378"
+  },
+  {
+    "review": "뭐, 충분히 가능한 얘기이지 않을까.",
+    "date": "11.03.26",
+    "rating": "9",
+    "author": "kimm****",
+    "review_id": "5335857",
+    "movie_id": "19378"
+  },
+  {
+    "review": "정치사기를 주제로 꾸민 코미디 영화다. 느긋하게 즐길수있는 코미디영화인것같다ㅋㅋ",
+    "date": "10.10.01",
+    "rating": "10",
+    "author": "qkqn****",
+    "review_id": "4879210",
+    "movie_id": "19378"
+  },
+  {
+    "review": "대박이다.. 모든게 의심스러워지고 있다",
+    "date": "10.07.31",
+    "rating": "10",
+    "author": "euns****",
+    "review_id": "4689947",
+    "movie_id": "19378"
+  },
+  {
+    "review": "이러다가 속는게 더 어려워지겠다.",
+    "date": "10.07.30",
+    "rating": "9",
+    "author": "lees****",
+    "review_id": "4685520",
+    "movie_id": "19378"
+  },
+  {
+    "review": "우리나라에서도 최근 비슷한 일이 있었던듯..ㅎㅎ",
+    "date": "10.07.23",
+    "rating": "10",
+    "author": "bigo****",
+    "review_id": "4664154",
+    "movie_id": "19378"
+  },
+  {
+    "review": "굳",
+    "date": "10.05.28",
+    "rating": "9",
+    "author": "toha****",
+    "review_id": "4528030",
+    "movie_id": "19378"
+  },
+  {
+    "review": "평론가는 아니지만 개인적으로 감상으로 많은걸 느꼇음...",
+    "date": "10.03.19",
+    "rating": "8",
+    "author": "tjrg****",
+    "review_id": "4367748",
+    "movie_id": "19378"
+  },
+  {
+    "review": "감성적레토릭과 애국적장엄함을 섞어 대중을 꼬드길수 있다던 그놈들이 말이 떠오른다",
+    "date": "09.09.28",
+    "rating": "6",
+    "author": "kuic****",
+    "review_id": "3857010",
+    "movie_id": "19378"
+  },
+  {
+    "review": "특급배우+흥미로운소재로 이렇게 재미없게 만들 수 있다니~",
+    "date": "09.07.14",
+    "rating": "6",
+    "author": "ypal****",
+    "review_id": "3631199",
+    "movie_id": "19378"
+  },
+  {
+    "review": "이런일이 우리에게 과연.,.,,..",
+    "date": "09.06.19",
+    "rating": "8",
+    "author": "o0wl****",
+    "review_id": "3574502",
+    "movie_id": "19378"
+  },
+  {
+    "review": "언론 플레이, 지금도 당신은 속고 있는지 알 수 있나 ???",
+    "date": "09.05.25",
+    "rating": "8",
+    "author": "eleg****",
+    "review_id": "3521067",
+    "movie_id": "19378"
+  },
+  {
+    "review": "로버트 드니로와 더스틴 호프만의 콤비!!",
+    "date": "09.03.17",
+    "rating": "9",
+    "author": "sala****",
+    "review_id": "3371852",
+    "movie_id": "19378"
+  },
+  {
+    "review": "제대로 풍자하고 비틀기",
+    "date": "09.03.12",
+    "rating": "8",
+    "author": "leh0****",
+    "review_id": "3361325",
+    "movie_id": "19378"
+  },
+  {
+    "review": "한마디로 이 세상 자체가 쇼다. 그리고 이 영화 또한 쇼다.",
+    "date": "09.02.24",
+    "rating": "6",
+    "author": "skat****",
+    "review_id": "3329162",
+    "movie_id": "19378"
+  },
+  {
+    "review": "다 괜찮은데 딱딱 끊어지는 느낌",
+    "date": "09.02.14",
+    "rating": "5",
+    "author": "hjki****",
+    "review_id": "3302572",
+    "movie_id": "19378"
+  },
+  {
+    "review": "현 시국. 이 시점에서 우리는 이 영화를 다시 볼 필요가 있다.",
+    "date": "09.02.02",
+    "rating": "10",
+    "author": "esca****",
+    "review_id": "3273271",
+    "movie_id": "19378"
+  },
+  {
+    "review": "쉽게 공감이 가지 않네요...",
+    "date": "09.01.12",
+    "rating": "4",
+    "author": "song****",
+    "review_id": "3216549",
+    "movie_id": "19378"
+  },
+  {
+    "review": "\"정치는 포장만 다르지 연예계와 같아.\" 우리는 언제 꼬리 신세를 면할 수 있을까.",
+    "date": "08.11.01",
+    "rating": "9",
+    "author": "lima****",
+    "review_id": "3029958",
+    "movie_id": "19378"
+  },
+  {
+    "review": "촛불 배후 음모론을 통해 여론조작을 시도하는 우파 정권을 감시하자.",
+    "date": "08.10.19",
+    "rating": "9",
+    "author": "talm****",
+    "review_id": "3008361",
+    "movie_id": "19378"
+  },
+  {
+    "review": "스탠 귀엽다...",
+    "date": "08.09.28",
+    "rating": "9",
+    "author": "arom****",
+    "review_id": "2973781",
+    "movie_id": "19378"
+  },
+  {
+    "review": "신선한 소재",
+    "date": "08.08.04",
+    "rating": "8",
+    "author": "noxp****",
+    "review_id": "2833264",
+    "movie_id": "19378"
+  },
+  {
+    "review": "미디어 조작을 통한 중우정치를 신랄하게 풍자한 영화, 해학과 위트가 넘친다",
+    "date": "08.06.06",
+    "rating": "9",
+    "author": "sioh****",
+    "review_id": "2683352",
+    "movie_id": "19378"
+  },
+  {
+    "review": "두 거물배우의 연기력에 힘입어 군더더기 없는 진행이 돋보인다",
+    "date": "08.04.26",
+    "rating": "10",
+    "author": "ngda****",
+    "review_id": "2600331",
+    "movie_id": "19378"
+  },
+  {
+    "review": "이런게 바로 영화의 묘미다 .. 지대로풍자해주시는^^",
+    "date": "08.04.25",
+    "rating": "10",
+    "author": "dj16****",
+    "review_id": "2598010",
+    "movie_id": "19378"
+  },
+  {
+    "review": "미디어에 대해 약간의 의심을 하게해준 영화. 물론, 현실이 그렇지 않길 바란다..",
+    "date": "08.04.12",
+    "rating": "9",
+    "author": "yeei****",
+    "review_id": "2576905",
+    "movie_id": "19378"
+  },
+  {
+    "review": "지루할틈없는,군더더기없이깔끔한,놀랄만한영화!",
+    "date": "08.02.15",
+    "rating": "10",
+    "author": "newm****",
+    "review_id": "2447707",
+    "movie_id": "19378"
+  },
+  {
+    "review": "골 때린다는 측면에서 상상을 초월하는 수준",
+    "date": "07.12.17",
+    "rating": "9",
+    "author": "baks****",
+    "review_id": "2238860",
+    "movie_id": "19378"
+  },
+  {
+    "review": "실제로 전두환 정권 때 비슷한 일이 일어난..",
+    "date": "07.10.26",
+    "rating": "9",
+    "author": "epis****",
+    "review_id": "2113632",
+    "movie_id": "19378"
+  },
+  {
+    "review": "없는 일을 만들어내다니...영화라 과장됐지만 미디어도 못믿겠구나..",
+    "date": "07.10.19",
+    "rating": "8",
+    "author": "toug****",
+    "review_id": "2098405",
+    "movie_id": "19378"
+  },
+  {
+    "review": "가히 정치판에서는 가능한 이야기. 하지만 오버하진 마~~",
+    "date": "07.10.11",
+    "rating": "9",
+    "author": "cong****",
+    "review_id": "2082773",
+    "movie_id": "19378"
+  },
+  {
+    "review": "도대체 진실은 무엇인가? 조지 부시의 경우와 너무나 유사하고만.",
+    "date": "07.10.07",
+    "rating": "8",
+    "author": "ldgu****",
+    "review_id": "2076167",
+    "movie_id": "19378"
+  },
+  {
+    "review": "진실은 저 멀리에...음모론...",
+    "date": "07.08.21",
+    "rating": "9",
+    "author": "typo****",
+    "review_id": "1964821",
+    "movie_id": "19378"
+  },
+  {
+    "review": "이런 영화 너무 마음에 든다",
+    "date": "07.06.15",
+    "rating": "10",
+    "author": "okki****",
+    "review_id": "1701720",
+    "movie_id": "19378"
+  },
+  {
+    "review": "장르가 코메디라고 쓴 뇌입어의 영화 보는 눈이 코믹하구나!",
+    "date": "07.06.13",
+    "rating": "10",
+    "author": "1986****",
+    "review_id": "1699356",
+    "movie_id": "19378"
+  },
+  {
+    "review": "고딩때 이영화를 봤는데 이해하기 힘들었다..",
+    "date": "07.05.18",
+    "rating": "7",
+    "author": "82ba****",
+    "review_id": "1644804",
+    "movie_id": "19378"
+  },
+  {
+    "review": "good",
+    "date": "07.04.15",
+    "rating": "9",
+    "author": "re_v****",
+    "review_id": "1589779",
+    "movie_id": "19378"
+  },
+  {
+    "review": "참신한소재.좋은연기.스피디한전개...",
+    "date": "07.04.03",
+    "rating": "9",
+    "author": "lllm****",
+    "review_id": "1571079",
+    "movie_id": "19378"
+  },
+  {
+    "review": "두배우가 나온다는것 만으로도 10점짜리영화..",
+    "date": "07.03.25",
+    "rating": "10",
+    "author": "2001****",
+    "review_id": "1553247",
+    "movie_id": "19378"
+  },
+  {
+    "review": "배우들의연기&진실에대한의문&재미",
+    "date": "07.01.24",
+    "rating": "10",
+    "author": "skzl****",
+    "review_id": "1409839",
+    "movie_id": "19378"
+  },
+  {
+    "review": "정상회담쇼,총풍에 비하면 진부하다.우리가 최고다",
+    "date": "07.01.09",
+    "rating": "5",
+    "author": "gos_****",
+    "review_id": "1369860",
+    "movie_id": "19378"
+  },
+  {
+    "review": "언론플레이- 신방과 언정과 자료용 영상물",
+    "date": "07.01.01",
+    "rating": "9",
+    "author": "coco****",
+    "review_id": "1347187",
+    "movie_id": "19378"
+  },
+  {
+    "review": "The show must go on...",
+    "date": "06.12.25",
+    "rating": "7",
+    "author": "teo0****",
+    "review_id": "1325035",
+    "movie_id": "19378"
+  },
+  {
+    "review": "미국의 거짓을 약하게나마 표현하려는 시도에 박수",
+    "date": "06.12.19",
+    "rating": "8",
+    "author": "nala****",
+    "review_id": "1304697",
+    "movie_id": "19378"
+  },
+  {
+    "review": "풍자는 좋은데 , 크게 재미있지는 않습니다",
+    "date": "06.12.02",
+    "rating": "8",
+    "author": "yoon****",
+    "review_id": "1262275",
+    "movie_id": "19378"
+  },
+  {
+    "review": "너무나도 날카로운 풍자. 보면서 소름이 끼칠 정도였다..",
+    "date": "06.11.02",
+    "rating": "10",
+    "author": "fine****",
+    "review_id": "1212061",
+    "movie_id": "19378"
+  },
+  {
+    "review": "저 정도로 거짓들 투성이라니,'American idiot'이 생각났다",
+    "date": "06.11.02",
+    "rating": "9",
+    "author": "blis****",
+    "review_id": "1211161",
+    "movie_id": "19378"
+  },
+  {
+    "review": "내가 믿고 있는 진실들이 어쩌면 거짓일지도 모른다..",
+    "date": "06.10.12",
+    "rating": "9",
+    "author": "gree****",
+    "review_id": "1177197",
+    "movie_id": "19378"
+  },
+  {
+    "review": "진실이 뭔지를 생각해볼수있는 영화",
+    "date": "06.10.07",
+    "rating": "9",
+    "author": "voov****",
+    "review_id": "1167529",
+    "movie_id": "19378"
+  },
+  {
+    "review": "정치 풍자 코미디의 진수를 맛볼수 있는 블랙 코미디.",
+    "date": "06.09.14",
+    "rating": "7",
+    "author": "movi****",
+    "review_id": "1120938",
+    "movie_id": "19378"
+  },
+  {
+    "review": "좋다",
+    "date": "06.07.30",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "940993",
+    "movie_id": "19378"
+  },
+  {
+    "review": "블랙코미디장르중에는 여느 영화에도 OOO 않을것이다!",
+    "date": "06.07.25",
+    "rating": "10",
+    "author": "yytt****",
+    "review_id": "920549",
+    "movie_id": "19378"
+  },
+  {
+    "review": "영화보단 두 배우의 쩌는 연기에 10점이다!",
+    "date": "06.07.21",
+    "rating": "10",
+    "author": "bbq2****",
+    "review_id": "910531",
+    "movie_id": "19378"
+  },
+  {
+    "review": "너무 미국적이라서 그런지 약한 느낌이든다",
+    "date": "06.07.01",
+    "rating": "4",
+    "author": "okjo****",
+    "review_id": "865938",
+    "movie_id": "19378"
+  },
+  {
+    "review": "레인맨의 연출력이 아쉽다. 블랙코미디 장르에선 최고의 영화",
+    "date": "06.06.24",
+    "rating": "5",
+    "author": "chh7****",
+    "review_id": "855055",
+    "movie_id": "19378"
+  },
+  {
+    "review": "완벽한 언론 플레이는 없다!",
+    "date": "06.06.24",
+    "rating": "7",
+    "author": "fred****",
+    "review_id": "855039",
+    "movie_id": "19378"
+  },
+  {
+    "review": "유쾌, 상쾌, 통쾌. 미국놈들은 다 거짓부렁쟁이;",
+    "date": "06.03.25",
+    "rating": "8",
+    "author": "neco****",
+    "review_id": "733331",
+    "movie_id": "19378"
+  },
+  {
+    "review": "신랄한 정치풍자극!! 설득력있는 드니로의 연기!!",
+    "date": "06.02.18",
+    "rating": "10",
+    "author": "xjis****",
+    "review_id": "677715",
+    "movie_id": "19378"
+  },
+  {
+    "review": "글쎄 상당히 지루한데",
+    "date": "05.12.24",
+    "rating": "3",
+    "author": "kws7****",
+    "review_id": "525136",
+    "movie_id": "19378"
+  },
+  {
+    "review": "중요한 건 이게 완전 뻥이 아니라는거죠 ㅡㅡ,,",
+    "date": "05.12.24",
+    "rating": "10",
+    "author": "vito****",
+    "review_id": "524730",
+    "movie_id": "19378"
+  },
+  {
+    "review": "음모를 만들어내는 국가.. 미국은 지금도 여전히..",
+    "date": "05.12.23",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "522991",
+    "movie_id": "19378"
+  },
+  {
+    "review": "마치 게임을 하듯 모두를 가지고 노는..... 멋진 풍자!!",
+    "date": "05.12.13",
+    "rating": "10",
+    "author": "ajou****",
+    "review_id": "502839",
+    "movie_id": "19378"
+  },
+  {
+    "review": "아래분!두환이가 다 써먹던거죠.내용만 다를뿐금강산댐칼기폭파",
+    "date": "05.11.09",
+    "rating": "10",
+    "author": "xbas****",
+    "review_id": "468974",
+    "movie_id": "19378"
+  },
+  {
+    "review": "신랄한 조롱으로 정치를 풍자하다. 드 니로의 연기는 단연 최고",
+    "date": "05.09.04",
+    "rating": "10",
+    "author": "lhcg****",
+    "review_id": "393091",
+    "movie_id": "19378"
+  },
+  {
+    "review": "행여 보고 배우지나 않을까 겁이 난다는..",
+    "date": "05.09.02",
+    "rating": "9",
+    "author": "cat1****",
+    "review_id": "391131",
+    "movie_id": "19378"
+  },
+  {
+    "review": "정치인들 꼭 보슈",
+    "date": "05.04.25",
+    "rating": "10",
+    "author": "bung****",
+    "review_id": "266152",
+    "movie_id": "19378"
+  },
+  {
+    "review": "이런 장르는 별로지만 드니로 연기력이 있어서",
+    "date": "05.01.09",
+    "rating": "10",
+    "author": "anfl****",
+    "review_id": "180888",
+    "movie_id": "19378"
+  },
+  {
+    "review": "두 명배우의 조화",
+    "date": "05.01.09",
+    "rating": "10",
+    "author": "dnjs****",
+    "review_id": "180830",
+    "movie_id": "19378"
+  },
+  {
+    "review": "두 명배우의 만남 정치 풍자영화중 가장 재밌는 영화같다!",
+    "date": "04.11.09",
+    "rating": "10",
+    "author": "shek****",
+    "review_id": "142621",
+    "movie_id": "19378"
+  },
+  {
+    "review": "꼬고 또 꼬고 너무 꼰다",
+    "date": "04.09.28",
+    "rating": "6",
+    "author": "rg52****",
+    "review_id": "116086",
+    "movie_id": "19378"
+  },
+  {
+    "review": "기막힌 언론플레이~",
+    "date": "04.09.22",
+    "rating": "8",
+    "author": "poor****",
+    "review_id": "112744",
+    "movie_id": "19378"
+  }
+]

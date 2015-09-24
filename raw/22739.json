@@ -1,0 +1,18 @@
+[
+  {
+    "review": "(10+1)/2=5.5",
+    "date": "14.04.29",
+    "rating": "1",
+    "author": "kbs2****",
+    "review_id": "8681283",
+    "movie_id": "22739"
+  },
+  {
+    "review": "10점",
+    "date": "10.10.03",
+    "rating": "10",
+    "author": "rldn****",
+    "review_id": "4882450",
+    "movie_id": "22739"
+  }
+]

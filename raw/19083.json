@@ -1,0 +1,34 @@
+[
+  {
+    "review": "영화 <나를 찾아줘>를 보면서 이 영화가 떠올랐다.  본 지 15년도 넘었지만 아직까지 영화를 보고 느꼈던 감동을 잊을 수 없다. 이 영화 어디서 구하지...?",
+    "date": "14.11.29",
+    "rating": "10",
+    "author": "aqua****",
+    "review_id": "9432815",
+    "movie_id": "19083"
+  },
+  {
+    "review": "훌륭한 반전.... 매우 재미 있던 걸로 기억...",
+    "date": "14.03.03",
+    "rating": "8",
+    "author": "ykdi****",
+    "review_id": "8553899",
+    "movie_id": "19083"
+  },
+  {
+    "review": "so gooooooooooood~",
+    "date": "05.04.07",
+    "rating": "10",
+    "author": "wsuc****",
+    "review_id": "255819",
+    "movie_id": "19083"
+  },
+  {
+    "review": "심리분석이 뛰어난 영화, 반전이 일품이다.",
+    "date": "05.02.24",
+    "rating": "10",
+    "author": "snoo****",
+    "review_id": "228863",
+    "movie_id": "19083"
+  }
+]

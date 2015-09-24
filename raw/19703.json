@@ -1,0 +1,26 @@
+[
+  {
+    "review": "오래된 영화라 어설프지만 볼만함",
+    "date": "12.04.17",
+    "rating": "10",
+    "author": "vnfa****",
+    "review_id": "6229067",
+    "movie_id": "19703"
+  },
+  {
+    "review": "약간은 ㅠ아쉬운..영화",
+    "date": "10.04.05",
+    "rating": "10",
+    "author": "hmk1****",
+    "review_id": "4413765",
+    "movie_id": "19703"
+  },
+  {
+    "review": "김춘삼은 1928년 강원 출생.",
+    "date": "04.02.18",
+    "rating": "10",
+    "author": "koja****",
+    "review_id": "21483",
+    "movie_id": "19703"
+  }
+]

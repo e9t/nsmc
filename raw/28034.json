@@ -1,0 +1,34 @@
+[
+  {
+    "review": "네 겁나 재밌어요",
+    "date": "13.09.20",
+    "rating": "10",
+    "author": "cind****",
+    "review_id": "8000090",
+    "movie_id": "28034"
+  },
+  {
+    "review": "예전에비디오로봤는데 또보고싶네여 어디서봐야하나",
+    "date": "09.01.05",
+    "rating": "10",
+    "author": "youn****",
+    "review_id": "3189645",
+    "movie_id": "28034"
+  },
+  {
+    "review": "홍금보가 1인3역으로 나오는 액션영화.끝엔 역시 주비리가 악역으로 등장.",
+    "date": "07.03.10",
+    "rating": "10",
+    "author": "kimy****",
+    "review_id": "1527411",
+    "movie_id": "28034"
+  },
+  {
+    "review": "꽤 오래전에 봤는데",
+    "date": "06.05.27",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "817473",
+    "movie_id": "28034"
+  }
+]

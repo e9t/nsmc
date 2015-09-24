@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "7920847",
+    "movie_id": "94816",
+    "author": "moom****",
+    "review": "노 잼",
+    "rating": "1",
+    "date": "13.08.25"
+  },
+  {
+    "review_id": "6597744",
+    "movie_id": "94816",
+    "author": "yang****",
+    "review": "재미없다...",
+    "rating": "1",
+    "date": "12.08.12"
+  },
+  {
+    "review_id": "6549758",
+    "movie_id": "94816",
+    "author": "true****",
+    "review": "변태 멜랑꼴리 하다고 할까.",
+    "rating": "5",
+    "date": "12.07.29"
+  }
+]

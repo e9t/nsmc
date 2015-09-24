@@ -1,0 +1,42 @@
+[
+  {
+    "review": "ㅋㅋ 이 영화 정말 재미있네. . .ㅋㅋ",
+    "date": "09.05.24",
+    "rating": "10",
+    "author": "gktc****",
+    "review_id": "3518690",
+    "movie_id": "10946"
+  },
+  {
+    "review": "정말 굿",
+    "date": "09.02.18",
+    "rating": "10",
+    "author": "kasa****",
+    "review_id": "3313691",
+    "movie_id": "10946"
+  },
+  {
+    "review": "이경영의 연기.. 매력적",
+    "date": "06.10.10",
+    "rating": "9",
+    "author": "habr****",
+    "review_id": "1174019",
+    "movie_id": "10946"
+  },
+  {
+    "review": "즐먹어 문식...",
+    "date": "06.09.17",
+    "rating": "10",
+    "author": "dnjs****",
+    "review_id": "1127938",
+    "movie_id": "10946"
+  },
+  {
+    "review": "그러나 결국 공룡선생과 아이들도 마지막엔 고교입시에 매달리지",
+    "date": "05.01.18",
+    "rating": "1",
+    "author": "kpcc****",
+    "review_id": "189307",
+    "movie_id": "10946"
+  }
+]

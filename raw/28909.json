@@ -1,0 +1,50 @@
+[
+  {
+    "review": "우아하고 빈티지스런 멋진 영상 하지만 내용은 뻔하고 흥미롭지 못하다...",
+    "date": "12.05.30",
+    "rating": "3",
+    "author": "egyp****",
+    "review_id": "6348039",
+    "movie_id": "28909"
+  },
+  {
+    "review": "잃고서야 깨닫는 사랑...",
+    "date": "11.11.20",
+    "rating": "7",
+    "author": "bbq2****",
+    "review_id": "5859943",
+    "movie_id": "28909"
+  },
+  {
+    "review": "오늘 구했다. 잼있게 봐야겠다. 냠냠~~~",
+    "date": "11.01.11",
+    "rating": "10",
+    "author": "vedd****",
+    "review_id": "5149976",
+    "movie_id": "28909"
+  },
+  {
+    "review": "또 보고싶다,",
+    "date": "06.12.04",
+    "rating": "9",
+    "author": "bebe****",
+    "review_id": "1266458",
+    "movie_id": "28909"
+  },
+  {
+    "review": "잔인한 계획, 결국 돈을 얻고 사랑을 잃다.",
+    "date": "05.07.06",
+    "rating": "6",
+    "author": "hadl****",
+    "review_id": "313860",
+    "movie_id": "28909"
+  },
+  {
+    "review": "좋아요!",
+    "date": "04.10.07",
+    "rating": "10",
+    "author": "beau****",
+    "review_id": "121743",
+    "movie_id": "28909"
+  }
+]

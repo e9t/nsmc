@@ -1,0 +1,26 @@
+[
+  {
+    "review": "최고넴",
+    "date": "11.09.09",
+    "rating": "10",
+    "author": "jini****",
+    "review_id": "5718129",
+    "movie_id": "35259"
+  },
+  {
+    "review": "오우",
+    "date": "09.09.16",
+    "rating": "10",
+    "author": "dbsw****",
+    "review_id": "3835017",
+    "movie_id": "35259"
+  },
+  {
+    "review": "잼없어 꾸져",
+    "date": "09.08.12",
+    "rating": "1",
+    "author": "siha****",
+    "review_id": "3739470",
+    "movie_id": "35259"
+  }
+]

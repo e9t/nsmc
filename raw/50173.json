@@ -1,0 +1,82 @@
+[
+  {
+    "review": "정말 재미있었다.",
+    "date": "13.04.06",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "7439216",
+    "movie_id": "50173"
+  },
+  {
+    "review": "그래도 쫑남이 때문에 끝까지 다 본 내가 장하다",
+    "date": "10.02.12",
+    "rating": "6",
+    "author": "mygr****",
+    "review_id": "4271779",
+    "movie_id": "50173"
+  },
+  {
+    "review": "팬이니까~ 제밌으니까 좋으니까",
+    "date": "09.03.05",
+    "rating": "10",
+    "author": "boyl****",
+    "review_id": "3347821",
+    "movie_id": "50173"
+  },
+  {
+    "review": "무지 재미있었다.",
+    "date": "07.01.19",
+    "rating": "10",
+    "author": "ming****",
+    "review_id": "1397199",
+    "movie_id": "50173"
+  },
+  {
+    "review": "재밌는데~",
+    "date": "06.12.22",
+    "rating": "10",
+    "author": "ange****",
+    "review_id": "1315064",
+    "movie_id": "50173"
+  },
+  {
+    "review": "드라마봤는데 네 배우들 연기 최고",
+    "date": "06.05.15",
+    "rating": "10",
+    "author": "dawj****",
+    "review_id": "801144",
+    "movie_id": "50173"
+  },
+  {
+    "review": "그다지 재밋지도 그렇다고 완전 개같지도 않은 드라마.",
+    "date": "06.03.28",
+    "rating": "5",
+    "author": "skyn****",
+    "review_id": "738808",
+    "movie_id": "50173"
+  },
+  {
+    "review": "이게 시청률이 35%를 달리고 있다는게 말이 안된다.",
+    "date": "06.02.03",
+    "rating": "1",
+    "author": "fjqm****",
+    "review_id": "644523",
+    "movie_id": "50173"
+  },
+  {
+    "review": "매일 8시25분만 기다려요 ㅋ",
+    "date": "06.01.24",
+    "rating": "10",
+    "author": "mesa****",
+    "review_id": "616682",
+    "movie_id": "50173"
+  },
+  {
+    "review": "사진 제 싸이로 펌질합니다",
+    "date": "05.11.25",
+    "rating": "10",
+    "author": "koun****",
+    "review_id": "484658",
+    "movie_id": "50173"
+  }
+]

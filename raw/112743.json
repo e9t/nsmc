@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "8030624",
+    "movie_id": "112743",
+    "author": "haru****",
+    "review": "와..이건. 말이안나오네염",
+    "rating": "10",
+    "date": "13.10.03"
+  },
+  {
+    "review_id": "7848051",
+    "movie_id": "112743",
+    "author": "2207****",
+    "review": "분위기에 딱맞는 나러이션이었습니다^^",
+    "rating": "10",
+    "date": "13.08.06"
+  },
+  {
+    "review_id": "7838182",
+    "movie_id": "112743",
+    "author": "khki****",
+    "review": "수애 목소리 너무 이쁨....",
+    "rating": "10",
+    "date": "13.08.04"
+  },
+  {
+    "review_id": "7837755",
+    "movie_id": "112743",
+    "author": "ksj3****",
+    "review": "2등",
+    "rating": "1",
+    "date": "13.08.04"
+  },
+  {
+    "review_id": "7803372",
+    "movie_id": "112743",
+    "author": "seag****",
+    "review": "1등?",
+    "rating": "10",
+    "date": "13.07.31"
+  }
+]

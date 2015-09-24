@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "7305108",
+    "movie_id": "78267",
+    "author": "gonn****",
+    "review": "우와... 졸린다...",
+    "rating": "1",
+    "date": "13.02.26"
+  },
+  {
+    "review_id": "7100285",
+    "movie_id": "78267",
+    "author": "yang****",
+    "review": "재미없다...",
+    "rating": "1",
+    "date": "13.01.10"
+  },
+  {
+    "review_id": "7041972",
+    "movie_id": "78267",
+    "author": "gald****",
+    "review": "ㅇ",
+    "rating": "10",
+    "date": "12.12.25"
+  },
+  {
+    "review_id": "7040486",
+    "movie_id": "78267",
+    "author": "30sd****",
+    "review": "샌드맨조으다",
+    "rating": "10",
+    "date": "12.12.25"
+  }
+]

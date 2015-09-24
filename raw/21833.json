@@ -1,0 +1,34 @@
+[
+  {
+    "review": "60년대에 이정도 영화가... 굿",
+    "date": "14.04.22",
+    "rating": "10",
+    "author": "spa2****",
+    "review_id": "8665410",
+    "movie_id": "21833"
+  },
+  {
+    "review": "고전 영화의 진수..!!",
+    "date": "13.09.17",
+    "rating": "9",
+    "author": "obli****",
+    "review_id": "7989383",
+    "movie_id": "21833"
+  },
+  {
+    "review": "흑백영화로 최고인데요~?",
+    "date": "13.09.17",
+    "rating": "10",
+    "author": "ibg3****",
+    "review_id": "7989360",
+    "movie_id": "21833"
+  },
+  {
+    "review": "케이블 어디서 잠깐 봤는데 괜찮았음",
+    "date": "09.11.21",
+    "rating": "10",
+    "author": "fish****",
+    "review_id": "3981084",
+    "movie_id": "21833"
+  }
+]

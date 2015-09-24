@@ -1,0 +1,626 @@
+[
+  {
+    "review": "백인들도 이영화를 재미있다고 이야기 할수 있을까?",
+    "date": "15.08.08",
+    "rating": "5",
+    "author": "mess****",
+    "review_id": "10201781",
+    "movie_id": "12018"
+  },
+  {
+    "review": "이렇게 배 아플 정도로 웃기는  영화 잘 없음 .. 5초마다 터짐",
+    "date": "15.02.16",
+    "rating": "10",
+    "author": "wjpn****",
+    "review_id": "9703205",
+    "movie_id": "12018"
+  },
+  {
+    "review": "전반적으로 얼빠져있는 괴작. 브루스 윌리스의 썩소 같은 시크한 블랙조크들을 의도한 듯 하지만 어째 제대로 살리는 경우가 없고, 뜬금없는 국면전환들은 당황을 넘어 황당스럽다.",
+    "date": "14.10.13",
+    "rating": "5",
+    "author": "cksn****",
+    "review_id": "9289917",
+    "movie_id": "12018"
+  },
+  {
+    "review": "어릴적 잊을수 없는 명작중 하나",
+    "date": "14.08.19",
+    "rating": "10",
+    "author": "203k****",
+    "review_id": "9109990",
+    "movie_id": "12018"
+  },
+  {
+    "review": "92년 작품   이런작품 또 없지. .     완전 잼남",
+    "date": "14.07.20",
+    "rating": "10",
+    "author": "dajj****",
+    "review_id": "8936412",
+    "movie_id": "12018"
+  },
+  {
+    "review": "오버는 배우만 해야 되는디 감독까지 해부렀으야",
+    "date": "14.06.10",
+    "rating": "4",
+    "author": "expr****",
+    "review_id": "8819714",
+    "movie_id": "12018"
+  },
+  {
+    "review": "요즘은 왜 이런 영화를 못 만들까? 유머와 여유가 있는 이런 영화. 8-90년대 영화에는 요즘 영화에는 없는 더 멋진 것들이 많이 있다.",
+    "date": "14.06.07",
+    "rating": "9",
+    "author": "yaso****",
+    "review_id": "8807006",
+    "movie_id": "12018"
+  },
+  {
+    "review": "기억하고 있는것 보다 매우 유치한 영화였구나..90년대의 향수로도 극복이 안 되는 수준~",
+    "date": "14.02.23",
+    "rating": "6",
+    "author": "hath****",
+    "review_id": "8531293",
+    "movie_id": "12018"
+  },
+  {
+    "review": "평점이 너무 낮아 난 10점 만점 준다꽤 재밌는 영화 난 좋아",
+    "date": "14.01.31",
+    "rating": "10",
+    "author": "usu0****",
+    "review_id": "8455372",
+    "movie_id": "12018"
+  },
+  {
+    "review": "David Caruso 이사람이 CSI 에 나올줄은 누가 알겟음 저당시ㅋㅋㅋ 그래도 지금봐도 석상연기 쩔으... 본격 사람 소품.jpg",
+    "date": "13.12.25",
+    "rating": "10",
+    "author": "prim****",
+    "review_id": "8296811",
+    "movie_id": "12018"
+  },
+  {
+    "review": "나름 재밌게 본 영화..",
+    "date": "13.12.17",
+    "rating": "8",
+    "author": "gard****",
+    "review_id": "8221071",
+    "movie_id": "12018"
+  },
+  {
+    "review": "중학교 때인가  극장까지 가서 본 영화인데... 기억이 안나 ㅠ_ㅠ... 뭔 영화였는지..",
+    "date": "13.10.10",
+    "rating": "6",
+    "author": "klei****",
+    "review_id": "8049818",
+    "movie_id": "12018"
+  },
+  {
+    "review": "애니였으면@역사상초유의걸작@ 한번 나올뻔...했다.물론,일본애니는,이런종류의시도가 많긴 하지만...거긴,또거기고,미국은,또 미국이니까...",
+    "date": "13.09.24",
+    "rating": "7",
+    "author": "baks****",
+    "review_id": "8013242",
+    "movie_id": "12018"
+  },
+  {
+    "review": "나름 재밌는 영화다. 스토리도 재밌고 코믹이 가미되서 시간 보내기에 괜찮은 영화였다",
+    "date": "13.08.26",
+    "rating": "7",
+    "author": "najk****",
+    "review_id": "7922949",
+    "movie_id": "12018"
+  },
+  {
+    "review": "티 나는 영화.",
+    "date": "13.04.10",
+    "rating": "4",
+    "author": "dlwo****",
+    "review_id": "7446782",
+    "movie_id": "12018"
+  },
+  {
+    "review": "너무 얼빵해서 재밌는 영화.",
+    "date": "13.04.07",
+    "rating": "5",
+    "author": "cube****",
+    "review_id": "7440268",
+    "movie_id": "12018"
+  },
+  {
+    "review": "어릴때 잼게봤는데평정이오ㅐ이러지ㅋㅋ난만족영화",
+    "date": "13.02.17",
+    "rating": "10",
+    "author": "shin****",
+    "review_id": "7274457",
+    "movie_id": "12018"
+  },
+  {
+    "review": "코미디를 넣었는데 재밌지가않다. 재미도 없고 짜증만나서중간에 보다껏다. 브루스의 싼티나는 연기가 나름 충격이었다.",
+    "date": "13.02.12",
+    "rating": "4",
+    "author": "krod****",
+    "review_id": "7254896",
+    "movie_id": "12018"
+  },
+  {
+    "review": "나름 괜찮았는데 평점이 낮네.... ㅋㅋㅋㅋ",
+    "date": "13.02.10",
+    "rating": "10",
+    "author": "ranc****",
+    "review_id": "7246461",
+    "movie_id": "12018"
+  },
+  {
+    "review": "안웃겨",
+    "date": "13.01.24",
+    "rating": "2",
+    "author": "dbzh****",
+    "review_id": "7169042",
+    "movie_id": "12018"
+  },
+  {
+    "review": "존나 재미종범 영구와떙칠이수준 액션",
+    "date": "13.01.19",
+    "rating": "1",
+    "author": "dica****",
+    "review_id": "7131765",
+    "movie_id": "12018"
+  },
+  {
+    "review": "앤디맥도웰의 돌고래 소리 ㅋㅋ",
+    "date": "12.09.12",
+    "rating": "9",
+    "author": "wnwk****",
+    "review_id": "6690926",
+    "movie_id": "12018"
+  },
+  {
+    "review": "재밌다",
+    "date": "12.03.04",
+    "rating": "8",
+    "author": "nike****",
+    "review_id": "6123996",
+    "movie_id": "12018"
+  },
+  {
+    "review": "이런 내용도 모험 코미디라 할 수 있을까",
+    "date": "11.12.31",
+    "rating": "5",
+    "author": "cont****",
+    "review_id": "5949541",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스 특유위 위트와 휴머가 매력적인 작품.",
+    "date": "11.10.03",
+    "rating": "8",
+    "author": "ccpp****",
+    "review_id": "5767849",
+    "movie_id": "12018"
+  },
+  {
+    "review": "포스터의 브루스 윌리스 멋있네. 영화도 재밌고",
+    "date": "11.10.03",
+    "rating": "8",
+    "author": "rame****",
+    "review_id": "5767848",
+    "movie_id": "12018"
+  },
+  {
+    "review": "현대판 인디아나 존스 같았다고나 할까",
+    "date": "11.10.03",
+    "rating": "8",
+    "author": "kpcc****",
+    "review_id": "5767847",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스 특유위 위트와 휴머가 매력적인 작품. 데이빗 카루소를 보는 재미도 쏠쏠~",
+    "date": "11.08.19",
+    "rating": "9",
+    "author": "dear****",
+    "review_id": "5669095",
+    "movie_id": "12018"
+  },
+  {
+    "review": "관객 OOO라 신공.",
+    "date": "11.07.26",
+    "rating": "2",
+    "author": "pria****",
+    "review_id": "5571041",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스 주연영화중 난 이게 젤 좋더라",
+    "date": "11.06.10",
+    "rating": "10",
+    "author": "meso****",
+    "review_id": "5474958",
+    "movie_id": "12018"
+  },
+  {
+    "review": "도대체 뭔소린지 종잡을 수 없는 이야기. 골든라즈베리상 수상할만 하다.",
+    "date": "11.03.25",
+    "rating": "5",
+    "author": "mist****",
+    "review_id": "5333981",
+    "movie_id": "12018"
+  },
+  {
+    "review": "무슨 생각으로 찍었는지 모르는 돈놀이",
+    "date": "10.10.23",
+    "rating": "1",
+    "author": "hyuk****",
+    "review_id": "4917404",
+    "movie_id": "12018"
+  },
+  {
+    "review": "포스터의 브루스 윌리스 표정만큼은 간지",
+    "date": "10.03.17",
+    "rating": "8",
+    "author": "ccpk****",
+    "review_id": "4362208",
+    "movie_id": "12018"
+  },
+  {
+    "review": "감독이 액션이라 우겨서 최악의 영화가 된 수작 코미디.",
+    "date": "10.02.02",
+    "rating": "8",
+    "author": "alle****",
+    "review_id": "4238150",
+    "movie_id": "12018"
+  },
+  {
+    "review": "유쾌한 액션영화 굿~!",
+    "date": "09.09.23",
+    "rating": "8",
+    "author": "rand****",
+    "review_id": "3845203",
+    "movie_id": "12018"
+  },
+  {
+    "review": "당시만 해도 독특한 액숀 코미디였어여^^(공공)",
+    "date": "09.09.18",
+    "rating": "8",
+    "author": "taks****",
+    "review_id": "3837269",
+    "movie_id": "12018"
+  },
+  {
+    "review": "웃기든가 액션이 좋던가 스토리라도 흥미롭던가 이 3요소 모두 무시했던 작품",
+    "date": "09.09.04",
+    "rating": "5",
+    "author": "gall****",
+    "review_id": "3811559",
+    "movie_id": "12018"
+  },
+  {
+    "review": "2000년대 센스를 타고 나온 1900년대 영화. 장면장면 눈을 뗄 수가 없는 개그 센스.",
+    "date": "09.06.05",
+    "rating": "10",
+    "author": "ike_****",
+    "review_id": "3545169",
+    "movie_id": "12018"
+  },
+  {
+    "review": "그나마 브루스윌리스가 안나왔더라면? 끔찍하다~포스터에 속지말라~",
+    "date": "09.05.14",
+    "rating": "6",
+    "author": "ypal****",
+    "review_id": "3494121",
+    "movie_id": "12018"
+  },
+  {
+    "review": "생각보다 평점이 너무 낮네요. 꽤 재밌었던 기억인데..",
+    "date": "09.05.04",
+    "rating": "10",
+    "author": "kyo1****",
+    "review_id": "3469104",
+    "movie_id": "12018"
+  },
+  {
+    "review": "인디아나존스랑 나홀로집에가 합쳐지면 이런 영화가 나올라나???",
+    "date": "09.03.12",
+    "rating": "6",
+    "author": "adam****",
+    "review_id": "3361948",
+    "movie_id": "12018"
+  },
+  {
+    "review": "이렇게 골때리게 웃긴 영화 드문데?",
+    "date": "09.03.02",
+    "rating": "10",
+    "author": "sexy****",
+    "review_id": "3342831",
+    "movie_id": "12018"
+  },
+  {
+    "review": "아직도 기억에 생생하다, 그 재미란...",
+    "date": "08.10.20",
+    "rating": "7",
+    "author": "zito****",
+    "review_id": "3009729",
+    "movie_id": "12018"
+  },
+  {
+    "review": "데이빗 카루소 (CSI 마이애미 호반장)의 개그 연기와 석고상 연기",
+    "date": "08.07.09",
+    "rating": "8",
+    "author": "dkma****",
+    "review_id": "2751039",
+    "movie_id": "12018"
+  },
+  {
+    "review": "다이하드가 지나치게 강했어",
+    "date": "08.02.18",
+    "rating": "4",
+    "author": "stra****",
+    "review_id": "2460396",
+    "movie_id": "12018"
+  },
+  {
+    "review": "어렸을때 상당히 재밌게 본 영화인데 왜 ??",
+    "date": "08.01.18",
+    "rating": "8",
+    "author": "evil****",
+    "review_id": "2341895",
+    "movie_id": "12018"
+  },
+  {
+    "review": "강렬한 포스의 포스터에 비하면 영화는 지루하기 짝이 없음.",
+    "date": "07.12.02",
+    "rating": "4",
+    "author": "sunh****",
+    "review_id": "2199296",
+    "movie_id": "12018"
+  },
+  {
+    "review": "중후반 부문에서 behead한 장면 이외엔 잔인하지 않은 영화.!",
+    "date": "07.11.27",
+    "rating": "7",
+    "author": "gamj****",
+    "review_id": "2187635",
+    "movie_id": "12018"
+  },
+  {
+    "review": "당시 최고인기였던 브루스형님..이영화와 보이스카웃은 아니올시다;;",
+    "date": "07.08.06",
+    "rating": "5",
+    "author": "typo****",
+    "review_id": "1888555",
+    "movie_id": "12018"
+  },
+  {
+    "review": "좀 지난영화를 브루스윌리스만 보고 봤다가 시간이 좀 아까웠다는...",
+    "date": "07.08.03",
+    "rating": "7",
+    "author": "96su****",
+    "review_id": "1861371",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스가 한방 한 영화다 비싼 제작비 회수도 못했다",
+    "date": "07.07.15",
+    "rating": "7",
+    "author": "deff****",
+    "review_id": "1779537",
+    "movie_id": "12018"
+  },
+  {
+    "review": "크하핳 ㅋㅋㅋ 골때리는 영화 ㅋㅋㅋ",
+    "date": "07.07.14",
+    "rating": "8",
+    "author": "kjs9****",
+    "review_id": "1773895",
+    "movie_id": "12018"
+  },
+  {
+    "review": "뭐야~ 중학교때 학교단체관람으로 본 건데.. 18세관람가???",
+    "date": "07.06.28",
+    "rating": "3",
+    "author": "tkan****",
+    "review_id": "1726978",
+    "movie_id": "12018"
+  },
+  {
+    "review": "망할 만 하지만 tv에서 할 때 시간때우기용으론 훌륭",
+    "date": "07.04.03",
+    "rating": "8",
+    "author": "seun****",
+    "review_id": "1570276",
+    "movie_id": "12018"
+  },
+  {
+    "review": "꽤 재밌던 영화인데...",
+    "date": "07.03.06",
+    "rating": "9",
+    "author": "salm****",
+    "review_id": "1521201",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스표 액션어드벤쳐...허나 좀 포스가 딸린다",
+    "date": "07.01.31",
+    "rating": "5",
+    "author": "ppp0****",
+    "review_id": "1430591",
+    "movie_id": "12018"
+  },
+  {
+    "review": "뮤지컬이냐? 정체를 밝혀라",
+    "date": "06.12.29",
+    "rating": "6",
+    "author": "nala****",
+    "review_id": "1340183",
+    "movie_id": "12018"
+  },
+  {
+    "review": "홍콩영화 \"종횡사해\"에 선점을 빼앗긴 아까운 오락영화",
+    "date": "06.12.26",
+    "rating": "7",
+    "author": "elf2****",
+    "review_id": "1328865",
+    "movie_id": "12018"
+  },
+  {
+    "review": "재미있었던 옛날 영화.",
+    "date": "06.09.03",
+    "rating": "8",
+    "author": "clou****",
+    "review_id": "1101111",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스의 코믹, 하프액션 영화",
+    "date": "06.08.05",
+    "rating": "8",
+    "author": "dgis****",
+    "review_id": "973238",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스윌리스의 흔치않은 코믹액션. 유쾌하게 본 영화다",
+    "date": "06.07.26",
+    "rating": "10",
+    "author": "epik****",
+    "review_id": "922643",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스윌리스 마니아라면 꼭 봐야한다! 유쾌한 영화",
+    "date": "06.07.17",
+    "rating": "10",
+    "author": "will****",
+    "review_id": "899569",
+    "movie_id": "12018"
+  },
+  {
+    "review": "오락기에도 등장한 윌리스 영화 내가 좋아하는 영화중 하나",
+    "date": "05.12.24",
+    "rating": "10",
+    "author": "kws7****",
+    "review_id": "524303",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스의 탁월한 연기력을 보여줬던. 딱 어울린다.",
+    "date": "05.12.23",
+    "rating": "7",
+    "author": "blue****",
+    "review_id": "522226",
+    "movie_id": "12018"
+  },
+  {
+    "review": "액셕과 코믹이 절묘하지만 큰 재미는 느낄수 없다.",
+    "date": "05.11.20",
+    "rating": "6",
+    "author": "movi****",
+    "review_id": "479431",
+    "movie_id": "12018"
+  },
+  {
+    "review": "배우들의 연기\"만\" 좋았다. 악당여자 짱날정도로 역겨웠음.",
+    "date": "05.09.29",
+    "rating": "7",
+    "author": "blue****",
+    "review_id": "427070",
+    "movie_id": "12018"
+  },
+  {
+    "review": "브루스 윌리스의 코믹영화라..",
+    "date": "05.09.09",
+    "rating": "5",
+    "author": "varg****",
+    "review_id": "398327",
+    "movie_id": "12018"
+  },
+  {
+    "review": "어렸을땐 잼있었는데 눈이 높아진후엔 별로",
+    "date": "05.04.29",
+    "rating": "5",
+    "author": "si2p****",
+    "review_id": "267995",
+    "movie_id": "12018"
+  },
+  {
+    "review": "각본은 이상하지만 배우들의 오바적 코믹연기는 좋았다",
+    "date": "05.04.09",
+    "rating": "6",
+    "author": "bmin****",
+    "review_id": "256922",
+    "movie_id": "12018"
+  },
+  {
+    "review": "VTR시절 재밌게 봤던 작품중 하나",
+    "date": "05.02.08",
+    "rating": "8",
+    "author": "yoju****",
+    "review_id": "212580",
+    "movie_id": "12018"
+  },
+  {
+    "review": "도대체 왜 18금이었는지 궁금...",
+    "date": "05.02.08",
+    "rating": "8",
+    "author": "casc****",
+    "review_id": "212332",
+    "movie_id": "12018"
+  },
+  {
+    "review": "어렸을때 TV에서 재밌게 봤던 영화..",
+    "date": "05.01.14",
+    "rating": "10",
+    "author": "khwm****",
+    "review_id": "185169",
+    "movie_id": "12018"
+  },
+  {
+    "review": "좀 황당함",
+    "date": "04.11.28",
+    "rating": "5",
+    "author": "chki****",
+    "review_id": "153117",
+    "movie_id": "12018"
+  },
+  {
+    "review": "이당시를 생각하면 당연한 영홬ㅋ 좋아",
+    "date": "04.11.01",
+    "rating": "10",
+    "author": "who_****",
+    "review_id": "137481",
+    "movie_id": "12018"
+  },
+  {
+    "review": "간간히 나오는 조크 몇개가 웃길뿐..",
+    "date": "04.10.18",
+    "rating": "4",
+    "author": "thin****",
+    "review_id": "127996",
+    "movie_id": "12018"
+  },
+  {
+    "review": "재밌다",
+    "date": "04.10.15",
+    "rating": "10",
+    "author": "gun_****",
+    "review_id": "126207",
+    "movie_id": "12018"
+  },
+  {
+    "review": "앤디맥도웰의미소는굿..영화는그저그랬다..",
+    "date": "04.08.29",
+    "rating": "8",
+    "author": "nthj****",
+    "review_id": "99491",
+    "movie_id": "12018"
+  },
+  {
+    "review": "앤디 멕도웰과 윌리스가 조아서리..그냥 볼만함",
+    "date": "04.04.22",
+    "rating": "7",
+    "author": "wons****",
+    "review_id": "38506",
+    "movie_id": "12018"
+  }
+]

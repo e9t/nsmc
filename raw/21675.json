@@ -1,0 +1,26 @@
+[
+  {
+    "review": "...........",
+    "date": "13.08.15",
+    "rating": "1",
+    "author": "jjer****",
+    "review_id": "7882809",
+    "movie_id": "21675"
+  },
+  {
+    "review": "뭐지?",
+    "date": "13.01.06",
+    "rating": "10",
+    "author": "kim0****",
+    "review_id": "7087962",
+    "movie_id": "21675"
+  },
+  {
+    "review": "수호지 이거 뭔지?",
+    "date": "09.06.08",
+    "rating": "10",
+    "author": "kkmm****",
+    "review_id": "3553587",
+    "movie_id": "21675"
+  }
+]

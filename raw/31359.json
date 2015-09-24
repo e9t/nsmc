@@ -1,0 +1,42 @@
+[
+  {
+    "review": "어찌됐건 지루한건 어쩔수없다",
+    "date": "15.01.07",
+    "rating": "6",
+    "author": "2_dp****",
+    "review_id": "9569690",
+    "movie_id": "31359"
+  },
+  {
+    "review": "기요시의 장점과 단점이 극명하게 드러나는 작품.",
+    "date": "10.10.14",
+    "rating": "7",
+    "author": "bitt****",
+    "review_id": "4902951",
+    "movie_id": "31359"
+  },
+  {
+    "review": "OO점이고 뭐고 이 영화는 그냥 OO",
+    "date": "09.05.26",
+    "rating": "1",
+    "author": "kr_p****",
+    "review_id": "3524634",
+    "movie_id": "31359"
+  },
+  {
+    "review": "기요시에게서 인간 관계란 그저 근거없는 불행의 OO점일 뿐.",
+    "date": "05.07.19",
+    "rating": "5",
+    "author": "m60d****",
+    "review_id": "327589",
+    "movie_id": "31359"
+  },
+  {
+    "review": "전작 을 능가하는 지루함. 역시 속편은 강도가 세다.",
+    "date": "05.03.16",
+    "rating": "1",
+    "author": "godc****",
+    "review_id": "241961",
+    "movie_id": "31359"
+  }
+]

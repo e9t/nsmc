@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "8124982",
+    "movie_id": "95964",
+    "author": "eheh****",
+    "review": "개재밌구만 뭐가 별로임 완전 추천!!",
+    "rating": "10",
+    "date": "13.11.08"
+  },
+  {
+    "review_id": "7446999",
+    "movie_id": "95964",
+    "author": "rlaw****",
+    "review": "시즌1때부터 봤는데 난 볼만했음.. 무엇보다 액션미드라는 점에서 더 끌렸고",
+    "rating": "10",
+    "date": "13.04.10"
+  },
+  {
+    "review_id": "7130024",
+    "movie_id": "95964",
+    "author": "bskk****",
+    "review": "진짜 별루다",
+    "rating": "1",
+    "date": "13.01.18"
+  },
+  {
+    "review_id": "7130020",
+    "movie_id": "95964",
+    "author": "ojjj****",
+    "review": "보지마쇼 별로임",
+    "rating": "1",
+    "date": "13.01.18"
+  },
+  {
+    "review_id": "6393377",
+    "movie_id": "95964",
+    "author": "love****",
+    "review": "니키타 시즌1 보고 2도 보는데 2도 재밌다.",
+    "rating": "10",
+    "date": "12.06.15"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "review": "장애 드라마라는 태생적 한계를 넘어서는 휴머니즘.",
+    "date": "15.08.16",
+    "rating": "8",
+    "author": "tear****",
+    "review_id": "10241260",
+    "movie_id": "27052"
+  },
+  {
+    "review": "훌륭한 영화. 이 영화에 딱 어울리는말입니다.",
+    "date": "15.06.08",
+    "rating": "10",
+    "author": "bill****",
+    "review_id": "9984946",
+    "movie_id": "27052"
+  },
+  {
+    "review": "서로의 다리와 머리가 되어주는 훈훈하고 가슴속 깊이 따뜻한 이야기.",
+    "date": "13.11.02",
+    "rating": "9",
+    "author": "ehwj****",
+    "review_id": "8108797",
+    "movie_id": "27052"
+  },
+  {
+    "review": "훌륭하다",
+    "date": "13.07.09",
+    "rating": "10",
+    "author": "gich****",
+    "review_id": "7720786",
+    "movie_id": "27052"
+  },
+  {
+    "review": "너무 감동적이에요!!!!",
+    "date": "12.04.14",
+    "rating": "10",
+    "author": "pjh0****",
+    "review_id": "6220231",
+    "movie_id": "27052"
+  },
+  {
+    "review": "연기도 영화도 최고 감동적임!!!!!!!",
+    "date": "12.04.09",
+    "rating": "10",
+    "author": "tjsa****",
+    "review_id": "6203898",
+    "movie_id": "27052"
+  },
+  {
+    "review": "짜맞혀지는 느낌이 없진 않지만 중간중간 지루함없이 정말 재미있고 감동하나는 크다-",
+    "date": "12.04.06",
+    "rating": "9",
+    "author": "jade****",
+    "review_id": "6196474",
+    "movie_id": "27052"
+  },
+  {
+    "review": "좋은 영화",
+    "date": "12.04.05",
+    "rating": "8",
+    "author": "kiki****",
+    "review_id": "6195449",
+    "movie_id": "27052"
+  },
+  {
+    "review": "의미 있는 영화,",
+    "date": "12.03.18",
+    "rating": "10",
+    "author": "gwak****",
+    "review_id": "6152512",
+    "movie_id": "27052"
+  },
+  {
+    "review": "최고다",
+    "date": "12.02.23",
+    "rating": "10",
+    "author": "fore****",
+    "review_id": "6096815",
+    "movie_id": "27052"
+  },
+  {
+    "review": "어릴 때 본 이후로 지금도 생각만 해도 눈시울이 붉어지는 영화.",
+    "date": "12.01.31",
+    "rating": "10",
+    "author": "tbvj****",
+    "review_id": "6038811",
+    "movie_id": "27052"
+  },
+  {
+    "review": "너무감동적이에요ㅠㅠㅠ",
+    "date": "11.07.18",
+    "rating": "10",
+    "author": "8204****",
+    "review_id": "5553187",
+    "movie_id": "27052"
+  },
+  {
+    "review": "도대체보고싶어도볼수가없음..비디오가게..어둠의경로,그어디에도없음",
+    "date": "11.04.15",
+    "rating": "10",
+    "author": "ghdt****",
+    "review_id": "5375476",
+    "movie_id": "27052"
+  },
+  {
+    "review": "슬픈 우정.. 찡한 감동이 있다..",
+    "date": "11.03.06",
+    "rating": "10",
+    "author": "tn99****",
+    "review_id": "5297638",
+    "movie_id": "27052"
+  },
+  {
+    "review": "추천하고 싶은 영화",
+    "date": "09.10.24",
+    "rating": "10",
+    "author": "myhe****",
+    "review_id": "3912441",
+    "movie_id": "27052"
+  },
+  {
+    "review": "완전 재밌네요",
+    "date": "09.09.04",
+    "rating": "10",
+    "author": "4456****",
+    "review_id": "3809935",
+    "movie_id": "27052"
+  },
+  {
+    "review": "아...완전슬픔..ㅠㅠ",
+    "date": "09.08.22",
+    "rating": "10",
+    "author": "myon****",
+    "review_id": "3776901",
+    "movie_id": "27052"
+  },
+  {
+    "review": "감동!!!",
+    "date": "08.09.10",
+    "rating": "10",
+    "author": "stud****",
+    "review_id": "2933867",
+    "movie_id": "27052"
+  },
+  {
+    "review": "이거완전대박 ㅠㅠ 슬프고 재밌어요",
+    "date": "08.07.11",
+    "rating": "10",
+    "author": "dmsw****",
+    "review_id": "2754940",
+    "movie_id": "27052"
+  },
+  {
+    "review": "과제때문에 보긴 했지만 따뜻한감동 ㅎ",
+    "date": "08.06.06",
+    "rating": "10",
+    "author": "spoq****",
+    "review_id": "2682126",
+    "movie_id": "27052"
+  },
+  {
+    "review": "너무 재미있었고요.. 감동적이었어요",
+    "date": "08.05.25",
+    "rating": "10",
+    "author": "hoot****",
+    "review_id": "2661949",
+    "movie_id": "27052"
+  },
+  {
+    "review": "이 영화에 더이상 어떻게 하라는겨 대본을 댁이 쓰던가-_-^",
+    "date": "07.10.13",
+    "rating": "10",
+    "author": "kism****",
+    "review_id": "2085897",
+    "movie_id": "27052"
+  },
+  {
+    "review": "소재에비해 내용이부실.우정을좀더 넓고 따뜻하게 표현하지 못한점이아쉽다",
+    "date": "07.08.25",
+    "rating": "5",
+    "author": "part****",
+    "review_id": "1978410",
+    "movie_id": "27052"
+  },
+  {
+    "review": "와..............................정말감동입니다.",
+    "date": "07.06.07",
+    "rating": "10",
+    "author": "chlt****",
+    "review_id": "1688459",
+    "movie_id": "27052"
+  },
+  {
+    "review": "정말 감동적입니다. 두 소년의 우정을 잘 느낄수 있었네요...",
+    "date": "07.04.23",
+    "rating": "10",
+    "author": "msy9****",
+    "review_id": "1602575",
+    "movie_id": "27052"
+  },
+  {
+    "review": "감동적입니다",
+    "date": "07.04.20",
+    "rating": "10",
+    "author": "lhs1****",
+    "review_id": "1597463",
+    "movie_id": "27052"
+  },
+  {
+    "review": "친구간의 우정을 느낄수있는 따뜻한 영화입니다.",
+    "date": "07.01.16",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "1390766",
+    "movie_id": "27052"
+  },
+  {
+    "review": "감동입니다...",
+    "date": "06.12.15",
+    "rating": "10",
+    "author": "chas****",
+    "review_id": "1294732",
+    "movie_id": "27052"
+  },
+  {
+    "review": "ㅠㅠ감동이야",
+    "date": "06.11.05",
+    "rating": "10",
+    "author": "silo****",
+    "review_id": "1216764",
+    "movie_id": "27052"
+  },
+  {
+    "review": "7년전에 봤지만 여전히 눈물나게 하는 영화",
+    "date": "06.11.02",
+    "rating": "10",
+    "author": "just****",
+    "review_id": "1212482",
+    "movie_id": "27052"
+  },
+  {
+    "review": "감동적인 우정.... 순수하고 사랑스럽다.",
+    "date": "06.10.10",
+    "rating": "10",
+    "author": "habr****",
+    "review_id": "1174000",
+    "movie_id": "27052"
+  },
+  {
+    "review": "감동함",
+    "date": "06.07.17",
+    "rating": "10",
+    "author": "kow9****",
+    "review_id": "901623",
+    "movie_id": "27052"
+  },
+  {
+    "review": "지겨워",
+    "date": "06.06.21",
+    "rating": "1",
+    "author": "chak****",
+    "review_id": "852154",
+    "movie_id": "27052"
+  },
+  {
+    "review": "볼만한 우정이지만 이젠 너무 상투적이기만한..",
+    "date": "06.06.11",
+    "rating": "6",
+    "author": "chor****",
+    "review_id": "841030",
+    "movie_id": "27052"
+  },
+  {
+    "review": "우정이란 걸 정말 잘 깨달게 해준 영화",
+    "date": "06.05.14",
+    "rating": "10",
+    "author": "mjki****",
+    "review_id": "800208",
+    "movie_id": "27052"
+  },
+  {
+    "review": "머리를 마음으로 채우게 만드는 영화~ 완.전.강.추!!!",
+    "date": "06.04.12",
+    "rating": "10",
+    "author": "myid****",
+    "review_id": "758921",
+    "movie_id": "27052"
+  },
+  {
+    "review": "내 생애 처음으로 눈물 흘리게 만든 영화",
+    "date": "06.03.02",
+    "rating": "10",
+    "author": "zihy****",
+    "review_id": "700299",
+    "movie_id": "27052"
+  },
+  {
+    "review": "두 소년의 우정을 감동적으로 그려낸 성장 영화.",
+    "date": "06.02.27",
+    "rating": "7",
+    "author": "movi****",
+    "review_id": "694158",
+    "movie_id": "27052"
+  },
+  {
+    "review": "우리는 모두 불완전한 존재가 아닐까...hilarious!!!",
+    "date": "06.02.02",
+    "rating": "10",
+    "author": "fon9****",
+    "review_id": "641413",
+    "movie_id": "27052"
+  },
+  {
+    "review": "감동",
+    "date": "06.01.08",
+    "rating": "10",
+    "author": "jaew****",
+    "review_id": "571820",
+    "movie_id": "27052"
+  },
+  {
+    "review": "오 진짜 완벽 ZI존 강추~~",
+    "date": "05.08.25",
+    "rating": "10",
+    "author": "bria****",
+    "review_id": "383712",
+    "movie_id": "27052"
+  },
+  {
+    "review": "진짜 재밌고 감동적임",
+    "date": "05.08.25",
+    "rating": "10",
+    "author": "hell****",
+    "review_id": "383695",
+    "movie_id": "27052"
+  },
+  {
+    "review": "Simon Birch와도 같은 우정의 영화,, 너무 감동적이다",
+    "date": "05.07.26",
+    "rating": "10",
+    "author": "sukj****",
+    "review_id": "335308",
+    "movie_id": "27052"
+  },
+  {
+    "review": "삶의 작고 중요한 것을 알게하는 영화다. 오늘당신에게 강추",
+    "date": "04.12.24",
+    "rating": "10",
+    "author": "eeha****",
+    "review_id": "168632",
+    "movie_id": "27052"
+  },
+  {
+    "review": "sbs 시네클럽으로 봤는데여... 정말 최고였어요.",
+    "date": "04.12.19",
+    "rating": "10",
+    "author": "cent****",
+    "review_id": "165306",
+    "movie_id": "27052"
+  },
+  {
+    "review": "두 소년의 우정이 주는 잔잔한 감동,",
+    "date": "04.12.11",
+    "rating": "7",
+    "author": "hadl****",
+    "review_id": "160371",
+    "movie_id": "27052"
+  },
+  {
+    "review": "뒷부분만 보게 되었는데...앞부분부터 보고 싶어져서..",
+    "date": "04.12.04",
+    "rating": "5",
+    "author": "pys2****",
+    "review_id": "156970",
+    "movie_id": "27052"
+  },
+  {
+    "review": "감동적인영화였지만뭔가가아쉽다.",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "woon****",
+    "review_id": "156905",
+    "movie_id": "27052"
+  },
+  {
+    "review": "명작이라고 하긴 힘들지만 그렇다고 평작이라고 하기에도 힘들다.",
+    "date": "04.12.04",
+    "rating": "9",
+    "author": "jcr3****",
+    "review_id": "156802",
+    "movie_id": "27052"
+  },
+  {
+    "review": "잔잔한 파도의 물결속에서 인생의 의미를 생각하게 합니다",
+    "date": "04.12.04",
+    "rating": "8",
+    "author": "aois****",
+    "review_id": "156580",
+    "movie_id": "27052"
+  },
+  {
+    "review": "마음이 상막해질 때 보세요",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "mals****",
+    "review_id": "156494",
+    "movie_id": "27052"
+  },
+  {
+    "review": "너무 간만에 감동의 잔잔함을 느꼈습니다....강추에요 ~!!! 이런 영화",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "ktm5****",
+    "review_id": "156493",
+    "movie_id": "27052"
+  },
+  {
+    "review": "덴당~ 괜시리 뭉클하자나~ㅋ",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "lisa****",
+    "review_id": "156483",
+    "movie_id": "27052"
+  },
+  {
+    "review": "감동이네요~ 나비효과의 레니 연기 참 잘하네요~",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "jmma****",
+    "review_id": "156482",
+    "movie_id": "27052"
+  },
+  {
+    "review": "스컬리 요원 왠지 웃음이 나는 ㅋㅋㅋㅋ",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "gaso****",
+    "review_id": "156478",
+    "movie_id": "27052"
+  },
+  {
+    "review": "내 생의 최고의 감동",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "clis****",
+    "review_id": "156476",
+    "movie_id": "27052"
+  },
+  {
+    "review": "음 감동이 있는 영화 너무 재미있어요 친구와 함께 보세요 진짜 좋은 영화",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "na2c****",
+    "review_id": "156450",
+    "movie_id": "27052"
+  },
+  {
+    "review": "만만치않은 완성도를 갖춘 가족영화..",
+    "date": "04.11.02",
+    "rating": "7",
+    "author": "thin****",
+    "review_id": "138185",
+    "movie_id": "27052"
+  },
+  {
+    "review": "너무 감동적이예요~ㅠ-ㅠ 진짜 좋은 영화인 것 같아요",
+    "date": "04.10.26",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "133411",
+    "movie_id": "27052"
+  },
+  {
+    "review": "정말 감동 깊음 남녀노소 누구나 한번쯤은 봐도 흠잡을 때가 없을꺼 같네요",
+    "date": "04.08.27",
+    "rating": "10",
+    "author": "wjwl****",
+    "review_id": "97653",
+    "movie_id": "27052"
+  },
+  {
+    "review": "크음///// 저는 맨마지막 단원을 못봐서....아무튼 정말 잼잇음ㅋ.",
+    "date": "04.05.12",
+    "rating": "10",
+    "author": "wktj****",
+    "review_id": "42682",
+    "movie_id": "27052"
+  },
+  {
+    "review": "그 우정 오랫동안 간직했으면 좋겠네요",
+    "date": "04.05.01",
+    "rating": "10",
+    "author": "wend****",
+    "review_id": "40264",
+    "movie_id": "27052"
+  },
+  {
+    "review": "두 우정이 그리는 감동적인 영화, 케빈의 엄마가 마지막에 한말이 인상적.",
+    "date": "04.01.02",
+    "rating": "10",
+    "author": "saki****",
+    "review_id": "7887",
+    "movie_id": "27052"
+  }
+]

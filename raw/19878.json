@@ -1,0 +1,58 @@
+[
+  {
+    "review": "명작 평점 깎기는 본인의 인성을 깎는 거나 마찬가지",
+    "date": "15.05.06",
+    "rating": "10",
+    "author": "char****",
+    "review_id": "9900012",
+    "movie_id": "19878"
+  },
+  {
+    "review": "한국영화사 최고의 걸작 중 한 편",
+    "date": "15.04.17",
+    "rating": "10",
+    "author": "psyh****",
+    "review_id": "9849108",
+    "movie_id": "19878"
+  },
+  {
+    "review": "생각하며 볼만한 이만희의 영화",
+    "date": "14.04.05",
+    "rating": "8",
+    "author": "blue****",
+    "review_id": "8628865",
+    "movie_id": "19878"
+  },
+  {
+    "review": "그래도 좋네 막 총쏘고 죽이고 살고 이기고 지는 그런 영화들하고는 완전 다르다",
+    "date": "14.02.15",
+    "rating": "10",
+    "author": "axc1****",
+    "review_id": "8510805",
+    "movie_id": "19878"
+  },
+  {
+    "review": "하... 할머니께서 추천해 주셔서 봤는데 정말 귀로 쓰고 귀두로 읽고 싶을 정도이다..",
+    "date": "14.02.14",
+    "rating": "1",
+    "author": "pkm6****",
+    "review_id": "8505529",
+    "movie_id": "19878"
+  },
+  {
+    "review": "존나 똥이다",
+    "date": "13.04.18",
+    "rating": "1",
+    "author": "supe****",
+    "review_id": "7466424",
+    "movie_id": "19878"
+  },
+  {
+    "review": "명작",
+    "date": "12.05.04",
+    "rating": "10",
+    "author": "has2****",
+    "review_id": "6271453",
+    "movie_id": "19878"
+  }
+]

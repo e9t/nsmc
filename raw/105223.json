@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9239808",
+    "movie_id": "105223",
+    "author": "cps0****",
+    "review": "꽤 재밋는 소재지만 재미는....",
+    "rating": "8",
+    "date": "14.09.25"
+  },
+  {
+    "review_id": "9130556",
+    "movie_id": "105223",
+    "author": "bles****",
+    "review": "시트콤 수준의 조악한 스릴러",
+    "rating": "3",
+    "date": "14.08.24"
+  },
+  {
+    "review_id": "8637804",
+    "movie_id": "105223",
+    "author": "534k****",
+    "review": "걍 10점줘!!!!....",
+    "rating": "10",
+    "date": "14.04.09"
+  },
+  {
+    "review_id": "7731112",
+    "movie_id": "105223",
+    "author": "a1lo****",
+    "review": "글쎄?",
+    "rating": "1",
+    "date": "13.07.12"
+  },
+  {
+    "review_id": "7729277",
+    "movie_id": "105223",
+    "author": "jsb9****",
+    "review": "good!!!!!",
+    "rating": "10",
+    "date": "13.07.12"
+  }
+]

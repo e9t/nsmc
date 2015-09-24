@@ -1,0 +1,58 @@
+[
+  {
+    "review": "내가찾던 그영화",
+    "date": "13.01.22",
+    "rating": "10",
+    "author": "acth****",
+    "review_id": "7145189",
+    "movie_id": "16923"
+  },
+  {
+    "review": "명복을 빕니다",
+    "date": "13.01.21",
+    "rating": "5",
+    "author": "chos****",
+    "review_id": "7141795",
+    "movie_id": "16923"
+  },
+  {
+    "review": "오우 딥콘",
+    "date": "10.06.10",
+    "rating": "10",
+    "author": "iq2k****",
+    "review_id": "4555715",
+    "movie_id": "16923"
+  },
+  {
+    "review": "전자오락실에서 첨단과학을 연구한다",
+    "date": "10.06.10",
+    "rating": "10",
+    "author": "gove****",
+    "review_id": "4555712",
+    "movie_id": "16923"
+  },
+  {
+    "review": "정명현 90년대 초반 웃기는 얼굴,장닭이라는 별명으로 대단한 인기 끌었는데",
+    "date": "10.03.31",
+    "rating": "10",
+    "author": "irh7****",
+    "review_id": "4399493",
+    "movie_id": "16923"
+  },
+  {
+    "review": "정명현 요즘 뭐하고 살까?궁금하네...면뽁이 광고도 찍었었는데",
+    "date": "06.02.19",
+    "rating": "7",
+    "author": "daer****",
+    "review_id": "679475",
+    "movie_id": "16923"
+  },
+  {
+    "review": "얄개시리즈의 마지막작품으로 정명현이 몰락한작품",
+    "date": "06.01.06",
+    "rating": "7",
+    "author": "kws7****",
+    "review_id": "564639",
+    "movie_id": "16923"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "밋밋하다",
+    "date": "12.12.07",
+    "rating": "5",
+    "author": "cont****",
+    "review_id": "6982507",
+    "movie_id": "43159"
+  },
+  {
+    "review": "솔직히 재미는없다...",
+    "date": "12.07.12",
+    "rating": "1",
+    "author": "yang****",
+    "review_id": "6471331",
+    "movie_id": "43159"
+  },
+  {
+    "review": "평점 10점이길래 깍아봤음",
+    "date": "11.03.04",
+    "rating": "1",
+    "author": "powe****",
+    "review_id": "5293787",
+    "movie_id": "43159"
+  },
+  {
+    "review": "오웬윌슨꺼면 무조건짱!!!!!!!",
+    "date": "07.01.04",
+    "rating": "10",
+    "author": "only****",
+    "review_id": "1356483",
+    "movie_id": "43159"
+  }
+]

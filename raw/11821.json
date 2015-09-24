@@ -1,0 +1,34 @@
+[
+  {
+    "review": "독특한 분위기, 다양한 장르가 혼합된 매력",
+    "date": "10.11.02",
+    "rating": "7",
+    "author": "gall****",
+    "review_id": "4934143",
+    "movie_id": "11821"
+  },
+  {
+    "review": "웨스턴 공포 컬트물......",
+    "date": "10.06.12",
+    "rating": "5",
+    "author": "hyuk****",
+    "review_id": "4560565",
+    "movie_id": "11821"
+  },
+  {
+    "review": "오락용B급이 라기 보다는, A급으로 재현된 감상용 B급무비 !",
+    "date": "08.07.28",
+    "rating": "8",
+    "author": "evil****",
+    "review_id": "2812805",
+    "movie_id": "11821"
+  },
+  {
+    "review": "컬트 무비의 진수",
+    "date": "06.11.25",
+    "rating": "10",
+    "author": "fait****",
+    "review_id": "1249937",
+    "movie_id": "11821"
+  }
+]

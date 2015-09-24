@@ -1,0 +1,802 @@
+[
+  {
+    "review": "정말 진정한 코미디다 웃다  디지는줄 알았음",
+    "date": "15.08.25",
+    "rating": "10",
+    "author": "taij****",
+    "review_id": "10273432",
+    "movie_id": "28794"
+  },
+  {
+    "review": "최고! 15년전 영화지만 최신 영화보다 100배 낫다.",
+    "date": "15.06.21",
+    "rating": "10",
+    "author": "with****",
+    "review_id": "10018020",
+    "movie_id": "28794"
+  },
+  {
+    "review": "인생에서 더깊은뜻을 알아내려 철학적인 생각을 하지만 결국은 그렇게 사는것보단 현재를 즐겨라 사랑을 하고 자연을 아껴라 뭐 이런거네 가볍고 좋음",
+    "date": "15.06.19",
+    "rating": "6",
+    "author": "diam****",
+    "review_id": "10012642",
+    "movie_id": "28794"
+  },
+  {
+    "review": "스타트랙 매니아는 아니지만 재밌게 봤네요.~ 정말 재밌어요~!",
+    "date": "15.06.07",
+    "rating": "9",
+    "author": "char****",
+    "review_id": "9981176",
+    "movie_id": "28794"
+  },
+  {
+    "review": "졸잼 재밌음 적어도 나하네텐",
+    "date": "15.05.07",
+    "rating": "10",
+    "author": "mwmw****",
+    "review_id": "9901231",
+    "movie_id": "28794"
+  },
+  {
+    "review": "많은 의미들을 내포한 영화들은 좋지만 평소엔 이런게 재밌다ㅋㅋㅋ",
+    "date": "15.03.11",
+    "rating": "8",
+    "author": "hjh8****",
+    "review_id": "9772706",
+    "movie_id": "28794"
+  },
+  {
+    "review": "뭔가 많은 요소들을 담고 있지만 그걸 평가에 넣고싶진 않았다",
+    "date": "15.02.17",
+    "rating": "5",
+    "author": "fall****",
+    "review_id": "9704795",
+    "movie_id": "28794"
+  },
+  {
+    "review": "꿀잼이네요. 15년전 영화인데 지금 봐도 잼있네요ㅋㅋ",
+    "date": "15.02.10",
+    "rating": "9",
+    "author": "choi****",
+    "review_id": "9683790",
+    "movie_id": "28794"
+  },
+  {
+    "review": "무난하게 볼만한 sf코메디 영화다...8점",
+    "date": "15.02.07",
+    "rating": "8",
+    "author": "rion****",
+    "review_id": "9677087",
+    "movie_id": "28794"
+  },
+  {
+    "review": "재밌고 뭔가 짠하고 남는 게 많은 SF코미디",
+    "date": "14.09.26",
+    "rating": "10",
+    "author": "only****",
+    "review_id": "9242873",
+    "movie_id": "28794"
+  },
+  {
+    "review": "삼류 영화가 될뻔한 SF물을 참신한(?) 아이디어로 잘 승화시킨 작품. 유쾌하게 봤네요.ㅋ",
+    "date": "14.08.31",
+    "rating": "7",
+    "author": "nice****",
+    "review_id": "9151380",
+    "movie_id": "28794"
+  },
+  {
+    "review": "품격있는 패러디 느낌이 물씬",
+    "date": "14.07.27",
+    "rating": "7",
+    "author": "love****",
+    "review_id": "8967049",
+    "movie_id": "28794"
+  },
+  {
+    "review": "‘스타트렉’ 패러디지만 원작을 몰라도 충분히 볼 수 있다. SF 장르의 전형적인 요소를 흥미롭게 비틀면서 관객의 허를 찌르기에 시종 재밌게 느껴진다.",
+    "date": "14.07.15",
+    "rating": "7",
+    "author": "zxc1****",
+    "review_id": "8917360",
+    "movie_id": "28794"
+  },
+  {
+    "review": "초반의 재치가 갈수록 시들. 디테일이 앙상하다.",
+    "date": "14.05.22",
+    "rating": "6",
+    "author": "tear****",
+    "review_id": "8753981",
+    "movie_id": "28794"
+  },
+  {
+    "review": "갤럭시 퀘스트. 9점.",
+    "date": "14.04.06",
+    "rating": "9",
+    "author": "rail****",
+    "review_id": "8633651",
+    "movie_id": "28794"
+  },
+  {
+    "review": "황당하다 어이없어서 웃기다 그래서 좋다",
+    "date": "14.01.18",
+    "rating": "8",
+    "author": "sola****",
+    "review_id": "8397048",
+    "movie_id": "28794"
+  },
+  {
+    "review": "SF와 코미디가 잘 융합되지 못함.",
+    "date": "14.01.18",
+    "rating": "7",
+    "author": "bele****",
+    "review_id": "8394840",
+    "movie_id": "28794"
+  },
+  {
+    "review": "알란할배때메 봤다ㅋㅋ 짜증과 업신여기는 표정은 세계 최고인듯ㅋㅋ",
+    "date": "13.12.23",
+    "rating": "7",
+    "author": "quff****",
+    "review_id": "8281117",
+    "movie_id": "28794"
+  },
+  {
+    "review": "스타트렉을 좋아한다면 더 재미있게 볼 수 있을듯 . 외계인들 진짜 웃김 ㅋㅋ",
+    "date": "13.10.24",
+    "rating": "8",
+    "author": "scif****",
+    "review_id": "8085804",
+    "movie_id": "28794"
+  },
+  {
+    "review": "훌륭함",
+    "date": "13.09.13",
+    "rating": "10",
+    "author": "seer****",
+    "review_id": "7973350",
+    "movie_id": "28794"
+  },
+  {
+    "review": "고전이지만 너무나도 깨알재미가 돋는 코미디 영화~",
+    "date": "13.07.19",
+    "rating": "10",
+    "author": "ddol****",
+    "review_id": "7759640",
+    "movie_id": "28794"
+  },
+  {
+    "review": "좋아하는 코미디 중 항상 열 손가락에 들어가는 너무도 사랑하는 영화",
+    "date": "13.06.23",
+    "rating": "10",
+    "author": "jcr3****",
+    "review_id": "7671035",
+    "movie_id": "28794"
+  },
+  {
+    "review": "나하고 안맞는건지 설정은 그렇다쳐도 풀어나가는 모습은 딱 어린이용.",
+    "date": "13.05.30",
+    "rating": "4",
+    "author": "wlfa****",
+    "review_id": "7563190",
+    "movie_id": "28794"
+  },
+  {
+    "review": "설정부터 맘에 들었다. 단, 진지한 사람은 보지말길.",
+    "date": "13.05.18",
+    "rating": "10",
+    "author": "sads****",
+    "review_id": "7537794",
+    "movie_id": "28794"
+  },
+  {
+    "review": "우왕 재밌당 ㅋㅋㅋㅋ",
+    "date": "13.05.06",
+    "rating": "10",
+    "author": "yuls****",
+    "review_id": "7512662",
+    "movie_id": "28794"
+  },
+  {
+    "review": "재밌었어요. 지금봐도 괜찮네요^^",
+    "date": "13.02.11",
+    "rating": "8",
+    "author": "fjqm****",
+    "review_id": "7252933",
+    "movie_id": "28794"
+  },
+  {
+    "review": "정말 10점을 줘도 아깝지 않은 영화 bb",
+    "date": "13.01.02",
+    "rating": "10",
+    "author": "jhp4****",
+    "review_id": "7075933",
+    "movie_id": "28794"
+  },
+  {
+    "review": "아 ~ 완전 대박 ~ ㅎ 진짜 재미있네여 ㅎㅎㅎ",
+    "date": "12.11.16",
+    "rating": "9",
+    "author": "tekk****",
+    "review_id": "6893219",
+    "movie_id": "28794"
+  },
+  {
+    "review": "애들용이라 생각하고 지금껏 안본게 후회,코믹하지만 가볍지 않은  영화",
+    "date": "12.10.18",
+    "rating": "10",
+    "author": "dyd3****",
+    "review_id": "6809194",
+    "movie_id": "28794"
+  },
+  {
+    "review": "정말 웃긴다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "12.09.03",
+    "rating": "10",
+    "author": "jean****",
+    "review_id": "6666840",
+    "movie_id": "28794"
+  },
+  {
+    "review": "교육용 SF 영화로 가장 모범적이다. 영화 속 개연성을 굳이 따지지 않고, 동심의 마음으로 편히 관람하면 나름 유쾌하고 감동적일 것이다.",
+    "date": "12.07.28",
+    "rating": "7",
+    "author": "corc****",
+    "review_id": "6549600",
+    "movie_id": "28794"
+  },
+  {
+    "review": "10점도 모자라다 최고다",
+    "date": "12.05.12",
+    "rating": "10",
+    "author": "lee0****",
+    "review_id": "6291391",
+    "movie_id": "28794"
+  },
+  {
+    "review": "학원에서 봤는데옛날영화임에도 불과하고, 너무즐겁다. 저는 정말로 재미있게 보았다",
+    "date": "12.03.27",
+    "rating": "10",
+    "author": "alex****",
+    "review_id": "6173166",
+    "movie_id": "28794"
+  },
+  {
+    "review": "스타워즈나 스타트렉 시리즈를 한번이라두 본적있다면 완전 재미있는 영화가 될듯합니다.",
+    "date": "12.03.18",
+    "rating": "9",
+    "author": "beli****",
+    "review_id": "6153608",
+    "movie_id": "28794"
+  },
+  {
+    "review": "안 웃기다.",
+    "date": "11.11.26",
+    "rating": "3",
+    "author": "pria****",
+    "review_id": "5870570",
+    "movie_id": "28794"
+  },
+  {
+    "review": "코믹 SF의 걸작, '이벤트 호라이즌'의 대척점",
+    "date": "11.09.30",
+    "rating": "10",
+    "author": "md31****",
+    "review_id": "5761100",
+    "movie_id": "28794"
+  },
+  {
+    "review": "SF가족 영화. 스타 트렉의 패러디버전.",
+    "date": "11.09.20",
+    "rating": "6",
+    "author": "reno****",
+    "review_id": "5743234",
+    "movie_id": "28794"
+  },
+  {
+    "review": "아 정말 기대도 안했는데 정말 유쾌할 뿐 만 아니라 감동마저 있다니",
+    "date": "11.08.28",
+    "rating": "10",
+    "author": "jhzm****",
+    "review_id": "5695327",
+    "movie_id": "28794"
+  },
+  {
+    "review": "어릴때 한 열번은 봤다 ㅋㅋㅋㅋ 드와이트찡도나왔었네",
+    "date": "11.08.11",
+    "rating": "10",
+    "author": "ksw7****",
+    "review_id": "5636732",
+    "movie_id": "28794"
+  },
+  {
+    "review": "알란 릭맨이 나온 것만으로도 10점 ㅠㅠㅠㅠㅠ 기대 안하고 봤는데 정말 재밌음 ㅠ",
+    "date": "11.07.13",
+    "rating": "10",
+    "author": "mind****",
+    "review_id": "5539353",
+    "movie_id": "28794"
+  },
+  {
+    "review": "잼있다!",
+    "date": "11.06.28",
+    "rating": "9",
+    "author": "extr****",
+    "review_id": "5505152",
+    "movie_id": "28794"
+  },
+  {
+    "review": "zz 저도 이거 진짜 어렷을떄 잼게 봤는대~~~",
+    "date": "11.06.04",
+    "rating": "10",
+    "author": "sooh****",
+    "review_id": "5464486",
+    "movie_id": "28794"
+  },
+  {
+    "review": "아 어릴때 봤던 기억이 새록새록~!!!ㅋㅋㅋㅋ",
+    "date": "11.05.29",
+    "rating": "9",
+    "author": "toxi****",
+    "review_id": "5453512",
+    "movie_id": "28794"
+  },
+  {
+    "review": "정말 말도 안되는 설정이지만 말도 안되게 재밌네 ㅋㅋㅋ",
+    "date": "11.03.30",
+    "rating": "9",
+    "author": "kkw3****",
+    "review_id": "5342735",
+    "movie_id": "28794"
+  },
+  {
+    "review": "Never give up, never surrender",
+    "date": "11.03.26",
+    "rating": "6",
+    "author": "bbq2****",
+    "review_id": "5335096",
+    "movie_id": "28794"
+  },
+  {
+    "review": "명작..ㅋㅋㅋㅋㅋ진짜 이건 명작이다.!!",
+    "date": "11.03.22",
+    "rating": "10",
+    "author": "makt****",
+    "review_id": "5328844",
+    "movie_id": "28794"
+  },
+  {
+    "review": "먼 얘긴진 알겠는데 평점이 과하다",
+    "date": "10.12.17",
+    "rating": "6",
+    "author": "befr****",
+    "review_id": "5059700",
+    "movie_id": "28794"
+  },
+  {
+    "review": "그냥 볼만은 하다 ~~~~~",
+    "date": "10.11.25",
+    "rating": "5",
+    "author": "fnsk****",
+    "review_id": "4988777",
+    "movie_id": "28794"
+  },
+  {
+    "review": "기대 이상으로 재밌다.",
+    "date": "10.11.06",
+    "rating": "9",
+    "author": "expr****",
+    "review_id": "4941518",
+    "movie_id": "28794"
+  },
+  {
+    "review": "최..최고다!! 나이들어 재밌는 영화 없었는데 정말 오랜만에 흥분!!!",
+    "date": "10.08.29",
+    "rating": "10",
+    "author": "happ****",
+    "review_id": "4801202",
+    "movie_id": "28794"
+  },
+  {
+    "review": "SF팬들을 위한 유쾌한 상상, 즐거운 코미디",
+    "date": "10.07.03",
+    "rating": "7",
+    "author": "goms****",
+    "review_id": "4608958",
+    "movie_id": "28794"
+  },
+  {
+    "review": "SF 코미디.. 참 좋은 장르에요. 그리고 이 영화는 그에 딱 맞는 걸작입니다. ^^",
+    "date": "10.06.22",
+    "rating": "9",
+    "author": "joji****",
+    "review_id": "4584231",
+    "movie_id": "28794"
+  },
+  {
+    "review": "나도 어제 스타트렉보고 아침에 이 영화 떠올렸는데.",
+    "date": "10.05.31",
+    "rating": "10",
+    "author": "shin****",
+    "review_id": "4534205",
+    "movie_id": "28794"
+  },
+  {
+    "review": "웰메이드 초딩용 SF물",
+    "date": "10.05.18",
+    "rating": "5",
+    "author": "thep****",
+    "review_id": "4507172",
+    "movie_id": "28794"
+  },
+  {
+    "review": "스타트렉을 제대로 패러디!ㅋㅋㅋ TOS, TNG를 봤다면 모든 씨퀀스에서 터질 것임!ㅋㅋ",
+    "date": "10.03.17",
+    "rating": "10",
+    "author": "onew****",
+    "review_id": "4362866",
+    "movie_id": "28794"
+  },
+  {
+    "review": "이게 뭔지... 시고니 위버도 참 가관이다...",
+    "date": "10.02.22",
+    "rating": "2",
+    "author": "caca****",
+    "review_id": "4310866",
+    "movie_id": "28794"
+  },
+  {
+    "review": "영화를 다보고 아직도 내몸이 떨린다. 엄청난 재미와감동 이영화는 진짜 명작이다.",
+    "date": "10.01.13",
+    "rating": "10",
+    "author": "dlwt****",
+    "review_id": "4164609",
+    "movie_id": "28794"
+  },
+  {
+    "review": "재밌는 SF 코미디. 처음 보는 장르이다. ^^",
+    "date": "09.12.03",
+    "rating": "6",
+    "author": "kusa****",
+    "review_id": "4013420",
+    "movie_id": "28794"
+  },
+  {
+    "review": "숨겨진 보석같은 영화  1999년에 이런퀄리티가....!! 실컷웃는 기분좋은영화!!",
+    "date": "09.10.23",
+    "rating": "9",
+    "author": "djni****",
+    "review_id": "3910163",
+    "movie_id": "28794"
+  },
+  {
+    "review": "훌륭하다 재미있게봤던 영화 난 이런 미국식 패러디 코미디영화가 너무 좋아",
+    "date": "09.10.01",
+    "rating": "8",
+    "author": "thra****",
+    "review_id": "3862947",
+    "movie_id": "28794"
+  },
+  {
+    "review": "미국식 코미디를 좋아한다면 이 영화는 완전 명작",
+    "date": "09.08.19",
+    "rating": "10",
+    "author": "lite****",
+    "review_id": "3768320",
+    "movie_id": "28794"
+  },
+  {
+    "review": "유쾌하고 기분좋은 올모스트 패러디스",
+    "date": "09.07.29",
+    "rating": "10",
+    "author": "lukn****",
+    "review_id": "3681606",
+    "movie_id": "28794"
+  },
+  {
+    "review": "와우...유진아...잼났어...",
+    "date": "09.05.23",
+    "rating": "8",
+    "author": "iam1****",
+    "review_id": "3514785",
+    "movie_id": "28794"
+  },
+  {
+    "review": "방금 스타트렉-비기닝 보고왔는데 문득 이 영화 생각나더라..ㅋㅋ",
+    "date": "09.05.17",
+    "rating": "10",
+    "author": "bavi****",
+    "review_id": "3501335",
+    "movie_id": "28794"
+  },
+  {
+    "review": "재밌다. 재밌다.",
+    "date": "09.05.16",
+    "rating": "10",
+    "author": "ktul****",
+    "review_id": "3499421",
+    "movie_id": "28794"
+  },
+  {
+    "review": "이거 재밌게 봤는데 ㅋㅋ 근데 참여인원이 얼마없네 ㅡㅡ;; 꼭보삼",
+    "date": "09.05.10",
+    "rating": "8",
+    "author": "subs****",
+    "review_id": "3483543",
+    "movie_id": "28794"
+  },
+  {
+    "review": "패러디를 넘어선 재창조",
+    "date": "09.05.04",
+    "rating": "9",
+    "author": "baek****",
+    "review_id": "3467065",
+    "movie_id": "28794"
+  },
+  {
+    "review": "빈정대고 투덜대는 왕년의 스타란 꽤 매력있는 아이템",
+    "date": "09.04.04",
+    "rating": "10",
+    "author": "anew****",
+    "review_id": "3404340",
+    "movie_id": "28794"
+  },
+  {
+    "review": "설정부터 먹고들어가는 재미",
+    "date": "08.12.14",
+    "rating": "9",
+    "author": "seun****",
+    "review_id": "3118331",
+    "movie_id": "28794"
+  },
+  {
+    "review": "정말정말 재밌게 봤습니다.",
+    "date": "08.11.23",
+    "rating": "10",
+    "author": "redl****",
+    "review_id": "3068370",
+    "movie_id": "28794"
+  },
+  {
+    "review": "시대를 잘못만난 걸작.",
+    "date": "08.09.29",
+    "rating": "10",
+    "author": "reco****",
+    "review_id": "2974671",
+    "movie_id": "28794"
+  },
+  {
+    "review": "흠.. 시고니 위버가 나왔었군.. 어릴때 잼나게 봤었다. 지금보면 어떨지..",
+    "date": "08.06.02",
+    "rating": "8",
+    "author": "pola****",
+    "review_id": "2676581",
+    "movie_id": "28794"
+  },
+  {
+    "review": "알란 정말좋아 귀엽다구 ㅠㅠ영화도 재밌지만 ㅋㅋ",
+    "date": "08.05.18",
+    "rating": "10",
+    "author": "vc65****",
+    "review_id": "2649450",
+    "movie_id": "28794"
+  },
+  {
+    "review": "돈 많이 든 코믹판 스타트렉이라고 할까 유명 배우들이 많온다",
+    "date": "08.04.15",
+    "rating": "7",
+    "author": "deff****",
+    "review_id": "2582136",
+    "movie_id": "28794"
+  },
+  {
+    "review": "ㅋㅋㅋ 난 진짜 재밌었다",
+    "date": "08.04.13",
+    "rating": "10",
+    "author": "kind****",
+    "review_id": "2579628",
+    "movie_id": "28794"
+  },
+  {
+    "review": "어?? 이영화가 왜리렇게 점수가 높지??",
+    "date": "08.03.01",
+    "rating": "1",
+    "author": "onex****",
+    "review_id": "2495675",
+    "movie_id": "28794"
+  },
+  {
+    "review": "놀랍다! 재밌다! 죽여준다! 끝~",
+    "date": "07.10.04",
+    "rating": "10",
+    "author": "gogo****",
+    "review_id": "2070495",
+    "movie_id": "28794"
+  },
+  {
+    "review": "SF와 코미디를 섞인 재밌었던영화,,",
+    "date": "07.09.02",
+    "rating": "9",
+    "author": "answ****",
+    "review_id": "1997754",
+    "movie_id": "28794"
+  },
+  {
+    "review": "몇 번 본 웃긴 영화~~ ㅋㅋㅋㅋ 재밌당~",
+    "date": "07.08.19",
+    "rating": "10",
+    "author": "park****",
+    "review_id": "1957235",
+    "movie_id": "28794"
+  },
+  {
+    "review": "SF와 코미디를 제대로 버무린 재밌는 영화",
+    "date": "07.08.18",
+    "rating": "8",
+    "author": "poli****",
+    "review_id": "1954375",
+    "movie_id": "28794"
+  },
+  {
+    "review": "SF매니아라면 초초초강추필수영화!! 최고닷!",
+    "date": "07.08.18",
+    "rating": "10",
+    "author": "newm****",
+    "review_id": "1953099",
+    "movie_id": "28794"
+  },
+  {
+    "review": "킬링타임용~",
+    "date": "07.08.04",
+    "rating": "8",
+    "author": "choi****",
+    "review_id": "1872961",
+    "movie_id": "28794"
+  },
+  {
+    "review": "미칠듯이 웃기다 아예 웃기려고 작심하고 만든영화^^",
+    "date": "07.07.16",
+    "rating": "10",
+    "author": "baks****",
+    "review_id": "1782379",
+    "movie_id": "28794"
+  },
+  {
+    "review": "시고니 위버가 아니었어도, 충분히 재미로만 10점을 받았을 영화",
+    "date": "07.06.07",
+    "rating": "10",
+    "author": "sksh****",
+    "review_id": "1687215",
+    "movie_id": "28794"
+  },
+  {
+    "review": "스타트렉 패러디. 하지만 몰라도 충분히 즐겁다.",
+    "date": "07.05.20",
+    "rating": "8",
+    "author": "ned_****",
+    "review_id": "1648682",
+    "movie_id": "28794"
+  },
+  {
+    "review": "고등학교때 야자 빼고 관람한 추억..^^",
+    "date": "07.05.10",
+    "rating": "10",
+    "author": "cher****",
+    "review_id": "1630652",
+    "movie_id": "28794"
+  },
+  {
+    "review": "특이한 소재와 전개가 좋으나 감동을 강요하지는 말자",
+    "date": "07.01.07",
+    "rating": "8",
+    "author": "nala****",
+    "review_id": "1364342",
+    "movie_id": "28794"
+  },
+  {
+    "review": "중1때 봤던 너무 즐거웠던 영화",
+    "date": "06.12.24",
+    "rating": "10",
+    "author": "gsm9****",
+    "review_id": "1321204",
+    "movie_id": "28794"
+  },
+  {
+    "review": "언제봐도 재미있는 영화",
+    "date": "06.12.03",
+    "rating": "9",
+    "author": "mega****",
+    "review_id": "1265404",
+    "movie_id": "28794"
+  },
+  {
+    "review": "배꼽빠진다.",
+    "date": "06.11.21",
+    "rating": "10",
+    "author": "ishu****",
+    "review_id": "1244115",
+    "movie_id": "28794"
+  },
+  {
+    "review": "최고!",
+    "date": "06.08.30",
+    "rating": "10",
+    "author": "joyp****",
+    "review_id": "1089525",
+    "movie_id": "28794"
+  },
+  {
+    "review": "웃김",
+    "date": "06.08.13",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "1024581",
+    "movie_id": "28794"
+  },
+  {
+    "review": "50살이 넘은 시고니 위버가 이렇게 섹시할 수가 ...^_^",
+    "date": "06.07.22",
+    "rating": "7",
+    "author": "1stl****",
+    "review_id": "914241",
+    "movie_id": "28794"
+  },
+  {
+    "review": "골때리게 재밌다. 시고니 위버 이렇게 섹시했구나.",
+    "date": "06.06.06",
+    "rating": "8",
+    "author": "zech****",
+    "review_id": "834460",
+    "movie_id": "28794"
+  },
+  {
+    "review": "계속 벼르다봤는데 시간가는줄 모를정도로 몰입도되면서진짜웃김",
+    "date": "06.05.08",
+    "rating": "10",
+    "author": "yout****",
+    "review_id": "792466",
+    "movie_id": "28794"
+  },
+  {
+    "review": "이영화 파일 구합니다. 뜨아 넘재밌어 ㅠㅠ",
+    "date": "06.04.02",
+    "rating": "10",
+    "author": "prep****",
+    "review_id": "746397",
+    "movie_id": "28794"
+  },
+  {
+    "review": "++",
+    "date": "06.03.21",
+    "rating": "6",
+    "author": "movi****",
+    "review_id": "726941",
+    "movie_id": "28794"
+  },
+  {
+    "review": "헙... 시고니 위버가...",
+    "date": "06.02.24",
+    "rating": "7",
+    "author": "clou****",
+    "review_id": "688884",
+    "movie_id": "28794"
+  },
+  {
+    "review": "저 여자.. 시고니 위버였어?몰랐는데.. 헐..",
+    "date": "06.02.19",
+    "rating": "10",
+    "author": "gkse****",
+    "review_id": "679909",
+    "movie_id": "28794"
+  },
+  {
+    "review": "팝콘 SF의 진수! 코드만 맞으면 신나게 웃을 수 있다",
+    "date": "06.01.21",
+    "rating": "9",
+    "author": "nin4****",
+    "review_id": "606394",
+    "movie_id": "28794"
+  }
+]

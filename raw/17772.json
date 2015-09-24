@@ -1,0 +1,58 @@
+[
+  {
+    "review": "옛날에 재미있게 본 영화...",
+    "date": "14.01.06",
+    "rating": "10",
+    "author": "moon****",
+    "review_id": "8354437",
+    "movie_id": "17772"
+  },
+  {
+    "review": "가족영화로 보기에 적당하다",
+    "date": "10.08.20",
+    "rating": "7",
+    "author": "cont****",
+    "review_id": "4770670",
+    "movie_id": "17772"
+  },
+  {
+    "review": "잼있어요 ㅋㅋ 유치한데 잼있다",
+    "date": "09.03.08",
+    "rating": "10",
+    "author": "quil****",
+    "review_id": "3354902",
+    "movie_id": "17772"
+  },
+  {
+    "review": "goodd",
+    "date": "08.06.27",
+    "rating": "10",
+    "author": "hubu****",
+    "review_id": "2724255",
+    "movie_id": "17772"
+  },
+  {
+    "review": "아무리 가족 코미디라지만 이건 너무한거 아냐?",
+    "date": "06.01.28",
+    "rating": "5",
+    "author": "movi****",
+    "review_id": "627887",
+    "movie_id": "17772"
+  },
+  {
+    "review": "ㅁㅈ 엄청재미있는데",
+    "date": "04.11.25",
+    "rating": "10",
+    "author": "tpdn****",
+    "review_id": "151564",
+    "movie_id": "17772"
+  },
+  {
+    "review": "재미잇는데",
+    "date": "04.01.20",
+    "rating": "10",
+    "author": "9404****",
+    "review_id": "11968",
+    "movie_id": "17772"
+  }
+]

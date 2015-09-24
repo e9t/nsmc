@@ -1,0 +1,802 @@
+[
+  {
+    "review": "두사람을 한씬에서 본다는데 의의",
+    "date": "15.08.01",
+    "rating": "6",
+    "author": "eleg****",
+    "review_id": "10170284",
+    "movie_id": "56723"
+  },
+  {
+    "review": "킬링타임 용으로는 그만.",
+    "date": "15.05.19",
+    "rating": "10",
+    "author": "lsh5****",
+    "review_id": "9931053",
+    "movie_id": "56723"
+  },
+  {
+    "review": "보는 것 자체가 시간 낭비인 영화 중 하나",
+    "date": "14.11.19",
+    "rating": "1",
+    "author": "jjaj****",
+    "review_id": "9399457",
+    "movie_id": "56723"
+  },
+  {
+    "review": "스티브 형님~!! 부러워요..  ^^",
+    "date": "14.01.27",
+    "rating": "8",
+    "author": "tn99****",
+    "review_id": "8437277",
+    "movie_id": "56723"
+  },
+  {
+    "review": "난... 그저 그렇더라",
+    "date": "13.04.16",
+    "rating": "6",
+    "author": "xx41****",
+    "review_id": "7463126",
+    "movie_id": "56723"
+  },
+  {
+    "review": "폐넬로페 크루즈",
+    "date": "12.12.30",
+    "rating": "6",
+    "author": "marc****",
+    "review_id": "7063380",
+    "movie_id": "56723"
+  },
+  {
+    "review": "영화소개프로그램에서 흘깃 보았는데 그게 다. 몸매는 부럽다...",
+    "date": "12.09.19",
+    "rating": "5",
+    "author": "0107****",
+    "review_id": "6713365",
+    "movie_id": "56723"
+  },
+  {
+    "review": "괜찮았어",
+    "date": "12.03.10",
+    "rating": "9",
+    "author": "dbtj****",
+    "review_id": "6132952",
+    "movie_id": "56723"
+  },
+  {
+    "review": "유쾌한 도둑질에 매력적인 두여자보는재미",
+    "date": "12.02.11",
+    "rating": "6",
+    "author": "airk****",
+    "review_id": "6067545",
+    "movie_id": "56723"
+  },
+  {
+    "review": "여자 둘을 통해 서부의 향수를 끌어내거나 비틀려고 했겠지만...",
+    "date": "11.10.06",
+    "rating": "5",
+    "author": "reno****",
+    "review_id": "5773263",
+    "movie_id": "56723"
+  },
+  {
+    "review": "깔끔하니 재밌다",
+    "date": "11.08.27",
+    "rating": "8",
+    "author": "dbzh****",
+    "review_id": "5690004",
+    "movie_id": "56723"
+  },
+  {
+    "review": "저게 젖이여.. 에어백이여.. 갑바가 ㅎㄷㄷ",
+    "date": "11.08.21",
+    "rating": "3",
+    "author": "pksj****",
+    "review_id": "5675456",
+    "movie_id": "56723"
+  },
+  {
+    "review": "페넬로페 & 셀마누나 너무 귀엽고 예쁘게 나오네요。수사관도 대박이네ㄲㄲ。★굿잡★",
+    "date": "11.07.08",
+    "rating": "10",
+    "author": "yoos****",
+    "review_id": "5528824",
+    "movie_id": "56723"
+  },
+  {
+    "review": "두여배우안좋아하면욕나옴.두배우눈요기용영화",
+    "date": "11.05.18",
+    "rating": "7",
+    "author": "a109****",
+    "review_id": "5434459",
+    "movie_id": "56723"
+  },
+  {
+    "review": "페넬로페 크루즈를 보기 위해 봤지만 인내가 필요했다.",
+    "date": "11.03.31",
+    "rating": "5",
+    "author": "wlfa****",
+    "review_id": "5345196",
+    "movie_id": "56723"
+  },
+  {
+    "review": "전개도 이상하고, 유치하지만 유쾌하게 볼수있는 영화. 킬링타임용. 주연들이 이쁘다!",
+    "date": "11.01.22",
+    "rating": "7",
+    "author": "qoa1****",
+    "review_id": "5174984",
+    "movie_id": "56723"
+  },
+  {
+    "review": "참신하게 재밌는 영화. 그 힘은 배우에게서 나오나?",
+    "date": "11.01.19",
+    "rating": "8",
+    "author": "jiyu****",
+    "review_id": "5169374",
+    "movie_id": "56723"
+  },
+  {
+    "review": "귀엽",
+    "date": "11.01.01",
+    "rating": "8",
+    "author": "rlaw****",
+    "review_id": "5112921",
+    "movie_id": "56723"
+  },
+  {
+    "review": "명작은 아니었지만 생각없이 재밌게 볼 수 있는 영화.두 여배우가 정말 아름답다.",
+    "date": "10.12.24",
+    "rating": "7",
+    "author": "lqu1****",
+    "review_id": "5078958",
+    "movie_id": "56723"
+  },
+  {
+    "review": "유치하지만 킬링타임용으로 그럭저럭 마리아 은행터는지 옷을 꼭 그렇게 입어야겠어?",
+    "date": "10.11.03",
+    "rating": "5",
+    "author": "egyp****",
+    "review_id": "4936296",
+    "movie_id": "56723"
+  },
+  {
+    "review": "생각보단 덜 매력적이었다",
+    "date": "10.05.27",
+    "rating": "6",
+    "author": "cont****",
+    "review_id": "4527426",
+    "movie_id": "56723"
+  },
+  {
+    "review": "킬링타임용으로 재미따~ 지루하지않고..",
+    "date": "10.03.30",
+    "rating": "7",
+    "author": "dbru****",
+    "review_id": "4397620",
+    "movie_id": "56723"
+  },
+  {
+    "review": "유쾌활극",
+    "date": "09.12.28",
+    "rating": "7",
+    "author": "bloo****",
+    "review_id": "4096439",
+    "movie_id": "56723"
+  },
+  {
+    "review": "기본정보에 액션,코미디,모험이 있나? 그냥 말괄량이 2인도 은행털이 & 영웅(!?)",
+    "date": "09.09.12",
+    "rating": "5",
+    "author": "moir****",
+    "review_id": "3825120",
+    "movie_id": "56723"
+  },
+  {
+    "review": "단순한스토리전개의 영화.",
+    "date": "09.08.30",
+    "rating": "6",
+    "author": "mr05****",
+    "review_id": "3799537",
+    "movie_id": "56723"
+  },
+  {
+    "review": "이쁜누님들의 활극을 보고싶다면~~",
+    "date": "09.08.09",
+    "rating": "6",
+    "author": "iss2****",
+    "review_id": "3727097",
+    "movie_id": "56723"
+  },
+  {
+    "review": "유쾌하게 볼 수 있는 영화, 셀마와 페넬로페는 이쁘다,, ㅋㅋ",
+    "date": "09.06.14",
+    "rating": "10",
+    "author": "misa****",
+    "review_id": "3565456",
+    "movie_id": "56723"
+  },
+  {
+    "review": "재미없음",
+    "date": "09.05.13",
+    "rating": "7",
+    "author": "bkm1****",
+    "review_id": "3492825",
+    "movie_id": "56723"
+  },
+  {
+    "review": "서부영화 맞나..",
+    "date": "09.04.28",
+    "rating": "7",
+    "author": "bkm1****",
+    "review_id": "3446568",
+    "movie_id": "56723"
+  },
+  {
+    "review": "갈곳을잃어버린영화방황하다가끝~",
+    "date": "09.04.14",
+    "rating": "4",
+    "author": "hope****",
+    "review_id": "3421849",
+    "movie_id": "56723"
+  },
+  {
+    "review": "사실영화는별거없다.다만두주인공이압도적이다 ㅎㄷㄷ",
+    "date": "09.02.13",
+    "rating": "6",
+    "author": "vct0****",
+    "review_id": "3299378",
+    "movie_id": "56723"
+  },
+  {
+    "review": "예쁜언니들의 어설픈 코믹물",
+    "date": "09.01.24",
+    "rating": "3",
+    "author": "thev****",
+    "review_id": "3245634",
+    "movie_id": "56723"
+  },
+  {
+    "review": "페넬로페 크루즈님의 매력적인 얼굴과 몸매만 남는 영화..유치하긴..",
+    "date": "09.01.14",
+    "rating": "6",
+    "author": "read****",
+    "review_id": "3219822",
+    "movie_id": "56723"
+  },
+  {
+    "review": "유쾌한 영화. 하지만 평점이 생각보다 낮네",
+    "date": "09.01.04",
+    "rating": "10",
+    "author": "ojun****",
+    "review_id": "3188021",
+    "movie_id": "56723"
+  },
+  {
+    "review": "짱재밌었음ㅋㅋ",
+    "date": "09.01.01",
+    "rating": "10",
+    "author": "anch****",
+    "review_id": "3173659",
+    "movie_id": "56723"
+  },
+  {
+    "review": "페넬로페 크루즈와 셀마 헤이엑 만으로도 10점! 유쾌한 영화~",
+    "date": "08.12.28",
+    "rating": "10",
+    "author": "skyt****",
+    "review_id": "3159803",
+    "movie_id": "56723"
+  },
+  {
+    "review": "괜찮고 볼만한영화",
+    "date": "08.12.18",
+    "rating": "10",
+    "author": "happ****",
+    "review_id": "3128882",
+    "movie_id": "56723"
+  },
+  {
+    "review": "뭔거 허전하다...진부한 느낌이랄까..",
+    "date": "08.12.08",
+    "rating": "10",
+    "author": "ohso****",
+    "review_id": "3101669",
+    "movie_id": "56723"
+  },
+  {
+    "review": "그냥 ocn에서 하길래 봤는대 재밌었써요 결말도 좋고",
+    "date": "08.08.08",
+    "rating": "9",
+    "author": "flsd****",
+    "review_id": "2851766",
+    "movie_id": "56723"
+  },
+  {
+    "review": "생각없이 보기 딱 좋은데.~",
+    "date": "08.07.20",
+    "rating": "7",
+    "author": "pass****",
+    "review_id": "2782567",
+    "movie_id": "56723"
+  },
+  {
+    "review": "Penelope Cruz와 Salma Hayek을 모셔다 놓고도 이런 결과물이라니. 최악임. 평점 3.0",
+    "date": "08.07.11",
+    "rating": "10",
+    "author": "7pmr****",
+    "review_id": "2755486",
+    "movie_id": "56723"
+  },
+  {
+    "review": "아무 생각없이 즐기자",
+    "date": "08.07.07",
+    "rating": "7",
+    "author": "thec****",
+    "review_id": "2745681",
+    "movie_id": "56723"
+  },
+  {
+    "review": "재밌네요 즐거운 영화네요 너무 귀엽고 우끼는 두 주인공",
+    "date": "08.06.30",
+    "rating": "8",
+    "author": "tere****",
+    "review_id": "2732059",
+    "movie_id": "56723"
+  },
+  {
+    "review": "유치함과 사구려틱함이 버무려진건 어쩔수가 없구나...",
+    "date": "08.06.25",
+    "rating": "4",
+    "author": "evil****",
+    "review_id": "2719632",
+    "movie_id": "56723"
+  },
+  {
+    "review": "두 대표 섹시배우가 모였는데도 그리 섹시하지 않는다 한마디로 실패작!",
+    "date": "08.06.07",
+    "rating": "3",
+    "author": "si2p****",
+    "review_id": "2685907",
+    "movie_id": "56723"
+  },
+  {
+    "review": "8점",
+    "date": "08.05.30",
+    "rating": "8",
+    "author": "klov****",
+    "review_id": "2670209",
+    "movie_id": "56723"
+  },
+  {
+    "review": "결말과 주는 교훈이 없지만 컨디션을 올려주는 작품.",
+    "date": "08.04.19",
+    "rating": "6",
+    "author": "rlqm****",
+    "review_id": "2587735",
+    "movie_id": "56723"
+  },
+  {
+    "review": "쓰레기",
+    "date": "08.02.04",
+    "rating": "1",
+    "author": "leo8****",
+    "review_id": "2409070",
+    "movie_id": "56723"
+  },
+  {
+    "review": "이건 뭐 몸개그영화.ㅋㅋㅋ 액션으로 인한재미보다 몸개그의 재미로 웃는.ㅋㅋ",
+    "date": "07.12.28",
+    "rating": "1",
+    "author": "phw8****",
+    "review_id": "2275087",
+    "movie_id": "56723"
+  },
+  {
+    "review": "섹시한 그녀들의 은행털이 법",
+    "date": "07.11.27",
+    "rating": "5",
+    "author": "uds0****",
+    "review_id": "2189094",
+    "movie_id": "56723"
+  },
+  {
+    "review": "재밌어 ㅋㅋㅋㅋㅋㅋ",
+    "date": "07.11.22",
+    "rating": "10",
+    "author": "supo****",
+    "review_id": "2174361",
+    "movie_id": "56723"
+  },
+  {
+    "review": "걍 볼만했음",
+    "date": "07.10.28",
+    "rating": "10",
+    "author": "paza****",
+    "review_id": "2119297",
+    "movie_id": "56723"
+  },
+  {
+    "review": "재밌었다. 평점 왜이래? 기억은 잘 않나지만 재밌던 영화는 분명하다.",
+    "date": "07.10.28",
+    "rating": "10",
+    "author": "tldm****",
+    "review_id": "2117157",
+    "movie_id": "56723"
+  },
+  {
+    "review": "뭘 말하려고 하는지 모르겠다.. 킬링타임용 영화.",
+    "date": "07.10.25",
+    "rating": "5",
+    "author": "zhwa****",
+    "review_id": "2110723",
+    "movie_id": "56723"
+  },
+  {
+    "review": "good",
+    "date": "07.10.21",
+    "rating": "3",
+    "author": "cles****",
+    "review_id": "2103975",
+    "movie_id": "56723"
+  },
+  {
+    "review": "아무 생각없이 가볍게 웃으면서 볼 수 있는 영화 그냥 웃자",
+    "date": "07.09.28",
+    "rating": "7",
+    "author": "cals****",
+    "review_id": "2056317",
+    "movie_id": "56723"
+  },
+  {
+    "review": "배우들의 연기력만이 살길이다.",
+    "date": "07.09.24",
+    "rating": "6",
+    "author": "v292****",
+    "review_id": "2044824",
+    "movie_id": "56723"
+  },
+  {
+    "review": "두여자의 매력.",
+    "date": "07.09.24",
+    "rating": "6",
+    "author": "jism****",
+    "review_id": "2043450",
+    "movie_id": "56723"
+  },
+  {
+    "review": "작정하고 유치찬란하지만 그게 매력인 영화",
+    "date": "07.09.18",
+    "rating": "7",
+    "author": "crea****",
+    "review_id": "2028229",
+    "movie_id": "56723"
+  },
+  {
+    "review": "여자들만 이뻐",
+    "date": "07.09.06",
+    "rating": "6",
+    "author": "yyca****",
+    "review_id": "2005172",
+    "movie_id": "56723"
+  },
+  {
+    "review": "눈도 즐겁고 기분도 즐겁고 지루하지도 않고",
+    "date": "07.09.03",
+    "rating": "9",
+    "author": "gkfq****",
+    "review_id": "1998699",
+    "movie_id": "56723"
+  },
+  {
+    "review": "미녀삼총사, 킬빌 같은 부류",
+    "date": "07.08.19",
+    "rating": "6",
+    "author": "newg****",
+    "review_id": "1958158",
+    "movie_id": "56723"
+  },
+  {
+    "review": "눈이 즐거운 킬링타임용영화, 배우들만으로 대만족",
+    "date": "07.08.16",
+    "rating": "9",
+    "author": "bebe****",
+    "review_id": "1944928",
+    "movie_id": "56723"
+  },
+  {
+    "review": "볼만했다... 유쾌한 영화",
+    "date": "07.08.13",
+    "rating": "5",
+    "author": "dtd0****",
+    "review_id": "1933248",
+    "movie_id": "56723"
+  },
+  {
+    "review": "할일없을 때 .... 시간 때우기용",
+    "date": "07.08.12",
+    "rating": "2",
+    "author": "abcn****",
+    "review_id": "1926956",
+    "movie_id": "56723"
+  },
+  {
+    "review": "두 매력녀의 깜찍한 테러 ㅎㅎ",
+    "date": "07.08.11",
+    "rating": "9",
+    "author": "typo****",
+    "review_id": "1919033",
+    "movie_id": "56723"
+  },
+  {
+    "review": "재미있게 봤다.",
+    "date": "07.08.11",
+    "rating": "9",
+    "author": "asha****",
+    "review_id": "1919006",
+    "movie_id": "56723"
+  },
+  {
+    "review": "칼잡이와 총잡이의 우정? ㅋㅋㅋ",
+    "date": "07.07.31",
+    "rating": "8",
+    "author": "blac****",
+    "review_id": "1830309",
+    "movie_id": "56723"
+  },
+  {
+    "review": "익숙지못한女둘이 어리버리 소탕작전.결말서 비쥬얼과 오드라의 미소 죽여줌",
+    "date": "07.07.26",
+    "rating": "10",
+    "author": "part****",
+    "review_id": "1811839",
+    "movie_id": "56723"
+  },
+  {
+    "review": "별로,,",
+    "date": "07.07.20",
+    "rating": "2",
+    "author": "shwc****",
+    "review_id": "1792720",
+    "movie_id": "56723"
+  },
+  {
+    "review": "굿 정말 재밌어요 ^*^",
+    "date": "07.07.19",
+    "rating": "10",
+    "author": "qkql****",
+    "review_id": "1791215",
+    "movie_id": "56723"
+  },
+  {
+    "review": "재밌는데 평점왜이래?역시영화는 사람들 평점보고 판단하면 안돼 직접봐야지;",
+    "date": "07.07.19",
+    "rating": "10",
+    "author": "010x****",
+    "review_id": "1791010",
+    "movie_id": "56723"
+  },
+  {
+    "review": "귀여운 여자들의 우정이야기",
+    "date": "07.07.19",
+    "rating": "8",
+    "author": "ijua****",
+    "review_id": "1790344",
+    "movie_id": "56723"
+  },
+  {
+    "review": "어설픈 무게감보단 대놓고 유치한게 낫다..거기다 두 여인네의 재롱(?)까지.ㅎㅎ",
+    "date": "07.07.14",
+    "rating": "7",
+    "author": "skat****",
+    "review_id": "1772935",
+    "movie_id": "56723"
+  },
+  {
+    "review": "슴가때문에 끝까지 봤다",
+    "date": "07.07.09",
+    "rating": "10",
+    "author": "cjst****",
+    "review_id": "1760179",
+    "movie_id": "56723"
+  },
+  {
+    "review": "....키스하는 장면은 많이 나오더구나.....",
+    "date": "07.07.01",
+    "rating": "4",
+    "author": "orac****",
+    "review_id": "1736811",
+    "movie_id": "56723"
+  },
+  {
+    "review": "재밌다.",
+    "date": "07.07.01",
+    "rating": "10",
+    "author": "kmj8****",
+    "review_id": "1735334",
+    "movie_id": "56723"
+  },
+  {
+    "review": "별로.. 장면이..ㅡㅡ",
+    "date": "07.06.30",
+    "rating": "6",
+    "author": "robi****",
+    "review_id": "1733095",
+    "movie_id": "56723"
+  },
+  {
+    "review": "볼만함",
+    "date": "07.06.23",
+    "rating": "8",
+    "author": "wlgk****",
+    "review_id": "1716629",
+    "movie_id": "56723"
+  },
+  {
+    "review": "여배우들 때문에 *-.-*",
+    "date": "07.06.17",
+    "rating": "10",
+    "author": "rudc****",
+    "review_id": "1706376",
+    "movie_id": "56723"
+  },
+  {
+    "review": "CSI+미션임파서블+매트릭스? ㅎㅎ 재밌는데 평점이 왜이래..ㅋㅋ",
+    "date": "07.06.10",
+    "rating": "8",
+    "author": "kore****",
+    "review_id": "1693361",
+    "movie_id": "56723"
+  },
+  {
+    "review": "시간때우기 좋았다 *-_   -*",
+    "date": "07.06.09",
+    "rating": "10",
+    "author": "ghkq****",
+    "review_id": "1691731",
+    "movie_id": "56723"
+  },
+  {
+    "review": "개그 정규프로그램 같은것 보다 훨 잼써 -_- 긋긋",
+    "date": "07.06.09",
+    "rating": "10",
+    "author": "ddmd****",
+    "review_id": "1691704",
+    "movie_id": "56723"
+  },
+  {
+    "review": "너무기대를 많이해서 그런지 썩 재미있지는않다; 내용이 너무가벼워서",
+    "date": "07.06.07",
+    "rating": "4",
+    "author": "gkgk****",
+    "review_id": "1687115",
+    "movie_id": "56723"
+  },
+  {
+    "review": "슴가때문에 끝까지 봤다",
+    "date": "07.06.06",
+    "rating": "8",
+    "author": "baba****",
+    "review_id": "1686032",
+    "movie_id": "56723"
+  },
+  {
+    "review": "페넬로페 크루즈 너무귀여워",
+    "date": "07.06.04",
+    "rating": "10",
+    "author": "ghcl****",
+    "review_id": "1681415",
+    "movie_id": "56723"
+  },
+  {
+    "review": "지루하지도 않고 특별나게 재밌지도 않은 킬링 타임용.페넬로페 굿굿!",
+    "date": "07.06.03",
+    "rating": "7",
+    "author": "fait****",
+    "review_id": "1680553",
+    "movie_id": "56723"
+  },
+  {
+    "review": "터무니없지만 내내 즐거울 수 밖에 .. 개인적으로 페니의 판정승 들어줌",
+    "date": "07.06.01",
+    "rating": "8",
+    "author": "anda****",
+    "review_id": "1675488",
+    "movie_id": "56723"
+  },
+  {
+    "review": "나름대로 재미있었던...",
+    "date": "07.05.28",
+    "rating": "7",
+    "author": "caca****",
+    "review_id": "1669613",
+    "movie_id": "56723"
+  },
+  {
+    "review": "키스도 잘하고 싸움도 잘하고 게다가 예쁘기까지.",
+    "date": "07.04.30",
+    "rating": "5",
+    "author": "ghdl****",
+    "review_id": "1612426",
+    "movie_id": "56723"
+  },
+  {
+    "review": "킬링타임용~",
+    "date": "07.04.03",
+    "rating": "7",
+    "author": "minh****",
+    "review_id": "1570943",
+    "movie_id": "56723"
+  },
+  {
+    "review": "연기들이 귀여움의 극치다. 이렇게 대놓고 유치해질 필요도 있다.ㅋ",
+    "date": "07.04.02",
+    "rating": "6",
+    "author": "bbq2****",
+    "review_id": "1569752",
+    "movie_id": "56723"
+  },
+  {
+    "review": "헤이엑을 무시하나? 난 헤이엑이조타",
+    "date": "07.03.31",
+    "rating": "8",
+    "author": "sams****",
+    "review_id": "1564594",
+    "movie_id": "56723"
+  },
+  {
+    "review": "매력적인 페넬로페 크루즈...그 외엔...",
+    "date": "07.03.29",
+    "rating": "4",
+    "author": "arde****",
+    "review_id": "1561070",
+    "movie_id": "56723"
+  },
+  {
+    "review": "시종일관 지루한 영화. 보다가 잤다는.",
+    "date": "07.03.01",
+    "rating": "5",
+    "author": "laur****",
+    "review_id": "1509807",
+    "movie_id": "56723"
+  },
+  {
+    "review": "풋.. 그냥 여자 조로 2명// 그래도 볼만함ㅋ",
+    "date": "07.02.27",
+    "rating": "7",
+    "author": "nohy****",
+    "review_id": "1505841",
+    "movie_id": "56723"
+  },
+  {
+    "review": "아아아.. 멕시코영환가-_-?",
+    "date": "07.02.21",
+    "rating": "5",
+    "author": "kwb1****",
+    "review_id": "1490193",
+    "movie_id": "56723"
+  },
+  {
+    "review": "발랄함과 강도질이 어울린... 기대이하였지만 뭐.그럭저럭.",
+    "date": "07.02.14",
+    "rating": "7",
+    "author": "eb35****",
+    "review_id": "1470856",
+    "movie_id": "56723"
+  },
+  {
+    "review": "재미있다",
+    "date": "07.02.13",
+    "rating": "4",
+    "author": "asun****",
+    "review_id": "1466835",
+    "movie_id": "56723"
+  },
+  {
+    "review": "그냥 볼만한 영화지만 복잡하게 볼 영화는 아닌 듯",
+    "date": "07.02.12",
+    "rating": "7",
+    "author": "gksq****",
+    "review_id": "1465236",
+    "movie_id": "56723"
+  }
+]

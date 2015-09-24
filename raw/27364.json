@@ -1,0 +1,26 @@
+[
+  {
+    "review": "열라구 재미없네",
+    "date": "11.09.16",
+    "rating": "1",
+    "author": "dbzh****",
+    "review_id": "5735376",
+    "movie_id": "27364"
+  },
+  {
+    "review": "공리란 배우를 알게한 첫 영화... 마지막장면이 아트다",
+    "date": "04.11.02",
+    "rating": "10",
+    "author": "dssa****",
+    "review_id": "137854",
+    "movie_id": "27364"
+  },
+  {
+    "review": "그럭저럭 볼만..",
+    "date": "04.09.23",
+    "rating": "7",
+    "author": "sull****",
+    "review_id": "113173",
+    "movie_id": "27364"
+  }
+]

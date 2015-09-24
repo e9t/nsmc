@@ -1,0 +1,34 @@
+[
+  {
+    "review": "김혜리 잘나갈때 모습.. 당시의 신세대 풍토를 재미있게 그림",
+    "date": "15.02.04",
+    "rating": "6",
+    "author": "adiv****",
+    "review_id": "9665927",
+    "movie_id": "17904"
+  },
+  {
+    "review": "음주운전 기사 뜸..영화는 볼만함",
+    "date": "14.11.28",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "9428659",
+    "movie_id": "17904"
+  },
+  {
+    "review": "재밌네요",
+    "date": "09.08.27",
+    "rating": "10",
+    "author": "gjdk****",
+    "review_id": "3790720",
+    "movie_id": "17904"
+  },
+  {
+    "review": "대충보고 말 그런 정크무비",
+    "date": "06.01.06",
+    "rating": "2",
+    "author": "kws7****",
+    "review_id": "564845",
+    "movie_id": "17904"
+  }
+]

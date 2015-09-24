@@ -1,0 +1,706 @@
+[
+  {
+    "review": "ㅠ_ㅠ 어릴적에 정말 무섭게 봤는데",
+    "date": "15.05.11",
+    "rating": "10",
+    "author": "dkdu****",
+    "review_id": "9911256",
+    "movie_id": "13101"
+  },
+  {
+    "review": "이거보고 그날 저녁에 화장실못갔다...지리는 영화였다...",
+    "date": "15.03.07",
+    "rating": "9",
+    "author": "uzek****",
+    "review_id": "9761907",
+    "movie_id": "13101"
+  },
+  {
+    "review": "추억의 영구 최고다~~",
+    "date": "14.09.10",
+    "rating": "8",
+    "author": "seri****",
+    "review_id": "9195852",
+    "movie_id": "13101"
+  },
+  {
+    "review": "시리즈 중 가장 완성도가 떨어지는 작품 영구의 원맨쇼는 여전하지만 전작에 비하면 부족한게 너무 많아",
+    "date": "14.07.24",
+    "rating": "2",
+    "author": "deff****",
+    "review_id": "8953033",
+    "movie_id": "13101"
+  },
+  {
+    "review": "어린시절 함께한 영구와 홍콩할매 ㅋㅋ",
+    "date": "14.06.20",
+    "rating": "10",
+    "author": "seul****",
+    "review_id": "8843200",
+    "movie_id": "13101"
+  },
+  {
+    "review": "정말 소름끼치는 영구와 땡칠이 시리즈!!!",
+    "date": "14.04.06",
+    "rating": "10",
+    "author": "ske4****",
+    "review_id": "8633140",
+    "movie_id": "13101"
+  },
+  {
+    "review": "이때로 돌아가고싶다....",
+    "date": "14.01.04",
+    "rating": "10",
+    "author": "ez31****",
+    "review_id": "8346491",
+    "movie_id": "13101"
+  },
+  {
+    "review": "심형래가 이때까지는 전설이였지",
+    "date": "13.12.29",
+    "rating": "9",
+    "author": "lkyl****",
+    "review_id": "8321176",
+    "movie_id": "13101"
+  },
+  {
+    "review": "어릴 때 엄마 손 붙잡고 영화관에서 본 기억이 나네유. 이거 보고 김지선 엄청 좋아했었어유. 지금 봐도 입 나온 거 빼고는 예쁘네유. 마지막에 김지선이 하늘로 올라갈 때 슬펐는디 어느 모르는 아이가 울고 있어서 슬프다가 그거 보고 웃음 빵 터진 기억.",
+    "date": "13.12.21",
+    "rating": "10",
+    "author": "real****",
+    "review_id": "8265871",
+    "movie_id": "13101"
+  },
+  {
+    "review": "빨간휴지 줄까? 파란휴지 줄까? 똥 떨어진다 손치워~ ㅎㅎ 그래 홍콩할매는 냄새가 심했어~",
+    "date": "13.05.24",
+    "rating": "10",
+    "author": "bajj****",
+    "review_id": "7551130",
+    "movie_id": "13101"
+  },
+  {
+    "review": "옛 추억이 물씬 풍기는 영화 중 하나^^",
+    "date": "13.02.20",
+    "rating": "10",
+    "author": "wlsd****",
+    "review_id": "7284857",
+    "movie_id": "13101"
+  },
+  {
+    "review": "옛날생각이난다..",
+    "date": "13.02.05",
+    "rating": "10",
+    "author": "mskk****",
+    "review_id": "7226689",
+    "movie_id": "13101"
+  },
+  {
+    "review": "영화의 진수를 보여준 당대 최고의 역작. 007시리즈를 능가하는 탄탄한 스토리 전개와 팔색조와 같은 영구의 심리적 변화가 숨막히는 반전으로 다가온다. 국내영화의 역사를 모두 새로 쓰게만든 대작중의 대작으로 평가된다.",
+    "date": "12.10.26",
+    "rating": "10",
+    "author": "smil****",
+    "review_id": "6827226",
+    "movie_id": "13101"
+  },
+  {
+    "review": "홍콩할매가 당시 아이들에게 얼마나 공포의 대상이었으면 영화로까지 나왔을까.",
+    "date": "12.09.06",
+    "rating": "8",
+    "author": "kem1****",
+    "review_id": "6672642",
+    "movie_id": "13101"
+  },
+  {
+    "review": "진짜 무서웠으ㅁ ㅎㄷㄷㄷㄷ",
+    "date": "12.08.18",
+    "rating": "10",
+    "author": "prin****",
+    "review_id": "6621553",
+    "movie_id": "13101"
+  },
+  {
+    "review": "심형래니까 1점",
+    "date": "12.06.28",
+    "rating": "1",
+    "author": "iiii****",
+    "review_id": "6422258",
+    "movie_id": "13101"
+  },
+  {
+    "review": "별로 안 웃기다.",
+    "date": "12.06.13",
+    "rating": "1",
+    "author": "sh15****",
+    "review_id": "6388734",
+    "movie_id": "13101"
+  },
+  {
+    "review": "제점수는 1점 주겠습니다",
+    "date": "12.06.13",
+    "rating": "1",
+    "author": "shsh****",
+    "review_id": "6388733",
+    "movie_id": "13101"
+  },
+  {
+    "review": "임금체불은에해당하는입니다.믿거나말거나지만-홍콩할매귀신",
+    "date": "12.03.18",
+    "rating": "2",
+    "author": "baks****",
+    "review_id": "6151790",
+    "movie_id": "13101"
+  },
+  {
+    "review": "종종 비디오빌려보곤 했는데  너구리랑 여우랑 싸우고 ㅋㅋ아 옛날 생각나",
+    "date": "11.09.16",
+    "rating": "10",
+    "author": "llso****",
+    "review_id": "5735523",
+    "movie_id": "13101"
+  },
+  {
+    "review": "재미있고 옛날 생각이 나요",
+    "date": "11.02.01",
+    "rating": "10",
+    "author": "zx89****",
+    "review_id": "5205194",
+    "movie_id": "13101"
+  },
+  {
+    "review": "아~~~~~ 그때의 재미를 다신 못느끼겠지.. 추억의 영화 .. 굿,,",
+    "date": "10.07.07",
+    "rating": "10",
+    "author": "dkdl****",
+    "review_id": "4618880",
+    "movie_id": "13101"
+  },
+  {
+    "review": "어린시절 나의 모든 기쁨이었던 영구~~",
+    "date": "10.05.02",
+    "rating": "10",
+    "author": "siks****",
+    "review_id": "4472201",
+    "movie_id": "13101"
+  },
+  {
+    "review": "레알 레전드지.",
+    "date": "10.04.16",
+    "rating": "10",
+    "author": "sewa****",
+    "review_id": "4435454",
+    "movie_id": "13101"
+  },
+  {
+    "review": "최고최고!",
+    "date": "10.04.15",
+    "rating": "10",
+    "author": "craz****",
+    "review_id": "4433117",
+    "movie_id": "13101"
+  },
+  {
+    "review": "이건 좀 재밌었음",
+    "date": "10.02.20",
+    "rating": "7",
+    "author": "jbc1****",
+    "review_id": "4304359",
+    "movie_id": "13101"
+  },
+  {
+    "review": "호호",
+    "date": "09.12.28",
+    "rating": "10",
+    "author": "ji91****",
+    "review_id": "4097825",
+    "movie_id": "13101"
+  },
+  {
+    "review": "마지막 장면보면서 많이 울었는데..",
+    "date": "09.10.01",
+    "rating": "10",
+    "author": "gozk****",
+    "review_id": "3863274",
+    "movie_id": "13101"
+  },
+  {
+    "review": "하하하하하하하하하하하",
+    "date": "09.09.12",
+    "rating": "3",
+    "author": "dlwo****",
+    "review_id": "3825008",
+    "movie_id": "13101"
+  },
+  {
+    "review": "병적 사회 센세이션으로 부각된 홍콩할매귀신을 한번에 해결해 버린 오오 심형래",
+    "date": "09.07.10",
+    "rating": "10",
+    "author": "sala****",
+    "review_id": "3622145",
+    "movie_id": "13101"
+  },
+  {
+    "review": "어릴때 조낸 무섭게 봤었는데... 어디 다시볼곳이 없으니..지금보면 어떨지.ㅋ",
+    "date": "09.07.09",
+    "rating": "10",
+    "author": "sobi****",
+    "review_id": "3619040",
+    "movie_id": "13101"
+  },
+  {
+    "review": "내30년인생최고의영화..",
+    "date": "09.05.11",
+    "rating": "10",
+    "author": "xdro****",
+    "review_id": "3487480",
+    "movie_id": "13101"
+  },
+  {
+    "review": "불후의 명작!!!!!!!",
+    "date": "09.05.10",
+    "rating": "10",
+    "author": "dltc****",
+    "review_id": "3483603",
+    "movie_id": "13101"
+  },
+  {
+    "review": "영구와땡칠이시리즈는 레전드영화다",
+    "date": "09.02.03",
+    "rating": "10",
+    "author": "unre****",
+    "review_id": "3274253",
+    "movie_id": "13101"
+  },
+  {
+    "review": "ㅋㅋ초딩때 무지 재밌게 봤는데...ㅋㅋㅋㅋ김지선이 반찬 소개할때가 생각나네",
+    "date": "08.09.12",
+    "rating": "10",
+    "author": "dlvn****",
+    "review_id": "2936337",
+    "movie_id": "13101"
+  },
+  {
+    "review": "홍콩할매 귀신으로 분한 엄용수와 심형래의 불꽃튀는 연기대결이 압권",
+    "date": "08.08.12",
+    "rating": "10",
+    "author": "olde****",
+    "review_id": "2863670",
+    "movie_id": "13101"
+  },
+  {
+    "review": "불후의명작이다ㅋㅋㅋ홍콩할매",
+    "date": "08.08.03",
+    "rating": "10",
+    "author": "rd72****",
+    "review_id": "2832466",
+    "movie_id": "13101"
+  },
+  {
+    "review": "동그란 구덩이 벽을 옆으로 뛰어다니는 장면 나오던거 맞죠??맞다면 진짜 생생하다",
+    "date": "08.07.31",
+    "rating": "10",
+    "author": "jsjj****",
+    "review_id": "2821949",
+    "movie_id": "13101"
+  },
+  {
+    "review": "그때는 엄청 무서웠는데 지금보니까 유치하기만,ㅋㅋ",
+    "date": "08.04.25",
+    "rating": "10",
+    "author": "swh9****",
+    "review_id": "2598617",
+    "movie_id": "13101"
+  },
+  {
+    "review": "공포, 코믹 이 두가지를 다 잡은, 당시에는 신선했던 영화",
+    "date": "08.02.27",
+    "rating": "8",
+    "author": "stra****",
+    "review_id": "2487694",
+    "movie_id": "13101"
+  },
+  {
+    "review": "잊지못한다. 그때 홍콩할매가 최고 무서웠어!!!!!!!!",
+    "date": "08.02.20",
+    "rating": "10",
+    "author": "haha****",
+    "review_id": "2466545",
+    "movie_id": "13101"
+  },
+  {
+    "review": "오싹오싹떨면서봣던홍콩할매귀신그때는 정말 무서웟지 ㅎㅎ",
+    "date": "07.12.28",
+    "rating": "10",
+    "author": "stj6****",
+    "review_id": "2276301",
+    "movie_id": "13101"
+  },
+  {
+    "review": "추억의 영화!",
+    "date": "07.10.07",
+    "rating": "10",
+    "author": "jiin****",
+    "review_id": "2075875",
+    "movie_id": "13101"
+  },
+  {
+    "review": "어렸을땐 이것마져 무서웠는데....",
+    "date": "07.08.28",
+    "rating": "10",
+    "author": "eliv****",
+    "review_id": "1985410",
+    "movie_id": "13101"
+  },
+  {
+    "review": "여전히 넘 재밌당~ 추억의 SF영화",
+    "date": "07.08.14",
+    "rating": "9",
+    "author": "john****",
+    "review_id": "1937275",
+    "movie_id": "13101"
+  },
+  {
+    "review": "영구시리즈중 가장 히트쳤던 대작",
+    "date": "07.08.08",
+    "rating": "1",
+    "author": "lsh1****",
+    "review_id": "1906032",
+    "movie_id": "13101"
+  },
+  {
+    "review": "내가 지금까지 본 한국영화 중에서 당연최고(실미도를 제치고)",
+    "date": "07.08.05",
+    "rating": "10",
+    "author": "dufm****",
+    "review_id": "1881730",
+    "movie_id": "13101"
+  },
+  {
+    "review": "말이필요없지않나 ㅎㅎ",
+    "date": "07.08.03",
+    "rating": "10",
+    "author": "star****",
+    "review_id": "1866465",
+    "movie_id": "13101"
+  },
+  {
+    "review": "옛날엔 비디오 대여점에만 가면 있었는데... 요즘엔 찾아볼수가 없네...",
+    "date": "07.08.03",
+    "rating": "10",
+    "author": "wond****",
+    "review_id": "1865226",
+    "movie_id": "13101"
+  },
+  {
+    "review": "장르부터 다르다 액션,환타지",
+    "date": "07.08.02",
+    "rating": "10",
+    "author": "2wjd****",
+    "review_id": "1850420",
+    "movie_id": "13101"
+  },
+  {
+    "review": "눈물날 정도로 감동했습니다. 죽은 시인의 사회보다 더 감동적입니다.",
+    "date": "07.08.02",
+    "rating": "10",
+    "author": "qkrw****",
+    "review_id": "1846780",
+    "movie_id": "13101"
+  },
+  {
+    "review": "와 대단하당 . ㅋ",
+    "date": "07.08.02",
+    "rating": "10",
+    "author": "davi****",
+    "review_id": "1845064",
+    "movie_id": "13101"
+  },
+  {
+    "review": "그리운,,,,,,,,,,,,",
+    "date": "07.08.01",
+    "rating": "10",
+    "author": "yang****",
+    "review_id": "1838818",
+    "movie_id": "13101"
+  },
+  {
+    "review": "요즘초딩들은 이재미를 모르겠찌 ㅋㅋㅋㅋㅋㅋ",
+    "date": "07.07.29",
+    "rating": "10",
+    "author": "nala****",
+    "review_id": "1825368",
+    "movie_id": "13101"
+  },
+  {
+    "review": "수십번봤다.. 요즘초딩은 인터넷하고 그러니 왜 수십번봐야하나 모르지;;",
+    "date": "07.07.29",
+    "rating": "10",
+    "author": "dbwo****",
+    "review_id": "1822926",
+    "movie_id": "13101"
+  },
+  {
+    "review": "어렸을때 봣을때 정말 무서웠는데,,^^ 그때가 그립구나,,,",
+    "date": "07.07.28",
+    "rating": "10",
+    "author": "your****",
+    "review_id": "1819778",
+    "movie_id": "13101"
+  },
+  {
+    "review": "어렸을 땐 잼썼음..ㅋㅋㅋ",
+    "date": "07.07.27",
+    "rating": "8",
+    "author": "door****",
+    "review_id": "1814415",
+    "movie_id": "13101"
+  },
+  {
+    "review": "정말 무서운 영화 엄용수 ㅎㄷㄷ",
+    "date": "07.07.27",
+    "rating": "10",
+    "author": "nell****",
+    "review_id": "1814175",
+    "movie_id": "13101"
+  },
+  {
+    "review": "진짜 어렸을때 봤을때는 공포영화였다.. 껄껄껄..",
+    "date": "07.07.06",
+    "rating": "10",
+    "author": "neke****",
+    "review_id": "1752189",
+    "movie_id": "13101"
+  },
+  {
+    "review": "한국 공포영화의 시작은 여기서부터 비롯되었다.",
+    "date": "07.07.06",
+    "rating": "10",
+    "author": "kisk****",
+    "review_id": "1750598",
+    "movie_id": "13101"
+  },
+  {
+    "review": "영구시리즈 다 재밌음ㅋㅋ난 좀 무섭기도 했는데ㅋㅋ",
+    "date": "07.07.05",
+    "rating": "10",
+    "author": "toin****",
+    "review_id": "1748193",
+    "movie_id": "13101"
+  },
+  {
+    "review": "영구시리즈는 다 좋은기억만있는걸...좀 까먹긴했어도..",
+    "date": "07.06.25",
+    "rating": "10",
+    "author": "drea****",
+    "review_id": "1721185",
+    "movie_id": "13101"
+  },
+  {
+    "review": "역사상최고의 서스펜스 스릴러",
+    "date": "07.04.02",
+    "rating": "10",
+    "author": "leeg****",
+    "review_id": "1568771",
+    "movie_id": "13101"
+  },
+  {
+    "review": "20살이된지금에와서야 귀신이 엄용수임을 알았따",
+    "date": "07.03.31",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "1564723",
+    "movie_id": "13101"
+  },
+  {
+    "review": "무슨소리007시리즈는홍콩할매에비하면 하수구쓰레기다",
+    "date": "07.02.15",
+    "rating": "10",
+    "author": "shwj****",
+    "review_id": "1471934",
+    "movie_id": "13101"
+  },
+  {
+    "review": "헐리웃 007시리즈를 따라잡기엔 역부족이었다",
+    "date": "07.01.29",
+    "rating": "7",
+    "author": "hide****",
+    "review_id": "1424259",
+    "movie_id": "13101"
+  },
+  {
+    "review": "당시 어린이들에게 이 영환 공포영화였지;;",
+    "date": "07.01.08",
+    "rating": "5",
+    "author": "ppp0****",
+    "review_id": "1367133",
+    "movie_id": "13101"
+  },
+  {
+    "review": "머..영구가 짱이지..ㅋㅋㅋ",
+    "date": "07.01.01",
+    "rating": "10",
+    "author": "nuns****",
+    "review_id": "1347801",
+    "movie_id": "13101"
+  },
+  {
+    "review": "이때는 처음홍콩할매귀신을알고무섭게느꼈다",
+    "date": "06.12.04",
+    "rating": "9",
+    "author": "shai****",
+    "review_id": "1267400",
+    "movie_id": "13101"
+  },
+  {
+    "review": "\"엑소시스트\" 보다 더 무섭고 스릴넘치는 호러영화의 대명사",
+    "date": "06.10.19",
+    "rating": "10",
+    "author": "oran****",
+    "review_id": "1188187",
+    "movie_id": "13101"
+  },
+  {
+    "review": "대 히트작.",
+    "date": "06.09.05",
+    "rating": "10",
+    "author": "taki****",
+    "review_id": "1103711",
+    "movie_id": "13101"
+  },
+  {
+    "review": "호러영화의 대명사",
+    "date": "06.08.20",
+    "rating": "10",
+    "author": "fujo****",
+    "review_id": "1059899",
+    "movie_id": "13101"
+  },
+  {
+    "review": "태어나서 처음으로 영화관에 가서 본영화 아직도 잊지 못한다",
+    "date": "06.04.20",
+    "rating": "10",
+    "author": "lye1****",
+    "review_id": "768281",
+    "movie_id": "13101"
+  },
+  {
+    "review": "태극기휘날리며의 완성도를 능가하는 영화이다",
+    "date": "06.03.11",
+    "rating": "10",
+    "author": "uiu1****",
+    "review_id": "712693",
+    "movie_id": "13101"
+  },
+  {
+    "review": "91년작이미지 언제까지 준비할래 -0-",
+    "date": "06.02.21",
+    "rating": "10",
+    "author": "lsyo****",
+    "review_id": "683727",
+    "movie_id": "13101"
+  },
+  {
+    "review": "또보고싶다",
+    "date": "06.02.09",
+    "rating": "10",
+    "author": "skyj****",
+    "review_id": "656979",
+    "movie_id": "13101"
+  },
+  {
+    "review": "나중에 김지선 죽는데...",
+    "date": "05.12.25",
+    "rating": "10",
+    "author": "semi****",
+    "review_id": "527517",
+    "movie_id": "13101"
+  },
+  {
+    "review": "극장에서 처음 본영화",
+    "date": "05.12.25",
+    "rating": "9",
+    "author": "kws7****",
+    "review_id": "527316",
+    "movie_id": "13101"
+  },
+  {
+    "review": "이정도로 개그와 스릴러가 잘 합쳐진 영화가 또 있을라나?",
+    "date": "05.12.07",
+    "rating": "9",
+    "author": "hero****",
+    "review_id": "496929",
+    "movie_id": "13101"
+  },
+  {
+    "review": "불후의 명작 ㅋ",
+    "date": "05.09.03",
+    "rating": "10",
+    "author": "cjj2****",
+    "review_id": "391600",
+    "movie_id": "13101"
+  },
+  {
+    "review": "ㅎㅎㅎ어렷을때 무섭고 잼있게본..ㅋㅋ마지막날아가는씬감동;",
+    "date": "05.08.29",
+    "rating": "10",
+    "author": "hong****",
+    "review_id": "388079",
+    "movie_id": "13101"
+  },
+  {
+    "review": "끝나게 재밌었는데.ㅋㅋ",
+    "date": "05.08.22",
+    "rating": "10",
+    "author": "hiro****",
+    "review_id": "380026",
+    "movie_id": "13101"
+  },
+  {
+    "review": "난 이게 제일 재밌더라!!!!!",
+    "date": "05.08.14",
+    "rating": "9",
+    "author": "yjle****",
+    "review_id": "366074",
+    "movie_id": "13101"
+  },
+  {
+    "review": "엄용수의 홍콩할매는 압권이다. ㅋㅋ",
+    "date": "05.05.19",
+    "rating": "9",
+    "author": "jcr3****",
+    "review_id": "281112",
+    "movie_id": "13101"
+  },
+  {
+    "review": "이런거 왜 봐요",
+    "date": "05.02.22",
+    "rating": "10",
+    "author": "lj34****",
+    "review_id": "227615",
+    "movie_id": "13101"
+  },
+  {
+    "review": "진짜 재밌게 봤다!!",
+    "date": "04.09.20",
+    "rating": "8",
+    "author": "limj****",
+    "review_id": "111373",
+    "movie_id": "13101"
+  },
+  {
+    "review": "김지선과 심형래의 잘맞는 호흡, 그리고 엄용수도...",
+    "date": "04.07.24",
+    "rating": "7",
+    "author": "kpcc****",
+    "review_id": "76191",
+    "movie_id": "13101"
+  },
+  {
+    "review": "생각보다 재밌음..",
+    "date": "04.03.28",
+    "rating": "10",
+    "author": "jyk9****",
+    "review_id": "32262",
+    "movie_id": "13101"
+  }
+]

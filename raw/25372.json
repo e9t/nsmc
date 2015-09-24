@@ -1,0 +1,42 @@
+[
+  {
+    "review": "쓰레기임",
+    "date": "09.05.10",
+    "rating": "1",
+    "author": "yihs****",
+    "review_id": "3483633",
+    "movie_id": "25372"
+  },
+  {
+    "review": "눈에 띄는 액션은 없지만 나름대로 킬링타임 영화.",
+    "date": "08.04.01",
+    "rating": "8",
+    "author": "park****",
+    "review_id": "2552497",
+    "movie_id": "25372"
+  },
+  {
+    "review": "이건 티비서 하길래 봤다.ㅋ 디게 재밌었다.ㅋㅋㅋ",
+    "date": "05.02.27",
+    "rating": "9",
+    "author": "kind****",
+    "review_id": "231531",
+    "movie_id": "25372"
+  },
+  {
+    "review": "와겨우찾았네 ㅋ_ㅋ",
+    "date": "05.01.15",
+    "rating": "10",
+    "author": "atom****",
+    "review_id": "186219",
+    "movie_id": "25372"
+  },
+  {
+    "review": "1등이네.-_-; 그냥..-_-할일없을때 보는영화..그리재밌게보지못했다",
+    "date": "04.04.04",
+    "rating": "5",
+    "author": "mans****",
+    "review_id": "33825",
+    "movie_id": "25372"
+  }
+]

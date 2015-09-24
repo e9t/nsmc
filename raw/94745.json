@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "8946278",
+    "movie_id": "94745",
+    "author": "kimy****",
+    "review": "캐릭터가 정말 귀엽네요.",
+    "rating": "10",
+    "date": "14.07.23"
+  },
+  {
+    "review_id": "7401888",
+    "movie_id": "94745",
+    "author": "rmdl****",
+    "review": "어린이들이 보기에 매우 유익한 것 같아요.",
+    "rating": "10",
+    "date": "13.03.23"
+  },
+  {
+    "review_id": "6456406",
+    "movie_id": "94745",
+    "author": "jino****",
+    "review": "짱임 ㅋㅋㅋ",
+    "rating": "10",
+    "date": "12.07.07"
+  }
+]

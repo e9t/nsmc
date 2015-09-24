@@ -1,0 +1,26 @@
+[
+  {
+    "review": "좋은영화임 ... !!!",
+    "date": "14.11.26",
+    "rating": "10",
+    "author": "lena****",
+    "review_id": "9422746",
+    "movie_id": "11562"
+  },
+  {
+    "review": "어디서어디서개봉은하나?",
+    "date": "14.04.10",
+    "rating": "1",
+    "author": "a1lo****",
+    "review_id": "8640254",
+    "movie_id": "11562"
+  },
+  {
+    "review": "명작입니다",
+    "date": "06.08.02",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "959182",
+    "movie_id": "11562"
+  }
+]

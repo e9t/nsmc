@@ -1,0 +1,34 @@
+[
+  {
+    "review": "다시 꼭 한번 더 보고 싶어요",
+    "date": "14.09.24",
+    "rating": "10",
+    "author": "drea****",
+    "review_id": "9238507",
+    "movie_id": "16184"
+  },
+  {
+    "review": "우연한 굿무비발견",
+    "date": "09.07.21",
+    "rating": "5",
+    "author": "wood****",
+    "review_id": "3654411",
+    "movie_id": "16184"
+  },
+  {
+    "review": "마음이 훈훈해지고 또 노래가 좋은데 욕이나와서 아쉽네요^^",
+    "date": "08.07.18",
+    "rating": "7",
+    "author": "jjan****",
+    "review_id": "2777333",
+    "movie_id": "16184"
+  },
+  {
+    "review": "가끔은 동심으로 돌아가는것도",
+    "date": "06.01.06",
+    "rating": "6",
+    "author": "kws7****",
+    "review_id": "564394",
+    "movie_id": "16184"
+  }
+]

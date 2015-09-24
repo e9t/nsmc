@@ -1,0 +1,90 @@
+[
+  {
+    "review": "이정도의점수를줄수있는영화였다.",
+    "date": "14.06.25",
+    "rating": "3",
+    "author": "osos****",
+    "review_id": "8853694",
+    "movie_id": "31111"
+  },
+  {
+    "review": "이걸 영화라 할수있을까......어이없었음...",
+    "date": "06.04.30",
+    "rating": "1",
+    "author": "esta****",
+    "review_id": "780822",
+    "movie_id": "31111"
+  },
+  {
+    "review": "화려한 볼거리는 있었지만, 내용은 글쎄;; 조잡했던.../",
+    "date": "06.04.15",
+    "rating": "3",
+    "author": "aqr2****",
+    "review_id": "761298",
+    "movie_id": "31111"
+  },
+  {
+    "review": "내용은 없넹...",
+    "date": "06.04.14",
+    "rating": "5",
+    "author": "1110****",
+    "review_id": "761178",
+    "movie_id": "31111"
+  },
+  {
+    "review": "스토리를 알 수 없는... 진정한 imax를 느끼고 싶다면 추천",
+    "date": "06.04.14",
+    "rating": "5",
+    "author": "sara****",
+    "review_id": "761030",
+    "movie_id": "31111"
+  },
+  {
+    "review": "IMAX 3D가 무엇인지 느끼고 싶다면 후회없는 선택",
+    "date": "06.04.13",
+    "rating": "7",
+    "author": "cequ****",
+    "review_id": "759507",
+    "movie_id": "31111"
+  },
+  {
+    "review": "어른은 NO. 아이들은 나름대로 YES",
+    "date": "06.04.13",
+    "rating": "3",
+    "author": "red5****",
+    "review_id": "759478",
+    "movie_id": "31111"
+  },
+  {
+    "review": "오랫만에 느끼는 판타스틱함 이랄까?..ㅎㅎ",
+    "date": "06.04.12",
+    "rating": "6",
+    "author": "deah****",
+    "review_id": "759197",
+    "movie_id": "31111"
+  },
+  {
+    "review": "돈내고보기 아깝다 ㅠㅜ",
+    "date": "06.04.12",
+    "rating": "2",
+    "author": "kids****",
+    "review_id": "759181",
+    "movie_id": "31111"
+  },
+  {
+    "review": "즐..",
+    "date": "06.04.10",
+    "rating": "1",
+    "author": "tlru****",
+    "review_id": "756259",
+    "movie_id": "31111"
+  },
+  {
+    "review": "최고의영화...",
+    "date": "06.04.07",
+    "rating": "10",
+    "author": "red2****",
+    "review_id": "751650",
+    "movie_id": "31111"
+  }
+]

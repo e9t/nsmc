@@ -1,0 +1,26 @@
+[
+  {
+    "review": "평점 순위 어지럽히기 관리회.",
+    "date": "14.12.06",
+    "rating": "10",
+    "author": "angs****",
+    "review_id": "9450865",
+    "movie_id": "17803"
+  },
+  {
+    "review": "평점 순위 맞추기 관리회.",
+    "date": "14.07.05",
+    "rating": "1",
+    "author": "md17****",
+    "review_id": "8884512",
+    "movie_id": "17803"
+  },
+  {
+    "review": "고전영화 지금봐도 재미있다.",
+    "date": "12.01.31",
+    "rating": "10",
+    "author": "pash****",
+    "review_id": "6039241",
+    "movie_id": "17803"
+  }
+]

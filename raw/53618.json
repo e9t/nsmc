@@ -1,0 +1,26 @@
+[
+  {
+    "review": "잔잔하게 때로는 격정적으로.",
+    "date": "08.02.20",
+    "rating": "10",
+    "author": "balp****",
+    "review_id": "2465801",
+    "movie_id": "53618"
+  },
+  {
+    "review": "잔잔한 로맨스. 만화책도 재밌다.",
+    "date": "06.11.02",
+    "rating": "10",
+    "author": "smsp****",
+    "review_id": "1211236",
+    "movie_id": "53618"
+  },
+  {
+    "review": "굿 바이~ 마이 클래스메이트여,..",
+    "date": "06.02.21",
+    "rating": "10",
+    "author": "leeh****",
+    "review_id": "683573",
+    "movie_id": "53618"
+  }
+]

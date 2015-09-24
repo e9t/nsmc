@@ -1,0 +1,42 @@
+[
+  {
+    "review": "어렸을 적에 생각없이 봤던 어린이용 영화. 이소룡의 사망탑같은 전개랄까?",
+    "date": "12.04.18",
+    "rating": "8",
+    "author": "doou****",
+    "review_id": "6230256",
+    "movie_id": "11551"
+  },
+  {
+    "review": "어니스트와 군대의 맛스타가 적절히 섞인 마스터피스",
+    "date": "10.05.24",
+    "rating": "10",
+    "author": "seba****",
+    "review_id": "4521355",
+    "movie_id": "11551"
+  },
+  {
+    "review": "내가 다시 올렸어",
+    "date": "10.03.24",
+    "rating": "10",
+    "author": "walk****",
+    "review_id": "4382524",
+    "movie_id": "11551"
+  },
+  {
+    "review": "내가 그점수깍았어",
+    "date": "10.01.22",
+    "rating": "1",
+    "author": "yqer****",
+    "review_id": "4196885",
+    "movie_id": "11551"
+  },
+  {
+    "review": "내가 10점 만들었어",
+    "date": "09.10.24",
+    "rating": "10",
+    "author": "dydd****",
+    "review_id": "3913052",
+    "movie_id": "11551"
+  }
+]

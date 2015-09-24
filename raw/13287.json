@@ -1,0 +1,618 @@
+[
+  {
+    "review": "내용은 단순하면서 재미있었다.",
+    "date": "15.07.26",
+    "rating": "6",
+    "author": "adiv****",
+    "review_id": "10143534",
+    "movie_id": "13287"
+  },
+  {
+    "review": "거대 아기가 인형처럼 정말 귀여운 영화!! 한 장소에서만 헤맸던 전편과는 달리 거대 아기가 여러 장소를 옮겨가며 휘젓고 다니니까 더 재밌었네요 ㅋㅋ",
+    "date": "15.01.14",
+    "rating": "10",
+    "author": "qhrt****",
+    "review_id": "9593173",
+    "movie_id": "13287"
+  },
+  {
+    "review": "이게93년 영화라니.. 진짜시간가는줄 모르고 봤다",
+    "date": "14.11.29",
+    "rating": "10",
+    "author": "styl****",
+    "review_id": "9431120",
+    "movie_id": "13287"
+  },
+  {
+    "review": "전편보다 재미는 줄었어요~",
+    "date": "14.08.31",
+    "rating": "8",
+    "author": "tn99****",
+    "review_id": "9150315",
+    "movie_id": "13287"
+  },
+  {
+    "review": "요즘 애들은 안보겠지만 당시 티비에서 이런 영화해주면 정말 재밌게 봤다",
+    "date": "14.06.08",
+    "rating": "9",
+    "author": "sdm1****",
+    "review_id": "8813985",
+    "movie_id": "13287"
+  },
+  {
+    "review": "전작보단 조금 못하지만 7점대 영화는 절대 아닌데? 영화 보는 눈들이 없구만!",
+    "date": "14.03.15",
+    "rating": "10",
+    "author": "ske4****",
+    "review_id": "8577127",
+    "movie_id": "13287"
+  },
+  {
+    "review": "2편에 비해서는 재미가 부족했지만 집중하면서 본 영화.",
+    "date": "13.08.08",
+    "rating": "7",
+    "author": "here****",
+    "review_id": "7858746",
+    "movie_id": "13287"
+  },
+  {
+    "review": "내용은 뻔한데  영화끝날때까지 집중하게 하는 연출이 훌륭함",
+    "date": "13.08.08",
+    "rating": "7",
+    "author": "dlat****",
+    "review_id": "7857256",
+    "movie_id": "13287"
+  },
+  {
+    "review": "줄었어요 보다는 떨어지지만 재미있었음.",
+    "date": "12.11.04",
+    "rating": "8",
+    "author": "kem1****",
+    "review_id": "6856244",
+    "movie_id": "13287"
+  },
+  {
+    "review": "귀여워",
+    "date": "11.12.22",
+    "rating": "6",
+    "author": "blai****",
+    "review_id": "5923650",
+    "movie_id": "13287"
+  },
+  {
+    "review": "어릴적 이거 극장에서 봣는데 벌써 20년이 지낫네",
+    "date": "11.12.12",
+    "rating": "10",
+    "author": "magi****",
+    "review_id": "5902427",
+    "movie_id": "13287"
+  },
+  {
+    "review": "옛날영화치곤 궁금했던 시각적효과를 잘 살린 재밌는 영화",
+    "date": "11.11.29",
+    "rating": "7",
+    "author": "0718****",
+    "review_id": "5878232",
+    "movie_id": "13287"
+  },
+  {
+    "review": "정말 너무 재밌다.",
+    "date": "11.05.08",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "5415011",
+    "movie_id": "13287"
+  },
+  {
+    "review": "당시만해도 너무나 기발했다!!",
+    "date": "11.01.14",
+    "rating": "7",
+    "author": "pree****",
+    "review_id": "5157426",
+    "movie_id": "13287"
+  },
+  {
+    "review": "<애들이 줄었어요>를 잇는 또다른 발상.. 요렇게 뒤집어도 재미나네~",
+    "date": "10.08.20",
+    "rating": "8",
+    "author": "mygr****",
+    "review_id": "4767969",
+    "movie_id": "13287"
+  },
+  {
+    "review": "굿",
+    "date": "10.08.10",
+    "rating": "10",
+    "author": "rlad****",
+    "review_id": "4732479",
+    "movie_id": "13287"
+  },
+  {
+    "review": "91년생인데알고있음!전부터 찾아보려 했는데 주위애들은 모름; 지식인 찾으니 나오네!",
+    "date": "10.08.04",
+    "rating": "10",
+    "author": "papa****",
+    "review_id": "4706769",
+    "movie_id": "13287"
+  },
+  {
+    "review": "엄청나게 크지만 그래도 귀엽다 아기.",
+    "date": "10.05.06",
+    "rating": "8",
+    "author": "ccpk****",
+    "review_id": "4482742",
+    "movie_id": "13287"
+  },
+  {
+    "review": "참신한 발상, 거대한 아기라니...",
+    "date": "10.05.06",
+    "rating": "8",
+    "author": "rame****",
+    "review_id": "4482741",
+    "movie_id": "13287"
+  },
+  {
+    "review": "거대괴수물 같은 건데, 그 소재가 아기라는 것!",
+    "date": "10.05.06",
+    "rating": "8",
+    "author": "kpcc****",
+    "review_id": "4482740",
+    "movie_id": "13287"
+  },
+  {
+    "review": "재밌게 본 영화..",
+    "date": "10.02.11",
+    "rating": "10",
+    "author": "hhy9****",
+    "review_id": "4270479",
+    "movie_id": "13287"
+  },
+  {
+    "review": "이것도 재밌게봄",
+    "date": "09.10.16",
+    "rating": "10",
+    "author": "ding****",
+    "review_id": "3895104",
+    "movie_id": "13287"
+  },
+  {
+    "review": "애들이 줄었어요 속편격.. 그당시엔 최고의 가족물 시리즈",
+    "date": "09.09.25",
+    "rating": "9",
+    "author": "gall****",
+    "review_id": "3850529",
+    "movie_id": "13287"
+  },
+  {
+    "review": "옛날 영화라 어설픈 특수효과하며....어릴적이었지만 참 허접했던...",
+    "date": "09.08.12",
+    "rating": "5",
+    "author": "jbc1****",
+    "review_id": "3740310",
+    "movie_id": "13287"
+  },
+  {
+    "review": "나에겐 추억의영화 점점 커가는 애기를보고 되게 신기하면서 좋아했던 기억이 생생",
+    "date": "09.07.26",
+    "rating": "10",
+    "author": "rkdw****",
+    "review_id": "3668261",
+    "movie_id": "13287"
+  },
+  {
+    "review": "추억의 영화..",
+    "date": "09.07.14",
+    "rating": "8",
+    "author": "rkd2****",
+    "review_id": "3631057",
+    "movie_id": "13287"
+  },
+  {
+    "review": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "09.06.16",
+    "rating": "10",
+    "author": "glor****",
+    "review_id": "3569729",
+    "movie_id": "13287"
+  },
+  {
+    "review": "어렸을때 볼만했던 영화.",
+    "date": "09.03.21",
+    "rating": "8",
+    "author": "jkh0****",
+    "review_id": "3377775",
+    "movie_id": "13287"
+  },
+  {
+    "review": "추억의 영화~^^",
+    "date": "09.01.21",
+    "rating": "8",
+    "author": "kdr4****",
+    "review_id": "3236682",
+    "movie_id": "13287"
+  },
+  {
+    "review": "내가 제일 좋아하는 영화! 아기 너무 귀엽고 가족들도 귀엽다",
+    "date": "09.01.07",
+    "rating": "10",
+    "author": "ixxm****",
+    "review_id": "3199772",
+    "movie_id": "13287"
+  },
+  {
+    "review": "무난함",
+    "date": "08.11.18",
+    "rating": "8",
+    "author": "seun****",
+    "review_id": "3059067",
+    "movie_id": "13287"
+  },
+  {
+    "review": "아이가 커진만큼 영화는 초라해졌다",
+    "date": "08.08.01",
+    "rating": "3",
+    "author": "meth****",
+    "review_id": "2825325",
+    "movie_id": "13287"
+  },
+  {
+    "review": "잼있게본영화ㅎㅎ 태어난후 1년후에 개봉한 영화네 ㅎㅎ 93년도라..돌사진 찍을때;;",
+    "date": "08.07.13",
+    "rating": "10",
+    "author": "rnjs****",
+    "review_id": "2760656",
+    "movie_id": "13287"
+  },
+  {
+    "review": "전편 \"아이가 줄었어요\"보다 형편없다. Felicity로 뜬 케리러슬이 여기에 나왔었네.",
+    "date": "08.07.13",
+    "rating": "4",
+    "author": "jere****",
+    "review_id": "2758665",
+    "movie_id": "13287"
+  },
+  {
+    "review": "오늘 tv에서 봤는데 문득 생각난게 어릴때본 성탄절 영화란거..ㅋㅋㅋㅋ",
+    "date": "08.03.24",
+    "rating": "10",
+    "author": "wls2****",
+    "review_id": "2540411",
+    "movie_id": "13287"
+  },
+  {
+    "review": "전편보다는 못하지만 그래도 가족영화로서는 재밌다",
+    "date": "08.03.12",
+    "rating": "7",
+    "author": "deff****",
+    "review_id": "2516114",
+    "movie_id": "13287"
+  },
+  {
+    "review": "내가 93년 생인데 영화가 기억나 ㅋㅋㅋ 추억의 영화",
+    "date": "08.02.06",
+    "rating": "10",
+    "author": "wldp****",
+    "review_id": "2413388",
+    "movie_id": "13287"
+  },
+  {
+    "review": "어렸을 때 봤던 영화. 갑자기 이 영화가 생각나는군. 어렴풋이 기억난다. 보고 싶군.",
+    "date": "08.01.30",
+    "rating": "7",
+    "author": "maka****",
+    "review_id": "2386949",
+    "movie_id": "13287"
+  },
+  {
+    "review": "어릴때 정말 재밌게 봤던 ㅋㅋ",
+    "date": "07.12.30",
+    "rating": "10",
+    "author": "stop****",
+    "review_id": "2282869",
+    "movie_id": "13287"
+  },
+  {
+    "review": "최근까지 평정이 달려있네 ㅋㅋ",
+    "date": "07.12.06",
+    "rating": "10",
+    "author": "whdg****",
+    "review_id": "2211907",
+    "movie_id": "13287"
+  },
+  {
+    "review": "어릴적에도 재밌었고, 지금봐도 교훈이 있다.",
+    "date": "07.10.08",
+    "rating": "10",
+    "author": "ppo0****",
+    "review_id": "2078744",
+    "movie_id": "13287"
+  },
+  {
+    "review": "진짜 어릴땐 재미있었다. 근데 평점 왜이래,",
+    "date": "07.10.07",
+    "rating": "10",
+    "author": "wndb****",
+    "review_id": "2075333",
+    "movie_id": "13287"
+  },
+  {
+    "review": "최고의 아동물",
+    "date": "07.09.19",
+    "rating": "9",
+    "author": "baks****",
+    "review_id": "2030965",
+    "movie_id": "13287"
+  },
+  {
+    "review": "너무 재미있게 봤었다...^^ ㅎㅎㅎ",
+    "date": "07.09.07",
+    "rating": "8",
+    "author": "love****",
+    "review_id": "2006021",
+    "movie_id": "13287"
+  },
+  {
+    "review": "네, 아이가 커졌네요.",
+    "date": "07.08.18",
+    "rating": "4",
+    "author": "tori****",
+    "review_id": "1953827",
+    "movie_id": "13287"
+  },
+  {
+    "review": "초딩땐엄청 재밌었다",
+    "date": "07.06.19",
+    "rating": "10",
+    "author": "ukhk****",
+    "review_id": "1709117",
+    "movie_id": "13287"
+  },
+  {
+    "review": "왠만하면 안보는게 좋을것이다",
+    "date": "07.01.14",
+    "rating": "3",
+    "author": "nala****",
+    "review_id": "1384516",
+    "movie_id": "13287"
+  },
+  {
+    "review": "전편의 졸작이다",
+    "date": "07.01.09",
+    "rating": "1",
+    "author": "ppp0****",
+    "review_id": "1370510",
+    "movie_id": "13287"
+  },
+  {
+    "review": "애들이 줄었어요 보단 약해~",
+    "date": "06.11.07",
+    "rating": "8",
+    "author": "8901****",
+    "review_id": "1221668",
+    "movie_id": "13287"
+  },
+  {
+    "review": "아직도 기억속에 남는영화",
+    "date": "06.11.06",
+    "rating": "10",
+    "author": "poto****",
+    "review_id": "1220094",
+    "movie_id": "13287"
+  },
+  {
+    "review": "기발한영화 어릴때 재밌게봤던",
+    "date": "06.11.01",
+    "rating": "8",
+    "author": "luvs****",
+    "review_id": "1210155",
+    "movie_id": "13287"
+  },
+  {
+    "review": "ㅋㅋㅋ 어렸을때 진짜재밌게본..아직도 기억난다..ㅋ",
+    "date": "06.08.19",
+    "rating": "10",
+    "author": "smhs****",
+    "review_id": "1058779",
+    "movie_id": "13287"
+  },
+  {
+    "review": "어릴때 봐야함;;;",
+    "date": "06.08.07",
+    "rating": "7",
+    "author": "reki****",
+    "review_id": "982597",
+    "movie_id": "13287"
+  },
+  {
+    "review": "애들이줄었을때보단별로다",
+    "date": "06.07.31",
+    "rating": "7",
+    "author": "tera****",
+    "review_id": "946633",
+    "movie_id": "13287"
+  },
+  {
+    "review": "커졌어요.. 보단 줄어들었어요가.. 좋지 않았나?",
+    "date": "06.07.28",
+    "rating": "5",
+    "author": "saru****",
+    "review_id": "930968",
+    "movie_id": "13287"
+  },
+  {
+    "review": "참.. 별로 생각하긴싫지만",
+    "date": "06.06.12",
+    "rating": "6",
+    "author": "sens****",
+    "review_id": "842324",
+    "movie_id": "13287"
+  },
+  {
+    "review": "아이가작아졌어요도나오겠군.",
+    "date": "06.04.11",
+    "rating": "6",
+    "author": "izzo****",
+    "review_id": "757427",
+    "movie_id": "13287"
+  },
+  {
+    "review": "기발한 아이디어의 참신한 코미디 영화.",
+    "date": "06.04.09",
+    "rating": "6",
+    "author": "movi****",
+    "review_id": "754659",
+    "movie_id": "13287"
+  },
+  {
+    "review": "이거 최고인데",
+    "date": "06.04.06",
+    "rating": "10",
+    "author": "zmgm****",
+    "review_id": "750954",
+    "movie_id": "13287"
+  },
+  {
+    "review": "얘들 영화",
+    "date": "05.12.25",
+    "rating": "6",
+    "author": "kws7****",
+    "review_id": "527123",
+    "movie_id": "13287"
+  },
+  {
+    "review": "그냥 귀여운 영화.",
+    "date": "05.11.26",
+    "rating": "7",
+    "author": "pure****",
+    "review_id": "485191",
+    "movie_id": "13287"
+  },
+  {
+    "review": "기발한발상.. 웃음도 약간..",
+    "date": "05.11.21",
+    "rating": "7",
+    "author": "wick****",
+    "review_id": "481177",
+    "movie_id": "13287"
+  },
+  {
+    "review": "갠적으론 애들이 줄었어요가 더 맘에 들었다 이것도뭐 그럭저럭",
+    "date": "05.11.06",
+    "rating": "7",
+    "author": "desp****",
+    "review_id": "466538",
+    "movie_id": "13287"
+  },
+  {
+    "review": "볼만했었다..ㅎㅎ",
+    "date": "05.08.29",
+    "rating": "9",
+    "author": "hong****",
+    "review_id": "387526",
+    "movie_id": "13287"
+  },
+  {
+    "review": "어릴때보기좋음..",
+    "date": "05.07.27",
+    "rating": "5",
+    "author": "koco****",
+    "review_id": "336866",
+    "movie_id": "13287"
+  },
+  {
+    "review": "재밌는데..무지 웃김..ㅋㅋㅋㅋ",
+    "date": "05.07.26",
+    "rating": "10",
+    "author": "baby****",
+    "review_id": "335598",
+    "movie_id": "13287"
+  },
+  {
+    "review": "비교되니..별로네",
+    "date": "05.06.07",
+    "rating": "7",
+    "author": "limj****",
+    "review_id": "295471",
+    "movie_id": "13287"
+  },
+  {
+    "review": "재밋네 뭐 ㅎ",
+    "date": "05.06.05",
+    "rating": "8",
+    "author": "duaw****",
+    "review_id": "293860",
+    "movie_id": "13287"
+  },
+  {
+    "review": "볼만하나 많은 재미를 연속적으로 보여 주지 못하고 있다",
+    "date": "05.06.02",
+    "rating": "5",
+    "author": "si2p****",
+    "review_id": "292185",
+    "movie_id": "13287"
+  },
+  {
+    "review": "추억의 영화 ^^*",
+    "date": "05.05.19",
+    "rating": "7",
+    "author": "kiki****",
+    "review_id": "281181",
+    "movie_id": "13287"
+  },
+  {
+    "review": "기발한 상상력 면에서 평가받아야 할 듯~",
+    "date": "05.05.13",
+    "rating": "7",
+    "author": "dbsw****",
+    "review_id": "276803",
+    "movie_id": "13287"
+  },
+  {
+    "review": "ㅋㅋ엄마까지 커져서 아이를 달래던게 기억에 남음",
+    "date": "05.04.07",
+    "rating": "7",
+    "author": "pjyl****",
+    "review_id": "255628",
+    "movie_id": "13287"
+  },
+  {
+    "review": "몸이 커져도 아기는 아기..ㅋ",
+    "date": "05.03.26",
+    "rating": "6",
+    "author": "abag****",
+    "review_id": "247610",
+    "movie_id": "13287"
+  },
+  {
+    "review": "오히려 작았을때가 좋았다.",
+    "date": "05.03.26",
+    "rating": "7",
+    "author": "pcw0****",
+    "review_id": "247591",
+    "movie_id": "13287"
+  },
+  {
+    "review": "그당시의 신선함이란..ㅋㅋ",
+    "date": "05.03.12",
+    "rating": "6",
+    "author": "red0****",
+    "review_id": "239363",
+    "movie_id": "13287"
+  },
+  {
+    "review": "이건 우려먹기....1편 애들이 줄었어요는 재밌다",
+    "date": "04.12.10",
+    "rating": "3",
+    "author": "hurr****",
+    "review_id": "159814",
+    "movie_id": "13287"
+  },
+  {
+    "review": "이 시리즈 정말 재밌음!!!ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "04.07.30",
+    "rating": "10",
+    "author": "vvvv****",
+    "review_id": "80134",
+    "movie_id": "13287"
+  }
+]

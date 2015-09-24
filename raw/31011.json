@@ -1,0 +1,34 @@
+[
+  {
+    "review": "대박이염",
+    "date": "07.08.27",
+    "rating": "1",
+    "author": "onan****",
+    "review_id": "1984589",
+    "movie_id": "31011"
+  },
+  {
+    "review": "재미없으니 절대 비추입니다",
+    "date": "06.06.24",
+    "rating": "10",
+    "author": "ajtw****",
+    "review_id": "855426",
+    "movie_id": "31011"
+  },
+  {
+    "review": "말 그대로 SF영화입니다",
+    "date": "06.01.13",
+    "rating": "10",
+    "author": "rotc****",
+    "review_id": "584387",
+    "movie_id": "31011"
+  },
+  {
+    "review": "딥코아 4번에 하구 있어서 보구있어요 ♡",
+    "date": "04.08.17",
+    "rating": "1",
+    "author": "tmdg****",
+    "review_id": "92003",
+    "movie_id": "31011"
+  }
+]

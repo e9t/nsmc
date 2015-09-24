@@ -1,0 +1,50 @@
+[
+  {
+    "review": "수작 코메디",
+    "date": "11.03.13",
+    "rating": "10",
+    "author": "duke****",
+    "review_id": "5310062",
+    "movie_id": "17493"
+  },
+  {
+    "review": "개그하냐?이게 5.50이면 이 세상 모든 영화가 이 영화보다 평점아래겠다.",
+    "date": "09.08.14",
+    "rating": "8",
+    "author": "baks****",
+    "review_id": "3745891",
+    "movie_id": "17493"
+  },
+  {
+    "review": "두 남녀배우의 매력이 돋보이는 로맨틱 코미디.",
+    "date": "06.03.29",
+    "rating": "7",
+    "author": "movi****",
+    "review_id": "740595",
+    "movie_id": "17493"
+  },
+  {
+    "review": "지나 데이비스 이쁘다..",
+    "date": "06.02.20",
+    "rating": "1",
+    "author": "scal****",
+    "review_id": "682517",
+    "movie_id": "17493"
+  },
+  {
+    "review": "수준있는 수작멜로네요",
+    "date": "05.12.17",
+    "rating": "6",
+    "author": "okjo****",
+    "review_id": "509921",
+    "movie_id": "17493"
+  },
+  {
+    "review": "티격태격하던 남여가 사랑에 빠지고마는 모습은 언제봐도 즐겁군요",
+    "date": "04.03.22",
+    "rating": "8",
+    "author": "ruhn****",
+    "review_id": "30673",
+    "movie_id": "17493"
+  }
+]

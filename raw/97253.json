@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "7365245",
+    "movie_id": "97253",
+    "author": "kywk****",
+    "review": "ㄴ",
+    "rating": "10",
+    "date": "13.03.19"
+  },
+  {
+    "review_id": "6794524",
+    "movie_id": "97253",
+    "author": "rudd****",
+    "review": "여태 시리즈 중 제일 재밌었음ㅋ 거슬렸던 광희도 자연스레 빠지고 김병만은 정말 달인인듯",
+    "rating": "9",
+    "date": "12.10.13"
+  },
+  {
+    "review_id": "6621759",
+    "movie_id": "97253",
+    "author": "iiii****",
+    "review": "최고최고",
+    "rating": "10",
+    "date": "12.08.18"
+  },
+  {
+    "review_id": "6563109",
+    "movie_id": "97253",
+    "author": "khb1****",
+    "review": "최고입니다!!",
+    "rating": "10",
+    "date": "12.08.01"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "조으다",
+    "date": "13.01.15",
+    "rating": "10",
+    "author": "alsg****",
+    "review_id": "7119164",
+    "movie_id": "12786"
+  },
+  {
+    "review": "L'Ete Meurtrier",
+    "date": "11.10.12",
+    "rating": "8",
+    "author": "eldy****",
+    "review_id": "5784512",
+    "movie_id": "12786"
+  },
+  {
+    "review": "이자벨 아자니의 상큼한 매력을 느낄 수 있는 영화",
+    "date": "09.05.15",
+    "rating": "7",
+    "author": "gwen****",
+    "review_id": "3497474",
+    "movie_id": "12786"
+  },
+  {
+    "review": "이자벨 아자니.그 영원한 아름다움에 관하여",
+    "date": "07.12.30",
+    "rating": "7",
+    "author": "baks****",
+    "review_id": "2280557",
+    "movie_id": "12786"
+  }
+]

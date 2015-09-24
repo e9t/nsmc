@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "7295808",
+    "movie_id": "90570",
+    "author": "gksw****",
+    "review": "ㅇㅋ",
+    "rating": "10",
+    "date": "13.02.24"
+  },
+  {
+    "review_id": "6865262",
+    "movie_id": "90570",
+    "author": "juns****",
+    "review": "그저그래",
+    "rating": "10",
+    "date": "12.11.08"
+  },
+  {
+    "review_id": "6859720",
+    "movie_id": "90570",
+    "author": "baks****",
+    "review": "1빠다~(웃음)",
+    "rating": "3",
+    "date": "12.11.06"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "review": "너무 재밋어요..완전 감동적임!ㅜㅠ",
+    "date": "13.11.28",
+    "rating": "10",
+    "author": "zmfp****",
+    "review_id": "8172819",
+    "movie_id": "30166"
+  },
+  {
+    "review": "본지는 오래됐지만, 정말 재밌게 봤던 영화입니다.",
+    "date": "07.12.11",
+    "rating": "10",
+    "author": "teen****",
+    "review_id": "2223014",
+    "movie_id": "30166"
+  },
+  {
+    "review": "주제가 부른 가수가 누군지 혹시 아시는분 있나요??",
+    "date": "06.10.09",
+    "rating": "10",
+    "author": "spac****",
+    "review_id": "1173091",
+    "movie_id": "30166"
+  },
+  {
+    "review": "사랑...그거...꼭 말로 전해야..아는걸까요?",
+    "date": "05.03.31",
+    "rating": "9",
+    "author": "pjyl****",
+    "review_id": "250684",
+    "movie_id": "30166"
+  },
+  {
+    "review": "두번째 보는데 그래도 재미있네요 이영화 최고입니다",
+    "date": "05.03.04",
+    "rating": "10",
+    "author": "zzas****",
+    "review_id": "234845",
+    "movie_id": "30166"
+  },
+  {
+    "review": "아름답다. 슬프다.",
+    "date": "04.02.12",
+    "rating": "9",
+    "author": "sekf****",
+    "review_id": "19202",
+    "movie_id": "30166"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "영화 초반부의 흥미 유발도가 떨어지면 캐스팅의 매력이 없다.",
+    "date": "10.08.14",
+    "rating": "4",
+    "author": "stit****",
+    "review_id": "4747017",
+    "movie_id": "26397"
+  },
+  {
+    "review": "재밌었던 영화",
+    "date": "10.01.02",
+    "rating": "6",
+    "author": "rois****",
+    "review_id": "4120949",
+    "movie_id": "26397"
+  },
+  {
+    "review": "감독",
+    "date": "07.09.22",
+    "rating": "10",
+    "author": "bdm7****",
+    "review_id": "2037306",
+    "movie_id": "26397"
+  },
+  {
+    "review": "기대 안하고 봐서 그런지, 그럭저럭 잘 봤음",
+    "date": "06.08.13",
+    "rating": "6",
+    "author": "vudw****",
+    "review_id": "1023946",
+    "movie_id": "26397"
+  }
+]

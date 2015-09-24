@@ -1,0 +1,42 @@
+[
+  {
+    "review": "형 만한 아우 없다",
+    "date": "12.02.23",
+    "rating": "5",
+    "author": "gall****",
+    "review_id": "6099349",
+    "movie_id": "11287"
+  },
+  {
+    "review": "3분이상 보기 힘든 영화",
+    "date": "10.09.19",
+    "rating": "1",
+    "author": "nala****",
+    "review_id": "4846682",
+    "movie_id": "11287"
+  },
+  {
+    "review": "왠지 수상한...",
+    "date": "07.09.22",
+    "rating": "2",
+    "author": "evil****",
+    "review_id": "2036570",
+    "movie_id": "11287"
+  },
+  {
+    "review": "어설프다.",
+    "date": "07.04.23",
+    "rating": "2",
+    "author": "salm****",
+    "review_id": "1601748",
+    "movie_id": "11287"
+  },
+  {
+    "review": "우습다",
+    "date": "06.08.01",
+    "rating": "4",
+    "author": "zeed****",
+    "review_id": "954931",
+    "movie_id": "11287"
+  }
+]

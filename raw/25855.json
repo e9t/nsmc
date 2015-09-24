@@ -1,0 +1,26 @@
+[
+  {
+    "review": "으헝 이건 아닌...ㅠ",
+    "date": "15.06.22",
+    "rating": "1",
+    "author": "dnjs****",
+    "review_id": "10022518",
+    "movie_id": "25855"
+  },
+  {
+    "review": "이건 아닌데",
+    "date": "06.08.02",
+    "rating": "6",
+    "author": "zeed****",
+    "review_id": "957102",
+    "movie_id": "25855"
+  },
+  {
+    "review": "장난하냐? 장난해?",
+    "date": "05.05.04",
+    "rating": "3",
+    "author": "jcr3****",
+    "review_id": "270804",
+    "movie_id": "25855"
+  }
+]

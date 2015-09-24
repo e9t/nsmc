@@ -1,0 +1,42 @@
+[
+  {
+    "review": "그럭저럭",
+    "date": "10.05.16",
+    "rating": "10",
+    "author": "bns2****",
+    "review_id": "4502493",
+    "movie_id": "50528"
+  },
+  {
+    "review": "섹스 앙~~~",
+    "date": "09.08.05",
+    "rating": "10",
+    "author": "vipr****",
+    "review_id": "3711557",
+    "movie_id": "50528"
+  },
+  {
+    "review": "뻔한 스토리를 본거랑 겪어본거에 따라 쉽게 흘려버릴수 없는 영화",
+    "date": "09.06.10",
+    "rating": "10",
+    "author": "woom****",
+    "review_id": "3555753",
+    "movie_id": "50528"
+  },
+  {
+    "review": "여주인공이 이쁜거 말고는 별 느낌 없음.....뻔한 스토리...",
+    "date": "09.05.31",
+    "rating": "7",
+    "author": "aban****",
+    "review_id": "3536062",
+    "movie_id": "50528"
+  },
+  {
+    "review": "섹스를 도구화하는 뻔한 핑크빛 스토리.",
+    "date": "09.03.09",
+    "rating": "1",
+    "author": "evil****",
+    "review_id": "3357093",
+    "movie_id": "50528"
+  }
+]

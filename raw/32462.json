@@ -1,0 +1,26 @@
+[
+  {
+    "review": "그렇다고 1점은 뭐람?",
+    "date": "15.04.05",
+    "rating": "10",
+    "author": "youn****",
+    "review_id": "9829540",
+    "movie_id": "32462"
+  },
+  {
+    "review": "왜 별점이 10점이 되있지",
+    "date": "15.04.04",
+    "rating": "1",
+    "author": "fire****",
+    "review_id": "9825902",
+    "movie_id": "32462"
+  },
+  {
+    "review": "혜은이의 전성시대",
+    "date": "12.12.11",
+    "rating": "10",
+    "author": "luke****",
+    "review_id": "6992793",
+    "movie_id": "32462"
+  }
+]

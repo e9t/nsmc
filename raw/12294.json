@@ -1,0 +1,50 @@
+[
+  {
+    "review": "재밌다",
+    "date": "10.07.19",
+    "rating": "10",
+    "author": "eek5****",
+    "review_id": "4653464",
+    "movie_id": "12294"
+  },
+  {
+    "review": "모두 왜 그런지 알 순 없어도 이해되는 부조리함.",
+    "date": "10.04.27",
+    "rating": "6",
+    "author": "hadl****",
+    "review_id": "4460346",
+    "movie_id": "12294"
+  },
+  {
+    "review": "감독님 정신세계 독특하셩.우울하고 무셔운영화",
+    "date": "10.02.24",
+    "rating": "7",
+    "author": "arse****",
+    "review_id": "4315056",
+    "movie_id": "12294"
+  },
+  {
+    "review": "관람 당시의 흥분을 잊을 수 없다. 다시 보아야겠다.",
+    "date": "08.03.12",
+    "rating": "9",
+    "author": "mhol****",
+    "review_id": "2517036",
+    "movie_id": "12294"
+  },
+  {
+    "review": "아무 것도 느낄 수 없는, 그 무엇도 느낄 것이 없는 영화.",
+    "date": "07.12.11",
+    "rating": "3",
+    "author": "caca****",
+    "review_id": "2223206",
+    "movie_id": "12294"
+  },
+  {
+    "review": "뭐야이거...머이리 건조하고...",
+    "date": "07.09.27",
+    "rating": "5",
+    "author": "ador****",
+    "review_id": "2053568",
+    "movie_id": "12294"
+  }
+]

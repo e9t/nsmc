@@ -1,0 +1,50 @@
+[
+  {
+    "review": "유쾌하면서 풍자도제대로하는 최고의미드",
+    "date": "14.12.11",
+    "rating": "10",
+    "author": "leer****",
+    "review_id": "9465214",
+    "movie_id": "36021"
+  },
+  {
+    "review": "The most sophisticated sitcom",
+    "date": "13.11.18",
+    "rating": "10",
+    "author": "khn2****",
+    "review_id": "8151230",
+    "movie_id": "36021"
+  },
+  {
+    "review": "말이 필요없는 최고의 드라마",
+    "date": "11.09.16",
+    "rating": "10",
+    "author": "kimj****",
+    "review_id": "5735129",
+    "movie_id": "36021"
+  },
+  {
+    "review": "Frasier 혹은 Niles로 부를 수도 있는 쇼.",
+    "date": "11.01.26",
+    "rating": "10",
+    "author": "lost****",
+    "review_id": "5185854",
+    "movie_id": "36021"
+  },
+  {
+    "review": "최고로 웃기고 재미있음!",
+    "date": "10.09.10",
+    "rating": "10",
+    "author": "gomo****",
+    "review_id": "4826779",
+    "movie_id": "36021"
+  },
+  {
+    "review": "재밌는데 요즘 못보네 ㅡㅡ",
+    "date": "05.08.08",
+    "rating": "10",
+    "author": "gkse****",
+    "review_id": "357848",
+    "movie_id": "36021"
+  }
+]

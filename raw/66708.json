@@ -1,0 +1,50 @@
+[
+  {
+    "review": "최고",
+    "date": "09.07.28",
+    "rating": "10",
+    "author": "nnnn****",
+    "review_id": "3677950",
+    "movie_id": "66708"
+  },
+  {
+    "review": "의미를 찾기 힘들었지만 영화자체는 매력적이네요.",
+    "date": "09.06.26",
+    "rating": "7",
+    "author": "only****",
+    "review_id": "3591448",
+    "movie_id": "66708"
+  },
+  {
+    "review": "별 내용 없는 85분..",
+    "date": "08.08.19",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "2885179",
+    "movie_id": "66708"
+  },
+  {
+    "review": "우리 마음의 고향은 어디....? 굉장히 흥미로우면서 여운이 남는 매력적인 영화",
+    "date": "08.05.23",
+    "rating": "8",
+    "author": "bohe****",
+    "review_id": "2657654",
+    "movie_id": "66708"
+  },
+  {
+    "review": "별의미를 찾을수가 없었다. 허전하다.",
+    "date": "07.05.09",
+    "rating": "6",
+    "author": "knck****",
+    "review_id": "1629346",
+    "movie_id": "66708"
+  },
+  {
+    "review": "정말 재밌네여",
+    "date": "07.05.02",
+    "rating": "10",
+    "author": "wnsa****",
+    "review_id": "1617077",
+    "movie_id": "66708"
+  }
+]

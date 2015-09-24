@@ -1,0 +1,34 @@
+[
+  {
+    "review": "재미없네 ㄷㄷ",
+    "date": "11.09.15",
+    "rating": "1",
+    "author": "sju0****",
+    "review_id": "5732931",
+    "movie_id": "21109"
+  },
+  {
+    "review": "이게 머야... ㅠㅠ 줄거리 와 내용 자체스토리가 잘 안 만는듯;;",
+    "date": "10.12.20",
+    "rating": "1",
+    "author": "pjh5****",
+    "review_id": "5069211",
+    "movie_id": "21109"
+  },
+  {
+    "review": "2빠 이건 등수놀이 있쯤 ㅠ",
+    "date": "10.08.19",
+    "rating": "10",
+    "author": "dong****",
+    "review_id": "4764686",
+    "movie_id": "21109"
+  },
+  {
+    "review": "1빠 이건 등수놀이 없쯤 ㅠ",
+    "date": "10.04.12",
+    "rating": "10",
+    "author": "bosu****",
+    "review_id": "4429696",
+    "movie_id": "21109"
+  }
+]

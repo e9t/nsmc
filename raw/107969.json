@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9175920",
+    "movie_id": "107969",
+    "author": "fory****",
+    "review": "개봉한거 맞아요? 보고 싶은데 어디에도 없네",
+    "rating": "1",
+    "date": "14.09.06"
+  },
+  {
+    "review_id": "8096687",
+    "movie_id": "107969",
+    "author": "m132****",
+    "review": "보고싶다 재밌을거같네요",
+    "rating": "10",
+    "date": "13.10.28"
+  },
+  {
+    "review_id": "7935665",
+    "movie_id": "107969",
+    "author": "wjdd****",
+    "review": "이솜의 매력에 빠진다..",
+    "rating": "10",
+    "date": "13.08.30"
+  },
+  {
+    "review_id": "7828905",
+    "movie_id": "107969",
+    "author": "koyh****",
+    "review": "ㄷㄱㄷㄱㄷㄱㄷㄱ",
+    "rating": "1",
+    "date": "13.08.03"
+  },
+  {
+    "review_id": "7663887",
+    "movie_id": "107969",
+    "author": "lee1****",
+    "review": "이거 찍고 얼른 브라운아이즈4집을..",
+    "rating": "10",
+    "date": "13.06.21"
+  }
+]

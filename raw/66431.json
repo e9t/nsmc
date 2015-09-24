@@ -1,0 +1,34 @@
+[
+  {
+    "review": "good",
+    "date": "11.10.29",
+    "rating": "10",
+    "author": "spla****",
+    "review_id": "5817026",
+    "movie_id": "66431"
+  },
+  {
+    "review": "완전재밋어요 위얼 로빈훗!!!",
+    "date": "11.02.15",
+    "rating": "10",
+    "author": "runn****",
+    "review_id": "5245783",
+    "movie_id": "66431"
+  },
+  {
+    "review": "아미타지 만세!!!!!!!!!!!",
+    "date": "09.04.22",
+    "rating": "10",
+    "author": "hisi****",
+    "review_id": "3434879",
+    "movie_id": "66431"
+  },
+  {
+    "review": "역시 '케빈 코스트너'보다 훨 낫다, '조너스' 만세!!!",
+    "date": "08.11.12",
+    "rating": "10",
+    "author": "ar02****",
+    "review_id": "3046648",
+    "movie_id": "66431"
+  }
+]

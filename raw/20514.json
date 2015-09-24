@@ -1,0 +1,26 @@
+[
+  {
+    "review": "좋은대통령으로 만든영화인데 당연히 좋겠죠",
+    "date": "14.04.08",
+    "rating": "10",
+    "author": "adhs****",
+    "review_id": "8635682",
+    "movie_id": "20514"
+  },
+  {
+    "review": "오... 이런 영화가 있군요",
+    "date": "14.03.13",
+    "rating": "1",
+    "author": "wjdg****",
+    "review_id": "8570859",
+    "movie_id": "20514"
+  },
+  {
+    "review": "아.. 그렇군요.. 알겠습니다.",
+    "date": "14.02.18",
+    "rating": "1",
+    "author": "hard****",
+    "review_id": "8519077",
+    "movie_id": "20514"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "review": "재밌게 봤습니다~~~",
+    "date": "14.12.07",
+    "rating": "10",
+    "author": "dlgn****",
+    "review_id": "9456034",
+    "movie_id": "14142"
+  },
+  {
+    "review": "내멋대로1점",
+    "date": "11.08.15",
+    "rating": "1",
+    "author": "ghtp****",
+    "review_id": "5651769",
+    "movie_id": "14142"
+  },
+  {
+    "review": "내 멋대로 10점ㅋㅋㅋ",
+    "date": "10.10.23",
+    "rating": "10",
+    "author": "suic****",
+    "review_id": "4916370",
+    "movie_id": "14142"
+  }
+]

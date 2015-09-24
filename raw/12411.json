@@ -1,0 +1,50 @@
+[
+  {
+    "review": "한국 영화의 황금시대...",
+    "date": "14.09.07",
+    "rating": "8",
+    "author": "band****",
+    "review_id": "9180599",
+    "movie_id": "12411"
+  },
+  {
+    "review": "행복하게 잘 살았습니다. 로 끝나면 재미없지, 강렬하당",
+    "date": "12.03.05",
+    "rating": "6",
+    "author": "rose****",
+    "review_id": "6124681",
+    "movie_id": "12411"
+  },
+  {
+    "review": "그 당시엔 왜 에로물로 보였을까?",
+    "date": "11.08.04",
+    "rating": "4",
+    "author": "pria****",
+    "review_id": "5598359",
+    "movie_id": "12411"
+  },
+  {
+    "review": "좋아요~",
+    "date": "09.07.14",
+    "rating": "10",
+    "author": "bles****",
+    "review_id": "3631568",
+    "movie_id": "12411"
+  },
+  {
+    "review": "요즘 사극보다 훨씬 더 박력있다.",
+    "date": "07.10.10",
+    "rating": "8",
+    "author": "chuc****",
+    "review_id": "2082227",
+    "movie_id": "12411"
+  },
+  {
+    "review": "성애.폭력.동성애.미니멀.사디즘과 매저키즘까지...후와",
+    "date": "07.10.08",
+    "rating": "8",
+    "author": "murt****",
+    "review_id": "2078208",
+    "movie_id": "12411"
+  }
+]

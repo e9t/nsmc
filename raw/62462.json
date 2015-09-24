@@ -1,0 +1,34 @@
+[
+  {
+    "review": "정말  평점 장난하십니까요?",
+    "date": "15.04.23",
+    "rating": "1",
+    "author": "came****",
+    "review_id": "9861466",
+    "movie_id": "62462"
+  },
+  {
+    "review": "롯데월드 시네마에서 한다고 해서 존니 보러가고 싶었는데 결국 못 감 T-T",
+    "date": "13.05.23",
+    "rating": "10",
+    "author": "tak_****",
+    "review_id": "7549873",
+    "movie_id": "62462"
+  },
+  {
+    "review": "오홋~ 나두 목동 극장에서 봤는데~!!!",
+    "date": "10.04.11",
+    "rating": "10",
+    "author": "bhr0****",
+    "review_id": "4427197",
+    "movie_id": "62462"
+  },
+  {
+    "review": "당시엔 대박",
+    "date": "09.12.18",
+    "rating": "8",
+    "author": "inha****",
+    "review_id": "4054328",
+    "movie_id": "62462"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "재미있는 영화임.",
+    "date": "12.04.09",
+    "rating": "9",
+    "author": "myun****",
+    "review_id": "6204770",
+    "movie_id": "11726"
+  },
+  {
+    "review": "강렬한 인상을 남긴다.",
+    "date": "10.06.11",
+    "rating": "7",
+    "author": "evil****",
+    "review_id": "4557978",
+    "movie_id": "11726"
+  },
+  {
+    "review": "긴장감도 있었지만 어설픈 전개를 감출수는 없다",
+    "date": "10.06.01",
+    "rating": "4",
+    "author": "nala****",
+    "review_id": "4538308",
+    "movie_id": "11726"
+  },
+  {
+    "review": "몇가지 맹맹한 구석도 있지만, 그럭저럭 재미있음",
+    "date": "03.12.09",
+    "rating": "7",
+    "author": "tdol****",
+    "review_id": "1604",
+    "movie_id": "11726"
+  }
+]

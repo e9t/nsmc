@@ -1,0 +1,58 @@
+[
+  {
+    "review_id": "6505227",
+    "movie_id": "82958",
+    "author": "yang****",
+    "review": "쓰레기 더럽게 재미없음 2점부터 점수준것들 M창",
+    "rating": "1",
+    "date": "12.07.20"
+  },
+  {
+    "review_id": "6354823",
+    "movie_id": "82958",
+    "author": "phot****",
+    "review": "굿",
+    "rating": "10",
+    "date": "12.06.01"
+  },
+  {
+    "review_id": "5372936",
+    "movie_id": "82958",
+    "author": "duds****",
+    "review": "낚지말자 ㅇㅇ",
+    "rating": "1",
+    "date": "11.04.14"
+  },
+  {
+    "review_id": "5372918",
+    "movie_id": "82958",
+    "author": "dbst****",
+    "review": "평점 버그 ㄱㄱ",
+    "rating": "10",
+    "date": "11.04.14"
+  },
+  {
+    "review_id": "5372098",
+    "movie_id": "82958",
+    "author": "redm****",
+    "review": "나두나두  별 다섯개",
+    "rating": "10",
+    "date": "11.04.13"
+  },
+  {
+    "review_id": "5371517",
+    "movie_id": "82958",
+    "author": "suba****",
+    "review": "1명 밖에 안달았네 내가 별5개 줄게",
+    "rating": "10",
+    "date": "11.04.13"
+  },
+  {
+    "review_id": "5371385",
+    "movie_id": "82958",
+    "author": "kkyk****",
+    "review": "아무도 안달았네 내가 별5개 줄게",
+    "rating": "10",
+    "date": "11.04.13"
+  }
+]

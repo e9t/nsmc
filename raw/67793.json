@@ -1,0 +1,42 @@
+[
+  {
+    "review": "별로였다..",
+    "date": "12.11.19",
+    "rating": "1",
+    "author": "yang****",
+    "review_id": "6904855",
+    "movie_id": "67793"
+  },
+  {
+    "review": "웃기려는데 무거운의미들때문에 웃어지지가않는다 지저분한구성에 나쁘지도좋지도않다",
+    "date": "09.01.14",
+    "rating": "6",
+    "author": "gkag****",
+    "review_id": "3220877",
+    "movie_id": "67793"
+  },
+  {
+    "review": "야하기 보다는 야하길 원하는 영화.",
+    "date": "08.04.19",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "2589338",
+    "movie_id": "67793"
+  },
+  {
+    "review": "누가 물어봐서 보게된 영화 이젠 말할수있다. 보지마라.",
+    "date": "08.01.12",
+    "rating": "1",
+    "author": "nala****",
+    "review_id": "2322062",
+    "movie_id": "67793"
+  },
+  {
+    "review": "10점 한번 줘야지",
+    "date": "07.10.14",
+    "rating": "10",
+    "author": "yang****",
+    "review_id": "2090552",
+    "movie_id": "67793"
+  }
+]

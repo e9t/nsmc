@@ -1,0 +1,34 @@
+[
+  {
+    "review": "역시 최진실은 멋진여자였다.",
+    "date": "12.01.20",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "6003833",
+    "movie_id": "65666"
+  },
+  {
+    "review": "불륜 사실이 밝혀지고 나서부터 스토리는 이미 끝났다고 봐야쥐",
+    "date": "07.04.13",
+    "rating": "3",
+    "author": "king****",
+    "review_id": "1586423",
+    "movie_id": "65666"
+  },
+  {
+    "review": "최진실만 있으면 드라마 대박",
+    "date": "07.01.27",
+    "rating": "10",
+    "author": "dawj****",
+    "review_id": "1416868",
+    "movie_id": "65666"
+  },
+  {
+    "review": "주연배우들의 탄탄한 연기",
+    "date": "07.01.17",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "1390866",
+    "movie_id": "65666"
+  }
+]

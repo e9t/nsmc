@@ -1,0 +1,50 @@
+[
+  {
+    "review": "글쎄..... 자신을 위한 것이 아니었을런지.",
+    "date": "08.04.04",
+    "rating": "7",
+    "author": "bohe****",
+    "review_id": "2558702",
+    "movie_id": "52472"
+  },
+  {
+    "review": "그냥 그런 영화 ...",
+    "date": "05.11.09",
+    "rating": "1",
+    "author": "ubd1****",
+    "review_id": "469683",
+    "movie_id": "52472"
+  },
+  {
+    "review": "good",
+    "date": "05.11.08",
+    "rating": "10",
+    "author": "dark****",
+    "review_id": "468636",
+    "movie_id": "52472"
+  },
+  {
+    "review": "보기전인데 기대된다.. 희한하네~~~~",
+    "date": "05.11.08",
+    "rating": "10",
+    "author": "shar****",
+    "review_id": "468409",
+    "movie_id": "52472"
+  },
+  {
+    "review": "멋진데 ..",
+    "date": "05.11.07",
+    "rating": "10",
+    "author": "lj34****",
+    "review_id": "467329",
+    "movie_id": "52472"
+  },
+  {
+    "review": "흠",
+    "date": "05.11.06",
+    "rating": "10",
+    "author": "chon****",
+    "review_id": "466574",
+    "movie_id": "52472"
+  }
+]

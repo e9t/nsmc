@@ -1,0 +1,66 @@
+[
+  {
+    "review": "영화가 지루했고 초반 도축장은 보기 역겨웠음",
+    "date": "15.01.04",
+    "rating": "5",
+    "author": "thra****",
+    "review_id": "9563232",
+    "movie_id": "31975"
+  },
+  {
+    "review": "평범했다.",
+    "date": "12.11.21",
+    "rating": "6",
+    "author": "eorn****",
+    "review_id": "6909840",
+    "movie_id": "31975"
+  },
+  {
+    "review": "상실한 자아에 대한 탐구서",
+    "date": "12.03.05",
+    "rating": "7",
+    "author": "skyb****",
+    "review_id": "6125198",
+    "movie_id": "31975"
+  },
+  {
+    "review": "뭐 그저 그런 영화 원작을 각색했다는 것 외에는...",
+    "date": "09.01.04",
+    "rating": "6",
+    "author": "issu****",
+    "review_id": "3186421",
+    "movie_id": "31975"
+  },
+  {
+    "review": "중간에 엄청 자버렸지만...후반부는 좋았다.",
+    "date": "07.05.22",
+    "rating": "6",
+    "author": "gold****",
+    "review_id": "1651444",
+    "movie_id": "31975"
+  },
+  {
+    "review": "지루함을 참을 순 없었지만 마지막 대사는 좋았다.",
+    "date": "06.12.29",
+    "rating": "5",
+    "author": "lmr4****",
+    "review_id": "1340223",
+    "movie_id": "31975"
+  },
+  {
+    "review": "원작에 충실했다는 점에 주안점을 두자.",
+    "date": "06.04.22",
+    "rating": "10",
+    "author": "leeh****",
+    "review_id": "771497",
+    "movie_id": "31975"
+  },
+  {
+    "review": "이 감독 소설만 알고 영화는 모른다",
+    "date": "05.05.02",
+    "rating": "2",
+    "author": "f032****",
+    "review_id": "269957",
+    "movie_id": "31975"
+  }
+]

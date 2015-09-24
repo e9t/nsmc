@@ -1,0 +1,50 @@
+[
+  {
+    "review": "재밌음",
+    "date": "11.02.07",
+    "rating": "10",
+    "author": "m153****",
+    "review_id": "5226704",
+    "movie_id": "26259"
+  },
+  {
+    "review": "중학교때 저두 봣는뒈.. 정말 가슴에 남는 영화엿습니다^^",
+    "date": "09.10.11",
+    "rating": "10",
+    "author": "wlfh****",
+    "review_id": "3886348",
+    "movie_id": "26259"
+  },
+  {
+    "review": "영화란 이런것이다..",
+    "date": "08.01.31",
+    "rating": "10",
+    "author": "rlae****",
+    "review_id": "2389968",
+    "movie_id": "26259"
+  },
+  {
+    "review": "중학교떈가 봤는데 참 재밌어요 이런류를 좋아해서",
+    "date": "06.12.14",
+    "rating": "10",
+    "author": "krso****",
+    "review_id": "1291820",
+    "movie_id": "26259"
+  },
+  {
+    "review": "학교에서 봤는데, 재미있어요. 비디오 함 빌려보세요.",
+    "date": "04.12.28",
+    "rating": "10",
+    "author": "kjm2****",
+    "review_id": "171715",
+    "movie_id": "26259"
+  },
+  {
+    "review": "세형제들이 실화가 너무 재미있습니다",
+    "date": "04.06.26",
+    "rating": "8",
+    "author": "jaru****",
+    "review_id": "61028",
+    "movie_id": "26259"
+  }
+]

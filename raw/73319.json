@@ -1,0 +1,34 @@
+[
+  {
+    "review": "박하선 나온 작품중 하나군요 굿굿",
+    "date": "15.04.06",
+    "rating": "10",
+    "author": "sang****",
+    "review_id": "9832066",
+    "movie_id": "73319"
+  },
+  {
+    "review": "흠...뭔가 부족한 느낌이 들었습니다",
+    "date": "14.04.14",
+    "rating": "1",
+    "author": "mon8****",
+    "review_id": "8649414",
+    "movie_id": "73319"
+  },
+  {
+    "review": "역시 김규리 멋지다.",
+    "date": "11.12.22",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "5921755",
+    "movie_id": "73319"
+  },
+  {
+    "review": "이거 내용이 아내의 유혹과 좀 겹치는듯.",
+    "date": "10.02.09",
+    "rating": "8",
+    "author": "tjeh****",
+    "review_id": "4262933",
+    "movie_id": "73319"
+  }
+]

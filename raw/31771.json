@@ -1,0 +1,34 @@
+[
+  {
+    "review": "나 좀 짱임 ㅎㅇㅎㅇ",
+    "date": "08.01.30",
+    "rating": "10",
+    "author": "kpng****",
+    "review_id": "2389040",
+    "movie_id": "31771"
+  },
+  {
+    "review": "This is Sliver Surfer. Sliver Shit!",
+    "date": "08.01.26",
+    "rating": "10",
+    "author": "byun****",
+    "review_id": "2371371",
+    "movie_id": "31771"
+  },
+  {
+    "review": "이게 실버서퍼입니다 실버 쉣 이지요",
+    "date": "08.01.13",
+    "rating": "10",
+    "author": "toyl****",
+    "review_id": "2324901",
+    "movie_id": "31771"
+  },
+  {
+    "review": "나는 관대하다",
+    "date": "07.08.04",
+    "rating": "10",
+    "author": "wodn****",
+    "review_id": "1873165",
+    "movie_id": "31771"
+  }
+]

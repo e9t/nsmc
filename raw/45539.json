@@ -1,0 +1,34 @@
+[
+  {
+    "review": "이런 드라마 또 나왔으며 좋겠다!!",
+    "date": "13.12.27",
+    "rating": "10",
+    "author": "brow****",
+    "review_id": "8312203",
+    "movie_id": "45539"
+  },
+  {
+    "review": "재밌었던 추억의 드라마",
+    "date": "12.09.18",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "6711618",
+    "movie_id": "45539"
+  },
+  {
+    "review": "여러분의 드라마는 현실이 좋아지는 곳입니다..",
+    "date": "06.07.29",
+    "rating": "10",
+    "author": "hell****",
+    "review_id": "939408",
+    "movie_id": "45539"
+  },
+  {
+    "review": "간만에 재밌는 드라마 발견",
+    "date": "06.07.28",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "930179",
+    "movie_id": "45539"
+  }
+]

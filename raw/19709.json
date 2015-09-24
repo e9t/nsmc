@@ -1,0 +1,34 @@
+[
+  {
+    "review": "필름이 아깝다...",
+    "date": "06.05.09",
+    "rating": "1",
+    "author": "0323****",
+    "review_id": "793420",
+    "movie_id": "19709"
+  },
+  {
+    "review": "대박대박!!",
+    "date": "05.09.15",
+    "rating": "10",
+    "author": "hotk****",
+    "review_id": "406432",
+    "movie_id": "19709"
+  },
+  {
+    "review": "우와+ㅁ+!!",
+    "date": "05.09.13",
+    "rating": "10",
+    "author": "nada****",
+    "review_id": "404319",
+    "movie_id": "19709"
+  },
+  {
+    "review": "야성감독의 야심찬 데뷔작! 보지는 못했어도 점수는 주고 싶네.",
+    "date": "04.10.16",
+    "rating": "5",
+    "author": "domi****",
+    "review_id": "126734",
+    "movie_id": "19709"
+  }
+]

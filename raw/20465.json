@@ -1,0 +1,34 @@
+[
+  {
+    "review": "두뇌-1을 하고 보면 잼있습니다",
+    "date": "07.11.04",
+    "rating": "9",
+    "author": "stra****",
+    "review_id": "2132859",
+    "movie_id": "20465"
+  },
+  {
+    "review": "good",
+    "date": "07.10.26",
+    "rating": "5",
+    "author": "cles****",
+    "review_id": "2113008",
+    "movie_id": "20465"
+  },
+  {
+    "review": "볼만한 고전",
+    "date": "07.02.13",
+    "rating": "6",
+    "author": "ysuh****",
+    "review_id": "1467854",
+    "movie_id": "20465"
+  },
+  {
+    "review": "당대 최고작이라는데 지금 보기에는 무리가 있다",
+    "date": "07.02.08",
+    "rating": "3",
+    "author": "okjo****",
+    "review_id": "1454195",
+    "movie_id": "20465"
+  }
+]

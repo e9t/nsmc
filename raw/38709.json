@@ -1,0 +1,50 @@
+[
+  {
+    "review": "많은 것을 생각하게 해준 영화",
+    "date": "13.06.21",
+    "rating": "10",
+    "author": "kim6****",
+    "review_id": "7662611",
+    "movie_id": "38709"
+  },
+  {
+    "review": "잔잔하게 많은 것들을 담아낸 좋은 영화",
+    "date": "11.06.13",
+    "rating": "10",
+    "author": "wend****",
+    "review_id": "5479342",
+    "movie_id": "38709"
+  },
+  {
+    "review": "흠.... 마지막 장면이 서로 안고 끝났는데 좀 허무..",
+    "date": "10.04.15",
+    "rating": "6",
+    "author": "sang****",
+    "review_id": "4434503",
+    "movie_id": "38709"
+  },
+  {
+    "review": "감흥없음",
+    "date": "08.06.05",
+    "rating": "1",
+    "author": "caca****",
+    "review_id": "2681442",
+    "movie_id": "38709"
+  },
+  {
+    "review": "영화굿~",
+    "date": "04.11.01",
+    "rating": "10",
+    "author": "feli****",
+    "review_id": "136801",
+    "movie_id": "38709"
+  },
+  {
+    "review": "동성애에 대한 편견과 질시만이 정당한가에 대한 진지한 의문과 성찰...",
+    "date": "04.05.26",
+    "rating": "7",
+    "author": "hts5****",
+    "review_id": "46106",
+    "movie_id": "38709"
+  }
+]

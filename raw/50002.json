@@ -1,0 +1,42 @@
+[
+  {
+    "review": "김병만도 나왔었네?",
+    "date": "12.06.26",
+    "rating": "6",
+    "author": "tn99****",
+    "review_id": "6417455",
+    "movie_id": "50002"
+  },
+  {
+    "review": "재밌어요",
+    "date": "10.12.22",
+    "rating": "9",
+    "author": "k90c****",
+    "review_id": "5073132",
+    "movie_id": "50002"
+  },
+  {
+    "review": "오 씨발 캐스팅 쩐다",
+    "date": "09.12.08",
+    "rating": "6",
+    "author": "wlsd****",
+    "review_id": "4027290",
+    "movie_id": "50002"
+  },
+  {
+    "review": "정말 배우들이 아깝다...!!",
+    "date": "09.03.09",
+    "rating": "1",
+    "author": "gha7****",
+    "review_id": "3356680",
+    "movie_id": "50002"
+  },
+  {
+    "review": "굿!!",
+    "date": "08.08.15",
+    "rating": "10",
+    "author": "tred****",
+    "review_id": "2873226",
+    "movie_id": "50002"
+  }
+]

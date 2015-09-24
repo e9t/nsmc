@@ -1,0 +1,34 @@
+[
+  {
+    "review": "참으로 재미없고 시시하고 뻔뻔하기 까지하다.",
+    "date": "11.04.23",
+    "rating": "1",
+    "author": "evil****",
+    "review_id": "5389081",
+    "movie_id": "40658"
+  },
+  {
+    "review": "동남아 스크린쿼터냐?",
+    "date": "06.08.10",
+    "rating": "1",
+    "author": "fq61****",
+    "review_id": "989213",
+    "movie_id": "40658"
+  },
+  {
+    "review": "다세포 소녀에게 질 순 없지.",
+    "date": "06.08.08",
+    "rating": "9",
+    "author": "snow****",
+    "review_id": "984276",
+    "movie_id": "40658"
+  },
+  {
+    "review": "왜 2004년 영화가 지금 개봉하지?",
+    "date": "06.08.05",
+    "rating": "1",
+    "author": "prad****",
+    "review_id": "972402",
+    "movie_id": "40658"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "7478944",
+    "movie_id": "98147",
+    "author": "baks****",
+    "review": "바보들의행진...",
+    "rating": "3",
+    "date": "13.04.24"
+  },
+  {
+    "review_id": "6759998",
+    "movie_id": "98147",
+    "author": "b_b_****",
+    "review": "재미써요",
+    "rating": "10",
+    "date": "12.10.03"
+  },
+  {
+    "review_id": "6710984",
+    "movie_id": "98147",
+    "author": "fink****",
+    "review": "승부 아닌듯..",
+    "rating": "5",
+    "date": "12.09.18"
+  }
+]

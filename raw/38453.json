@@ -1,0 +1,802 @@
+[
+  {
+    "review": "커피와 담배와 일상의 위트",
+    "date": "14.12.30",
+    "rating": "8",
+    "author": "kth3****",
+    "review_id": "9538016",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배, 이게 점심이에요?",
+    "date": "14.08.21",
+    "rating": "10",
+    "author": "ala9****",
+    "review_id": "9116803",
+    "movie_id": "38453"
+  },
+  {
+    "review": "소재와 컨셉, 구성까지 정말 신선하고 기대했지만 연하디 연한 블랙커피처럼 싱겁고 미지근한 유머가 전부란 말인가ㅠ 쌉싸름한 담배처럼 냉소적이고 직설적인 리액션에서 웃어야 하는건지.. 훨씬 더 진하고 깊은 대사들을 늘어놓기에 더없이 좋은 배경인데 아쉽다.",
+    "date": "14.08.17",
+    "rating": "7",
+    "author": "dltk****",
+    "review_id": "9102154",
+    "movie_id": "38453"
+  },
+  {
+    "review": "이 영화는 소장해야한다.",
+    "date": "14.08.05",
+    "rating": "10",
+    "author": "khki****",
+    "review_id": "9034074",
+    "movie_id": "38453"
+  },
+  {
+    "review": "현대에 시의 적절한 영화.",
+    "date": "14.07.25",
+    "rating": "7",
+    "author": "dlwo****",
+    "review_id": "8958632",
+    "movie_id": "38453"
+  },
+  {
+    "review": "스티브 부세미 보러왔다가 짐자무쉬에게 빠져버리게 한 영화 예술적으로 너무나 멋진 영화다.",
+    "date": "14.06.06",
+    "rating": "9",
+    "author": "nyzz****",
+    "review_id": "8805695",
+    "movie_id": "38453"
+  },
+  {
+    "review": "나는 이거 잘이해가 안간다",
+    "date": "14.04.13",
+    "rating": "3",
+    "author": "cult****",
+    "review_id": "8647405",
+    "movie_id": "38453"
+  },
+  {
+    "review": "흑백 영화의 매력. 뛰어난 배우들. 독창적이고 개성넘치는 대사 ㅎ",
+    "date": "14.03.30",
+    "rating": "9",
+    "author": "infi****",
+    "review_id": "8616751",
+    "movie_id": "38453"
+  },
+  {
+    "review": "스타일리쉬하고 재미없는 코미디",
+    "date": "13.12.17",
+    "rating": "6",
+    "author": "ykdi****",
+    "review_id": "8221567",
+    "movie_id": "38453"
+  },
+  {
+    "review": "헐 나도 방금 배역보고 일인이역인거 알았다 와 둘이 다른사람인줄..",
+    "date": "13.11.12",
+    "rating": "9",
+    "author": "yeah****",
+    "review_id": "8133210",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배에 위대함(?)을  옴니버스 형식으로 배우들의 연기배틀로 보여줌.쿠엔틴 타란티노식의 영양가 없는 수다를  좋아하는 분들이라면 강추~!!!",
+    "date": "13.08.24",
+    "rating": "10",
+    "author": "skwo****",
+    "review_id": "7917816",
+    "movie_id": "38453"
+  },
+  {
+    "review": "굿",
+    "date": "13.08.19",
+    "rating": "9",
+    "author": "jazz****",
+    "review_id": "7903752",
+    "movie_id": "38453"
+  },
+  {
+    "review": "케이트블란쳇은못하는연기가업으심..",
+    "date": "13.08.03",
+    "rating": "10",
+    "author": "rnjs****",
+    "review_id": "7830091",
+    "movie_id": "38453"
+  },
+  {
+    "review": "케이트블란쳇 진짜 대단한듯 난 같은 사람인줄 몰랐다 진심",
+    "date": "13.05.12",
+    "rating": "10",
+    "author": "heyd****",
+    "review_id": "7524418",
+    "movie_id": "38453"
+  },
+  {
+    "review": "어렵게 끊은 담배 생각날까봐 1점 주고 외면한다",
+    "date": "13.04.03",
+    "rating": "1",
+    "author": "kjc7****",
+    "review_id": "7432225",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배 손떨려서 우째!!! 에피소드 하나하나가 기억에 남는다. 짐자무시 짱 ㅋㅋ",
+    "date": "13.03.13",
+    "rating": "10",
+    "author": "jisu****",
+    "review_id": "7343795",
+    "movie_id": "38453"
+  },
+  {
+    "review": "ㅋ ㅋ",
+    "date": "13.03.02",
+    "rating": "10",
+    "author": "sylo****",
+    "review_id": "7319088",
+    "movie_id": "38453"
+  },
+  {
+    "review": "재밌당",
+    "date": "13.01.27",
+    "rating": "10",
+    "author": "jeon****",
+    "review_id": "7182084",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배의 쓴 맛이 느껴지는 블랙코미디",
+    "date": "12.03.21",
+    "rating": "7",
+    "author": "wlfa****",
+    "review_id": "6158430",
+    "movie_id": "38453"
+  },
+  {
+    "review": "무미건조함 속에 빛과 소금 그것이 커피와 담배",
+    "date": "12.02.18",
+    "rating": "8",
+    "author": "bbag****",
+    "review_id": "6085792",
+    "movie_id": "38453"
+  },
+  {
+    "review": "우리 일상 속 커피와 담배, 커피와담배 안의 우리 일상. 독특했다",
+    "date": "11.12.30",
+    "rating": "8",
+    "author": "zhen****",
+    "review_id": "5946812",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배, 그리고 삶의 모습들..무엇이 더 필요한가 이것이 보통 삶인데",
+    "date": "11.12.08",
+    "rating": "9",
+    "author": "jys4****",
+    "review_id": "5894246",
+    "movie_id": "38453"
+  },
+  {
+    "review": "르네 프렌치가 누구죠?",
+    "date": "11.11.26",
+    "rating": "9",
+    "author": "dent****",
+    "review_id": "5872291",
+    "movie_id": "38453"
+  },
+  {
+    "review": "담배와 커피는 역시 혼자 있을 때 제 맛.",
+    "date": "11.11.21",
+    "rating": "3",
+    "author": "smil****",
+    "review_id": "5862916",
+    "movie_id": "38453"
+  },
+  {
+    "review": "샴페인?  종이컵 안에 든 커피에 버무려진 담배꽁초.",
+    "date": "11.11.15",
+    "rating": "9",
+    "author": "dleh****",
+    "review_id": "5851770",
+    "movie_id": "38453"
+  },
+  {
+    "review": "아 재밌다.",
+    "date": "11.11.02",
+    "rating": "8",
+    "author": "jjh8****",
+    "review_id": "5823750",
+    "movie_id": "38453"
+  },
+  {
+    "review": "정말 재밌는 영화다.역시 커피와 담배는 끊으면 안되는것.",
+    "date": "11.08.30",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "5697815",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배와 이야기. 영화에 꼭 들어맞는 미쟝센도 운치를 더한다.",
+    "date": "11.08.12",
+    "rating": "8",
+    "author": "ejia****",
+    "review_id": "5643241",
+    "movie_id": "38453"
+  },
+  {
+    "review": "'지상의 밤'만큼은 아지만 짐 자무시의 이야기들 참 좋다!^^",
+    "date": "11.07.15",
+    "rating": "7",
+    "author": "bboj****",
+    "review_id": "5544072",
+    "movie_id": "38453"
+  },
+  {
+    "review": "지루한 편도 있지만 재밌다. 사람사는 모습 어디든 다를게 없구나 싶어 졌던 영화.",
+    "date": "11.07.06",
+    "rating": "7",
+    "author": "plas****",
+    "review_id": "5524595",
+    "movie_id": "38453"
+  },
+  {
+    "review": "충무로는 이렇게 스타일과 유머,생활의 발견이 생생한 단편 만드는 연습을 해야",
+    "date": "11.05.10",
+    "rating": "8",
+    "author": "mist****",
+    "review_id": "5420295",
+    "movie_id": "38453"
+  },
+  {
+    "review": "적당한 온도, 적당한 당도. 커피만큼 좋은 자무쉬의 영화들.",
+    "date": "11.02.05",
+    "rating": "9",
+    "author": "fash****",
+    "review_id": "5219234",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피홀짝거리면서 평점남긴다",
+    "date": "11.01.24",
+    "rating": "8",
+    "author": "asun****",
+    "review_id": "5180709",
+    "movie_id": "38453"
+  },
+  {
+    "review": "소소하고 코믹적이면서도 카페인,니코틴의 중독의 중독을 더해준",
+    "date": "11.01.19",
+    "rating": "9",
+    "author": "kwuk****",
+    "review_id": "5169812",
+    "movie_id": "38453"
+  },
+  {
+    "review": "이 끌림은 뭐지?",
+    "date": "11.01.15",
+    "rating": "9",
+    "author": "jae9****",
+    "review_id": "5159486",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배 거부할수 없는 조합",
+    "date": "11.01.12",
+    "rating": "9",
+    "author": "jndb****",
+    "review_id": "5152826",
+    "movie_id": "38453"
+  },
+  {
+    "review": "처음은 쓰나, 마실수록 빠져드는 블랙커피와 같은 영화.. 케이트블랑쉐 최고!",
+    "date": "11.01.03",
+    "rating": "9",
+    "author": "come****",
+    "review_id": "5119554",
+    "movie_id": "38453"
+  },
+  {
+    "review": "짐 자무쉬 스타일이 너무좋다 조용한위트가 물씬물씬",
+    "date": "10.12.08",
+    "rating": "9",
+    "author": "tkdz****",
+    "review_id": "5038105",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배의 유혹, 담백한 대화들, 덤으로 재치를 섞었다.",
+    "date": "10.12.08",
+    "rating": "9",
+    "author": "gksq****",
+    "review_id": "5035418",
+    "movie_id": "38453"
+  },
+  {
+    "review": "깔끔함과 재치의 미학인듯",
+    "date": "10.07.03",
+    "rating": "8",
+    "author": "hong****",
+    "review_id": "4607377",
+    "movie_id": "38453"
+  },
+  {
+    "review": "담배도 안하고 컴피도 즐겨마시지 않아서 보다가 잤다. 그래도 짐 자무시니까!",
+    "date": "10.06.30",
+    "rating": "8",
+    "author": "thew****",
+    "review_id": "4600822",
+    "movie_id": "38453"
+  },
+  {
+    "review": "무엇 하나 거슬릴 게 없다. 단지 감탄밖에는... 아, 짐 자무시!",
+    "date": "10.06.18",
+    "rating": "10",
+    "author": "ckdt****",
+    "review_id": "4574075",
+    "movie_id": "38453"
+  },
+  {
+    "review": "옴니버스의 승리",
+    "date": "10.06.14",
+    "rating": "10",
+    "author": "7vir****",
+    "review_id": "4563842",
+    "movie_id": "38453"
+  },
+  {
+    "review": "매력있다",
+    "date": "10.03.12",
+    "rating": "10",
+    "author": "sury****",
+    "review_id": "4351278",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피도 담배도 안해서 그런가? 대화의 묘미도 타란티노에 비해 떨어지고...",
+    "date": "10.02.22",
+    "rating": "7",
+    "author": "for_****",
+    "review_id": "4310912",
+    "movie_id": "38453"
+  },
+  {
+    "review": "카페인과 니코틴.. 희한하게 웃기시네",
+    "date": "10.02.03",
+    "rating": "6",
+    "author": "bbq2****",
+    "review_id": "4240869",
+    "movie_id": "38453"
+  },
+  {
+    "review": "처음본건 중3때엿는데 캐지루. 3년후 지금은 진짜 너무웃겨서 시간가는줄도몰랐던",
+    "date": "10.01.21",
+    "rating": "10",
+    "author": "cjfd****",
+    "review_id": "4193882",
+    "movie_id": "38453"
+  },
+  {
+    "review": "ㅋㅋ 이게뭐야",
+    "date": "09.08.28",
+    "rating": "4",
+    "author": "abio****",
+    "review_id": "3794585",
+    "movie_id": "38453"
+  },
+  {
+    "review": "마치 소품 책을 읽는 듯한, 일상의 소소한 재미",
+    "date": "09.08.07",
+    "rating": "6",
+    "author": "acin****",
+    "review_id": "3718083",
+    "movie_id": "38453"
+  },
+  {
+    "review": "가치나 신념이 없는이들. 인생을 그저 놀이감,유흥으로 생각하는이들에 대한 영화",
+    "date": "09.07.25",
+    "rating": "1",
+    "author": "moom****",
+    "review_id": "3664921",
+    "movie_id": "38453"
+  },
+  {
+    "review": "자기합리화에 패배주의자들",
+    "date": "09.07.25",
+    "rating": "1",
+    "author": "moom****",
+    "review_id": "3664917",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와담배처럼 오묘한 영화..",
+    "date": "09.06.05",
+    "rating": "9",
+    "author": "tole****",
+    "review_id": "3545041",
+    "movie_id": "38453"
+  },
+  {
+    "review": "로베르토 베니니의 미쿡말이 넘 웃겼던 기억이,,,,ㅋ",
+    "date": "09.05.03",
+    "rating": "10",
+    "author": "leem****",
+    "review_id": "3463278",
+    "movie_id": "38453"
+  },
+  {
+    "review": "독특하네요 ㅋ",
+    "date": "09.05.02",
+    "rating": "10",
+    "author": "2pup****",
+    "review_id": "3457644",
+    "movie_id": "38453"
+  },
+  {
+    "review": "최고다",
+    "date": "09.04.29",
+    "rating": "10",
+    "author": "minh****",
+    "review_id": "3448045",
+    "movie_id": "38453"
+  },
+  {
+    "review": "11가지 커피맛. 심장이 두근거린다.",
+    "date": "09.04.06",
+    "rating": "8",
+    "author": "5292****",
+    "review_id": "3408591",
+    "movie_id": "38453"
+  },
+  {
+    "review": "자무시의 영화는 다 소품 같다. 그만큼 작지만, 그만큼 진솔하다. 그래서 좋다.",
+    "date": "09.03.02",
+    "rating": "9",
+    "author": "paus****",
+    "review_id": "3343646",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배는 단지 누군가의 취향인 것을 ~ '꾸진' 좋았다 물론 부세미도",
+    "date": "09.02.21",
+    "rating": "8",
+    "author": "witc****",
+    "review_id": "3321620",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배!  오묘한 매력을 가진..이런거 좋다~",
+    "date": "09.02.16",
+    "rating": "9",
+    "author": "dian****",
+    "review_id": "3308375",
+    "movie_id": "38453"
+  },
+  {
+    "review": "나중에 커피와 담배를 하게 된다면  별점이 더 높아 질래나?!",
+    "date": "08.12.31",
+    "rating": "7",
+    "author": "dodl****",
+    "review_id": "3170083",
+    "movie_id": "38453"
+  },
+  {
+    "review": "분명한건 금연 운동에 별 도움이 될것같지 않다는거..높은 평점은 이해가 안됨..",
+    "date": "08.12.02",
+    "rating": "3",
+    "author": "1pim****",
+    "review_id": "3086383",
+    "movie_id": "38453"
+  },
+  {
+    "review": "100분 동안 잡다한 사람들의 토킹 어바웃...",
+    "date": "08.10.10",
+    "rating": "8",
+    "author": "kimg****",
+    "review_id": "2992722",
+    "movie_id": "38453"
+  },
+  {
+    "review": "보면서 두잔의 커피와 세개비의 담배를 폈다",
+    "date": "08.09.27",
+    "rating": "7",
+    "author": "korn****",
+    "review_id": "2971532",
+    "movie_id": "38453"
+  },
+  {
+    "review": "영화를 보며 담배를 피고 커피를 마시고 큰일을 봤다",
+    "date": "08.09.20",
+    "rating": "10",
+    "author": "balk****",
+    "review_id": "2960148",
+    "movie_id": "38453"
+  },
+  {
+    "review": "재밌다 마지막 에피소드를 보니 이 영화는 인생을 얘기하는 것 같다",
+    "date": "08.08.06",
+    "rating": "10",
+    "author": "nury****",
+    "review_id": "2841218",
+    "movie_id": "38453"
+  },
+  {
+    "review": "네 파트 정도는 상당한 만족, 물론 놓칠 것은 없다.",
+    "date": "08.08.03",
+    "rating": "7",
+    "author": "paci****",
+    "review_id": "2830043",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 같은 깊은 향과 담배처럼 묘한 중독성을 가진 영화!",
+    "date": "08.05.19",
+    "rating": "10",
+    "author": "logi****",
+    "review_id": "2652547",
+    "movie_id": "38453"
+  },
+  {
+    "review": "묘한 거리감과 냉소적 태도 + 흑백화면 + 커피와 담배 아 이느낌",
+    "date": "08.05.08",
+    "rating": "10",
+    "author": "jury****",
+    "review_id": "2623840",
+    "movie_id": "38453"
+  },
+  {
+    "review": "깔깔거릴 영화는 아니다. 하지만 이런 묘한 코미디의 매력이 훨씬 좋다.",
+    "date": "08.02.16",
+    "rating": "8",
+    "author": "ever****",
+    "review_id": "2451850",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피도 담배도 싫어한다. 사람은 좋아하지만... 그래서 참을 수 있다.",
+    "date": "08.02.15",
+    "rating": "8",
+    "author": "xell****",
+    "review_id": "2446307",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배와 영화.. 최고의 기호품.",
+    "date": "08.02.04",
+    "rating": "8",
+    "author": "jhga****",
+    "review_id": "2406581",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피를 매우싫어하고 담배냄새를 싫어하는 나에겐 지루하기만할뿐,",
+    "date": "08.01.29",
+    "rating": "2",
+    "author": "high****",
+    "review_id": "2383772",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배 속에서 우리 사회의 단면이 보인다.",
+    "date": "08.01.07",
+    "rating": "9",
+    "author": "godj****",
+    "review_id": "2306222",
+    "movie_id": "38453"
+  },
+  {
+    "review": "일상적인 대화와 커피와 담배....케이트의 연기가 인상적",
+    "date": "07.12.15",
+    "rating": "6",
+    "author": "leh0****",
+    "review_id": "2234114",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배, 그 오묘한 조화에 중독되다",
+    "date": "07.12.06",
+    "rating": "9",
+    "author": "oohy****",
+    "review_id": "2210271",
+    "movie_id": "38453"
+  },
+  {
+    "review": "첨엔 뭔가 했지만 보다보면 재밌음 앞의 에피소드 패러디하는 게 젤 웃김",
+    "date": "07.11.26",
+    "rating": "10",
+    "author": "myiv****",
+    "review_id": "2184546",
+    "movie_id": "38453"
+  },
+  {
+    "review": "제목 그대로다..",
+    "date": "07.11.23",
+    "rating": "8",
+    "author": "ansu****",
+    "review_id": "2176131",
+    "movie_id": "38453"
+  },
+  {
+    "review": "인류를 중독시킨 커피와 담배.. 무언가 생각을 해보자..",
+    "date": "07.11.10",
+    "rating": "8",
+    "author": "good****",
+    "review_id": "2142498",
+    "movie_id": "38453"
+  },
+  {
+    "review": "바그다드카페에서저수지의개들을만나다...",
+    "date": "07.11.05",
+    "rating": "5",
+    "author": "wnsg****",
+    "review_id": "2134274",
+    "movie_id": "38453"
+  },
+  {
+    "review": "짐자무시의 인맥 자랑용영화, 즐기기에는 취향이 딸린다. 젠장할...",
+    "date": "07.10.18",
+    "rating": "5",
+    "author": "bebe****",
+    "review_id": "2095856",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배속에 담긴 인생의 즐겁고, 소소한 대화",
+    "date": "07.10.14",
+    "rating": "8",
+    "author": "ghdl****",
+    "review_id": "2089078",
+    "movie_id": "38453"
+  },
+  {
+    "review": "초호화 캐스팅 영화 사상 최고의 걸작",
+    "date": "07.10.07",
+    "rating": "8",
+    "author": "v292****",
+    "review_id": "2076806",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피도 좋고 담배도 좋고 커피와 담배도 좋았다_",
+    "date": "07.10.02",
+    "rating": "10",
+    "author": "wwwy****",
+    "review_id": "2066182",
+    "movie_id": "38453"
+  },
+  {
+    "review": "짐자무시의흑백이좋다",
+    "date": "07.10.02",
+    "rating": "10",
+    "author": "pwl1****",
+    "review_id": "2066128",
+    "movie_id": "38453"
+  },
+  {
+    "review": "캬아~ 너무 좋다 블란쳇,베니니,머레이,쿠건,몰리나,웨이츠",
+    "date": "07.09.21",
+    "rating": "9",
+    "author": "scri****",
+    "review_id": "2036188",
+    "movie_id": "38453"
+  },
+  {
+    "review": "내가 커피와 담배를 즐긴다는 사실이 흡족했던 영화",
+    "date": "07.09.05",
+    "rating": "10",
+    "author": "majd****",
+    "review_id": "2001936",
+    "movie_id": "38453"
+  },
+  {
+    "review": "소소한 일상과 담배 그리고 커피.",
+    "date": "07.09.02",
+    "rating": "8",
+    "author": "unit****",
+    "review_id": "1996835",
+    "movie_id": "38453"
+  },
+  {
+    "review": "솔직히 모르겟어.",
+    "date": "07.08.14",
+    "rating": "8",
+    "author": "llne****",
+    "review_id": "1938235",
+    "movie_id": "38453"
+  },
+  {
+    "review": "재밌어",
+    "date": "07.08.13",
+    "rating": "10",
+    "author": "eek5****",
+    "review_id": "1933098",
+    "movie_id": "38453"
+  },
+  {
+    "review": "흡연자와 카페인중독자들을 위한 영화",
+    "date": "07.08.11",
+    "rating": "7",
+    "author": "unfa****",
+    "review_id": "1921241",
+    "movie_id": "38453"
+  },
+  {
+    "review": "영화관에서 볼 수 있다는 사실이 행복하다.",
+    "date": "07.08.03",
+    "rating": "9",
+    "author": "equa****",
+    "review_id": "1856959",
+    "movie_id": "38453"
+  },
+  {
+    "review": "good~",
+    "date": "07.07.17",
+    "rating": "9",
+    "author": "nano****",
+    "review_id": "1786285",
+    "movie_id": "38453"
+  },
+  {
+    "review": "진지할 거 없다.진지한모노톤에서빌머레이가앞치마를두르고있다면폭소를 터뜨린다.",
+    "date": "07.07.11",
+    "rating": "10",
+    "author": "hyom****",
+    "review_id": "1765957",
+    "movie_id": "38453"
+  },
+  {
+    "review": "까만 커피, 흰 담배. 흑백화면에 담겨지는 어색한 이야기들, 좋다.",
+    "date": "07.06.14",
+    "rating": "9",
+    "author": "jihy****",
+    "review_id": "1701028",
+    "movie_id": "38453"
+  },
+  {
+    "review": "커피와 담배, 체크무늬 테이블, 짐 자무쉬의 특기 Great!!",
+    "date": "07.05.23",
+    "rating": "8",
+    "author": "znzn****",
+    "review_id": "1652111",
+    "movie_id": "38453"
+  },
+  {
+    "review": "아 정말 담배물고 커피 마시는 여유로움이란.",
+    "date": "07.05.13",
+    "rating": "8",
+    "author": "sspi****",
+    "review_id": "1635469",
+    "movie_id": "38453"
+  },
+  {
+    "review": "한 모금만.",
+    "date": "07.04.03",
+    "rating": "8",
+    "author": "anoc****",
+    "review_id": "1570245",
+    "movie_id": "38453"
+  },
+  {
+    "review": "너무 재밌었다 정말",
+    "date": "07.04.01",
+    "rating": "10",
+    "author": "isti****",
+    "review_id": "1566752",
+    "movie_id": "38453"
+  },
+  {
+    "review": "복잡하지않은영화",
+    "date": "07.04.01",
+    "rating": "10",
+    "author": "cold****",
+    "review_id": "1566173",
+    "movie_id": "38453"
+  },
+  {
+    "review": "시사대담 스타일 교양영화",
+    "date": "07.03.13",
+    "rating": "8",
+    "author": "aura****",
+    "review_id": "1532738",
+    "movie_id": "38453"
+  }
+]

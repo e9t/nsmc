@@ -1,0 +1,50 @@
+[
+  {
+    "review": "시도는 좋지만 마음에 와닿지는 못했다.",
+    "date": "05.08.20",
+    "rating": "5",
+    "author": "soom****",
+    "review_id": "376297",
+    "movie_id": "37143"
+  },
+  {
+    "review": "cjs",
+    "date": "04.10.23",
+    "rating": "10",
+    "author": "wtp0****",
+    "review_id": "131353",
+    "movie_id": "37143"
+  },
+  {
+    "review": "찬아꼭대마왕쿡을물리치고요리신이돼렴",
+    "date": "04.10.10",
+    "rating": "10",
+    "author": "yong****",
+    "review_id": "123264",
+    "movie_id": "37143"
+  },
+  {
+    "review": "별점5개주니깐 갈켜주셈",
+    "date": "04.05.01",
+    "rating": "5",
+    "author": "vnzk****",
+    "review_id": "40246",
+    "movie_id": "37143"
+  },
+  {
+    "review": ";",
+    "date": "04.02.29",
+    "rating": "5",
+    "author": "jung****",
+    "review_id": "25537",
+    "movie_id": "37143"
+  },
+  {
+    "review": "gg",
+    "date": "04.02.15",
+    "rating": "1",
+    "author": "pojk****",
+    "review_id": "20433",
+    "movie_id": "37143"
+  }
+]

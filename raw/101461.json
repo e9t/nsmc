@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "7733574",
+    "movie_id": "101461",
+    "author": "hyun****",
+    "review": "풋..",
+    "rating": "10",
+    "date": "13.07.13"
+  },
+  {
+    "review_id": "7656078",
+    "movie_id": "101461",
+    "author": "shsh****",
+    "review": "카와이",
+    "rating": "10",
+    "date": "13.06.19"
+  },
+  {
+    "review_id": "7656041",
+    "movie_id": "101461",
+    "author": "sh15****",
+    "review": "이거 어디서 다운 받죠?",
+    "rating": "10",
+    "date": "13.06.19"
+  },
+  {
+    "review_id": "7651678",
+    "movie_id": "101461",
+    "author": "iiii****",
+    "review": "타액으로 만화를 하다니 신선했다",
+    "rating": "10",
+    "date": "13.06.17"
+  }
+]

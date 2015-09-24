@@ -1,0 +1,26 @@
+[
+  {
+    "review": "이 영화가 재미있는자 날 욕해라. 그리고 돌을 던져라",
+    "date": "14.12.22",
+    "rating": "1",
+    "author": "hang****",
+    "review_id": "9502423",
+    "movie_id": "24185"
+  },
+  {
+    "review": "왜 재개봉을 한거지..",
+    "date": "14.11.09",
+    "rating": "5",
+    "author": "alem****",
+    "review_id": "9360052",
+    "movie_id": "24185"
+  },
+  {
+    "review": "누가 그녀에게 돌을 던지겠는가?",
+    "date": "14.10.23",
+    "rating": "5",
+    "author": "pont****",
+    "review_id": "9308559",
+    "movie_id": "24185"
+  }
+]

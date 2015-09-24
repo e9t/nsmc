@@ -1,0 +1,26 @@
+[
+  {
+    "review": "르엉",
+    "date": "10.11.30",
+    "rating": "10",
+    "author": "canc****",
+    "review_id": "5009158",
+    "movie_id": "20930"
+  },
+  {
+    "review": "재밌어요~",
+    "date": "10.03.07",
+    "rating": "10",
+    "author": "sk__****",
+    "review_id": "4340966",
+    "movie_id": "20930"
+  },
+  {
+    "review": "ㅋ영화임?",
+    "date": "09.12.09",
+    "rating": "1",
+    "author": "lt00****",
+    "review_id": "4030373",
+    "movie_id": "20930"
+  }
+]

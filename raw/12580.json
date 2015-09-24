@@ -1,0 +1,34 @@
+[
+  {
+    "review": "B급인데 내용은 그럭저럭 하지만 적당한 재미가 있다",
+    "date": "08.03.15",
+    "rating": "8",
+    "author": "deff****",
+    "review_id": "2521096",
+    "movie_id": "12580"
+  },
+  {
+    "review": "그럭저럭..",
+    "date": "06.01.13",
+    "rating": "8",
+    "author": "nept****",
+    "review_id": "583705",
+    "movie_id": "12580"
+  },
+  {
+    "review": "어중간",
+    "date": "04.12.26",
+    "rating": "5",
+    "author": "chip****",
+    "review_id": "170352",
+    "movie_id": "12580"
+  },
+  {
+    "review": ".",
+    "date": "04.02.29",
+    "rating": "8",
+    "author": "kym_****",
+    "review_id": "25649",
+    "movie_id": "12580"
+  }
+]

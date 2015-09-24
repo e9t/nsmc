@@ -1,0 +1,42 @@
+[
+  {
+    "review": "hhh",
+    "date": "13.07.30",
+    "rating": "1",
+    "author": "haso****",
+    "review_id": "7800345",
+    "movie_id": "12999"
+  },
+  {
+    "review": "hhh",
+    "date": "13.07.30",
+    "rating": "1",
+    "author": "gu10****",
+    "review_id": "7800344",
+    "movie_id": "12999"
+  },
+  {
+    "review": "컬트나 트래쉬 따위의 장르로 가둘수 없는 영화가 있다.",
+    "date": "10.11.20",
+    "rating": "10",
+    "author": "llip****",
+    "review_id": "4973658",
+    "movie_id": "12999"
+  },
+  {
+    "review": "이 정도면 컬드다..",
+    "date": "09.07.21",
+    "rating": "6",
+    "author": "rg52****",
+    "review_id": "3653404",
+    "movie_id": "12999"
+  },
+  {
+    "review": "수영복 입은 여자들만 예뻣음....어의없느 영화",
+    "date": "06.02.24",
+    "rating": "7",
+    "author": "daer****",
+    "review_id": "689970",
+    "movie_id": "12999"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "review": "재밌음",
+    "date": "10.06.03",
+    "rating": "10",
+    "author": "todz****",
+    "review_id": "4541088",
+    "movie_id": "68545"
+  },
+  {
+    "review": "1개도 아까운 쓰레기",
+    "date": "10.04.13",
+    "rating": "1",
+    "author": "afro****",
+    "review_id": "4430667",
+    "movie_id": "68545"
+  },
+  {
+    "review": "이거 머여 돈텔파파 짝퉁?",
+    "date": "10.01.11",
+    "rating": "1",
+    "author": "alsl****",
+    "review_id": "4160353",
+    "movie_id": "68545"
+  },
+  {
+    "review": "간이 덜된 음식..",
+    "date": "09.08.07",
+    "rating": "1",
+    "author": "evil****",
+    "review_id": "3721206",
+    "movie_id": "68545"
+  },
+  {
+    "review": "Aweful !!",
+    "date": "09.06.19",
+    "rating": "3",
+    "author": "seok****",
+    "review_id": "3575129",
+    "movie_id": "68545"
+  },
+  {
+    "review": "웃기지도 않은 스페인 로맨틱 코미디",
+    "date": "09.04.22",
+    "rating": "2",
+    "author": "nala****",
+    "review_id": "3434506",
+    "movie_id": "68545"
+  }
+]

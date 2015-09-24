@@ -1,0 +1,34 @@
+[
+  {
+    "review": "놀고 있네...",
+    "date": "13.07.27",
+    "rating": "1",
+    "author": "kimd****",
+    "review_id": "7790603",
+    "movie_id": "20980"
+  },
+  {
+    "review": "역시 김진아가 땡긴다 농염한 스타킹",
+    "date": "10.08.28",
+    "rating": "10",
+    "author": "roya****",
+    "review_id": "4799260",
+    "movie_id": "20980"
+  },
+  {
+    "review": "볼만함",
+    "date": "06.08.20",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "1063344",
+    "movie_id": "20980"
+  },
+  {
+    "review": "조연들이 멋진 영화",
+    "date": "06.04.25",
+    "rating": "10",
+    "author": "delp****",
+    "review_id": "775606",
+    "movie_id": "20980"
+  }
+]

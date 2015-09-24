@@ -1,0 +1,50 @@
+[
+  {
+    "review": "OO 이런것도 영화라고..",
+    "date": "09.05.17",
+    "rating": "1",
+    "author": "cris****",
+    "review_id": "3501696",
+    "movie_id": "66450"
+  },
+  {
+    "review": "이걸 리메이크라고... 미쳤구나... 분위기땜에 점수준다;;;",
+    "date": "07.12.07",
+    "rating": "6",
+    "author": "love****",
+    "review_id": "2213163",
+    "movie_id": "66450"
+  },
+  {
+    "review": "안보고 평점 높이지 맙시다. SM 영화는 싫다",
+    "date": "07.04.25",
+    "rating": "2",
+    "author": "aqaa****",
+    "review_id": "1604504",
+    "movie_id": "66450"
+  },
+  {
+    "review": "좀 도와주십쇼",
+    "date": "07.04.22",
+    "rating": "10",
+    "author": "kisk****",
+    "review_id": "1600273",
+    "movie_id": "66450"
+  },
+  {
+    "review": "안보고 평점높이지마라. 안본사람들 현옥시키지말잠.",
+    "date": "07.04.19",
+    "rating": "2",
+    "author": "kkhs****",
+    "review_id": "1595365",
+    "movie_id": "66450"
+  },
+  {
+    "review": "SM이 소재인가??...",
+    "date": "07.04.18",
+    "rating": "10",
+    "author": "hide****",
+    "review_id": "1594130",
+    "movie_id": "66450"
+  }
+]

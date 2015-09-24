@@ -1,0 +1,26 @@
+[
+  {
+    "review": "내용 정말 좋습니다 요즘 영화랑 사뭇 다르네요",
+    "date": "13.09.17",
+    "rating": "10",
+    "author": "hypa****",
+    "review_id": "7989366",
+    "movie_id": "22979"
+  },
+  {
+    "review": "베를린 영화제 출품작이래서 봤는데 볼만한데요?",
+    "date": "13.09.17",
+    "rating": "9",
+    "author": "gest****",
+    "review_id": "7989277",
+    "movie_id": "22979"
+  },
+  {
+    "review": "kmdb에서 볼 수 있음",
+    "date": "13.05.02",
+    "rating": "9",
+    "author": "kyot****",
+    "review_id": "7500652",
+    "movie_id": "22979"
+  }
+]

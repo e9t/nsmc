@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "8042320",
+    "movie_id": "84277",
+    "author": "baks****",
+    "review": "재미있다...ㅡㅡㅡ",
+    "rating": "10",
+    "date": "13.10.07"
+  },
+  {
+    "review_id": "6287771",
+    "movie_id": "84277",
+    "author": "iiii****",
+    "review": "재미없다",
+    "rating": "1",
+    "date": "12.05.10"
+  },
+  {
+    "review_id": "6171589",
+    "movie_id": "84277",
+    "author": "qwer****",
+    "review": "좋다 ㅋ",
+    "rating": "10",
+    "date": "12.03.26"
+  }
+]

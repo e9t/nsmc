@@ -1,0 +1,602 @@
+[
+  {
+    "review": "애들이랑 가족들이 다 같이 보기에 무난한 영화",
+    "date": "14.03.05",
+    "rating": "7",
+    "author": "adiv****",
+    "review_id": "8557635",
+    "movie_id": "46817"
+  },
+  {
+    "review": "굿!!",
+    "date": "12.07.09",
+    "rating": "10",
+    "author": "kgs1****",
+    "review_id": "6465107",
+    "movie_id": "46817"
+  },
+  {
+    "review": "그냥 무난했어요...CG는 수준급이었고, 그냥 볼만했음.",
+    "date": "12.04.19",
+    "rating": "7",
+    "author": "leec****",
+    "review_id": "6232217",
+    "movie_id": "46817"
+  },
+  {
+    "review": "뻔한 애니메이션 영화",
+    "date": "12.01.25",
+    "rating": "7",
+    "author": "godh****",
+    "review_id": "6021154",
+    "movie_id": "46817"
+  },
+  {
+    "review": "괜찮다~~~~~~~~~~",
+    "date": "12.01.17",
+    "rating": "10",
+    "author": "gksw****",
+    "review_id": "5994003",
+    "movie_id": "46817"
+  },
+  {
+    "review": "어른들도 재밌게 볼 수 있어요! 입장을 바꿔서 생각해보게 됩니다^_^",
+    "date": "12.01.15",
+    "rating": "9",
+    "author": "neat****",
+    "review_id": "5986645",
+    "movie_id": "46817"
+  },
+  {
+    "review": "미국 50년대 모르는 사람이 보면 재미 없을 거 같네요 그래서 -1점. 그것 빼곤 쵝오",
+    "date": "11.05.31",
+    "rating": "9",
+    "author": "juny****",
+    "review_id": "5457620",
+    "movie_id": "46817"
+  },
+  {
+    "review": "괜찮았어요.",
+    "date": "11.05.22",
+    "rating": "7",
+    "author": "sher****",
+    "review_id": "5443590",
+    "movie_id": "46817"
+  },
+  {
+    "review": "외계인귀엽",
+    "date": "11.03.07",
+    "rating": "10",
+    "author": "kljj****",
+    "review_id": "5298121",
+    "movie_id": "46817"
+  },
+  {
+    "review": "완전 재밌어요.대박..",
+    "date": "11.01.27",
+    "rating": "10",
+    "author": "zhi0****",
+    "review_id": "5188454",
+    "movie_id": "46817"
+  },
+  {
+    "review": "그냥 뻔한 영화 공식을 대입한 뻔한 스토리의 영화",
+    "date": "11.01.27",
+    "rating": "1",
+    "author": "gyun****",
+    "review_id": "5188033",
+    "movie_id": "46817"
+  },
+  {
+    "review": "재밋어요",
+    "date": "11.01.24",
+    "rating": "10",
+    "author": "rlat****",
+    "review_id": "5180497",
+    "movie_id": "46817"
+  },
+  {
+    "review": "그냥 그런",
+    "date": "11.01.17",
+    "rating": "7",
+    "author": "toha****",
+    "review_id": "5164427",
+    "movie_id": "46817"
+  },
+  {
+    "review": "ㅋㅋ애니메이션 다운 발상",
+    "date": "11.01.02",
+    "rating": "7",
+    "author": "milk****",
+    "review_id": "5118916",
+    "movie_id": "46817"
+  },
+  {
+    "review": "90분을 두시간으로 늘리고싶다면 이 영화를 추천. 굉장히 재미없다",
+    "date": "11.01.01",
+    "rating": "1",
+    "author": "ymry****",
+    "review_id": "5114093",
+    "movie_id": "46817"
+  },
+  {
+    "review": "그래... 생긴게 슈렉같긴하더라..-_-;;;;",
+    "date": "10.12.26",
+    "rating": "5",
+    "author": "inte****",
+    "review_id": "5089486",
+    "movie_id": "46817"
+  },
+  {
+    "review": "조금 특이하긴 하자만 지루해요.",
+    "date": "10.12.26",
+    "rating": "3",
+    "author": "jyy0****",
+    "review_id": "5088651",
+    "movie_id": "46817"
+  },
+  {
+    "review": "진짜 재미있었어요 ^^ 아들이 좋아 하네요",
+    "date": "10.12.25",
+    "rating": "10",
+    "author": "mych****",
+    "review_id": "5084379",
+    "movie_id": "46817"
+  },
+  {
+    "review": "약간 지루함..",
+    "date": "10.12.10",
+    "rating": "4",
+    "author": "hood****",
+    "review_id": "5041369",
+    "movie_id": "46817"
+  },
+  {
+    "review": "신선하지만 지루하다.",
+    "date": "10.12.04",
+    "rating": "7",
+    "author": "5292****",
+    "review_id": "5021077",
+    "movie_id": "46817"
+  },
+  {
+    "review": "어른이 보기엔 좀...별루!!",
+    "date": "10.11.29",
+    "rating": "4",
+    "author": "skin****",
+    "review_id": "5005365",
+    "movie_id": "46817"
+  },
+  {
+    "review": "영화를보면서 느낀게 회사광고가 많네요 ㅋㅋ",
+    "date": "10.11.28",
+    "rating": "10",
+    "author": "gyrm****",
+    "review_id": "5002377",
+    "movie_id": "46817"
+  },
+  {
+    "review": "저번에 봤는데 재미있어요.",
+    "date": "10.11.13",
+    "rating": "10",
+    "author": "youp****",
+    "review_id": "4958222",
+    "movie_id": "46817"
+  },
+  {
+    "review": "짱귀여워요 ㅋㅋㅋ친구랑 봤는데 20살인 저는 아직 재밌네요; ㅋㅋ 귀여웠음",
+    "date": "10.11.03",
+    "rating": "10",
+    "author": "minu****",
+    "review_id": "4936674",
+    "movie_id": "46817"
+  },
+  {
+    "review": "저도 딱보니까 슈렉닮았다고 생각했었는데 ㅋㅎ 재밌어여",
+    "date": "10.11.02",
+    "rating": "10",
+    "author": "hbm0****",
+    "review_id": "4935400",
+    "movie_id": "46817"
+  },
+  {
+    "review": "최고에요ㅋㅋ 슈렉 사촌이네요~~~~~~",
+    "date": "10.10.31",
+    "rating": "10",
+    "author": "hosu****",
+    "review_id": "4931576",
+    "movie_id": "46817"
+  },
+  {
+    "review": "꺄하 재미! 위트! 스릴까짘ㅋㅋ 재믿구 감동있어요ㅋㅋ 외계인들 슈렉닯아서 귀여움",
+    "date": "10.10.31",
+    "rating": "10",
+    "author": "conn****",
+    "review_id": "4931103",
+    "movie_id": "46817"
+  },
+  {
+    "review": "슈렉의 초록피부, 토이스토리의 우주인이 만난 막장영화",
+    "date": "10.10.31",
+    "rating": "6",
+    "author": "bigd****",
+    "review_id": "4930902",
+    "movie_id": "46817"
+  },
+  {
+    "review": "보지마세요.",
+    "date": "10.10.30",
+    "rating": "1",
+    "author": "roxy****",
+    "review_id": "4928948",
+    "movie_id": "46817"
+  },
+  {
+    "review": "어른은 보지 마세요 얘들만 보세요",
+    "date": "10.10.30",
+    "rating": "1",
+    "author": "nemo****",
+    "review_id": "4928071",
+    "movie_id": "46817"
+  },
+  {
+    "review": "슈렉을 잇는 대세 !",
+    "date": "10.10.30",
+    "rating": "8",
+    "author": "love****",
+    "review_id": "4927582",
+    "movie_id": "46817"
+  },
+  {
+    "review": "개그, 상상력, 스토리 모두 좋은 가족용, 아이들용 영화.",
+    "date": "10.10.28",
+    "rating": "10",
+    "author": "dora****",
+    "review_id": "4925572",
+    "movie_id": "46817"
+  },
+  {
+    "review": "드웨인 존슨의 느끼한 목소리 연기(?)와 강아지 로봇(?)이 좀 봐줄정도.",
+    "date": "10.10.25",
+    "rating": "1",
+    "author": "nbc5****",
+    "review_id": "4921095",
+    "movie_id": "46817"
+  },
+  {
+    "review": "지루하다 그것도 아주",
+    "date": "10.10.25",
+    "rating": "6",
+    "author": "woo1****",
+    "review_id": "4921039",
+    "movie_id": "46817"
+  },
+  {
+    "review": "재미있어요!!!",
+    "date": "10.10.25",
+    "rating": "10",
+    "author": "dldm****",
+    "review_id": "4920390",
+    "movie_id": "46817"
+  },
+  {
+    "review": "다른분들유치하게괜히어린이영화에평점달지마세요ㅡㅡ",
+    "date": "10.10.24",
+    "rating": "10",
+    "author": "tong****",
+    "review_id": "4919771",
+    "movie_id": "46817"
+  },
+  {
+    "review": "너무 웃기고 너무 재미있었어요...영화중에 제일 재밌있었어요...초등 1학년...",
+    "date": "10.10.24",
+    "rating": "10",
+    "author": "pjoo****",
+    "review_id": "4919612",
+    "movie_id": "46817"
+  },
+  {
+    "review": "예상된 결과지만...별로...딱 9세이하용....",
+    "date": "10.10.24",
+    "rating": "7",
+    "author": "nby0****",
+    "review_id": "4918513",
+    "movie_id": "46817"
+  },
+  {
+    "review": "너무재밌어요",
+    "date": "10.10.23",
+    "rating": "10",
+    "author": "taed****",
+    "review_id": "4916648",
+    "movie_id": "46817"
+  },
+  {
+    "review": "이건 아냐, 정말 아냐.",
+    "date": "10.10.23",
+    "rating": "1",
+    "author": "bill****",
+    "review_id": "4916310",
+    "movie_id": "46817"
+  },
+  {
+    "review": "흠.......?",
+    "date": "10.10.22",
+    "rating": "10",
+    "author": "suzy****",
+    "review_id": "4914986",
+    "movie_id": "46817"
+  },
+  {
+    "review": "별루..",
+    "date": "10.10.21",
+    "rating": "1",
+    "author": "pqow****",
+    "review_id": "4914370",
+    "movie_id": "46817"
+  },
+  {
+    "review": "완전 재미있을것 같은듯ㅋ",
+    "date": "10.10.21",
+    "rating": "10",
+    "author": "ocj1****",
+    "review_id": "4914214",
+    "movie_id": "46817"
+  },
+  {
+    "review": "7세이하 아이들을 위한 영화 요즘아이들도 보는눈이 높을껀데?",
+    "date": "10.10.20",
+    "rating": "3",
+    "author": "anyo****",
+    "review_id": "4912833",
+    "movie_id": "46817"
+  },
+  {
+    "review": "그 배경에 대한 상상력만 기발할뿐 너무 재미없다. 월E를 기대한게 아니였어",
+    "date": "10.10.20",
+    "rating": "5",
+    "author": "encl****",
+    "review_id": "4911943",
+    "movie_id": "46817"
+  },
+  {
+    "review": "방금봤는데 정말 재밌어요 ^^ 특히 마지막 우주보여줄때 멋있어요~!",
+    "date": "10.10.17",
+    "rating": "10",
+    "author": "dbwp****",
+    "review_id": "4907177",
+    "movie_id": "46817"
+  },
+  {
+    "review": "슈렉 제작진이라 역쉬 다른듯!!ㅋ 추천고고씽~~~~",
+    "date": "10.10.13",
+    "rating": "10",
+    "author": "lms8****",
+    "review_id": "4900965",
+    "movie_id": "46817"
+  },
+  {
+    "review": "픽사의 그것들을 차용하고 흉내낸다고 매력이 생기진 않지. 확실히 매력은 없는 영화.",
+    "date": "10.10.13",
+    "rating": "5",
+    "author": "rock****",
+    "review_id": "4900338",
+    "movie_id": "46817"
+  },
+  {
+    "review": "일언 완전귀엽다,,재밌고 유쾌하고!! 미리보기 참잘했다는 ㅋㅋ추천할만하닷 ㅋ",
+    "date": "10.10.10",
+    "rating": "10",
+    "author": "rain****",
+    "review_id": "4895178",
+    "movie_id": "46817"
+  },
+  {
+    "review": "완전 재미있던데",
+    "date": "10.10.08",
+    "rating": "10",
+    "author": "dlsd****",
+    "review_id": "4890827",
+    "movie_id": "46817"
+  },
+  {
+    "review": "한두 장면은 정말 코믹하다.. ㅎㅎ",
+    "date": "10.10.03",
+    "rating": "7",
+    "author": "ossc****",
+    "review_id": "4882942",
+    "movie_id": "46817"
+  },
+  {
+    "review": "난 남자주인공(나메크인) 친구보고 피콜로라 외쳤습니다",
+    "date": "10.09.27",
+    "rating": "10",
+    "author": "hcb5****",
+    "review_id": "4871356",
+    "movie_id": "46817"
+  },
+  {
+    "review": "지구인이 외계행성가서 외계인 취급 받는 내용 그냥 잔잔한 재미와 감동",
+    "date": "10.09.26",
+    "rating": "7",
+    "author": "hhhs****",
+    "review_id": "4868935",
+    "movie_id": "46817"
+  },
+  {
+    "review": "진짜 잘 만든영화, 그냥 애니메이션이랑 차원이 다름. 제생각엔 슈렉보단 낫습니다.",
+    "date": "10.09.25",
+    "rating": "10",
+    "author": "dead****",
+    "review_id": "4868258",
+    "movie_id": "46817"
+  },
+  {
+    "review": "Planet 51",
+    "date": "10.09.23",
+    "rating": "7",
+    "author": "atho****",
+    "review_id": "4861437",
+    "movie_id": "46817"
+  },
+  {
+    "review": "볼만함",
+    "date": "10.09.21",
+    "rating": "8",
+    "author": "tall****",
+    "review_id": "4855004",
+    "movie_id": "46817"
+  },
+  {
+    "review": "방금 보고 왔는데 완전 최고!!잘 만들었다.탐사로봇은 월e를 생각나게 한다죠?ㅎㅎ;;",
+    "date": "10.09.17",
+    "rating": "10",
+    "author": "osh8****",
+    "review_id": "4841305",
+    "movie_id": "46817"
+  },
+  {
+    "review": "고급스러운 애니메이션 같은 ..",
+    "date": "10.09.15",
+    "rating": "9",
+    "author": "ice1****",
+    "review_id": "4837596",
+    "movie_id": "46817"
+  },
+  {
+    "review": "지금 당신이 15세이하 이면 보시오 그이상이면 1시방향X를누르세요",
+    "date": "10.09.04",
+    "rating": "10",
+    "author": "qkzk****",
+    "review_id": "4816237",
+    "movie_id": "46817"
+  },
+  {
+    "review": "그래픽은 괜찮다만 전혀 흥미롭지 않은 스토리라니..",
+    "date": "10.09.03",
+    "rating": "3",
+    "author": "gall****",
+    "review_id": "4813105",
+    "movie_id": "46817"
+  },
+  {
+    "review": "그냥 극히 가족 3d 애니다운 전개.. 잼없음..유치함..짜증남..이상함",
+    "date": "10.08.21",
+    "rating": "5",
+    "author": "ldh0****",
+    "review_id": "4775557",
+    "movie_id": "46817"
+  },
+  {
+    "review": "으악 관람전 평점에 이글을 썼다 진짜 유치하다 재미없다.",
+    "date": "10.08.21",
+    "rating": "1",
+    "author": "js65****",
+    "review_id": "4775051",
+    "movie_id": "46817"
+  },
+  {
+    "review": "차라리 탐사로봇이 훨씬 귀엽고 재밋더라..아참 그리고 에어리언 강아지도..",
+    "date": "10.08.06",
+    "rating": "8",
+    "author": "blac****",
+    "review_id": "4714102",
+    "movie_id": "46817"
+  },
+  {
+    "review": "정말 리얼하게 잘 만든 애니메이션...우리도 외계인이라고 불릴 수 있다는거",
+    "date": "10.08.06",
+    "rating": "6",
+    "author": "egyp****",
+    "review_id": "4713521",
+    "movie_id": "46817"
+  },
+  {
+    "review": "아찔할 정도로 우매하다",
+    "date": "10.08.05",
+    "rating": "4",
+    "author": "bles****",
+    "review_id": "4708247",
+    "movie_id": "46817"
+  },
+  {
+    "review": "별다른 느낌없는 흥미 위주의 플레이",
+    "date": "10.07.29",
+    "rating": "4",
+    "author": "11pa****",
+    "review_id": "4684211",
+    "movie_id": "46817"
+  },
+  {
+    "review": "소재와 시도는 좋았는데,역시나 할리우드식 엔딩. 아동영화니까 그러려니 한다.",
+    "date": "10.01.12",
+    "rating": "5",
+    "author": "yaho****",
+    "review_id": "4162901",
+    "movie_id": "46817"
+  },
+  {
+    "review": "오호라~!",
+    "date": "10.01.06",
+    "rating": "10",
+    "author": "indo****",
+    "review_id": "4142347",
+    "movie_id": "46817"
+  },
+  {
+    "review": "굿",
+    "date": "10.01.06",
+    "rating": "10",
+    "author": "insl****",
+    "review_id": "4142340",
+    "movie_id": "46817"
+  },
+  {
+    "review": "짱이다",
+    "date": "10.01.06",
+    "rating": "10",
+    "author": "dypl****",
+    "review_id": "4142332",
+    "movie_id": "46817"
+  },
+  {
+    "review": "나도~",
+    "date": "10.01.06",
+    "rating": "10",
+    "author": "zat_****",
+    "review_id": "4142328",
+    "movie_id": "46817"
+  },
+  {
+    "review": "재미있네요^^",
+    "date": "10.01.06",
+    "rating": "10",
+    "author": "bren****",
+    "review_id": "4142327",
+    "movie_id": "46817"
+  },
+  {
+    "review": "생각보다 별로",
+    "date": "09.12.23",
+    "rating": "10",
+    "author": "june****",
+    "review_id": "4072395",
+    "movie_id": "46817"
+  },
+  {
+    "review": "이건 아니라고 본다.",
+    "date": "09.12.02",
+    "rating": "1",
+    "author": "thek****",
+    "review_id": "4008716",
+    "movie_id": "46817"
+  },
+  {
+    "review": "흠...",
+    "date": "09.11.26",
+    "rating": "10",
+    "author": "kmin****",
+    "review_id": "3992270",
+    "movie_id": "46817"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "8773962",
+    "movie_id": "84684",
+    "author": "hw30****",
+    "review": "과연 재미가 있을까..기대는 된다..",
+    "rating": "1",
+    "date": "14.05.29"
+  },
+  {
+    "review_id": "6584685",
+    "movie_id": "84684",
+    "author": "lznu****",
+    "review": "짱!!",
+    "rating": "10",
+    "date": "12.08.09"
+  },
+  {
+    "review_id": "6311519",
+    "movie_id": "84684",
+    "author": "no_d****",
+    "review": "과연 재미가 있을까..기대는 된다..",
+    "rating": "10",
+    "date": "12.05.19"
+  }
+]

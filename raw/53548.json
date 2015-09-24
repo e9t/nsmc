@@ -1,0 +1,50 @@
+[
+  {
+    "review": "흠..뭐라할말이..",
+    "date": "14.02.09",
+    "rating": "1",
+    "author": "gurr****",
+    "review_id": "8491770",
+    "movie_id": "53548"
+  },
+  {
+    "review": "웨스트 챔피언들을 볼수 있는 영화. 너무나 재미있게 봤다^^",
+    "date": "13.03.22",
+    "rating": "8",
+    "author": "jung****",
+    "review_id": "7394463",
+    "movie_id": "53548"
+  },
+  {
+    "review": "슈렉임",
+    "date": "12.02.20",
+    "rating": "1",
+    "author": "zpst****",
+    "review_id": "6090179",
+    "movie_id": "53548"
+  },
+  {
+    "review": "나도 춤추고 싶다~ㅎㅎㅎ",
+    "date": "12.02.02",
+    "rating": "10",
+    "author": "juye****",
+    "review_id": "6046490",
+    "movie_id": "53548"
+  },
+  {
+    "review": "정말볼만한영화이네",
+    "date": "11.03.28",
+    "rating": "10",
+    "author": "jski****",
+    "review_id": "5340653",
+    "movie_id": "53548"
+  },
+  {
+    "review": "내가 일등이다!!!!!!!!!!! 이거재미있어요~~!!!",
+    "date": "11.02.01",
+    "rating": "10",
+    "author": "e1lf****",
+    "review_id": "5202380",
+    "movie_id": "53548"
+  }
+]

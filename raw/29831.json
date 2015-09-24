@@ -1,0 +1,34 @@
+[
+  {
+    "review": "dkgldgmdgod",
+    "date": "14.01.21",
+    "rating": "10",
+    "author": "luna****",
+    "review_id": "8407150",
+    "movie_id": "29831"
+  },
+  {
+    "review": "영어원서로 읽다가 동영상으로 보니까 각색이 많이 됬긴 했지만 그래도 재밌네요~",
+    "date": "13.10.16",
+    "rating": "10",
+    "author": "saos****",
+    "review_id": "8063329",
+    "movie_id": "29831"
+  },
+  {
+    "review": "재어",
+    "date": "13.01.11",
+    "rating": "1",
+    "author": "rlac****",
+    "review_id": "7102395",
+    "movie_id": "29831"
+  },
+  {
+    "review": "재밌네요",
+    "date": "11.11.13",
+    "rating": "1",
+    "author": "hoyu****",
+    "review_id": "5848071",
+    "movie_id": "29831"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "review_id": "10158961",
+    "movie_id": "140833",
+    "author": "kims****",
+    "review": "생각했던것보다 좋았음",
+    "rating": "10",
+    "date": "15.07.29"
+  },
+  {
+    "review_id": "10125052",
+    "movie_id": "140833",
+    "author": "kplh****",
+    "review": "작년보다 별로 였어요 ㅎㅎ",
+    "rating": "3",
+    "date": "15.07.21"
+  },
+  {
+    "review_id": "10124331",
+    "movie_id": "140833",
+    "author": "blis****",
+    "review": "재밌게 봤어요^^ GV도 재밌었구요",
+    "rating": "10",
+    "date": "15.07.20"
+  },
+  {
+    "review_id": "10118254",
+    "movie_id": "140833",
+    "author": "wltj****",
+    "review": "겁나좋은영화입니다!",
+    "rating": "10",
+    "date": "15.07.19"
+  },
+  {
+    "review_id": "10117219",
+    "movie_id": "140833",
+    "author": "star****",
+    "review": "퀴어들이 만든 퀴어 이야기 ~ 서툴지만 진정성  있는..",
+    "rating": "10",
+    "date": "15.07.18"
+  },
+  {
+    "review_id": "10117091",
+    "movie_id": "140833",
+    "author": "haew****",
+    "review": "재밋는것도잇고별로닌것돗어",
+    "rating": "8",
+    "date": "15.07.18"
+  },
+  {
+    "review_id": "10104043",
+    "movie_id": "140833",
+    "author": "kdu0****",
+    "review": "재밌게 잘 봤습니다 ㅎㅎㅎ",
+    "rating": "10",
+    "date": "15.07.14"
+  },
+  {
+    "review_id": "10103493",
+    "movie_id": "140833",
+    "author": "smuc****",
+    "review": "네 편의 영화가 저 마다  다양한 색깔이 담겨있어서 느무 좋았슴당.",
+    "rating": "8",
+    "date": "15.07.14"
+  },
+  {
+    "review_id": "10098016",
+    "movie_id": "140833",
+    "author": "xodn****",
+    "review": "반다크홈이 없네요. 홍석천이 없네요.",
+    "rating": "1",
+    "date": "15.07.12"
+  }
+]

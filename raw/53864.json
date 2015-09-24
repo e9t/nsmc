@@ -1,0 +1,34 @@
+[
+  {
+    "review": "액션씬은 하나도 안나옵니다.액션씬을 기대하고 보는 영화는 아닌 것 같습니다.",
+    "date": "15.08.07",
+    "rating": "4",
+    "author": "gump****",
+    "review_id": "10196014",
+    "movie_id": "53864"
+  },
+  {
+    "review": "....그냥드립니다",
+    "date": "15.08.03",
+    "rating": "9",
+    "author": "mari****",
+    "review_id": "10178260",
+    "movie_id": "53864"
+  },
+  {
+    "review": "전 만족함.저격수좋아해서",
+    "date": "15.07.26",
+    "rating": "10",
+    "author": "zomb****",
+    "review_id": "10147165",
+    "movie_id": "53864"
+  },
+  {
+    "review": "노잼입니다 ..ㅜ놘전진짜",
+    "date": "15.03.02",
+    "rating": "1",
+    "author": "quee****",
+    "review_id": "9753229",
+    "movie_id": "53864"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "review": "그시절은 아름답다~!!",
+    "date": "15.01.30",
+    "rating": "10",
+    "author": "zpfl****",
+    "review_id": "9651067",
+    "movie_id": "46314"
+  },
+  {
+    "review": "9살때 처음 본건데 진짜 재밌음ㅋㅋㅋ굳ㅋㅋ",
+    "date": "13.07.18",
+    "rating": "10",
+    "author": "cjfg****",
+    "review_id": "7757526",
+    "movie_id": "46314"
+  },
+  {
+    "review": "완전 짱!!감동이네요아이들과 꼭 함께 보세요.",
+    "date": "13.07.15",
+    "rating": "10",
+    "author": "want****",
+    "review_id": "7745051",
+    "movie_id": "46314"
+  },
+  {
+    "review": "볼 만한 영화입니다.",
+    "date": "13.03.14",
+    "rating": "7",
+    "author": "effo****",
+    "review_id": "7347155",
+    "movie_id": "46314"
+  },
+  {
+    "review": "박지빈 귀여움ㅎ",
+    "date": "12.10.02",
+    "rating": "10",
+    "author": "mira****",
+    "review_id": "6753691",
+    "movie_id": "46314"
+  },
+  {
+    "review": "가슴 찡한 영화",
+    "date": "12.10.01",
+    "rating": "10",
+    "author": "hee2****",
+    "review_id": "6750394",
+    "movie_id": "46314"
+  },
+  {
+    "review": "영화가 넘넘 이쁘다. 스토리도 아기자기하고 ㅋㅋㅋ ebs에서 보여주는데 재미있네요",
+    "date": "12.10.01",
+    "rating": "9",
+    "author": "edge****",
+    "review_id": "6750068",
+    "movie_id": "46314"
+  },
+  {
+    "review": "전 이거 영화로안보고 만화로 봤는데 너무 재미있고 마지막에 강성욱이라는 아버지를 찾아서 감동적 이엿숨",
+    "date": "12.08.18",
+    "rating": "9",
+    "author": "wjdd****",
+    "review_id": "6622916",
+    "movie_id": "46314"
+  },
+  {
+    "review": "박지빈이 얻어 맞는장면 슬펐음",
+    "date": "12.07.14",
+    "rating": "10",
+    "author": "dkdl****",
+    "review_id": "6477712",
+    "movie_id": "46314"
+  },
+  {
+    "review": "화면도 이쁘구 잘봤어요",
+    "date": "12.05.31",
+    "rating": "10",
+    "author": "1215****",
+    "review_id": "6350557",
+    "movie_id": "46314"
+  },
+  {
+    "review": "그렇게 완전 재밌는건 아니고...망작도 아니고.중상정도로 나쁘진 않은 영화",
+    "date": "12.01.31",
+    "rating": "7",
+    "author": "sunw****",
+    "review_id": "6038625",
+    "movie_id": "46314"
+  },
+  {
+    "review": "재밌단 얘기밖에 안 나와요. 아직 안 보신 분 추천!!",
+    "date": "11.08.27",
+    "rating": "10",
+    "author": "shsp****",
+    "review_id": "5690794",
+    "movie_id": "46314"
+  },
+  {
+    "review": "은근 재미지네ㅋㅋ",
+    "date": "11.07.25",
+    "rating": "10",
+    "author": "rlag****",
+    "review_id": "5569226",
+    "movie_id": "46314"
+  },
+  {
+    "review": "정말 제미있게봤어요~",
+    "date": "11.07.25",
+    "rating": "10",
+    "author": "nhd1****",
+    "review_id": "5568639",
+    "movie_id": "46314"
+  },
+  {
+    "review": "정말 감동이었슴돠~~",
+    "date": "11.07.25",
+    "rating": "10",
+    "author": "luv_****",
+    "review_id": "5568229",
+    "movie_id": "46314"
+  },
+  {
+    "review": "좋은영화",
+    "date": "11.07.25",
+    "rating": "10",
+    "author": "chsh****",
+    "review_id": "5567662",
+    "movie_id": "46314"
+  },
+  {
+    "review": "너무재밌엇어요~^3^♥",
+    "date": "11.07.25",
+    "rating": "9",
+    "author": "swee****",
+    "review_id": "5567657",
+    "movie_id": "46314"
+  },
+  {
+    "review": "오래간만에 영화다운영화한편봤다. 너무재미있고감동있는영화.박지빈땡글",
+    "date": "11.07.25",
+    "rating": "10",
+    "author": "habr****",
+    "review_id": "5567629",
+    "movie_id": "46314"
+  },
+  {
+    "review": "재밌었어요  ^^ ㅎㅎ",
+    "date": "11.07.25",
+    "rating": "10",
+    "author": "yj53****",
+    "review_id": "5567607",
+    "movie_id": "46314"
+  },
+  {
+    "review": "완전제밌고감동적입니다^^..",
+    "date": "11.07.19",
+    "rating": "10",
+    "author": "cofl****",
+    "review_id": "5555637",
+    "movie_id": "46314"
+  },
+  {
+    "review": "왜이렇게 평점이 낮은지...아련한 아름다움이라는 표현이 잘어울리는 영화",
+    "date": "11.02.20",
+    "rating": "10",
+    "author": "toon****",
+    "review_id": "5260876",
+    "movie_id": "46314"
+  },
+  {
+    "review": "2번봤는데 재미있었어요~~",
+    "date": "11.02.02",
+    "rating": "10",
+    "author": "ekql****",
+    "review_id": "5206865",
+    "movie_id": "46314"
+  },
+  {
+    "review": "과거는 아름다워.",
+    "date": "10.10.24",
+    "rating": "6",
+    "author": "dlwo****",
+    "review_id": "4918535",
+    "movie_id": "46314"
+  },
+  {
+    "review": "걍뭐어릴떄볼만햇음",
+    "date": "10.07.22",
+    "rating": "7",
+    "author": "ghrj****",
+    "review_id": "4661331",
+    "movie_id": "46314"
+  },
+  {
+    "review": "나는 너무 그것을 보면서 너무 감동적이어서 울뻔하였다.^^",
+    "date": "10.06.17",
+    "rating": "10",
+    "author": "gkfa****",
+    "review_id": "4572018",
+    "movie_id": "46314"
+  },
+  {
+    "review": "대박~~",
+    "date": "10.06.08",
+    "rating": "10",
+    "author": "lih5****",
+    "review_id": "4553654",
+    "movie_id": "46314"
+  },
+  {
+    "review": "10살때봤는데 난잡했다.",
+    "date": "10.02.19",
+    "rating": "6",
+    "author": "asas****",
+    "review_id": "4300965",
+    "movie_id": "46314"
+  },
+  {
+    "review": "성인배우보다 멋진 아역배우의 연기력!",
+    "date": "10.01.13",
+    "rating": "7",
+    "author": "psp2****",
+    "review_id": "4166280",
+    "movie_id": "46314"
+  },
+  {
+    "review": "다 좋았는데 결말이 좀 아쉽다....ㅠㅠ 다들 연기 너무 잘해..ㅠㅠ",
+    "date": "09.12.19",
+    "rating": "8",
+    "author": "rjal****",
+    "review_id": "4056596",
+    "movie_id": "46314"
+  },
+  {
+    "review": "마음을 움직이기엔 2% 부족하다...",
+    "date": "09.11.27",
+    "rating": "8",
+    "author": "heod****",
+    "review_id": "3993693",
+    "movie_id": "46314"
+  },
+  {
+    "review": "아이스케키 장준영(송수역)진짜 연기잘하네여 ㄷㄷ;;..진짜 감동이에여.,,",
+    "date": "09.11.25",
+    "rating": "10",
+    "author": "sodl****",
+    "review_id": "3989675",
+    "movie_id": "46314"
+  },
+  {
+    "review": "박지빈 완전 긔엽구,, 좀 슬퍼영ㅠㅠ",
+    "date": "09.11.01",
+    "rating": "8",
+    "author": "tlat****",
+    "review_id": "3929794",
+    "movie_id": "46314"
+  },
+  {
+    "review": "1960년대말의 사회적 분위기와 아이스케키의 추억을 되새기며 본 영화.",
+    "date": "09.10.17",
+    "rating": "9",
+    "author": "limh****",
+    "review_id": "3898913",
+    "movie_id": "46314"
+  },
+  {
+    "review": "짱!~",
+    "date": "09.10.17",
+    "rating": "10",
+    "author": "lisa****",
+    "review_id": "3898399",
+    "movie_id": "46314"
+  },
+  {
+    "review": "순수한 감동적인 영화",
+    "date": "09.08.05",
+    "rating": "7",
+    "author": "bkm1****",
+    "review_id": "3710735",
+    "movie_id": "46314"
+  },
+  {
+    "review": "그럭저럭..",
+    "date": "09.08.03",
+    "rating": "7",
+    "author": "bkm1****",
+    "review_id": "3701102",
+    "movie_id": "46314"
+  },
+  {
+    "review": "감동적이어서 좋았습니다.",
+    "date": "09.06.27",
+    "rating": "10",
+    "author": "mayp****",
+    "review_id": "3595313",
+    "movie_id": "46314"
+  },
+  {
+    "review": "따뜻한 영화였어요. 정말 재밌게 봤어요~",
+    "date": "09.06.14",
+    "rating": "10",
+    "author": "seet****",
+    "review_id": "3566521",
+    "movie_id": "46314"
+  },
+  {
+    "review": "ㅠㅠ재미있기도하고.........",
+    "date": "09.05.31",
+    "rating": "2",
+    "author": "tifk****",
+    "review_id": "3535068",
+    "movie_id": "46314"
+  },
+  {
+    "review": "미술세트를 위해서 찍었나? 괜히 자극적인 영화도 별로지만 맹탕은 더 싫다",
+    "date": "09.01.24",
+    "rating": "2",
+    "author": "bokb****",
+    "review_id": "3246045",
+    "movie_id": "46314"
+  },
+  {
+    "review": "끝부분이 쫌 짜증나서ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "08.12.18",
+    "rating": "8",
+    "author": "love****",
+    "review_id": "3128379",
+    "movie_id": "46314"
+  },
+  {
+    "review": "이게 왜 재밌음? 이게 왜 감동적임?",
+    "date": "08.10.18",
+    "rating": "10",
+    "author": "qndu****",
+    "review_id": "3006386",
+    "movie_id": "46314"
+  },
+  {
+    "review": "보다 20분지나서 나왔습니다",
+    "date": "08.09.07",
+    "rating": "1",
+    "author": "skaw****",
+    "review_id": "2928919",
+    "movie_id": "46314"
+  },
+  {
+    "review": "참 재미있었습니다. 정말 감동적이에여!",
+    "date": "08.07.02",
+    "rating": "10",
+    "author": "qnro****",
+    "review_id": "2736201",
+    "movie_id": "46314"
+  },
+  {
+    "review": "참재미있는거에요... 어린이들이 꼭 한번 보는게 낫을듯 같네영^^",
+    "date": "08.06.06",
+    "rating": "10",
+    "author": "citi****",
+    "review_id": "2683615",
+    "movie_id": "46314"
+  },
+  {
+    "review": "재미있구요감동적인영화였어요그리고아버지를만나는것두좋았어요..",
+    "date": "08.06.02",
+    "rating": "10",
+    "author": "ccc1****",
+    "review_id": "2676542",
+    "movie_id": "46314"
+  },
+  {
+    "review": "뭐가 이렇게 허접하다냐",
+    "date": "08.05.27",
+    "rating": "3",
+    "author": "sung****",
+    "review_id": "2666189",
+    "movie_id": "46314"
+  },
+  {
+    "review": "영화 마음이 속편이었던가 아니면 어린이 영화수준의 한계성인가",
+    "date": "08.05.21",
+    "rating": "2",
+    "author": "xlxl****",
+    "review_id": "2655328",
+    "movie_id": "46314"
+  },
+  {
+    "review": "재미써요 !@@@@@@@@@@@",
+    "date": "08.03.29",
+    "rating": "10",
+    "author": "sonj****",
+    "review_id": "2548372",
+    "movie_id": "46314"
+  },
+  {
+    "review": "옜날의 향수가 있는 영화 나머지는 그저 볼만한 정도",
+    "date": "08.03.05",
+    "rating": "7",
+    "author": "vhzm****",
+    "review_id": "2505222",
+    "movie_id": "46314"
+  },
+  {
+    "review": "우리가모두 바랬던영화이다.",
+    "date": "08.02.27",
+    "rating": "10",
+    "author": "dlgo****",
+    "review_id": "2488111",
+    "movie_id": "46314"
+  },
+  {
+    "review": "재밌기만 하구만",
+    "date": "08.02.06",
+    "rating": "10",
+    "author": "0163****",
+    "review_id": "2413733",
+    "movie_id": "46314"
+  },
+  {
+    "review": "잼잇어영..",
+    "date": "08.01.23",
+    "rating": "10",
+    "author": "baby****",
+    "review_id": "2362553",
+    "movie_id": "46314"
+  },
+  {
+    "review": "감동적인영화보지도못햇음?ㅋㅋ 존나허무하고어이없고돈아까운영화 베스트",
+    "date": "07.12.05",
+    "rating": "2",
+    "author": "ok20****",
+    "review_id": "2208177",
+    "movie_id": "46314"
+  },
+  {
+    "review": "bad",
+    "date": "07.12.02",
+    "rating": "1",
+    "author": "cles****",
+    "review_id": "2200999",
+    "movie_id": "46314"
+  },
+  {
+    "review": "불쌍하다..ㅜㅜ",
+    "date": "07.11.30",
+    "rating": "10",
+    "author": "rlat****",
+    "review_id": "2195394",
+    "movie_id": "46314"
+  },
+  {
+    "review": "재미없었는데.... 공감도안갔고",
+    "date": "07.09.22",
+    "rating": "4",
+    "author": "aqzz****",
+    "review_id": "2037847",
+    "movie_id": "46314"
+  },
+  {
+    "review": "과거배경의 리얼리티외엔 참신할것도 재미요소도 없는 평범한..",
+    "date": "07.09.08",
+    "rating": "4",
+    "author": "nice****",
+    "review_id": "2008909",
+    "movie_id": "46314"
+  },
+  {
+    "review": "애들한테도 어른한데도 별로인 것 같다",
+    "date": "07.08.29",
+    "rating": "1",
+    "author": "ysuh****",
+    "review_id": "1987441",
+    "movie_id": "46314"
+  },
+  {
+    "review": "지나치게 감성적인 감독의 연출이 거슬리지만 박지빈의 연기는 기대 이상!",
+    "date": "07.08.08",
+    "rating": "5",
+    "author": "skat****",
+    "review_id": "1905018",
+    "movie_id": "46314"
+  },
+  {
+    "review": "다시봐도 재미가 있을것 같다.우린 이런영화를 기다리고 있다.",
+    "date": "07.08.05",
+    "rating": "10",
+    "author": "tong****",
+    "review_id": "1879397",
+    "movie_id": "46314"
+  },
+  {
+    "review": "옛시절을 떠올리게 하는 영화.부족함이 없었다.",
+    "date": "07.08.05",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "1879381",
+    "movie_id": "46314"
+  },
+  {
+    "review": "뿌뜻함이 밀려온다",
+    "date": "07.08.05",
+    "rating": "10",
+    "author": "kbsb****",
+    "review_id": "1879373",
+    "movie_id": "46314"
+  },
+  {
+    "review": "돈이 아까워",
+    "date": "07.07.24",
+    "rating": "1",
+    "author": "123d****",
+    "review_id": "1805242",
+    "movie_id": "46314"
+  },
+  {
+    "review": "영화가 좋기는 좋은데 왜 여수사람들이 저런 사투리를 쓴다는거야..",
+    "date": "07.07.19",
+    "rating": "10",
+    "author": "vort****",
+    "review_id": "1792284",
+    "movie_id": "46314"
+  },
+  {
+    "review": "내가 왜봤지...............",
+    "date": "07.07.17",
+    "rating": "1",
+    "author": "hoon****",
+    "review_id": "1786838",
+    "movie_id": "46314"
+  },
+  {
+    "review": "아동의 심리로 바라보면 너무나 좋은 영화. ^^",
+    "date": "07.07.16",
+    "rating": "9",
+    "author": "emrr****",
+    "review_id": "1780574",
+    "movie_id": "46314"
+  },
+  {
+    "review": "감동이 밀려오는 정말 가슴찡한 영화랍니다.저도 보고많이 울었어요",
+    "date": "07.07.11",
+    "rating": "10",
+    "author": "grac****",
+    "review_id": "1766919",
+    "movie_id": "46314"
+  },
+  {
+    "review": "이런분위기 정말좋다 ..... 향수속으로빠져들게하는",
+    "date": "07.06.30",
+    "rating": "10",
+    "author": "pjho****",
+    "review_id": "1731315",
+    "movie_id": "46314"
+  },
+  {
+    "review": "감동적",
+    "date": "07.06.24",
+    "rating": "10",
+    "author": "deeg****",
+    "review_id": "1719063",
+    "movie_id": "46314"
+  },
+  {
+    "review": "훈훈하지만 너무 흐지부지하다는..",
+    "date": "07.06.16",
+    "rating": "5",
+    "author": "h12h****",
+    "review_id": "1703698",
+    "movie_id": "46314"
+  },
+  {
+    "review": "ㅋㅋㅋ 좋습니다~",
+    "date": "07.06.08",
+    "rating": "7",
+    "author": "sinh****",
+    "review_id": "1690074",
+    "movie_id": "46314"
+  },
+  {
+    "review": "영화 잼있네...",
+    "date": "07.06.08",
+    "rating": "10",
+    "author": "sect****",
+    "review_id": "1690053",
+    "movie_id": "46314"
+  },
+  {
+    "review": "이런 영화에 1점주는 사람들은 도대체 뭡니까",
+    "date": "07.05.22",
+    "rating": "1",
+    "author": "pung****",
+    "review_id": "1651714",
+    "movie_id": "46314"
+  },
+  {
+    "review": "출생의 비밀이 가족영화 안에 '쏙~' 이런 감동... 이젠 내성이 생겼지!",
+    "date": "07.05.20",
+    "rating": "5",
+    "author": "tekk****",
+    "review_id": "1647917",
+    "movie_id": "46314"
+  },
+  {
+    "review": "잔잔한 감동과 훈훈함이 가슴을 따뜻하게 한다.",
+    "date": "07.04.30",
+    "rating": "6",
+    "author": "samg****",
+    "review_id": "1612046",
+    "movie_id": "46314"
+  },
+  {
+    "review": "볼만 했다.",
+    "date": "07.04.28",
+    "rating": "7",
+    "author": "star****",
+    "review_id": "1609425",
+    "movie_id": "46314"
+  },
+  {
+    "review": "제가 본 영화중에는 가장 감동적인 영화인듯^^ 강추",
+    "date": "07.04.22",
+    "rating": "9",
+    "author": "eogm****",
+    "review_id": "1601104",
+    "movie_id": "46314"
+  },
+  {
+    "review": "영화이름이 약간 변태적 성향이 아이스케끼~",
+    "date": "07.04.18",
+    "rating": "10",
+    "author": "ykoz****",
+    "review_id": "1594106",
+    "movie_id": "46314"
+  },
+  {
+    "review": "웃음과 잔잔한 감동.박지빈 장준영 투톱의 연기가 찡하다!",
+    "date": "07.03.11",
+    "rating": "7",
+    "author": "kahl****",
+    "review_id": "1529930",
+    "movie_id": "46314"
+  },
+  {
+    "review": "정말 10점을 줘도 아깝지 않은 감동",
+    "date": "07.03.08",
+    "rating": "10",
+    "author": "snip****",
+    "review_id": "1523845",
+    "movie_id": "46314"
+  },
+  {
+    "review": "감동적인 휴먼드라마",
+    "date": "07.02.25",
+    "rating": "9",
+    "author": "kch5****",
+    "review_id": "1501497",
+    "movie_id": "46314"
+  },
+  {
+    "review": "좀 허무하게 끝났다. 아버지가 죽었으면 더 감동이 있었을듯...",
+    "date": "07.02.24",
+    "rating": "6",
+    "author": "ggue****",
+    "review_id": "1498996",
+    "movie_id": "46314"
+  },
+  {
+    "review": "난별루..;",
+    "date": "07.02.13",
+    "rating": "3",
+    "author": "isun****",
+    "review_id": "1467109",
+    "movie_id": "46314"
+  },
+  {
+    "review": "감동적인 영화~",
+    "date": "07.02.10",
+    "rating": "9",
+    "author": "kwm9****",
+    "review_id": "1460539",
+    "movie_id": "46314"
+  },
+  {
+    "review": "여기 시대 아저씨들은 나쁜사람들이었나봐요",
+    "date": "07.02.04",
+    "rating": "10",
+    "author": "kimk****",
+    "review_id": "1444421",
+    "movie_id": "46314"
+  },
+  {
+    "review": "이 녀석들이 쓰는 사투리 너무 귀엽다.",
+    "date": "07.01.29",
+    "rating": "8",
+    "author": "opti****",
+    "review_id": "1424097",
+    "movie_id": "46314"
+  },
+  {
+    "review": "얼라들 연기 잘하는구먼",
+    "date": "07.01.20",
+    "rating": "10",
+    "author": "nkpr****",
+    "review_id": "1400342",
+    "movie_id": "46314"
+  },
+  {
+    "review": "박지빈의 연기 무척 슬펐다....괜찮은 영화",
+    "date": "07.01.19",
+    "rating": "8",
+    "author": "sch1****",
+    "review_id": "1398248",
+    "movie_id": "46314"
+  },
+  {
+    "review": "아역배우들 훌륭하네요♡ 가슴찡하고 많이울었어요",
+    "date": "07.01.19",
+    "rating": "10",
+    "author": "dndu****",
+    "review_id": "1397920",
+    "movie_id": "46314"
+  },
+  {
+    "review": "정답지만...진부함이..",
+    "date": "07.01.18",
+    "rating": "8",
+    "author": "love****",
+    "review_id": "1395028",
+    "movie_id": "46314"
+  },
+  {
+    "review": "그저 아역배우들의 연기만 볼만 했을뿐...",
+    "date": "07.01.12",
+    "rating": "5",
+    "author": "led0****",
+    "review_id": "1376764",
+    "movie_id": "46314"
+  },
+  {
+    "review": "지빈이 넘 귀엽네~",
+    "date": "07.01.08",
+    "rating": "7",
+    "author": "guro****",
+    "review_id": "1367592",
+    "movie_id": "46314"
+  },
+  {
+    "review": "난 솔직히 슬퍼서 좀 울엇는데 ㅋㅋ 괜찬았삼~",
+    "date": "07.01.08",
+    "rating": "8",
+    "author": "ctae****",
+    "review_id": "1367181",
+    "movie_id": "46314"
+  },
+  {
+    "review": "본게 후회 된다.",
+    "date": "07.01.06",
+    "rating": "1",
+    "author": "qkrw****",
+    "review_id": "1362509",
+    "movie_id": "46314"
+  },
+  {
+    "review": "재미도있었는데 애들이 연기를 너무잘해..",
+    "date": "07.01.03",
+    "rating": "9",
+    "author": "civa****",
+    "review_id": "1353407",
+    "movie_id": "46314"
+  },
+  {
+    "review": "ok",
+    "date": "07.01.02",
+    "rating": "3",
+    "author": "kcch****",
+    "review_id": "1351550",
+    "movie_id": "46314"
+  },
+  {
+    "review": "따뜻한영화지만, 아빠찾아삼만리인가, 그냥볼만한영화다",
+    "date": "06.12.30",
+    "rating": "5",
+    "author": "stam****",
+    "review_id": "1342124",
+    "movie_id": "46314"
+  },
+  {
+    "review": "아따..훈훈하구만~",
+    "date": "06.12.29",
+    "rating": "8",
+    "author": "2601****",
+    "review_id": "1338621",
+    "movie_id": "46314"
+  },
+  {
+    "review": "너무 뻔한 스토리,, 박지빈을 위한 영화.",
+    "date": "06.12.25",
+    "rating": "6",
+    "author": "sogy****",
+    "review_id": "1323732",
+    "movie_id": "46314"
+  }
+]

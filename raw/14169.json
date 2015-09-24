@@ -1,0 +1,34 @@
+[
+  {
+    "review": "옛영화의 추억이네요. 좋은영화입니다.",
+    "date": "12.06.21",
+    "rating": "9",
+    "author": "sinb****",
+    "review_id": "6405337",
+    "movie_id": "14169"
+  },
+  {
+    "review": "영원한국민오빠 연기도 최고 노래도 최고 막강동안",
+    "date": "12.06.21",
+    "rating": "10",
+    "author": "yera****",
+    "review_id": "6405335",
+    "movie_id": "14169"
+  },
+  {
+    "review": "잘모르겠습니다. 저는 재미가있는지..",
+    "date": "08.08.18",
+    "rating": "1",
+    "author": "mega****",
+    "review_id": "2882150",
+    "movie_id": "14169"
+  },
+  {
+    "review": "정말 재밌는 영화입니다",
+    "date": "04.12.09",
+    "rating": "10",
+    "author": "kasa****",
+    "review_id": "159483",
+    "movie_id": "14169"
+  }
+]

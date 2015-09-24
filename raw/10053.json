@@ -1,0 +1,34 @@
+[
+  {
+    "review": "현미 쇼 아주 즐겁게 관람했습니다.",
+    "date": "15.02.24",
+    "rating": "8",
+    "author": "nej7****",
+    "review_id": "9734086",
+    "movie_id": "10053"
+  },
+  {
+    "review": "텍사스를 배경으로 장대하게 펼쳐지는사랑의 대 서사시",
+    "date": "15.02.20",
+    "rating": "8",
+    "author": "guev****",
+    "review_id": "9716519",
+    "movie_id": "10053"
+  },
+  {
+    "review": "정말 배우들이 그립다  영화도 훌룡하다",
+    "date": "15.01.27",
+    "rating": "10",
+    "author": "sdey****",
+    "review_id": "9641456",
+    "movie_id": "10053"
+  },
+  {
+    "review": "어느나라나 꼴통 지역이 있다",
+    "date": "15.01.25",
+    "rating": "7",
+    "author": "ykdi****",
+    "review_id": "9637120",
+    "movie_id": "10053"
+  }
+]

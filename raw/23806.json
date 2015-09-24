@@ -1,0 +1,26 @@
+[
+  {
+    "review": "재밋어요",
+    "date": "13.04.21",
+    "rating": "10",
+    "author": "hoy3****",
+    "review_id": "7472395",
+    "movie_id": "23806"
+  },
+  {
+    "review": "너무옛날꺼",
+    "date": "12.04.20",
+    "rating": "1",
+    "author": "boaz****",
+    "review_id": "6234406",
+    "movie_id": "23806"
+  },
+  {
+    "review": "재밌어요~",
+    "date": "10.12.22",
+    "rating": "10",
+    "author": "kimh****",
+    "review_id": "5073489",
+    "movie_id": "23806"
+  }
+]

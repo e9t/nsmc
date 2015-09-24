@@ -1,0 +1,66 @@
+[
+  {
+    "review": "영화가 이렇게 돼버린 책임은 누구에게 있을까?",
+    "date": "12.02.04",
+    "rating": "2",
+    "author": "pria****",
+    "review_id": "6051770",
+    "movie_id": "18841"
+  },
+  {
+    "review": "의도는 알겠는데 방식이 너무 낡았다. 그리고 힘없는 연출은 갈팡질팡..",
+    "date": "08.06.29",
+    "rating": "6",
+    "author": "linu****",
+    "review_id": "2728065",
+    "movie_id": "18841"
+  },
+  {
+    "review": "명배우 케빈 스페이시의 훌륭한 감독 데뷔작.",
+    "date": "06.01.09",
+    "rating": "7",
+    "author": "movi****",
+    "review_id": "573962",
+    "movie_id": "18841"
+  },
+  {
+    "review": "범죄 스릴러에 대한 캐빈 스페이시의 연륜이 느껴진다.",
+    "date": "05.10.02",
+    "rating": "8",
+    "author": "jals****",
+    "review_id": "431029",
+    "movie_id": "18841"
+  },
+  {
+    "review": "평범하고 긴장감 없는 이야기",
+    "date": "05.02.08",
+    "rating": "5",
+    "author": "chil****",
+    "review_id": "212633",
+    "movie_id": "18841"
+  },
+  {
+    "review": "궁금해서 계속보게 되네요. ^^",
+    "date": "04.11.01",
+    "rating": "8",
+    "author": "will****",
+    "review_id": "136954",
+    "movie_id": "18841"
+  },
+  {
+    "review": "오호 지금 하는데 궁금하네",
+    "date": "04.10.31",
+    "rating": "10",
+    "author": "its0****",
+    "review_id": "136718",
+    "movie_id": "18841"
+  },
+  {
+    "review": "오늘 이거 하네요 즐감",
+    "date": "04.10.30",
+    "rating": "1",
+    "author": "kime****",
+    "review_id": "135755",
+    "movie_id": "18841"
+  }
+]

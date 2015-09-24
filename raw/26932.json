@@ -1,0 +1,42 @@
+[
+  {
+    "review": "역시 하비에르 바르뎀!",
+    "date": "14.06.29",
+    "rating": "10",
+    "author": "sadf****",
+    "review_id": "8867875",
+    "movie_id": "26932"
+  },
+  {
+    "review": "초반의 흥미가 줄곧 유지되는군",
+    "date": "13.11.19",
+    "rating": "7",
+    "author": "guev****",
+    "review_id": "8152543",
+    "movie_id": "26932"
+  },
+  {
+    "review": "재밌습니다.",
+    "date": "12.02.16",
+    "rating": "9",
+    "author": "umas****",
+    "review_id": "6079533",
+    "movie_id": "26932"
+  },
+  {
+    "review": "감독 특유의 센스를 이해하면 볼만한 영화",
+    "date": "11.08.22",
+    "rating": "8",
+    "author": "doji****",
+    "review_id": "5678283",
+    "movie_id": "26932"
+  },
+  {
+    "review": "실버골이다~",
+    "date": "10.07.13",
+    "rating": "6",
+    "author": "bkm1****",
+    "review_id": "4635719",
+    "movie_id": "26932"
+  }
+]

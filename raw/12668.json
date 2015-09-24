@@ -1,0 +1,74 @@
+[
+  {
+    "review": "깊은 감동이 있는 좋은영화",
+    "date": "14.02.12",
+    "rating": "10",
+    "author": "nico****",
+    "review_id": "8500418",
+    "movie_id": "12668"
+  },
+  {
+    "review": "감동적인 형제애",
+    "date": "10.06.03",
+    "rating": "10",
+    "author": "ccpk****",
+    "review_id": "4541385",
+    "movie_id": "12668"
+  },
+  {
+    "review": "어릴 때 굉장히 감명깊게 봤는데, 이제 보니 레이 리요타였구나.",
+    "date": "10.06.03",
+    "rating": "9",
+    "author": "rame****",
+    "review_id": "4541384",
+    "movie_id": "12668"
+  },
+  {
+    "review": "마지막 장면의 여운이 잊혀지지 않는다",
+    "date": "10.06.03",
+    "rating": "10",
+    "author": "kpcc****",
+    "review_id": "4541382",
+    "movie_id": "12668"
+  },
+  {
+    "review": "이영화를 본 소수의 자부심^^",
+    "date": "09.06.07",
+    "rating": "10",
+    "author": "newj****",
+    "review_id": "3551040",
+    "movie_id": "12668"
+  },
+  {
+    "review": "중학교때 코미지 인줄 알고 비려봤다가 캐감동 먹었음 눈물이 그냥.....",
+    "date": "07.03.30",
+    "rating": "10",
+    "author": "hms0****",
+    "review_id": "1562390",
+    "movie_id": "12668"
+  },
+  {
+    "review": "재미없는 소재 하지만 형제의 눈물",
+    "date": "07.02.23",
+    "rating": "10",
+    "author": "sige****",
+    "review_id": "1496153",
+    "movie_id": "12668"
+  },
+  {
+    "review": "가슴 따뜻하게 해주는 여운이 긴 영화",
+    "date": "05.03.22",
+    "rating": "10",
+    "author": "klim****",
+    "review_id": "245536",
+    "movie_id": "12668"
+  },
+  {
+    "review": "형제애... 그리고 홀로서기... 그 이상의 감동!",
+    "date": "04.07.14",
+    "rating": "10",
+    "author": "kpcc****",
+    "review_id": "70801",
+    "movie_id": "12668"
+  }
+]

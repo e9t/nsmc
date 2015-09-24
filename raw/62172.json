@@ -1,0 +1,50 @@
+[
+  {
+    "review": "평점 조절위원회에서 나왔습니다.오늘은,오랜만에 제대로 일하고 가는군요...(웃음)",
+    "date": "13.04.13",
+    "rating": "2",
+    "author": "baks****",
+    "review_id": "7456556",
+    "movie_id": "62172"
+  },
+  {
+    "review": "재밌었음 정말로...",
+    "date": "12.09.25",
+    "rating": "10",
+    "author": "uiwa****",
+    "review_id": "6733066",
+    "movie_id": "62172"
+  },
+  {
+    "review": "진짜 개굳!!!!",
+    "date": "10.06.11",
+    "rating": "10",
+    "author": "cvbn****",
+    "review_id": "4559339",
+    "movie_id": "62172"
+  },
+  {
+    "review": "단도직입적으로 말할까요? 안보면 후회합니다.",
+    "date": "06.11.23",
+    "rating": "10",
+    "author": "c8v8****",
+    "review_id": "1247084",
+    "movie_id": "62172"
+  },
+  {
+    "review": "조여정,김지훈의 코믹연기 너무 재미있음.",
+    "date": "06.08.15",
+    "rating": "9",
+    "author": "dawj****",
+    "review_id": "1033802",
+    "movie_id": "62172"
+  },
+  {
+    "review": "조여정의 매력~~",
+    "date": "06.07.28",
+    "rating": "10",
+    "author": "zeed****",
+    "review_id": "929589",
+    "movie_id": "62172"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "공감이 전혀 안되며 지루하다",
+    "date": "14.07.19",
+    "rating": "1",
+    "author": "orac****",
+    "review_id": "8930591",
+    "movie_id": "72868"
+  },
+  {
+    "review": "재미나게 잘 봤습니다...시간가는줄 모르고 봤네요..굿",
+    "date": "13.08.06",
+    "rating": "10",
+    "author": "hama****",
+    "review_id": "7847620",
+    "movie_id": "72868"
+  },
+  {
+    "review": "민주화",
+    "date": "13.03.01",
+    "rating": "5",
+    "author": "whdt****",
+    "review_id": "7313840",
+    "movie_id": "72868"
+  },
+  {
+    "review": "이런 스딸 너무 좋아...",
+    "date": "13.02.04",
+    "rating": "9",
+    "author": "fj11****",
+    "review_id": "7225856",
+    "movie_id": "72868"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "8117075",
+    "movie_id": "93070",
+    "author": "swee****",
+    "review": "결꼼 짱짱맨 헤헤 또 봐야지",
+    "rating": "10",
+    "date": "13.11.05"
+  },
+  {
+    "review_id": "6760313",
+    "movie_id": "93070",
+    "author": "popc****",
+    "review": "더럽게 재미없어 쓰레기 드라마",
+    "rating": "1",
+    "date": "12.10.03"
+  },
+  {
+    "review_id": "6676244",
+    "movie_id": "93070",
+    "author": "ssow****",
+    "review": "재미있음",
+    "rating": "10",
+    "date": "12.09.07"
+  },
+  {
+    "review_id": "6412022",
+    "movie_id": "93070",
+    "author": "odjs****",
+    "review": "배우들의 캐스팅도 잘되있고 내용도 재밌는 드라마",
+    "rating": "10",
+    "date": "12.06.24"
+  },
+  {
+    "review_id": "6303724",
+    "movie_id": "93070",
+    "author": "chew****",
+    "review": "재미있음. 주인공 모두 사랑스럽고, 캐릭터를 설득력있게 잘 연기하고",
+    "rating": "10",
+    "date": "12.05.16"
+  }
+]

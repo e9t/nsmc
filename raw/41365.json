@@ -1,0 +1,26 @@
+[
+  {
+    "review": "장서희가 이럴줄이야",
+    "date": "06.08.04",
+    "rating": "7",
+    "author": "zeed****",
+    "review_id": "967405",
+    "movie_id": "41365"
+  },
+  {
+    "review": "장서희씨만 안 나왔음 쳐다도 안 봤다.",
+    "date": "05.10.26",
+    "rating": "7",
+    "author": "shfw****",
+    "review_id": "455832",
+    "movie_id": "41365"
+  },
+  {
+    "review": "짱이예요",
+    "date": "05.09.24",
+    "rating": "10",
+    "author": "punk****",
+    "review_id": "420629",
+    "movie_id": "41365"
+  }
+]

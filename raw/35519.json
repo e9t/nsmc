@@ -1,0 +1,34 @@
+[
+  {
+    "review": "좋아요.",
+    "date": "12.06.11",
+    "rating": "10",
+    "author": "nimb****",
+    "review_id": "6386011",
+    "movie_id": "35519"
+  },
+  {
+    "review": "완전 최고~",
+    "date": "10.09.04",
+    "rating": "10",
+    "author": "pooh****",
+    "review_id": "4816025",
+    "movie_id": "35519"
+  },
+  {
+    "review": "정말 재미 있네요.",
+    "date": "09.05.18",
+    "rating": "10",
+    "author": "0527****",
+    "review_id": "3505106",
+    "movie_id": "35519"
+  },
+  {
+    "review": "마음에 들어요.",
+    "date": "09.05.18",
+    "rating": "10",
+    "author": "dong****",
+    "review_id": "3505098",
+    "movie_id": "35519"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review": "케이블에서 봤는데 괜찮네요",
+    "date": "10.08.23",
+    "rating": "7",
+    "author": "slh2****",
+    "review_id": "4781316",
+    "movie_id": "19600"
+  },
+  {
+    "review": "잔잔한 감동과 재미가 있는 영화 .",
+    "date": "10.03.27",
+    "rating": "5",
+    "author": "evil****",
+    "review_id": "4392095",
+    "movie_id": "19600"
+  },
+  {
+    "review": "옛날배우들이 더잘생겼네요.",
+    "date": "08.09.03",
+    "rating": "10",
+    "author": "ymw4****",
+    "review_id": "2920245",
+    "movie_id": "19600"
+  },
+  {
+    "review": "머 이래..ㅡㅡ;",
+    "date": "08.01.14",
+    "rating": "1",
+    "author": "nana****",
+    "review_id": "2328814",
+    "movie_id": "19600"
+  },
+  {
+    "review": "굿",
+    "date": "06.01.31",
+    "rating": "10",
+    "author": "jpar****",
+    "review_id": "635055",
+    "movie_id": "19600"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "내 마음속에 영원한 그대여!!",
+    "date": "15.06.23",
+    "rating": "10",
+    "author": "ske4****",
+    "review_id": "10023617",
+    "movie_id": "37126"
+  },
+  {
+    "review": "좋습니다.",
+    "date": "12.06.07",
+    "rating": "10",
+    "author": "nimb****",
+    "review_id": "6374403",
+    "movie_id": "37126"
+  },
+  {
+    "review": "재미 있어요.",
+    "date": "09.05.16",
+    "rating": "10",
+    "author": "dong****",
+    "review_id": "3498690",
+    "movie_id": "37126"
+  },
+  {
+    "review": "마음에 들어요.",
+    "date": "09.05.16",
+    "rating": "10",
+    "author": "0527****",
+    "review_id": "3498680",
+    "movie_id": "37126"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "10244328",
+    "movie_id": "79303",
+    "author": "choo****",
+    "review": "잔잔하고 현실적이고... 연기도 너무 잘하고..",
+    "rating": "9",
+    "date": "15.08.17"
+  },
+  {
+    "review_id": "10231167",
+    "movie_id": "79303",
+    "author": "ghye****",
+    "review": "상영관이 없다. /.,ㅡㅜ",
+    "rating": "5",
+    "date": "15.08.14"
+  },
+  {
+    "review_id": "10226307",
+    "movie_id": "79303",
+    "author": "534k****",
+    "review": "베네딕트컴버배치ㅋㅋㅋ",
+    "rating": "10",
+    "date": "15.08.14"
+  },
+  {
+    "review_id": "10223451",
+    "movie_id": "79303",
+    "author": "show****",
+    "review": "먼데이거뭔영화야ㅋㅋ",
+    "rating": "10",
+    "date": "15.08.13"
+  }
+]

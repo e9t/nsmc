@@ -1,0 +1,42 @@
+[
+  {
+    "review": "참 잘했어요 저는 숙제때문에 걱정했었그던요. 감사감사",
+    "date": "05.10.19",
+    "rating": "10",
+    "author": "jjky****",
+    "review_id": "448016",
+    "movie_id": "23291"
+  },
+  {
+    "review": "볼만하네",
+    "date": "05.06.18",
+    "rating": "10",
+    "author": "sind****",
+    "review_id": "302099",
+    "movie_id": "23291"
+  },
+  {
+    "review": "닥쳐",
+    "date": "04.11.01",
+    "rating": "1",
+    "author": "clae****",
+    "review_id": "137342",
+    "movie_id": "23291"
+  },
+  {
+    "review": "춘향전 참 재밌어요.",
+    "date": "04.10.22",
+    "rating": "10",
+    "author": "lisa****",
+    "review_id": "130690",
+    "movie_id": "23291"
+  },
+  {
+    "review": "영화 보지는 않았지만 책으로 봐서 내용은 알아요. 매우 재밌어요.",
+    "date": "04.08.24",
+    "rating": "10",
+    "author": "lind****",
+    "review_id": "96260",
+    "movie_id": "23291"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "7639634",
+    "movie_id": "102586",
+    "author": "x_x_****",
+    "review": "음",
+    "rating": "1",
+    "date": "13.06.14"
+  },
+  {
+    "review_id": "7472587",
+    "movie_id": "102586",
+    "author": "8740****",
+    "review": "재밌네요",
+    "rating": "10",
+    "date": "13.04.21"
+  },
+  {
+    "review_id": "7389792",
+    "movie_id": "102586",
+    "author": "thwj****",
+    "review": "광희♥♥",
+    "rating": "10",
+    "date": "13.03.21"
+  },
+  {
+    "review_id": "7208228",
+    "movie_id": "102586",
+    "author": "yjk9****",
+    "review": "잘됬으면 좋겠다",
+    "rating": "10",
+    "date": "13.02.01"
+  },
+  {
+    "review_id": "7208222",
+    "movie_id": "102586",
+    "author": "yjyu****",
+    "review": "ㅋㅋㅋ",
+    "rating": "10",
+    "date": "13.02.01"
+  }
+]

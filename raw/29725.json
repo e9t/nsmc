@@ -1,0 +1,26 @@
+[
+  {
+    "review": "헛웃음만 나온다",
+    "date": "07.07.23",
+    "rating": "5",
+    "author": "zeed****",
+    "review_id": "1801908",
+    "movie_id": "29725"
+  },
+  {
+    "review": "이런영화는 좀..",
+    "date": "06.04.16",
+    "rating": "4",
+    "author": "quit****",
+    "review_id": "763603",
+    "movie_id": "29725"
+  },
+  {
+    "review": "타란티노 로드게스 조롱하는 과격한 액션 로드무비",
+    "date": "06.02.19",
+    "rating": "3",
+    "author": "kws7****",
+    "review_id": "681333",
+    "movie_id": "29725"
+  }
+]

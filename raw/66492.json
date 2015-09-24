@@ -1,0 +1,42 @@
+[
+  {
+    "review": "별점 조절",
+    "date": "13.06.12",
+    "rating": "1",
+    "author": "vcv0****",
+    "review_id": "7630533",
+    "movie_id": "66492"
+  },
+  {
+    "review": "명불허전...",
+    "date": "13.05.16",
+    "rating": "10",
+    "author": "baks****",
+    "review_id": "7530822",
+    "movie_id": "66492"
+  },
+  {
+    "review": "너무 좋습니다.",
+    "date": "11.12.15",
+    "rating": "10",
+    "author": "nimb****",
+    "review_id": "5907332",
+    "movie_id": "66492"
+  },
+  {
+    "review": "재미 있습니다.",
+    "date": "09.07.03",
+    "rating": "10",
+    "author": "dong****",
+    "review_id": "3608209",
+    "movie_id": "66492"
+  },
+  {
+    "review": "마음에 듭니다.",
+    "date": "09.07.03",
+    "rating": "10",
+    "author": "0527****",
+    "review_id": "3608184",
+    "movie_id": "66492"
+  }
+]

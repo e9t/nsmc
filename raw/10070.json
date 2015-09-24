@@ -1,0 +1,50 @@
+[
+  {
+    "review": "굿굿이에요!추억돋습니다",
+    "date": "15.08.01",
+    "rating": "10",
+    "author": "fa11****",
+    "review_id": "10171811",
+    "movie_id": "10070"
+  },
+  {
+    "review": "이런걸작이 평점이 이리 낮다니... 수준들 하곤...",
+    "date": "15.04.13",
+    "rating": "10",
+    "author": "tae0****",
+    "review_id": "9844282",
+    "movie_id": "10070"
+  },
+  {
+    "review": "익히 듣던 명성에 비해...;;;",
+    "date": "15.04.12",
+    "rating": "6",
+    "author": "popy****",
+    "review_id": "9842440",
+    "movie_id": "10070"
+  },
+  {
+    "review": "명작이었죠ㅎㅎ ebs에서 방영해주서봤는데걸작이더군요",
+    "date": "15.04.12",
+    "rating": "10",
+    "author": "wwbs****",
+    "review_id": "9842320",
+    "movie_id": "10070"
+  },
+  {
+    "review": "무슨영화냐토렌트가없어",
+    "date": "15.04.01",
+    "rating": "5",
+    "author": "hisu****",
+    "review_id": "9819636",
+    "movie_id": "10070"
+  },
+  {
+    "review": "최고의 서부영화....커크 더글러스의 살아있는 캐릭터",
+    "date": "15.03.11",
+    "rating": "10",
+    "author": "stem****",
+    "review_id": "9772517",
+    "movie_id": "10070"
+  }
+]

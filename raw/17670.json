@@ -1,0 +1,34 @@
+[
+  {
+    "review": "지금까지도 이소룡을 따라잡을 사람은 한명도 없다이소룡의 액션은 정말 넘사벽",
+    "date": "15.02.20",
+    "rating": "10",
+    "author": "biuh****",
+    "review_id": "9718525",
+    "movie_id": "17670"
+  },
+  {
+    "review": "정말 감동적이다",
+    "date": "11.01.07",
+    "rating": "10",
+    "author": "y_wn****",
+    "review_id": "5139057",
+    "movie_id": "17670"
+  },
+  {
+    "review": "최고다",
+    "date": "08.10.19",
+    "rating": "10",
+    "author": "dms3****",
+    "review_id": "3009113",
+    "movie_id": "17670"
+  },
+  {
+    "review": "오디션장면 최고~",
+    "date": "08.08.13",
+    "rating": "9",
+    "author": "seun****",
+    "review_id": "2866298",
+    "movie_id": "17670"
+  }
+]

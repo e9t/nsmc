@@ -1,0 +1,42 @@
+[
+  {
+    "review": "존나 재밌게 봄",
+    "date": "12.02.16",
+    "rating": "10",
+    "author": "sala****",
+    "review_id": "6079704",
+    "movie_id": "38604"
+  },
+  {
+    "review": "기억나는 건 싸이가 부른 주제가뿐 좋은 주제를 망쳐놨다",
+    "date": "06.09.08",
+    "rating": "2",
+    "author": "okjo****",
+    "review_id": "1111240",
+    "movie_id": "38604"
+  },
+  {
+    "review": "소재가 정말좋았는데... 그저 사랑얘기에서 머문감이.",
+    "date": "06.08.14",
+    "rating": "9",
+    "author": "qafa****",
+    "review_id": "1027976",
+    "movie_id": "38604"
+  },
+  {
+    "review": "좋은 소재를 잘살렸다면 좋았을것을",
+    "date": "06.08.03",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "960180",
+    "movie_id": "38604"
+  },
+  {
+    "review": "볼만함",
+    "date": "06.06.21",
+    "rating": "8",
+    "author": "duck****",
+    "review_id": "851919",
+    "movie_id": "38604"
+  }
+]

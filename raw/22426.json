@@ -1,0 +1,26 @@
+[
+  {
+    "review": "욕 하는 영화",
+    "date": "10.07.20",
+    "rating": "6",
+    "author": "bkm1****",
+    "review_id": "4654695",
+    "movie_id": "22426"
+  },
+  {
+    "review": "시대상을 잘표현한듯...",
+    "date": "08.02.26",
+    "rating": "8",
+    "author": "fell****",
+    "review_id": "2483771",
+    "movie_id": "22426"
+  },
+  {
+    "review": "욕나오는 영화",
+    "date": "07.02.10",
+    "rating": "10",
+    "author": "rhka****",
+    "review_id": "1460375",
+    "movie_id": "22426"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "review": "다시 보고싶은데 구할수가 없네요",
+    "date": "15.02.15",
+    "rating": "10",
+    "author": "alar****",
+    "review_id": "9697269",
+    "movie_id": "17492"
+  },
+  {
+    "review": "무슨 이런 영화가 평점이 10점이지 너무 점수를 후하게 주는것 아닌가.",
+    "date": "08.04.16",
+    "rating": "5",
+    "author": "mona****",
+    "review_id": "2584431",
+    "movie_id": "17492"
+  },
+  {
+    "review": "뭔지는 모르겠지만 나도 10점",
+    "date": "08.01.13",
+    "rating": "10",
+    "author": "pks7****",
+    "review_id": "2327386",
+    "movie_id": "17492"
+  },
+  {
+    "review": "재밌지....OCN에서 봤었는데..",
+    "date": "04.08.06",
+    "rating": "10",
+    "author": "ssen****",
+    "review_id": "85059",
+    "movie_id": "17492"
+  }
+]

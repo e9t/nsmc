@@ -1,0 +1,34 @@
+[
+  {
+    "review": "굿",
+    "date": "13.02.11",
+    "rating": "10",
+    "author": "akai****",
+    "review_id": "7253950",
+    "movie_id": "42608"
+  },
+  {
+    "review": "다시 보고 싶은데...",
+    "date": "12.06.15",
+    "rating": "10",
+    "author": "1970****",
+    "review_id": "6392587",
+    "movie_id": "42608"
+  },
+  {
+    "review": "배우 나문희 씨를 국민할머니로 자리매김하게 한 드라마~",
+    "date": "10.04.13",
+    "rating": "6",
+    "author": "mygr****",
+    "review_id": "4430301",
+    "movie_id": "42608"
+  },
+  {
+    "review": "최고였지.",
+    "date": "09.09.12",
+    "rating": "10",
+    "author": "eorn****",
+    "review_id": "3826624",
+    "movie_id": "42608"
+  }
+]

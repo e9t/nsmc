@@ -1,0 +1,42 @@
+[
+  {
+    "review": "이런 풋풋한 코메디물이 아주좋아. 어디서 또 못보나?",
+    "date": "09.02.20",
+    "rating": "10",
+    "author": "newj****",
+    "review_id": "3318615",
+    "movie_id": "15064"
+  },
+  {
+    "review": "참 신선유쾌상쾌깔끔한 스티브 마틴식 영화",
+    "date": "07.09.30",
+    "rating": "9",
+    "author": "scri****",
+    "review_id": "2060762",
+    "movie_id": "15064"
+  },
+  {
+    "review": "멋지다",
+    "date": "06.01.09",
+    "rating": "10",
+    "author": "mox2****",
+    "review_id": "572868",
+    "movie_id": "15064"
+  },
+  {
+    "review": "코미디 영화지만 라스트에는 묘한 감동이..",
+    "date": "05.10.04",
+    "rating": "7",
+    "author": "movi****",
+    "review_id": "433252",
+    "movie_id": "15064"
+  },
+  {
+    "review": "은근히 웃기는 코메디. 기발한 내용, 기발한 화면!",
+    "date": "04.11.19",
+    "rating": "8",
+    "author": "muld****",
+    "review_id": "148651",
+    "movie_id": "15064"
+  }
+]

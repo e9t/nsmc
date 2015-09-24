@@ -1,0 +1,66 @@
+[
+  {
+    "review_id": "10219258",
+    "movie_id": "93928",
+    "author": "smhe****",
+    "review": "액션은 좋다. 돌프 때문에 봄",
+    "rating": "10",
+    "date": "15.08.12"
+  },
+  {
+    "review_id": "10194625",
+    "movie_id": "93928",
+    "author": "pias****",
+    "review": "그래픽도 좋고...돌프형 멋짐",
+    "rating": "10",
+    "date": "15.08.06"
+  },
+  {
+    "review_id": "10160941",
+    "movie_id": "93928",
+    "author": "guev****",
+    "review": "이야기 전개가 가 엉성하지만 허접한 영화가 넘쳐나는 좀비장르치고는 그런대로 볼만하군",
+    "rating": "5",
+    "date": "15.07.30"
+  },
+  {
+    "review_id": "10062421",
+    "movie_id": "93928",
+    "author": "luv8****",
+    "review": "돌프 룬드그렌이 하드캐리하는 영화",
+    "rating": "10",
+    "date": "15.07.02"
+  },
+  {
+    "review_id": "9854111",
+    "movie_id": "93928",
+    "author": "heli****",
+    "review": "최악은 면한 좀비영화.",
+    "rating": "5",
+    "date": "15.04.20"
+  },
+  {
+    "review_id": "9853931",
+    "movie_id": "93928",
+    "author": "bles****",
+    "review": "높아진 눈높이에 한참 모자른 좀비물",
+    "rating": "3",
+    "date": "15.04.20"
+  },
+  {
+    "review_id": "9840284",
+    "movie_id": "93928",
+    "author": "hyos****",
+    "review": "짱읻윽ㅌㄱ그븓짱이다",
+    "rating": "10",
+    "date": "15.04.11"
+  },
+  {
+    "review_id": "9834571",
+    "movie_id": "93928",
+    "author": "lskj****",
+    "review": "뭐지....하...",
+    "rating": "1",
+    "date": "15.04.08"
+  }
+]

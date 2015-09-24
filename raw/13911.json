@@ -1,0 +1,42 @@
+[
+  {
+    "review": "아는사람 여기 또있수",
+    "date": "09.09.09",
+    "rating": "7",
+    "author": "novi****",
+    "review_id": "3820602",
+    "movie_id": "13911"
+  },
+  {
+    "review": "케이알에스의 등장으로 별점 더 드림~",
+    "date": "09.07.20",
+    "rating": "7",
+    "author": "asas****",
+    "review_id": "3651526",
+    "movie_id": "13911"
+  },
+  {
+    "review": "랩퍼인 드레의 영화였다",
+    "date": "07.09.01",
+    "rating": "4",
+    "author": "deff****",
+    "review_id": "1995237",
+    "movie_id": "13911"
+  },
+  {
+    "review": "이 영화를 아는사람 한명 추가",
+    "date": "07.01.08",
+    "rating": "10",
+    "author": "dnjs****",
+    "review_id": "1367121",
+    "movie_id": "13911"
+  },
+  {
+    "review": "이 영화 아는 사람 아무도 없수?",
+    "date": "07.01.06",
+    "rating": "9",
+    "author": "pess****",
+    "review_id": "1360777",
+    "movie_id": "13911"
+  }
+]

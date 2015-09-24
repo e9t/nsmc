@@ -1,0 +1,802 @@
+[
+  {
+    "review": "8점은 되는 영화인듯 한데",
+    "date": "15.06.27",
+    "rating": "8",
+    "author": "diun****",
+    "review_id": "10042011",
+    "movie_id": "61025"
+  },
+  {
+    "review": "유치하지만  웃으면서 잘봤어요..코믹을나름살렸네요..저런부자지간이라면 결손가정들 재밌게잘살아나갈것같은데요..ㅎㅎ 넘 심각하게 살지말자 우후~~",
+    "date": "15.06.13",
+    "rating": "8",
+    "author": "seon****",
+    "review_id": "9997642",
+    "movie_id": "61025"
+  },
+  {
+    "review": "나도 재밌게 봤는데...",
+    "date": "15.01.07",
+    "rating": "10",
+    "author": "qorw****",
+    "review_id": "9571092",
+    "movie_id": "61025"
+  },
+  {
+    "review": "7점정도가 적당한거 같은데 평점이 너무 낮아서 10점 줍니다.",
+    "date": "14.11.22",
+    "rating": "10",
+    "author": "tlso****",
+    "review_id": "9410212",
+    "movie_id": "61025"
+  },
+  {
+    "review": "1점도 아깝다 저질 삼류영화",
+    "date": "14.10.16",
+    "rating": "1",
+    "author": "easy****",
+    "review_id": "9295273",
+    "movie_id": "61025"
+  },
+  {
+    "review": "음 섹드립영화라고 보면된다 가볍고 즐겁게 보면되는데 저질이다 드럽다라고 생각하면 너무 무겁게 생각하는거 같음",
+    "date": "14.10.16",
+    "rating": "8",
+    "author": "kwhi****",
+    "review_id": "9295255",
+    "movie_id": "61025"
+  },
+  {
+    "review": "분명히 이 영화는 재평가 되어야 한다. 재기발랄!",
+    "date": "14.10.16",
+    "rating": "10",
+    "author": "haen****",
+    "review_id": "9294910",
+    "movie_id": "61025"
+  },
+  {
+    "review": "짐캐리정도가돼야 그의 원맨쇼 하나만으로 영화하나가 만들어지지만...감독과 배우가 촬영을 하면서 민망하지 않았을까?",
+    "date": "14.08.11",
+    "rating": "3",
+    "author": "whia****",
+    "review_id": "9070407",
+    "movie_id": "61025"
+  },
+  {
+    "review": "너무 쉽게 만들어 내놓는다. 한국영화 전성기의 부산물.",
+    "date": "14.07.27",
+    "rating": "4",
+    "author": "tear****",
+    "review_id": "8965691",
+    "movie_id": "61025"
+  },
+  {
+    "review": "재미있어요  좋은영화 ...",
+    "date": "14.07.04",
+    "rating": "10",
+    "author": "ds5p****",
+    "review_id": "8883195",
+    "movie_id": "61025"
+  },
+  {
+    "review": "평점이 넘 낮다...,!",
+    "date": "14.05.29",
+    "rating": "10",
+    "author": "ksol****",
+    "review_id": "8773855",
+    "movie_id": "61025"
+  },
+  {
+    "review": "코미디 임에도 불구하고 그닥 웃기지도 않고..",
+    "date": "14.04.27",
+    "rating": "4",
+    "author": "adiv****",
+    "review_id": "8678801",
+    "movie_id": "61025"
+  },
+  {
+    "review": "이거보고 여친이랑 헤어짐 레알.. 와..",
+    "date": "14.04.21",
+    "rating": "1",
+    "author": "sala****",
+    "review_id": "8664596",
+    "movie_id": "61025"
+  },
+  {
+    "review": "ㅡㅡ반개도아깝다 ㅡㅡ",
+    "date": "13.12.23",
+    "rating": "1",
+    "author": "faus****",
+    "review_id": "8278110",
+    "movie_id": "61025"
+  },
+  {
+    "review": "나름 재밌게 본 내가 이상한건가...",
+    "date": "13.12.09",
+    "rating": "7",
+    "author": "choc****",
+    "review_id": "8201370",
+    "movie_id": "61025"
+  },
+  {
+    "review": "회피적인 유머만 믿고 방관하니 구멍이 날 수밖에.",
+    "date": "13.09.04",
+    "rating": "4",
+    "author": "rygh****",
+    "review_id": "7947192",
+    "movie_id": "61025"
+  },
+  {
+    "review": "정말 웃기고 재미남 ㅎ 수업시간에 보다가 뿜은 기억 ㅎㅎ",
+    "date": "13.08.13",
+    "rating": "10",
+    "author": "leel****",
+    "review_id": "7876739",
+    "movie_id": "61025"
+  },
+  {
+    "review": "영화 볼 시간도 아까움",
+    "date": "13.07.23",
+    "rating": "1",
+    "author": "hana****",
+    "review_id": "7776716",
+    "movie_id": "61025"
+  },
+  {
+    "review": "킬링 타임용으로는 Good",
+    "date": "13.07.12",
+    "rating": "8",
+    "author": "sunl****",
+    "review_id": "7728654",
+    "movie_id": "61025"
+  },
+  {
+    "review": "드럽다",
+    "date": "13.07.08",
+    "rating": "1",
+    "author": "psli****",
+    "review_id": "7718617",
+    "movie_id": "61025"
+  },
+  {
+    "review": "캐릭터살아있고 ㅋㅋ 겁내웃김 ㅋㅋㅋㅋㅋ",
+    "date": "13.07.01",
+    "rating": "10",
+    "author": "dken****",
+    "review_id": "7695728",
+    "movie_id": "61025"
+  },
+  {
+    "review": "큰 재미는 없었지만 나름 캐릭터라도 강렬했기에...",
+    "date": "13.06.11",
+    "rating": "6",
+    "author": "lees****",
+    "review_id": "7627128",
+    "movie_id": "61025"
+  },
+  {
+    "review": "이게 한쿡영화의 현실",
+    "date": "13.06.05",
+    "rating": "1",
+    "author": "ske4****",
+    "review_id": "7580972",
+    "movie_id": "61025"
+  },
+  {
+    "review": "할말없네요",
+    "date": "13.05.13",
+    "rating": "2",
+    "author": "leew****",
+    "review_id": "7525877",
+    "movie_id": "61025"
+  },
+  {
+    "review": "웃기지도 않고 내 생전 남자들이 이렇게 드럽고 추한 영화는 두번째네..",
+    "date": "13.04.01",
+    "rating": "4",
+    "author": "east****",
+    "review_id": "7429131",
+    "movie_id": "61025"
+  },
+  {
+    "review": "영화관에서 보고 돈 엄청 아까웠었지...",
+    "date": "13.03.31",
+    "rating": "2",
+    "author": "hoju****",
+    "review_id": "7427244",
+    "movie_id": "61025"
+  },
+  {
+    "review": "인정해라~골 잡는다...골 잡는다구~다들 인정하라구~응?~아이구~웃겨라~정말 자지러지겠네~이혜영 강남에서,한번 본 적이 있는데,은색 재규어 몰고 다니더라.무슨 본드 걸 같더군...역시 총은 월터 PPK...차는,애슈턴 마틴이 제일이지~암,그렇구 말구~",
+    "date": "13.03.26",
+    "rating": "5",
+    "author": "baks****",
+    "review_id": "7411981",
+    "movie_id": "61025"
+  },
+  {
+    "review": "~.~",
+    "date": "13.03.21",
+    "rating": "10",
+    "author": "deok****",
+    "review_id": "7386528",
+    "movie_id": "61025"
+  },
+  {
+    "review": "안습작...웃기는건 좋은데...내가 영화관에서 봤다는게 중요함",
+    "date": "13.01.17",
+    "rating": "3",
+    "author": "capg****",
+    "review_id": "7124545",
+    "movie_id": "61025"
+  },
+  {
+    "review": "존나웃김 ㅋㅋㅋㅋㅋ  아빠 아저씨가 젖을먹고있어 빵터짐 ㅋㅋㅋㅋㅋㅋ",
+    "date": "12.09.15",
+    "rating": "10",
+    "author": "ajju****",
+    "review_id": "6699076",
+    "movie_id": "61025"
+  },
+  {
+    "review": "난 되게 재밌던데ㅋㅋㅋㅋㅋ 백윤식연기쩌러 진짜웃김ㅋㅋㅋㅋ",
+    "date": "12.05.11",
+    "rating": "9",
+    "author": "thfk****",
+    "review_id": "6290121",
+    "movie_id": "61025"
+  },
+  {
+    "review": "제가 보기에도 평점이 너무 낮아요,  저는 재미 있고 괜찮은데요",
+    "date": "12.03.30",
+    "rating": "9",
+    "author": "palk****",
+    "review_id": "6179377",
+    "movie_id": "61025"
+  },
+  {
+    "review": "평점이 너무 낮은데요..",
+    "date": "12.03.24",
+    "rating": "8",
+    "author": "tjsg****",
+    "review_id": "6163900",
+    "movie_id": "61025"
+  },
+  {
+    "review": "2.0",
+    "date": "12.03.08",
+    "rating": "2",
+    "author": "one5****",
+    "review_id": "6129757",
+    "movie_id": "61025"
+  },
+  {
+    "review": "허 나는 국내영화중 제일 재밋고만ㅋㅋ 덤앤더머뒤로 이렇게 웃긴영화는처음ㅋㅋ",
+    "date": "12.02.29",
+    "rating": "10",
+    "author": "last****",
+    "review_id": "6112533",
+    "movie_id": "61025"
+  },
+  {
+    "review": "기억이 안나",
+    "date": "12.01.27",
+    "rating": "4",
+    "author": "nike****",
+    "review_id": "6025250",
+    "movie_id": "61025"
+  },
+  {
+    "review": "폰으로 혼자 보니까 많이 유치하지만 재밌던데 ㅋㅋ 극장에서 보면 씅질났을듯 근데 잼쓴",
+    "date": "12.01.21",
+    "rating": "8",
+    "author": "pyok****",
+    "review_id": "6004969",
+    "movie_id": "61025"
+  },
+  {
+    "review": "토나와..",
+    "date": "12.01.10",
+    "rating": "1",
+    "author": "rosu****",
+    "review_id": "5975375",
+    "movie_id": "61025"
+  },
+  {
+    "review": "약간의웃음.만화같이 과장된설정.막싸지르다 결국은 엉성한 뒷처리.",
+    "date": "11.11.20",
+    "rating": "6",
+    "author": "kis5****",
+    "review_id": "5860314",
+    "movie_id": "61025"
+  },
+  {
+    "review": "내가 본 최악의 쓰레기 영화. 게다가 돈 주고 봤다는 것. 치욕스럽다.",
+    "date": "11.11.17",
+    "rating": "1",
+    "author": "hush****",
+    "review_id": "5854525",
+    "movie_id": "61025"
+  },
+  {
+    "review": "너무 재미있게 봤던 영화에요.",
+    "date": "11.10.25",
+    "rating": "10",
+    "author": "zeas****",
+    "review_id": "5809110",
+    "movie_id": "61025"
+  },
+  {
+    "review": "두남자의 쓰잘데기없는 애정결핍",
+    "date": "11.09.16",
+    "rating": "3",
+    "author": "dldu****",
+    "review_id": "5735218",
+    "movie_id": "61025"
+  },
+  {
+    "review": "의미에 대한 성찰없이 그저께 행위에만 집착한다",
+    "date": "11.08.18",
+    "rating": "5",
+    "author": "thec****",
+    "review_id": "5664586",
+    "movie_id": "61025"
+  },
+  {
+    "review": "난 웃기고좋던데 ㅋㅋ",
+    "date": "11.04.20",
+    "rating": "10",
+    "author": "chey****",
+    "review_id": "5384980",
+    "movie_id": "61025"
+  },
+  {
+    "review": "제발 시간낭비하지 마시라 백윤식돈에 이미지팔았네",
+    "date": "11.04.08",
+    "rating": "1",
+    "author": "ohmy****",
+    "review_id": "5361061",
+    "movie_id": "61025"
+  },
+  {
+    "review": "아버지와 아들의 한판승부 웃기면서 스릴있네요 ,.",
+    "date": "11.02.06",
+    "rating": "10",
+    "author": "jssy****",
+    "review_id": "5222496",
+    "movie_id": "61025"
+  },
+  {
+    "review": "제목은 그럴싸 한데, 폐륜적인 내용이다.",
+    "date": "10.12.21",
+    "rating": "2",
+    "author": "ccpk****",
+    "review_id": "5070756",
+    "movie_id": "61025"
+  },
+  {
+    "review": "조금은 불편한 코미디?",
+    "date": "10.12.21",
+    "rating": "2",
+    "author": "rame****",
+    "review_id": "5070754",
+    "movie_id": "61025"
+  },
+  {
+    "review": "웃기지도 못할 빠엔 막장은 하지 말자.",
+    "date": "10.12.21",
+    "rating": "2",
+    "author": "kpcc****",
+    "review_id": "5070753",
+    "movie_id": "61025"
+  },
+  {
+    "review": "소설 원작 읽고 관심 가서 봤는데...원작에 비해서는 영...소설이 훨 잼씀",
+    "date": "10.09.09",
+    "rating": "6",
+    "author": "nomi****",
+    "review_id": "4824647",
+    "movie_id": "61025"
+  },
+  {
+    "review": "그냥 드러운 영화",
+    "date": "10.03.08",
+    "rating": "6",
+    "author": "ichk****",
+    "review_id": "4344998",
+    "movie_id": "61025"
+  },
+  {
+    "review": "이런걸 극장에서 보다니 캐안습 저질영화",
+    "date": "10.01.10",
+    "rating": "1",
+    "author": "zuca****",
+    "review_id": "4156145",
+    "movie_id": "61025"
+  },
+  {
+    "review": "별로였던것 같아",
+    "date": "09.10.17",
+    "rating": "5",
+    "author": "vct0****",
+    "review_id": "3898763",
+    "movie_id": "61025"
+  },
+  {
+    "review": "역시 봉태규ㅋ 실망시키지 않아",
+    "date": "09.10.09",
+    "rating": "1",
+    "author": "ymsp****",
+    "review_id": "3881293",
+    "movie_id": "61025"
+  },
+  {
+    "review": "더 없이 재미있게 본 영화입니다. 번뜩이는 코믹 요소에 4번 모두 재미있게 봤습니다",
+    "date": "09.10.08",
+    "rating": "10",
+    "author": "cysp****",
+    "review_id": "3880119",
+    "movie_id": "61025"
+  },
+  {
+    "review": "극과 극으로 갈릴 수 밖에 없는 영화네.",
+    "date": "09.09.22",
+    "rating": "10",
+    "author": "merk****",
+    "review_id": "3843557",
+    "movie_id": "61025"
+  },
+  {
+    "review": "3분으로 줄일 수 있는 영화..",
+    "date": "09.09.12",
+    "rating": "1",
+    "author": "imf0****",
+    "review_id": "3826487",
+    "movie_id": "61025"
+  },
+  {
+    "review": "병맛같은 스토리에 묻혀 빛을 잃은 배우가 나오는 작품",
+    "date": "09.08.28",
+    "rating": "1",
+    "author": "oowh****",
+    "review_id": "3793285",
+    "movie_id": "61025"
+  },
+  {
+    "review": "ㅉㅉㅉ이딴걸 극장에서 봤어 ㅠㅠ",
+    "date": "09.08.03",
+    "rating": "1",
+    "author": "iss2****",
+    "review_id": "3699764",
+    "movie_id": "61025"
+  },
+  {
+    "review": "배우들의 열연..정말 넘 재밌는데..평들이 왜이럴까..가볍게보면되지..",
+    "date": "09.07.20",
+    "rating": "10",
+    "author": "sopi****",
+    "review_id": "3652712",
+    "movie_id": "61025"
+  },
+  {
+    "review": "이런 쒸레기ㅋ",
+    "date": "09.07.03",
+    "rating": "1",
+    "author": "owen****",
+    "review_id": "3607554",
+    "movie_id": "61025"
+  },
+  {
+    "review": "스읍....그냥그래요",
+    "date": "09.06.21",
+    "rating": "6",
+    "author": "dmfl****",
+    "review_id": "3580271",
+    "movie_id": "61025"
+  },
+  {
+    "review": "몇장면을 제외하고는 웃기지도 않은.. 배우들이 아깝다..",
+    "date": "09.06.01",
+    "rating": "7",
+    "author": "blue****",
+    "review_id": "3539153",
+    "movie_id": "61025"
+  },
+  {
+    "review": "극단적인 평점. 장점이 있는 영화다.",
+    "date": "09.04.22",
+    "rating": "10",
+    "author": "evan****",
+    "review_id": "3435352",
+    "movie_id": "61025"
+  },
+  {
+    "review": "이건 뭔영화여..",
+    "date": "09.03.16",
+    "rating": "3",
+    "author": "bkm1****",
+    "review_id": "3369060",
+    "movie_id": "61025"
+  },
+  {
+    "review": "재미 없음",
+    "date": "09.02.23",
+    "rating": "1",
+    "author": "kcch****",
+    "review_id": "3326672",
+    "movie_id": "61025"
+  },
+  {
+    "review": "재미도없고..",
+    "date": "09.02.03",
+    "rating": "3",
+    "author": "bkm1****",
+    "review_id": "3274575",
+    "movie_id": "61025"
+  },
+  {
+    "review": "그냥 볼만함",
+    "date": "09.01.12",
+    "rating": "7",
+    "author": "minj****",
+    "review_id": "3213840",
+    "movie_id": "61025"
+  },
+  {
+    "review": "코미디 영환데......일단 재미가 없다.",
+    "date": "08.12.03",
+    "rating": "2",
+    "author": "wash****",
+    "review_id": "3087660",
+    "movie_id": "61025"
+  },
+  {
+    "review": "백윤식같은... 최고의 배우들로... 최악의 영화를 탄생시킨... 무개념... 감독",
+    "date": "08.10.21",
+    "rating": "1",
+    "author": "mmyo****",
+    "review_id": "3011324",
+    "movie_id": "61025"
+  },
+  {
+    "review": "지대루 웃었다! 감각짱~김성훈감독이 또영화찍게해주세요~^^",
+    "date": "08.10.07",
+    "rating": "10",
+    "author": "kjun****",
+    "review_id": "2987458",
+    "movie_id": "61025"
+  },
+  {
+    "review": "봉태규 영화치고는 나름 재미있께 본 영화. 덕분에 싫어 태규에서, 음..태규로 변했다",
+    "date": "08.09.06",
+    "rating": "7",
+    "author": "frie****",
+    "review_id": "2926442",
+    "movie_id": "61025"
+  },
+  {
+    "review": "난 재밋게 봣는데 ........ 왜 5점배께 안대 ㅠ",
+    "date": "08.08.13",
+    "rating": "10",
+    "author": "skge****",
+    "review_id": "2866237",
+    "movie_id": "61025"
+  },
+  {
+    "review": "별로네요",
+    "date": "08.07.26",
+    "rating": "1",
+    "author": "henr****",
+    "review_id": "2803905",
+    "movie_id": "61025"
+  },
+  {
+    "review": "두배우의 코믹연기력 훌륭,이혜영 섹시미 굿,그외 좀 웃긴것말고는 아무것도 없는영화",
+    "date": "08.07.23",
+    "rating": "6",
+    "author": "cans****",
+    "review_id": "2795310",
+    "movie_id": "61025"
+  },
+  {
+    "review": "이영화가왜5점인지모르겠다!  마음편히웃고싶을때추천!!!",
+    "date": "08.07.22",
+    "rating": "10",
+    "author": "cn_n****",
+    "review_id": "2792525",
+    "movie_id": "61025"
+  },
+  {
+    "review": "보는 내내 졸았다.",
+    "date": "08.07.19",
+    "rating": "1",
+    "author": "cks0****",
+    "review_id": "2779806",
+    "movie_id": "61025"
+  },
+  {
+    "review": "책을 먼저 보고 영화를 보니까 재밌게 봤다...특히 책에 나오지 않은 결말은 인상적",
+    "date": "08.07.10",
+    "rating": "10",
+    "author": "bw86****",
+    "review_id": "2752074",
+    "movie_id": "61025"
+  },
+  {
+    "review": "백윤식님 이런영화는 좀 그렇습니다-_-",
+    "date": "08.06.12",
+    "rating": "5",
+    "author": "yasu****",
+    "review_id": "2694299",
+    "movie_id": "61025"
+  },
+  {
+    "review": "3류 영화란 건 아는데... 케이블에서 할 때마다, 보고 있는 이유가 뭘까...? ㅡㅡ;;",
+    "date": "08.06.01",
+    "rating": "6",
+    "author": "ilhy****",
+    "review_id": "2674828",
+    "movie_id": "61025"
+  },
+  {
+    "review": "그냥 그러려니 할수없는 식상한코미디",
+    "date": "08.05.19",
+    "rating": "1",
+    "author": "kara****",
+    "review_id": "2652249",
+    "movie_id": "61025"
+  },
+  {
+    "review": "두배우의 연기만큼은 괜찮았으나 이런 식의 코미디 식상하다",
+    "date": "08.05.12",
+    "rating": "3",
+    "author": "si2p****",
+    "review_id": "2635828",
+    "movie_id": "61025"
+  },
+  {
+    "review": "거창한 제목에 시시껄렁한 이야기.",
+    "date": "08.05.05",
+    "rating": "4",
+    "author": "reco****",
+    "review_id": "2618772",
+    "movie_id": "61025"
+  },
+  {
+    "review": "재밌던데...이거 보다 X같은 영화도 평점은 높더만...",
+    "date": "08.05.04",
+    "rating": "8",
+    "author": "nsh6****",
+    "review_id": "2614546",
+    "movie_id": "61025"
+  },
+  {
+    "review": "긑까지 다 보기 너무 힘들어서 중간에 눈물을 머금고 껐다...............",
+    "date": "08.04.27",
+    "rating": "2",
+    "author": "swea****",
+    "review_id": "2602022",
+    "movie_id": "61025"
+  },
+  {
+    "review": "이영화보고 영화결핍증 걸렸다ㅡㅡ;;",
+    "date": "08.04.19",
+    "rating": "1",
+    "author": "rd72****",
+    "review_id": "2587692",
+    "movie_id": "61025"
+  },
+  {
+    "review": "가볍게 웃을 수 있던 영화",
+    "date": "08.04.09",
+    "rating": "6",
+    "author": "wlsg****",
+    "review_id": "2570665",
+    "movie_id": "61025"
+  },
+  {
+    "review": "가볍게 웃고 넘길수도 없는 영화",
+    "date": "08.02.22",
+    "rating": "1",
+    "author": "laps****",
+    "review_id": "2471130",
+    "movie_id": "61025"
+  },
+  {
+    "review": "뭔지모를 정체모를 영화.",
+    "date": "08.02.18",
+    "rating": "2",
+    "author": "evil****",
+    "review_id": "2458312",
+    "movie_id": "61025"
+  },
+  {
+    "review": "난 그래도",
+    "date": "08.02.11",
+    "rating": "8",
+    "author": "ki__****",
+    "review_id": "2434796",
+    "movie_id": "61025"
+  },
+  {
+    "review": "황당한 전개이지만, 재미면에선 볼만하네~",
+    "date": "08.02.08",
+    "rating": "5",
+    "author": "jp47****",
+    "review_id": "2420961",
+    "movie_id": "61025"
+  },
+  {
+    "review": "조금 오버라고 생각하지만 정말 많이웃었다.봉태규가 귀엽다.",
+    "date": "08.02.05",
+    "rating": "10",
+    "author": "dasd****",
+    "review_id": "2410577",
+    "movie_id": "61025"
+  },
+  {
+    "review": "정말 많이 웃었다.",
+    "date": "08.02.05",
+    "rating": "8",
+    "author": "nost****",
+    "review_id": "2409377",
+    "movie_id": "61025"
+  },
+  {
+    "review": "아빠뭐해!!ㅋㅋㅋ웃긴다 ㅋㅋ",
+    "date": "08.01.30",
+    "rating": "10",
+    "author": "taps****",
+    "review_id": "2386499",
+    "movie_id": "61025"
+  },
+  {
+    "review": "이상한 스토리전개 때문에 영화는 망쳤지만 백윤식의 연기력은 볼만하다.",
+    "date": "08.01.27",
+    "rating": "7",
+    "author": "oliv****",
+    "review_id": "2375494",
+    "movie_id": "61025"
+  },
+  {
+    "review": "대략 몇가지 웃긴걸 빼곤 내용은 흐지부지하다",
+    "date": "08.01.01",
+    "rating": "7",
+    "author": "engm****",
+    "review_id": "2289311",
+    "movie_id": "61025"
+  },
+  {
+    "review": "백윤식이란 배우가 출연하기에는 너무 아까운 영화",
+    "date": "07.12.27",
+    "rating": "1",
+    "author": "fifo****",
+    "review_id": "2271050",
+    "movie_id": "61025"
+  },
+  {
+    "review": "티비로봤는데 보통 ~~ 영화관에서보긴 돈아까울거같은영화 ㅋ",
+    "date": "07.12.26",
+    "rating": "8",
+    "author": "ses6****",
+    "review_id": "2269090",
+    "movie_id": "61025"
+  },
+  {
+    "review": "시작은 좋았는데... 이런걸 뭐 영화라고...........휴...",
+    "date": "07.12.19",
+    "rating": "2",
+    "author": "civa****",
+    "review_id": "2245183",
+    "movie_id": "61025"
+  },
+  {
+    "review": "별루..",
+    "date": "07.11.25",
+    "rating": "3",
+    "author": "klov****",
+    "review_id": "2181366",
+    "movie_id": "61025"
+  }
+]

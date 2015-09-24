@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9900102",
+    "movie_id": "136971",
+    "author": "maxi****",
+    "review": "가만 있지 맙시다. 마음이 무겁네...",
+    "rating": "10",
+    "date": "15.05.06"
+  },
+  {
+    "review_id": "9809056",
+    "movie_id": "136971",
+    "author": "momo****",
+    "review": "간만에 재밌는 드라마 출현!",
+    "rating": "10",
+    "date": "15.03.27"
+  },
+  {
+    "review_id": "9801019",
+    "movie_id": "136971",
+    "author": "gale****",
+    "review": "Good Good!!",
+    "rating": "10",
+    "date": "15.03.23"
+  },
+  {
+    "review_id": "9789799",
+    "movie_id": "136971",
+    "author": "hyuk****",
+    "review": "개비에스 답네요. 제목이 심하게 좌좀, 빨갱이스러운걸보면",
+    "rating": "1",
+    "date": "15.03.17"
+  },
+  {
+    "review_id": "9781786",
+    "movie_id": "136971",
+    "author": "godd****",
+    "review": "가벼운 마음으로 봤는데 ...애절하고 심오한게..  명작이에요",
+    "rating": "10",
+    "date": "15.03.14"
+  }
+]

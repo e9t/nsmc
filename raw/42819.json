@@ -1,0 +1,42 @@
+[
+  {
+    "review": "상큼한 매력이 돋보이는 배우들의 출연으로 매우 재밌는 드라마였다.",
+    "date": "13.03.27",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "7414247",
+    "movie_id": "42819"
+  },
+  {
+    "review": "잘봤어요",
+    "date": "08.01.23",
+    "rating": "10",
+    "author": "gunw****",
+    "review_id": "2362665",
+    "movie_id": "42819"
+  },
+  {
+    "review": "평작 수준..",
+    "date": "07.01.29",
+    "rating": "6",
+    "author": "zeed****",
+    "review_id": "1422378",
+    "movie_id": "42819"
+  },
+  {
+    "review": "최고.ㅋ",
+    "date": "07.01.12",
+    "rating": "10",
+    "author": "appl****",
+    "review_id": "1378203",
+    "movie_id": "42819"
+  },
+  {
+    "review": "좋아요... ^^",
+    "date": "05.10.21",
+    "rating": "10",
+    "author": "sysw****",
+    "review_id": "449921",
+    "movie_id": "42819"
+  }
+]

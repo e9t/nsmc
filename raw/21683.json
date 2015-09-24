@@ -1,0 +1,26 @@
+[
+  {
+    "review": "재밌읍니다 눈물나네요",
+    "date": "14.03.21",
+    "rating": "1",
+    "author": "insu****",
+    "review_id": "8593902",
+    "movie_id": "21683"
+  },
+  {
+    "review": "대박,",
+    "date": "11.02.11",
+    "rating": "10",
+    "author": "gkst****",
+    "review_id": "5236273",
+    "movie_id": "21683"
+  },
+  {
+    "review": "부산국제 영화제",
+    "date": "09.10.15",
+    "rating": "10",
+    "author": "nell****",
+    "review_id": "3894205",
+    "movie_id": "21683"
+  }
+]

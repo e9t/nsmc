@@ -1,0 +1,34 @@
+[
+  {
+    "review": "지금 3D가 유행이지만, 그 당시에도 상당히 많은 입체 영화가 만들어졌었다..",
+    "date": "11.03.23",
+    "rating": "7",
+    "author": "brig****",
+    "review_id": "5330146",
+    "movie_id": "23671"
+  },
+  {
+    "review": "우~안전실망이에요!!!",
+    "date": "10.04.21",
+    "rating": "1",
+    "author": "j980****",
+    "review_id": "4447084",
+    "movie_id": "23671"
+  },
+  {
+    "review": "재밌어요",
+    "date": "10.02.09",
+    "rating": "10",
+    "author": "dahy****",
+    "review_id": "4264504",
+    "movie_id": "23671"
+  },
+  {
+    "review": "재밋음",
+    "date": "09.11.23",
+    "rating": "10",
+    "author": "qwas****",
+    "review_id": "3985899",
+    "movie_id": "23671"
+  }
+]

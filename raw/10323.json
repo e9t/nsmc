@@ -1,0 +1,714 @@
+[
+  {
+    "review": "10년마다 한번씩 보게 되는 영화.  슬픈 사랑에 취하고 , 아름다운 멜로디에 취하고..",
+    "date": "15.07.03",
+    "rating": "10",
+    "author": "pobo****",
+    "review_id": "10065662",
+    "movie_id": "10323"
+  },
+  {
+    "review": "로맨틱한 영상과 음악. 상투적인 이야기.",
+    "date": "15.05.24",
+    "rating": "7",
+    "author": "tear****",
+    "review_id": "9943276",
+    "movie_id": "10323"
+  },
+  {
+    "review": "보그 화보에다 염불을 읊조린다",
+    "date": "15.04.17",
+    "rating": "5",
+    "author": "rd72****",
+    "review_id": "9849104",
+    "movie_id": "10323"
+  },
+  {
+    "review": "love love love",
+    "date": "14.11.26",
+    "rating": "10",
+    "author": "www2****",
+    "review_id": "9423703",
+    "movie_id": "10323"
+  },
+  {
+    "review": "담담한듯하면서 슬픈 영화. 노래가 아름답다",
+    "date": "14.08.03",
+    "rating": "8",
+    "author": "inne****",
+    "review_id": "9015307",
+    "movie_id": "10323"
+  },
+  {
+    "review": "재개봉했음 좋겠다. ㅠ.ㅠ한국 감독님들도 제발 뮤지컬 영화 제작에 힘써주길.",
+    "date": "14.07.09",
+    "rating": "10",
+    "author": "ar02****",
+    "review_id": "8899012",
+    "movie_id": "10323"
+  },
+  {
+    "review": "서로 각자의 인생을 사는 것, 에로스적 사랑의 천박함을 멜로디로 그려내다.",
+    "date": "14.06.02",
+    "rating": "5",
+    "author": "hany****",
+    "review_id": "8786183",
+    "movie_id": "10323"
+  },
+  {
+    "review": "쥬느비에브를 이해하지 못하겠다",
+    "date": "13.12.11",
+    "rating": "6",
+    "author": "ykdi****",
+    "review_id": "8206994",
+    "movie_id": "10323"
+  },
+  {
+    "review": "좋은영화에요",
+    "date": "13.04.03",
+    "rating": "10",
+    "author": "6831****",
+    "review_id": "7431816",
+    "movie_id": "10323"
+  },
+  {
+    "review": "잊을수없는. 그영화..추억 그리고..이쁜영화",
+    "date": "13.03.25",
+    "rating": "10",
+    "author": "euns****",
+    "review_id": "7409504",
+    "movie_id": "10323"
+  },
+  {
+    "review": "뮤지컬이나 서정적인 소재를 좋아하는 나에게 추천!!!",
+    "date": "13.02.11",
+    "rating": "10",
+    "author": "diva****",
+    "review_id": "7253320",
+    "movie_id": "10323"
+  },
+  {
+    "review": "십대초반처음접해서  삼십대인지금까지도 계속색다른감정을가지게하는영화,",
+    "date": "13.01.05",
+    "rating": "10",
+    "author": "9000****",
+    "review_id": "7084090",
+    "movie_id": "10323"
+  },
+  {
+    "review": "헐리웃 영화에서 느낄수없는 색채와 감성",
+    "date": "12.09.06",
+    "rating": "10",
+    "author": "jh64****",
+    "review_id": "6673975",
+    "movie_id": "10323"
+  },
+  {
+    "review": "mon amour, ne me quitte pas...고전 신파 멜로의 최고봉.",
+    "date": "12.04.19",
+    "rating": "10",
+    "author": "chor****",
+    "review_id": "6231958",
+    "movie_id": "10323"
+  },
+  {
+    "review": "오늘보고 왔는데, 까뜨린느와 영화의색감이 이쁘고 노래도 아름답지만 약간 지루해요",
+    "date": "12.04.01",
+    "rating": "8",
+    "author": "swor****",
+    "review_id": "6186413",
+    "movie_id": "10323"
+  },
+  {
+    "review": "사실 스토리는 진부하다.. 하지만 노래가 너무 낭만적이고 애뜻한 영화..",
+    "date": "12.03.01",
+    "rating": "9",
+    "author": "mich****",
+    "review_id": "6115182",
+    "movie_id": "10323"
+  },
+  {
+    "review": "엔딩 하나만으로도 최고의가치...슬픈과거 속에 또다른 현실안의 행복.ㅠㅠ",
+    "date": "12.01.08",
+    "rating": "10",
+    "author": "star****",
+    "review_id": "5969647",
+    "movie_id": "10323"
+  },
+  {
+    "review": "기존헐리우드식뮤지컬영화에서탈피~화면속피사물의색감에신경쓴점.. 무엇보다~첫사랑",
+    "date": "11.11.08",
+    "rating": "10",
+    "author": "seal****",
+    "review_id": "5837000",
+    "movie_id": "10323"
+  },
+  {
+    "review": "노래 하나만으로 모든게 용서되는 영화.",
+    "date": "11.08.05",
+    "rating": "10",
+    "author": "reid****",
+    "review_id": "5604123",
+    "movie_id": "10323"
+  },
+  {
+    "review": "그냥 보는것만으로 행복해요",
+    "date": "11.06.10",
+    "rating": "10",
+    "author": "chee****",
+    "review_id": "5473873",
+    "movie_id": "10323"
+  },
+  {
+    "review": "격자소원이라 했던가. 흩날리는 눈발과 아련한 음악 그리고 여운",
+    "date": "11.05.04",
+    "rating": "10",
+    "author": "enco****",
+    "review_id": "5404792",
+    "movie_id": "10323"
+  },
+  {
+    "review": "살짝 유치한 음악과 귀여운 연기, 예쁜 색채... 아득하다.",
+    "date": "11.04.30",
+    "rating": "6",
+    "author": "bbq2****",
+    "review_id": "5399453",
+    "movie_id": "10323"
+  },
+  {
+    "review": "아련하고 감미로운 영화... 그렇지만 이야기는 지극히 현실적이다.",
+    "date": "11.04.03",
+    "rating": "10",
+    "author": "cour****",
+    "review_id": "5351457",
+    "movie_id": "10323"
+  },
+  {
+    "review": "화면이예쁜영화",
+    "date": "10.12.14",
+    "rating": "7",
+    "author": "lsge****",
+    "review_id": "5053264",
+    "movie_id": "10323"
+  },
+  {
+    "review": "슬픈러브스토리영화의 종결자!!!!!!!! 이미 게임은 50년전에끝났다",
+    "date": "10.12.07",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "5032432",
+    "movie_id": "10323"
+  },
+  {
+    "review": "초콜릿같은 영화. 처음은 달고 끝은 쓰디쓰다 추천",
+    "date": "10.04.20",
+    "rating": "10",
+    "author": "aldu****",
+    "review_id": "4444903",
+    "movie_id": "10323"
+  },
+  {
+    "review": "화려한 영상미 빼고는 너무나 지루한 작품임.",
+    "date": "10.02.27",
+    "rating": "7",
+    "author": "jjyn****",
+    "review_id": "4321581",
+    "movie_id": "10323"
+  },
+  {
+    "review": "또 보고싶은 영화 중1때 본 영화 이젠 나의 나이 서른하나.,,",
+    "date": "09.12.14",
+    "rating": "10",
+    "author": "higi****",
+    "review_id": "4043314",
+    "movie_id": "10323"
+  },
+  {
+    "review": "최고.",
+    "date": "09.12.08",
+    "rating": "10",
+    "author": "stud****",
+    "review_id": "4027677",
+    "movie_id": "10323"
+  },
+  {
+    "review": "영화 보며 울어본 적 있냐? 어릴 때 울었다. 남자다",
+    "date": "09.08.25",
+    "rating": "9",
+    "author": "love****",
+    "review_id": "3786294",
+    "movie_id": "10323"
+  },
+  {
+    "review": "리듬에 실은 대사는 예술적이기보다는 삻증만 나게 한다. 나만 재미없었나보다~",
+    "date": "09.08.13",
+    "rating": "1",
+    "author": "gong****",
+    "review_id": "3744988",
+    "movie_id": "10323"
+  },
+  {
+    "review": "옛날 영화들이 더 낭만적이다",
+    "date": "09.08.05",
+    "rating": "9",
+    "author": "jawa****",
+    "review_id": "3710348",
+    "movie_id": "10323"
+  },
+  {
+    "review": "이런비극이... 여운이 길다.",
+    "date": "09.05.31",
+    "rating": "9",
+    "author": "5292****",
+    "review_id": "3536285",
+    "movie_id": "10323"
+  },
+  {
+    "review": "현실........ㅠ",
+    "date": "09.05.16",
+    "rating": "7",
+    "author": "yuis****",
+    "review_id": "3499373",
+    "movie_id": "10323"
+  },
+  {
+    "review": "아름다운 색감과 음악에 취한다.",
+    "date": "09.04.15",
+    "rating": "9",
+    "author": "leh0****",
+    "review_id": "3422431",
+    "movie_id": "10323"
+  },
+  {
+    "review": "아 뭐라 말로 다못할 영화",
+    "date": "09.02.17",
+    "rating": "10",
+    "author": "oqre****",
+    "review_id": "3311668",
+    "movie_id": "10323"
+  },
+  {
+    "review": "아름다운 색채와 서정적인 음악에 비해, 알맹이가 없는 스토리..",
+    "date": "09.02.09",
+    "rating": "7",
+    "author": "pola****",
+    "review_id": "3291531",
+    "movie_id": "10323"
+  },
+  {
+    "review": "격정적이면서 서정적인 주제곡에 비해 영화는 너무도 진부하기 짝이 없다.",
+    "date": "09.01.04",
+    "rating": "7",
+    "author": "team****",
+    "review_id": "3185498",
+    "movie_id": "10323"
+  },
+  {
+    "review": "너무나 서글프게 내리는 눈, 그 아름답던 마지막 장면이 눈에 아른거린다.",
+    "date": "09.01.02",
+    "rating": "10",
+    "author": "jooh****",
+    "review_id": "3178349",
+    "movie_id": "10323"
+  },
+  {
+    "review": "아름다운색체와영상 그리고 그안에 울려퍼지는노래소리들~",
+    "date": "08.12.28",
+    "rating": "8",
+    "author": "k641****",
+    "review_id": "3162010",
+    "movie_id": "10323"
+  },
+  {
+    "review": "주제곡이 너무 좋아요....",
+    "date": "08.12.24",
+    "rating": "10",
+    "author": "skai****",
+    "review_id": "3144169",
+    "movie_id": "10323"
+  },
+  {
+    "review": "역시 사랑은 사랑만으로 되진 않는군.",
+    "date": "08.12.14",
+    "rating": "10",
+    "author": "wfy0****",
+    "review_id": "3117370",
+    "movie_id": "10323"
+  },
+  {
+    "review": "영화사상 최고의 걸작",
+    "date": "08.11.05",
+    "rating": "10",
+    "author": "safe****",
+    "review_id": "3035871",
+    "movie_id": "10323"
+  },
+  {
+    "review": "지금까지 본 영화 중에서 머리와 가슴을 동시에 울린 최고의 걸작",
+    "date": "08.10.16",
+    "rating": "10",
+    "author": "edua****",
+    "review_id": "3002659",
+    "movie_id": "10323"
+  },
+  {
+    "review": "지금도 생각하면 가슴이 미어져 오는 영화...ㅠㅜ",
+    "date": "08.09.29",
+    "rating": "10",
+    "author": "zubb****",
+    "review_id": "2974688",
+    "movie_id": "10323"
+  },
+  {
+    "review": "가슴아린. 더 어렸을 때 보았으면 좋았을 것을.",
+    "date": "08.07.17",
+    "rating": "8",
+    "author": "bohe****",
+    "review_id": "2769477",
+    "movie_id": "10323"
+  },
+  {
+    "review": "각본,연출,음악,배우,미술까지 최고",
+    "date": "08.07.15",
+    "rating": "10",
+    "author": "happ****",
+    "review_id": "2766334",
+    "movie_id": "10323"
+  },
+  {
+    "review": "나도 모르게 노래를 흥얼흥얼 ~",
+    "date": "08.06.30",
+    "rating": "9",
+    "author": "0109****",
+    "review_id": "2731693",
+    "movie_id": "10323"
+  },
+  {
+    "review": "아직도 영화마지막장면이 아른거리네요 ㅎㅎ 주유소에서 만남..그리고 다시 이별...",
+    "date": "08.06.18",
+    "rating": "10",
+    "author": "leiz****",
+    "review_id": "2705661",
+    "movie_id": "10323"
+  },
+  {
+    "review": "진부한스토리를 이토록 창의적으로만들다니 ㄷㄷ",
+    "date": "08.04.24",
+    "rating": "10",
+    "author": "dj16****",
+    "review_id": "2596838",
+    "movie_id": "10323"
+  },
+  {
+    "review": "음악과 연기가 합쳐진 최고의 뮤지컬영화... 너무 아름답고 감동적이다..",
+    "date": "08.04.11",
+    "rating": "10",
+    "author": "grut****",
+    "review_id": "2574177",
+    "movie_id": "10323"
+  },
+  {
+    "review": "감각적인 색감 + 독특한 음악, ㅋㅋ 재미있었어요! 우산 하나 사고싶은!",
+    "date": "08.01.21",
+    "rating": "9",
+    "author": "jasm****",
+    "review_id": "2356017",
+    "movie_id": "10323"
+  },
+  {
+    "review": "내가 본 멜로 영화중 최고 재밌다.",
+    "date": "07.12.21",
+    "rating": "10",
+    "author": "good****",
+    "review_id": "2251582",
+    "movie_id": "10323"
+  },
+  {
+    "review": "정말로 아름다운 영화",
+    "date": "07.12.20",
+    "rating": "10",
+    "author": "baks****",
+    "review_id": "2248053",
+    "movie_id": "10323"
+  },
+  {
+    "review": "모든 대사가 음악으로 처리된 독특한 뮤지컬. Out of sight, out of mind.",
+    "date": "07.11.18",
+    "rating": "7",
+    "author": "kuic****",
+    "review_id": "2161710",
+    "movie_id": "10323"
+  },
+  {
+    "review": "영화사상 최고 뮤지컬 중 하나. 까뜨린느 드뇌브의 거부할 수 없는 매력",
+    "date": "07.07.14",
+    "rating": "10",
+    "author": "chha****",
+    "review_id": "1773204",
+    "movie_id": "10323"
+  },
+  {
+    "review": "컬러풀한 데코레이션. 애절한 사랑의 결말도 아름다운 음악으로 승화된다",
+    "date": "07.07.02",
+    "rating": "8",
+    "author": "ador****",
+    "review_id": "1741908",
+    "movie_id": "10323"
+  },
+  {
+    "review": "뒤늦게본게 후회되는 영화",
+    "date": "07.03.14",
+    "rating": "10",
+    "author": "27ta****",
+    "review_id": "1533698",
+    "movie_id": "10323"
+  },
+  {
+    "review": "절제된 결말과 주인공들의 조용한 감정이 더욱 가슴을 찡하게",
+    "date": "06.12.05",
+    "rating": "8",
+    "author": "sioh****",
+    "review_id": "1269103",
+    "movie_id": "10323"
+  },
+  {
+    "review": "열정적인 사랑과 열정이 지나간 후의 ..추억이라해야하나?",
+    "date": "06.11.27",
+    "rating": "8",
+    "author": "naeg****",
+    "review_id": "1254044",
+    "movie_id": "10323"
+  },
+  {
+    "review": "스토리는 별로 없지만 꽤 신선한 음악때문인지 즐거운 영화",
+    "date": "06.11.24",
+    "rating": "9",
+    "author": "isj9****",
+    "review_id": "1248701",
+    "movie_id": "10323"
+  },
+  {
+    "review": "고전도 이렇게 아름다울 수 있다.",
+    "date": "06.10.23",
+    "rating": "8",
+    "author": "lemo****",
+    "review_id": "1195566",
+    "movie_id": "10323"
+  },
+  {
+    "review": "군대가기전에 여친이랑 꼭 보시길...",
+    "date": "06.08.13",
+    "rating": "7",
+    "author": "spad****",
+    "review_id": "1016669",
+    "movie_id": "10323"
+  },
+  {
+    "review": "프랑스의 감수성을 느낄수 있는 영화.. 주제곡이 너무 좋았다!",
+    "date": "06.07.21",
+    "rating": "9",
+    "author": "blue****",
+    "review_id": "912129",
+    "movie_id": "10323"
+  },
+  {
+    "review": "음악과 색채..라스트신..",
+    "date": "06.03.07",
+    "rating": "10",
+    "author": "xgws****",
+    "review_id": "707940",
+    "movie_id": "10323"
+  },
+  {
+    "review": "대사 한 마디 한 마디가 아름다운 울림으로, 서글픈 여운.",
+    "date": "06.02.08",
+    "rating": "7",
+    "author": "hadl****",
+    "review_id": "654775",
+    "movie_id": "10323"
+  },
+  {
+    "review": "뮤지컬영화장르와 음악에서 있어 최고수작~ 동양적 신파 공감대",
+    "date": "05.11.09",
+    "rating": "10",
+    "author": "82ju****",
+    "review_id": "469274",
+    "movie_id": "10323"
+  },
+  {
+    "review": "약간지루하지만음악과 마지막을잊지못한다 불어가배우고싶다",
+    "date": "05.10.30",
+    "rating": "8",
+    "author": "appl****",
+    "review_id": "459313",
+    "movie_id": "10323"
+  },
+  {
+    "review": "음악이장관이다.",
+    "date": "05.10.29",
+    "rating": "10",
+    "author": "rkdt****",
+    "review_id": "458002",
+    "movie_id": "10323"
+  },
+  {
+    "review": "영화 전체가 노래라는게 재미있죠. 오래보다보면 피곤하지만;",
+    "date": "05.10.17",
+    "rating": "8",
+    "author": "kibk****",
+    "review_id": "445459",
+    "movie_id": "10323"
+  },
+  {
+    "review": "비극적으로 빗나간 사랑 시대가 믿기지 않는",
+    "date": "05.08.16",
+    "rating": "7",
+    "author": "okjo****",
+    "review_id": "370509",
+    "movie_id": "10323"
+  },
+  {
+    "review": "현실적인 사랑이네요^^보는 내내 음악때문에 마음이 설렘.",
+    "date": "05.07.13",
+    "rating": "10",
+    "author": "kjge****",
+    "review_id": "320557",
+    "movie_id": "10323"
+  },
+  {
+    "review": "다 좋은데 2005년에 처음 보기엔 너무 전형적이에요",
+    "date": "05.05.19",
+    "rating": "6",
+    "author": "soul****",
+    "review_id": "280515",
+    "movie_id": "10323"
+  },
+  {
+    "review": "눈물겹도록 로맨틱하거나 혹은 절라 유치하거나.",
+    "date": "05.04.23",
+    "rating": "7",
+    "author": "m60d****",
+    "review_id": "264511",
+    "movie_id": "10323"
+  },
+  {
+    "review": "고전멜로들은 시대를 초월하고 우리의 가슴을 메이게한다..",
+    "date": "05.04.11",
+    "rating": "10",
+    "author": "tjsd****",
+    "review_id": "258213",
+    "movie_id": "10323"
+  },
+  {
+    "review": "참 아름다운 영화. 슬픈 마지막 장면.",
+    "date": "05.03.20",
+    "rating": "10",
+    "author": "milk****",
+    "review_id": "244143",
+    "movie_id": "10323"
+  },
+  {
+    "review": "슬프면서 아름다운 뮤직컬 영화 아..눈내리는 주유소",
+    "date": "05.02.21",
+    "rating": "10",
+    "author": "thea****",
+    "review_id": "226034",
+    "movie_id": "10323"
+  },
+  {
+    "review": "뮤지컬은 별로 않좋아 하지만 은근히 재밌네여! 애인과 헤어짐 만남!",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "yunh****",
+    "review_id": "156435",
+    "movie_id": "10323"
+  },
+  {
+    "review": "젊음의 아름다움  그리고 헤어짐",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "kich****",
+    "review_id": "156433",
+    "movie_id": "10323"
+  },
+  {
+    "review": "생활속에 인간의 일",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "kimx****",
+    "review_id": "156432",
+    "movie_id": "10323"
+  },
+  {
+    "review": "마지막..서로에게 미처 다 말하지 못한 말들이 느껴져 울고만 영화..",
+    "date": "04.11.20",
+    "rating": "10",
+    "author": "pepo****",
+    "review_id": "148739",
+    "movie_id": "10323"
+  },
+  {
+    "review": "깊은 여운이 남는 엔딩씬..",
+    "date": "04.09.23",
+    "rating": "10",
+    "author": "dkzk****",
+    "review_id": "113329",
+    "movie_id": "10323"
+  },
+  {
+    "review": "아름다운 음악 한곡을 들은듯 풍부하게 남는 여운",
+    "date": "04.08.18",
+    "rating": "10",
+    "author": "baby****",
+    "review_id": "92399",
+    "movie_id": "10323"
+  },
+  {
+    "review": "프랑스는 왜 아름다운가?",
+    "date": "04.08.08",
+    "rating": "10",
+    "author": "zobi****",
+    "review_id": "85983",
+    "movie_id": "10323"
+  },
+  {
+    "review": "너무..아름다운..영화음악...",
+    "date": "04.08.07",
+    "rating": "10",
+    "author": "laci****",
+    "review_id": "85368",
+    "movie_id": "10323"
+  },
+  {
+    "review": "아름다운 음악과 스토리..",
+    "date": "04.06.27",
+    "rating": "10",
+    "author": "jhjh****",
+    "review_id": "61605",
+    "movie_id": "10323"
+  },
+  {
+    "review": "고전이 가진 또 다른 매력에 침잠하게 된다.",
+    "date": "04.04.09",
+    "rating": "8",
+    "author": "g0zi****",
+    "review_id": "35154",
+    "movie_id": "10323"
+  },
+  {
+    "review": "까뜨린느 드뇌브의 아름다움과 음악에 빠져버렸다.",
+    "date": "04.03.05",
+    "rating": "10",
+    "author": "hv_m****",
+    "review_id": "27046",
+    "movie_id": "10323"
+  },
+  {
+    "review": "에물리부인의 우산가게와 쥬느비에브 방이 환상적으로 예뻤고 전체적으로 만족",
+    "date": "04.01.21",
+    "rating": "10",
+    "author": "ciel****",
+    "review_id": "12097",
+    "movie_id": "10323"
+  }
+]

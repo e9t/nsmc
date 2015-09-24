@@ -1,0 +1,26 @@
+[
+  {
+    "review": "재미있는 영화인것 같습니다",
+    "date": "14.06.22",
+    "rating": "10",
+    "author": "cmyr****",
+    "review_id": "8846718",
+    "movie_id": "29560"
+  },
+  {
+    "review": "좋은 영화",
+    "date": "13.04.01",
+    "rating": "10",
+    "author": "jann****",
+    "review_id": "7429276",
+    "movie_id": "29560"
+  },
+  {
+    "review": "국내서 접하기 힘든 종류.. 미국생활에 밀착된..",
+    "date": "07.11.13",
+    "rating": "7",
+    "author": "cath****",
+    "review_id": "2148629",
+    "movie_id": "29560"
+  }
+]

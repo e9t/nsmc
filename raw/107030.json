@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "10121120",
+    "movie_id": "107030",
+    "author": "dpdh****",
+    "review": "마카오 배경 좋아하면 볼만해요",
+    "rating": "5",
+    "date": "15.07.19"
+  },
+  {
+    "review_id": "10086016",
+    "movie_id": "107030",
+    "author": "bsbc****",
+    "review": "영화처음에 왠 유민상이 나와서 인질극을...",
+    "rating": "8",
+    "date": "15.07.10"
+  },
+  {
+    "review_id": "9439759",
+    "movie_id": "107030",
+    "author": "bles****",
+    "review": "이렇게 안웃기기도 어렵겠다",
+    "rating": "2",
+    "date": "14.12.01"
+  }
+]

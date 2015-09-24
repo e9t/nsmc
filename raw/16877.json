@@ -1,0 +1,42 @@
+[
+  {
+    "review": "추억의 영화죠....",
+    "date": "15.08.16",
+    "rating": "10",
+    "author": "7ere****",
+    "review_id": "10243432",
+    "movie_id": "16877"
+  },
+  {
+    "review": "명화중의 명화",
+    "date": "09.05.21",
+    "rating": "10",
+    "author": "sang****",
+    "review_id": "3511049",
+    "movie_id": "16877"
+  },
+  {
+    "review": "명화",
+    "date": "08.04.18",
+    "rating": "10",
+    "author": "leor****",
+    "review_id": "2586402",
+    "movie_id": "16877"
+  },
+  {
+    "review": "지루하다 스토리도 별로",
+    "date": "07.02.03",
+    "rating": "5",
+    "author": "zeed****",
+    "review_id": "1437806",
+    "movie_id": "16877"
+  },
+  {
+    "review": "후반 몇 십분의 쓸쓸한 재회를 제하면 산만하고 지루하다",
+    "date": "06.10.23",
+    "rating": "6",
+    "author": "goma****",
+    "review_id": "1195522",
+    "movie_id": "16877"
+  }
+]

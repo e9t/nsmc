@@ -1,0 +1,74 @@
+[
+  {
+    "review": "다시보고 싶은 영화~",
+    "date": "10.10.25",
+    "rating": "10",
+    "author": "hopo****",
+    "review_id": "4919988",
+    "movie_id": "34068"
+  },
+  {
+    "review": "내겐 별다른 울림을 주지 못했던.",
+    "date": "10.07.04",
+    "rating": "5",
+    "author": "cube****",
+    "review_id": "4611241",
+    "movie_id": "34068"
+  },
+  {
+    "review": "초콜렛의 위험한 유혹",
+    "date": "06.10.26",
+    "rating": "10",
+    "author": "rmaf****",
+    "review_id": "1200509",
+    "movie_id": "34068"
+  },
+  {
+    "review": "라스트신에서의 위페르는 잊을 수 없다",
+    "date": "05.11.10",
+    "rating": "8",
+    "author": "ilik****",
+    "review_id": "469942",
+    "movie_id": "34068"
+  },
+  {
+    "review": "그렇게들 침착한거지",
+    "date": "05.08.16",
+    "rating": "7",
+    "author": "iamf****",
+    "review_id": "370641",
+    "movie_id": "34068"
+  },
+  {
+    "review": "마지막이 너무나 허탈 했다...",
+    "date": "05.04.11",
+    "rating": "6",
+    "author": "fair****",
+    "review_id": "258376",
+    "movie_id": "34068"
+  },
+  {
+    "review": "La Ceremonie보다는 덜 부담스러우나 덜 강렬함",
+    "date": "05.04.10",
+    "rating": "7",
+    "author": "clov****",
+    "review_id": "257968",
+    "movie_id": "34068"
+  },
+  {
+    "review": "온화함 속에 감쳐진 질투, 시기, 열등감.",
+    "date": "05.04.10",
+    "rating": "6",
+    "author": "hadl****",
+    "review_id": "257511",
+    "movie_id": "34068"
+  },
+  {
+    "review": "이자벨 위페르의 연기 최고!",
+    "date": "03.12.20",
+    "rating": "10",
+    "author": "cacg****",
+    "review_id": "4190",
+    "movie_id": "34068"
+  }
+]

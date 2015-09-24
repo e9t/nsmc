@@ -1,0 +1,34 @@
+[
+  {
+    "review": "솔직히 재밌음   ㄱㄷㄹㅅ",
+    "date": "15.03.20",
+    "rating": "10",
+    "author": "jci2****",
+    "review_id": "9794484",
+    "movie_id": "51802"
+  },
+  {
+    "review": "영화는 3점인것 같네요..",
+    "date": "13.10.21",
+    "rating": "3",
+    "author": "east****",
+    "review_id": "8077842",
+    "movie_id": "51802"
+  },
+  {
+    "review": "여자들은 10점... 영화는,3점...",
+    "date": "13.10.21",
+    "rating": "3",
+    "author": "wirl****",
+    "review_id": "8077031",
+    "movie_id": "51802"
+  },
+  {
+    "review": "여자들은 10점...영화는,3점...",
+    "date": "13.01.22",
+    "rating": "3",
+    "author": "baks****",
+    "review_id": "7144652",
+    "movie_id": "51802"
+  }
+]

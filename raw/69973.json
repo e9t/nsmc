@@ -1,0 +1,50 @@
+[
+  {
+    "review": "내가 피와 벌레를 싫어하는 걸 차치하더라도, 무슨 말을 하려는지도 모르겠더라.",
+    "date": "09.11.08",
+    "rating": "3",
+    "author": "wlsa****",
+    "review_id": "3944425",
+    "movie_id": "69973"
+  },
+  {
+    "review": "관객소외의 실험성",
+    "date": "09.10.01",
+    "rating": "2",
+    "author": "pria****",
+    "review_id": "3864879",
+    "movie_id": "69973"
+  },
+  {
+    "review": "관념과 철학적 사유는 좋으나...공감하지 못함을 서운해 하시지를 않기를...",
+    "date": "09.08.24",
+    "rating": "5",
+    "author": "wrap****",
+    "review_id": "3784771",
+    "movie_id": "69973"
+  },
+  {
+    "review": "감독만을 위한 영화",
+    "date": "09.08.19",
+    "rating": "4",
+    "author": "tige****",
+    "review_id": "3766013",
+    "movie_id": "69973"
+  },
+  {
+    "review": "일방적인 영화다. 관객 좀 고려해주시길",
+    "date": "09.07.29",
+    "rating": "3",
+    "author": "rara****",
+    "review_id": "3681731",
+    "movie_id": "69973"
+  },
+  {
+    "review": "재미있음",
+    "date": "09.07.26",
+    "rating": "10",
+    "author": "wldu****",
+    "review_id": "3670121",
+    "movie_id": "69973"
+  }
+]

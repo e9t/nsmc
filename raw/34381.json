@@ -1,0 +1,26 @@
+[
+  {
+    "review": "홍금보 감독임? 그럼 10점",
+    "date": "14.05.04",
+    "rating": "10",
+    "author": "534k****",
+    "review_id": "8698828",
+    "movie_id": "34381"
+  },
+  {
+    "review": "역시 그저 그런 홍콩 영화",
+    "date": "14.05.02",
+    "rating": "1",
+    "author": "sunm****",
+    "review_id": "8692902",
+    "movie_id": "34381"
+  },
+  {
+    "review": "유단잔가..자 천천히들어와봐~끝",
+    "date": "14.05.02",
+    "rating": "10",
+    "author": "skid****",
+    "review_id": "8692623",
+    "movie_id": "34381"
+  }
+]

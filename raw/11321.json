@@ -1,0 +1,26 @@
+[
+  {
+    "review": "이영화가재밌고잔인하다",
+    "date": "14.06.17",
+    "rating": "3",
+    "author": "quf0****",
+    "review_id": "8837421",
+    "movie_id": "11321"
+  },
+  {
+    "review": "좋은데요~",
+    "date": "13.07.03",
+    "rating": "6",
+    "author": "road****",
+    "review_id": "7700492",
+    "movie_id": "11321"
+  },
+  {
+    "review": "ㅋ",
+    "date": "10.11.15",
+    "rating": "1",
+    "author": "ggal****",
+    "review_id": "4962659",
+    "movie_id": "11321"
+  }
+]

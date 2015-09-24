@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "9997266",
+    "movie_id": "101300",
+    "author": "cimf****",
+    "review": "1010101010",
+    "rating": "10",
+    "date": "15.06.13"
+  },
+  {
+    "review_id": "8877256",
+    "movie_id": "101300",
+    "author": "gusw****",
+    "review": "10점으헹헹헤헤헹헷",
+    "rating": "10",
+    "date": "14.07.02"
+  },
+  {
+    "review_id": "8876893",
+    "movie_id": "101300",
+    "author": "xorb****",
+    "review": "1점으헤헤시내ㅓ헤세헤",
+    "rating": "1",
+    "date": "14.07.02"
+  }
+]

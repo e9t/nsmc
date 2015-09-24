@@ -1,0 +1,26 @@
+[
+  {
+    "review": "그당시엔 최고!!였음",
+    "date": "15.07.16",
+    "rating": "10",
+    "author": "hoon****",
+    "review_id": "10108335",
+    "movie_id": "11945"
+  },
+  {
+    "review": "반담 빠졌어도 재밌다",
+    "date": "12.02.10",
+    "rating": "8",
+    "author": "nike****",
+    "review_id": "6064626",
+    "movie_id": "11945"
+  },
+  {
+    "review": "감독과 주연배우가 모두 바뀐 킥복싱 시리즈 3번째 작품",
+    "date": "08.05.15",
+    "rating": "3",
+    "author": "deff****",
+    "review_id": "2641727",
+    "movie_id": "11945"
+  }
+]

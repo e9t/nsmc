@@ -1,0 +1,26 @@
+[
+  {
+    "review": "다 10점 주네 나도 10점",
+    "date": "14.07.07",
+    "rating": "10",
+    "author": "534k****",
+    "review_id": "8893863",
+    "movie_id": "39199"
+  },
+  {
+    "review": "아 이 노래도 좋은데 리믹스도 너무 좋아",
+    "date": "12.05.15",
+    "rating": "10",
+    "author": "wsol****",
+    "review_id": "6301849",
+    "movie_id": "39199"
+  },
+  {
+    "review": "짱",
+    "date": "10.04.17",
+    "rating": "10",
+    "author": "minw****",
+    "review_id": "4438457",
+    "movie_id": "39199"
+  }
+]

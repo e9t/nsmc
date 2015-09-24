@@ -1,0 +1,58 @@
+[
+  {
+    "review_id": "10156236",
+    "movie_id": "111855",
+    "author": "ske4****",
+    "review": "빠른 종영에 박수를 보낸다!!",
+    "rating": "1",
+    "date": "15.07.29"
+  },
+  {
+    "review_id": "9247089",
+    "movie_id": "111855",
+    "author": "poo7****",
+    "review": "이거 사진보니깐재밌다ㅋㅋㅋㅋ",
+    "rating": "10",
+    "date": "14.09.28"
+  },
+  {
+    "review_id": "8195344",
+    "movie_id": "111855",
+    "author": "kub5****",
+    "review": "이거진짜짱재밌음!!!",
+    "rating": "10",
+    "date": "13.12.06"
+  },
+  {
+    "review_id": "7885266",
+    "movie_id": "111855",
+    "author": "codu****",
+    "review": ".",
+    "rating": "10",
+    "date": "13.08.15"
+  },
+  {
+    "review_id": "7868215",
+    "movie_id": "111855",
+    "author": "land****",
+    "review": "기요우",
+    "rating": "10",
+    "date": "13.08.11"
+  },
+  {
+    "review_id": "7776318",
+    "movie_id": "111855",
+    "author": "hjkl****",
+    "review": "2.22가자! ㅋㄲㅈㅁ",
+    "rating": "2",
+    "date": "13.07.22"
+  },
+  {
+    "review_id": "7776311",
+    "movie_id": "111855",
+    "author": "gksd****",
+    "review": "ㅋㄲㅈㅁ 홍진호가간다!",
+    "rating": "2",
+    "date": "13.07.22"
+  }
+]

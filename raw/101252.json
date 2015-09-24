@@ -1,0 +1,58 @@
+[
+  {
+    "review_id": "8803060",
+    "movie_id": "101252",
+    "author": "cld2****",
+    "review": "이것은 역작입니다..",
+    "rating": "10",
+    "date": "14.06.06"
+  },
+  {
+    "review_id": "8604808",
+    "movie_id": "101252",
+    "author": "zxc4****",
+    "review": "치와랑 이어져라 제발 .. 치와 졸귀",
+    "rating": "10",
+    "date": "14.03.24"
+  },
+  {
+    "review_id": "8470133",
+    "movie_id": "101252",
+    "author": "jbw0****",
+    "review": "나도 같이 떨어뜨려봐야지",
+    "rating": "1",
+    "date": "14.02.03"
+  },
+  {
+    "review_id": "7991951",
+    "movie_id": "101252",
+    "author": "dlar****",
+    "review": "평점 떨어뜨려봐야지",
+    "rating": "1",
+    "date": "13.09.18"
+  },
+  {
+    "review_id": "7877839",
+    "movie_id": "101252",
+    "author": "sh15****",
+    "review": "하루사키 치와 짱",
+    "rating": "10",
+    "date": "13.08.14"
+  },
+  {
+    "review_id": "7836137",
+    "movie_id": "101252",
+    "author": "iiii****",
+    "review": "아이짱 다이쇼리",
+    "rating": "10",
+    "date": "13.08.04"
+  },
+  {
+    "review_id": "7322666",
+    "movie_id": "101252",
+    "author": "song****",
+    "review": "정말 최고인거 같습니다. (웃음)",
+    "rating": "10",
+    "date": "13.03.03"
+  }
+]

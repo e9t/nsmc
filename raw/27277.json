@@ -1,0 +1,618 @@
+[
+  {
+    "review": "이렇게 만든 스릴러도 있다  매우 독특하다... 재조명 재평가받아야할 영화",
+    "date": "15.04.04",
+    "rating": "10",
+    "author": "upi1****",
+    "review_id": "9825727",
+    "movie_id": "27277"
+  },
+  {
+    "review": "컴퓨터 전기세가 아깝다!!!",
+    "date": "14.05.15",
+    "rating": "1",
+    "author": "ske4****",
+    "review_id": "8732056",
+    "movie_id": "27277"
+  },
+  {
+    "review": "톨게이트를 벗어나지 못하는 현대 도시인들",
+    "date": "14.02.27",
+    "rating": "10",
+    "author": "imag****",
+    "review_id": "8540782",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간이 뭐 그렇지...",
+    "date": "13.10.30",
+    "rating": "8",
+    "author": "msoa****",
+    "review_id": "8100485",
+    "movie_id": "27277"
+  },
+  {
+    "review": "김인권씨 연기 대박이던데... 무슨 데뷔작인데 연기를 이렇게 잘하는지 ㅎㄷㄷㄷ 자연스럽게 돋아나오는 시골동네 상찌질이 캐릭터연기 ㅋㅋㅋ",
+    "date": "13.04.08",
+    "rating": "10",
+    "author": "morb****",
+    "review_id": "7444386",
+    "movie_id": "27277"
+  },
+  {
+    "review": "과장된인물로 억지스럼이 돋보인다 !배우들은 고생꾀나햇을법한 영화",
+    "date": "13.03.17",
+    "rating": "7",
+    "author": "k411****",
+    "review_id": "7356634",
+    "movie_id": "27277"
+  },
+  {
+    "review": "도덕책적인메세지,,어설픈면이많이묻어나고 이은주역이 특히나 혼자 기름같은 캐릭..보고나서 뭐야참 이라는말밖엔,,,,실습생정도의영화.포스터또한 영화와별로관련없는 스틸컷을사용,,,,스릴이라는 장르표는 떼야할듯",
+    "date": "13.03.17",
+    "rating": "6",
+    "author": "ghkd****",
+    "review_id": "7356617",
+    "movie_id": "27277"
+  },
+  {
+    "review": "나름 긴장감있고 흥미진진하게 잘짜여진 스릴러. 얄팍하구 계산적.인위적.이기적인 도시인들과 거칠구 투박하지만 순수한 시골인들 사이에서의 대립과 갈등을 잘묘사했음.",
+    "date": "12.09.15",
+    "rating": "10",
+    "author": "kis5****",
+    "review_id": "6700723",
+    "movie_id": "27277"
+  },
+  {
+    "review": "이은주의 풋풋한 모습이 나와서 뭔가 짠했음 ㅜㅜ 설경구, 강수연, 이은주 배우들도 훌륭하고 영화도잘만들어졌다!",
+    "date": "12.07.21",
+    "rating": "10",
+    "author": "3535****",
+    "review_id": "6505908",
+    "movie_id": "27277"
+  },
+  {
+    "review": "이런영화재밌다는사람들도대체 정신세계가 궁금??",
+    "date": "12.05.13",
+    "rating": "1",
+    "author": "kmh6****",
+    "review_id": "6294399",
+    "movie_id": "27277"
+  },
+  {
+    "review": "90년대 한국영화에도 요런 스릴러가 있었네.",
+    "date": "12.01.01",
+    "rating": "10",
+    "author": "jkh1****",
+    "review_id": "5952055",
+    "movie_id": "27277"
+  },
+  {
+    "review": "꿋꿋이 살아가는 사람은 송어랑 다르네",
+    "date": "11.08.02",
+    "rating": "10",
+    "author": "2pup****",
+    "review_id": "5592133",
+    "movie_id": "27277"
+  },
+  {
+    "review": "불친절의 매력.",
+    "date": "11.05.09",
+    "rating": "6",
+    "author": "pria****",
+    "review_id": "5418035",
+    "movie_id": "27277"
+  },
+  {
+    "review": "음 뭐랄까 불편함 내면에 숨겨진 이면성  나도 그럴까? 독특한 영화 강추",
+    "date": "11.03.04",
+    "rating": "9",
+    "author": "fhll****",
+    "review_id": "5293789",
+    "movie_id": "27277"
+  },
+  {
+    "review": "불편함이 무엇인지 제대로 보여줌",
+    "date": "11.02.08",
+    "rating": "9",
+    "author": "joeu****",
+    "review_id": "5228742",
+    "movie_id": "27277"
+  },
+  {
+    "review": "배타적 자기동일성이데올로기에대한 사유.",
+    "date": "10.10.20",
+    "rating": "9",
+    "author": "qkrf****",
+    "review_id": "4911966",
+    "movie_id": "27277"
+  },
+  {
+    "review": "Good",
+    "date": "10.09.01",
+    "rating": "10",
+    "author": "subw****",
+    "review_id": "4809451",
+    "movie_id": "27277"
+  },
+  {
+    "review": "나름대로 좋은영화다.....않좋다는 사람들은 뭐지..?",
+    "date": "10.08.09",
+    "rating": "10",
+    "author": "span****",
+    "review_id": "4726569",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간의 다양한 이기적 위선적 면면을 신랄하게 보여주네요.. 캐릭터에 몰입됩니다..",
+    "date": "10.04.28",
+    "rating": "10",
+    "author": "wayw****",
+    "review_id": "4461412",
+    "movie_id": "27277"
+  },
+  {
+    "review": "근데 이게 왜 12세 관람가일까...",
+    "date": "10.04.05",
+    "rating": "9",
+    "author": "sptl****",
+    "review_id": "4413120",
+    "movie_id": "27277"
+  },
+  {
+    "review": "본능적으로 인간이란 자신의 죽음앞에선 어떤것도 안보인다. 그렇기때문에 사는지도..",
+    "date": "10.03.04",
+    "rating": "9",
+    "author": "mrdo****",
+    "review_id": "4334670",
+    "movie_id": "27277"
+  },
+  {
+    "review": "사람은 누구나 악마를 품고 산다..",
+    "date": "09.08.03",
+    "rating": "8",
+    "author": "imf0****",
+    "review_id": "3700101",
+    "movie_id": "27277"
+  },
+  {
+    "review": "섬뜩함",
+    "date": "09.06.09",
+    "rating": "7",
+    "author": "erhe****",
+    "review_id": "3554083",
+    "movie_id": "27277"
+  },
+  {
+    "review": "추한 인간들..",
+    "date": "09.05.11",
+    "rating": "8",
+    "author": "chee****",
+    "review_id": "3486768",
+    "movie_id": "27277"
+  },
+  {
+    "review": "미성년이 보기에는 좀......",
+    "date": "09.03.14",
+    "rating": "8",
+    "author": "lyui****",
+    "review_id": "3364781",
+    "movie_id": "27277"
+  },
+  {
+    "review": "불편한 진실들...",
+    "date": "08.07.02",
+    "rating": "6",
+    "author": "wnsg****",
+    "review_id": "2735379",
+    "movie_id": "27277"
+  },
+  {
+    "review": "정말 '인간'의 이야기.모든 배우들에게도 찬사를.",
+    "date": "08.04.26",
+    "rating": "10",
+    "author": "howl****",
+    "review_id": "2599560",
+    "movie_id": "27277"
+  },
+  {
+    "review": "한계를 넘어선 인간은 추잡해 질 수 밖에 없는건가?",
+    "date": "08.02.23",
+    "rating": "9",
+    "author": "shin****",
+    "review_id": "2476329",
+    "movie_id": "27277"
+  },
+  {
+    "review": "한국영화의 기초",
+    "date": "08.02.01",
+    "rating": "8",
+    "author": "0tae****",
+    "review_id": "2396089",
+    "movie_id": "27277"
+  },
+  {
+    "review": "모든 것을 이기적으로 처리하려 하는 인간의 모습을 보여주는 영화...",
+    "date": "08.01.14",
+    "rating": "8",
+    "author": "yaga****",
+    "review_id": "2330709",
+    "movie_id": "27277"
+  },
+  {
+    "review": "어제 TV에서 봤는데.. 괜찮네요.. 리메이크 했으면 좋겠네요..^^",
+    "date": "07.10.28",
+    "rating": "8",
+    "author": "lott****",
+    "review_id": "2119377",
+    "movie_id": "27277"
+  },
+  {
+    "review": "기대 전혀안하고 보기시작했는데.....와우..최고였다 정말!! 강추!!",
+    "date": "07.10.27",
+    "rating": "10",
+    "author": "kona****",
+    "review_id": "2116353",
+    "movie_id": "27277"
+  },
+  {
+    "review": "눈에 훤히 보이는 죄의 부정. 인간의 본성...!",
+    "date": "07.10.27",
+    "rating": "9",
+    "author": "doub****",
+    "review_id": "2115382",
+    "movie_id": "27277"
+  },
+  {
+    "review": "옛날에 보구 잼었는데 소재가 독특하다. 리메이크하면 좋을 듯~",
+    "date": "07.10.27",
+    "rating": "8",
+    "author": "ecla****",
+    "review_id": "2114810",
+    "movie_id": "27277"
+  },
+  {
+    "review": "나도 저런 상황이면 똑같은 행동을 하겠지?",
+    "date": "07.10.27",
+    "rating": "9",
+    "author": "jil2****",
+    "review_id": "2114720",
+    "movie_id": "27277"
+  },
+  {
+    "review": "잘본영화다",
+    "date": "07.10.27",
+    "rating": "10",
+    "author": "good****",
+    "review_id": "2114450",
+    "movie_id": "27277"
+  },
+  {
+    "review": "불편하다.",
+    "date": "07.10.27",
+    "rating": "8",
+    "author": "hyun****",
+    "review_id": "2114396",
+    "movie_id": "27277"
+  },
+  {
+    "review": "정말 쓰레기 같은 영화 다본다... 왜 빵점은 없어?",
+    "date": "07.10.27",
+    "rating": "1",
+    "author": "myla****",
+    "review_id": "2114385",
+    "movie_id": "27277"
+  },
+  {
+    "review": "아니 이딴영화가 무슨10점을 받어? 짜증팍밀려옴.",
+    "date": "07.10.27",
+    "rating": "1",
+    "author": "blue****",
+    "review_id": "2114339",
+    "movie_id": "27277"
+  },
+  {
+    "review": "솔직히 돈주고 보기 아까웠다",
+    "date": "07.10.27",
+    "rating": "3",
+    "author": "bill****",
+    "review_id": "2114333",
+    "movie_id": "27277"
+  },
+  {
+    "review": "그런데로~~",
+    "date": "07.10.27",
+    "rating": "10",
+    "author": "qhwl****",
+    "review_id": "2114269",
+    "movie_id": "27277"
+  },
+  {
+    "review": "국내에서 이정도 내공을 가진 영화는 드물다, 인간의 이기심과 악랄함.",
+    "date": "07.10.14",
+    "rating": "10",
+    "author": "foer****",
+    "review_id": "2090438",
+    "movie_id": "27277"
+  },
+  {
+    "review": "상황에 따라 변하는.. 간사한 사람의 마음...",
+    "date": "07.09.30",
+    "rating": "10",
+    "author": "kage****",
+    "review_id": "2061150",
+    "movie_id": "27277"
+  },
+  {
+    "review": "볼만하네요",
+    "date": "07.09.25",
+    "rating": "7",
+    "author": "kyki****",
+    "review_id": "2047138",
+    "movie_id": "27277"
+  },
+  {
+    "review": "넘 허접하다",
+    "date": "07.08.14",
+    "rating": "6",
+    "author": "wjsg****",
+    "review_id": "1936821",
+    "movie_id": "27277"
+  },
+  {
+    "review": "심리묘사는 훌륭했으나...찝찝했다...",
+    "date": "07.08.08",
+    "rating": "8",
+    "author": "typo****",
+    "review_id": "1901664",
+    "movie_id": "27277"
+  },
+  {
+    "review": "너무 어려서 봤나??",
+    "date": "07.03.24",
+    "rating": "4",
+    "author": "2601****",
+    "review_id": "1550359",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간의 탐욕과 위선을 적나라하게 표현한 수작.",
+    "date": "06.11.13",
+    "rating": "10",
+    "author": "domi****",
+    "review_id": "1230686",
+    "movie_id": "27277"
+  },
+  {
+    "review": "극장에서 자막이 올라갈 동안 일서지지 못한 최초의 한국영화",
+    "date": "06.10.10",
+    "rating": "10",
+    "author": "recr****",
+    "review_id": "1175142",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간의 본성이란 바로 이런 것이다.",
+    "date": "06.10.09",
+    "rating": "9",
+    "author": "seri****",
+    "review_id": "1172465",
+    "movie_id": "27277"
+  },
+  {
+    "review": "보통 사람들 내면의 위선....",
+    "date": "06.08.10",
+    "rating": "8",
+    "author": "moon****",
+    "review_id": "990121",
+    "movie_id": "27277"
+  },
+  {
+    "review": "극한에서 조금 모자라는상황으로도 인간내면을 뒤집어 내놓다니",
+    "date": "06.08.08",
+    "rating": "8",
+    "author": "nhc3****",
+    "review_id": "983446",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간성에 대한 고찰",
+    "date": "06.08.05",
+    "rating": "9",
+    "author": "zeed****",
+    "review_id": "971383",
+    "movie_id": "27277"
+  },
+  {
+    "review": "기대없이 본영화. 하지만 괜찮았음 ^ ^",
+    "date": "06.07.26",
+    "rating": "7",
+    "author": "tjpr****",
+    "review_id": "922897",
+    "movie_id": "27277"
+  },
+  {
+    "review": "짜증나는 영화.",
+    "date": "06.07.12",
+    "rating": "5",
+    "author": "scal****",
+    "review_id": "886831",
+    "movie_id": "27277"
+  },
+  {
+    "review": "오랜만에 돌아보게 된 인간의 본성",
+    "date": "06.04.23",
+    "rating": "7",
+    "author": "real****",
+    "review_id": "772069",
+    "movie_id": "27277"
+  },
+  {
+    "review": "우리 모두의 모습을 보는것같네요.",
+    "date": "06.03.22",
+    "rating": "10",
+    "author": "wewe****",
+    "review_id": "728155",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간의추악한본성을잘보여준숨겨진수작이다.",
+    "date": "06.03.19",
+    "rating": "9",
+    "author": "rkdw****",
+    "review_id": "722435",
+    "movie_id": "27277"
+  },
+  {
+    "review": "이은주 씨가 불현듯 생각나는.. 독특하고 발칙한 영화였슴.",
+    "date": "06.02.25",
+    "rating": "10",
+    "author": "leeh****",
+    "review_id": "692133",
+    "movie_id": "27277"
+  },
+  {
+    "review": "이은주의 죽음은 이미 6년 전에 정해져 있었단 말인가..",
+    "date": "06.02.25",
+    "rating": "10",
+    "author": "lhcg****",
+    "review_id": "692128",
+    "movie_id": "27277"
+  },
+  {
+    "review": "자살을 선택하는... 이은주의 죽음은 예고되 있었다.",
+    "date": "06.02.25",
+    "rating": "10",
+    "author": "leeh****",
+    "review_id": "692126",
+    "movie_id": "27277"
+  },
+  {
+    "review": "오래전 인상깊게 보았던 기억이...",
+    "date": "06.02.22",
+    "rating": "10",
+    "author": "twin****",
+    "review_id": "685702",
+    "movie_id": "27277"
+  },
+  {
+    "review": "진짜 무섭다 보면서 많은걸 느꼈던",
+    "date": "05.10.10",
+    "rating": "7",
+    "author": "okjo****",
+    "review_id": "439354",
+    "movie_id": "27277"
+  },
+  {
+    "review": "5년전에 보고 다시봐도 같은생각이 드는군",
+    "date": "05.09.21",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "416444",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간의 본성에관하여 많은것을 생각하게 하는영화..",
+    "date": "05.09.07",
+    "rating": "10",
+    "author": "ykni****",
+    "review_id": "396047",
+    "movie_id": "27277"
+  },
+  {
+    "review": "때깔이 부족한........",
+    "date": "05.07.16",
+    "rating": "7",
+    "author": "band****",
+    "review_id": "323911",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간의본성여실히 드러나는영화..",
+    "date": "05.04.26",
+    "rating": "9",
+    "author": "kiru****",
+    "review_id": "266206",
+    "movie_id": "27277"
+  },
+  {
+    "review": "황인성이 도모한 일이란 뉘앙스가 있는데,, 이의 원인이 없다",
+    "date": "05.03.24",
+    "rating": "9",
+    "author": "inke****",
+    "review_id": "245985",
+    "movie_id": "27277"
+  },
+  {
+    "review": "good!",
+    "date": "05.03.02",
+    "rating": "10",
+    "author": "sogu****",
+    "review_id": "233751",
+    "movie_id": "27277"
+  },
+  {
+    "review": "99%는 좋다.",
+    "date": "05.02.27",
+    "rating": "10",
+    "author": "xml_****",
+    "review_id": "231853",
+    "movie_id": "27277"
+  },
+  {
+    "review": "숨은 걸작. 악하지만 약한 현대인의 초상",
+    "date": "05.01.01",
+    "rating": "10",
+    "author": "yoju****",
+    "review_id": "174381",
+    "movie_id": "27277"
+  },
+  {
+    "review": "현대인의 강한자에게 약하고 약한자에게 강한 특징을 잘 들어낸듯하다",
+    "date": "04.12.03",
+    "rating": "10",
+    "author": "lees****",
+    "review_id": "155867",
+    "movie_id": "27277"
+  },
+  {
+    "review": "불멸의 이순신 나오지 않았남??/",
+    "date": "04.11.29",
+    "rating": "10",
+    "author": "orac****",
+    "review_id": "154156",
+    "movie_id": "27277"
+  },
+  {
+    "review": "약간이 아닌 너무 과장된 캐릭터... 감정이입 졸라안됨",
+    "date": "04.10.21",
+    "rating": "2",
+    "author": "aule****",
+    "review_id": "129974",
+    "movie_id": "27277"
+  },
+  {
+    "review": "약간 과장된 캐릭터 빼곤 굿!! 왜 이런영화가 뜨지 못했지? 뻔하지뭐.",
+    "date": "04.09.08",
+    "rating": "8",
+    "author": "ysy2****",
+    "review_id": "105028",
+    "movie_id": "27277"
+  },
+  {
+    "review": "인간의 본성을 송어에 빗대어 냉소적으로 바라본 박종원 감독의 수작",
+    "date": "04.09.04",
+    "rating": "9",
+    "author": "smol****",
+    "review_id": "102479",
+    "movie_id": "27277"
+  },
+  {
+    "review": "한국영화에 이토록 다양한 인간군상이 존재하는 작품은...",
+    "date": "04.05.30",
+    "rating": "10",
+    "author": "leea****",
+    "review_id": "47397",
+    "movie_id": "27277"
+  }
+]

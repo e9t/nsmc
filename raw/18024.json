@@ -1,0 +1,42 @@
+[
+  {
+    "review": "오~! 언어로는 표현할수 없는 감동의 물결.보다가 울게 되더라도 절대 책임질수 없다.",
+    "date": "10.09.03",
+    "rating": "8",
+    "author": "baks****",
+    "review_id": "4814554",
+    "movie_id": "18024"
+  },
+  {
+    "review": "좋아요.",
+    "date": "10.02.16",
+    "rating": "10",
+    "author": "nimb****",
+    "review_id": "4287748",
+    "movie_id": "18024"
+  },
+  {
+    "review": "재미 있네요.",
+    "date": "09.06.28",
+    "rating": "10",
+    "author": "0527****",
+    "review_id": "3597233",
+    "movie_id": "18024"
+  },
+  {
+    "review": "마음에 듭니다.",
+    "date": "09.06.28",
+    "rating": "10",
+    "author": "dong****",
+    "review_id": "3597135",
+    "movie_id": "18024"
+  },
+  {
+    "review": "결말은 스파이더맨이긴다. .",
+    "date": "07.08.10",
+    "rating": "1",
+    "author": "xx41****",
+    "review_id": "1915117",
+    "movie_id": "18024"
+  }
+]

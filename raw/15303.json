@@ -1,0 +1,42 @@
+[
+  {
+    "review": "진훈기도 나오는데 배우 정보란에 누락되었네",
+    "date": "15.08.16",
+    "rating": "5",
+    "author": "adiv****",
+    "review_id": "10237607",
+    "movie_id": "15303"
+  },
+  {
+    "review": "약션물로 둔갑한 평범한 홍콩영화,",
+    "date": "14.09.18",
+    "rating": "3",
+    "author": "s1ok****",
+    "review_id": "9222819",
+    "movie_id": "15303"
+  },
+  {
+    "review": "홍콩판 위험한 아이들? 지루하지만 나름 볼만했던 영화",
+    "date": "13.04.16",
+    "rating": "5",
+    "author": "thra****",
+    "review_id": "7463156",
+    "movie_id": "15303"
+  },
+  {
+    "review": "1번보기 좋다",
+    "date": "10.11.17",
+    "rating": "1",
+    "author": "alsr****",
+    "review_id": "4967502",
+    "movie_id": "15303"
+  },
+  {
+    "review": "이 영화 그 때 당시엔 볼만했었음",
+    "date": "08.07.25",
+    "rating": "7",
+    "author": "gall****",
+    "review_id": "2801872",
+    "movie_id": "15303"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "review": "데미무어가 최고로 매력적이었던 영화....",
+    "date": "14.08.11",
+    "rating": "8",
+    "author": "lees****",
+    "review_id": "9067620",
+    "movie_id": "12036"
+  },
+  {
+    "review": "500일의 summer같이 삭막하지 않아 좋아요.",
+    "date": "10.02.07",
+    "rating": "10",
+    "author": "song****",
+    "review_id": "4256433",
+    "movie_id": "12036"
+  },
+  {
+    "review": "80년대 로맨틱무비의 정점, 영화는 데이빗 마멧의 연극을 원안으로 제작됨",
+    "date": "08.07.22",
+    "rating": "10",
+    "author": "tumm****",
+    "review_id": "2791695",
+    "movie_id": "12036"
+  },
+  {
+    "review": "젊었던 데미무어말고 별로 기억에 남지 않는다",
+    "date": "07.09.01",
+    "rating": "5",
+    "author": "deff****",
+    "review_id": "1995273",
+    "movie_id": "12036"
+  },
+  {
+    "review": "80년대 보석같은 멜로영화다. 데미무어 정말 예뻤다.",
+    "date": "07.02.17",
+    "rating": "10",
+    "author": "iamc****",
+    "review_id": "1478350",
+    "movie_id": "12036"
+  },
+  {
+    "review": "아 옛날이여~~",
+    "date": "06.12.21",
+    "rating": "9",
+    "author": "cher****",
+    "review_id": "1309628",
+    "movie_id": "12036"
+  },
+  {
+    "review": "풋풋함. 특히 OST괜찬아요~구하고 있죠 ㅜ.ㅜ",
+    "date": "06.09.03",
+    "rating": "10",
+    "author": "gong****",
+    "review_id": "1098242",
+    "movie_id": "12036"
+  },
+  {
+    "review": "촌스럽지만 풋풋한 데미 무어와 롭 로우의 매력 ...",
+    "date": "06.08.14",
+    "rating": "6",
+    "author": "1stl****",
+    "review_id": "1031235",
+    "movie_id": "12036"
+  }
+]

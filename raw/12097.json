@@ -1,0 +1,26 @@
+[
+  {
+    "review": "시간아깝다",
+    "date": "09.12.07",
+    "rating": "1",
+    "author": "quil****",
+    "review_id": "4024635",
+    "movie_id": "12097"
+  },
+  {
+    "review": "하드코어적인 요소만 지나치게 부각시킨듯",
+    "date": "09.03.27",
+    "rating": "3",
+    "author": "evil****",
+    "review_id": "3389432",
+    "movie_id": "12097"
+  },
+  {
+    "review": "세계적인 정치스캔들 사건인 록히드 사건을 영화로 만든 작품.",
+    "date": "04.10.09",
+    "rating": "6",
+    "author": "inst****",
+    "review_id": "122948",
+    "movie_id": "12097"
+  }
+]

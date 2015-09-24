@@ -1,0 +1,802 @@
+[
+  {
+    "review": "너무너무 사랑스러운 영화!",
+    "date": "15.08.13",
+    "rating": "10",
+    "author": "buzz****",
+    "review_id": "10226122",
+    "movie_id": "47424"
+  },
+  {
+    "review": "제목이 다인 영화지만, 로맨틱 코미디로서는 킬링타임용. 볼 거 없어서 로맨틱 코미디 찾는 여성분들에게 추천.",
+    "date": "14.11.28",
+    "rating": "8",
+    "author": "jms5****",
+    "review_id": "9428937",
+    "movie_id": "47424"
+  },
+  {
+    "review": "그냥한번 그럭저럭보고 언제봤는지 이런영화가 있었는지 어느새 잊어버리게되는 영화",
+    "date": "14.09.04",
+    "rating": "6",
+    "author": "whia****",
+    "review_id": "9167057",
+    "movie_id": "47424"
+  },
+  {
+    "review": "여태까지 봤던 로맨틱코미디 영화중 젤 맘에 들었음",
+    "date": "14.04.27",
+    "rating": "10",
+    "author": "devi****",
+    "review_id": "8676109",
+    "movie_id": "47424"
+  },
+  {
+    "review": "왜 항상 남의 떡이 더 커보이는것일까. 있을때 잘하자.",
+    "date": "13.12.31",
+    "rating": "7",
+    "author": "hell****",
+    "review_id": "8328537",
+    "movie_id": "47424"
+  },
+  {
+    "review": "좀 막장스러운데.. 재미도 별로없다.",
+    "date": "13.12.16",
+    "rating": "5",
+    "author": "ehwj****",
+    "review_id": "8219314",
+    "movie_id": "47424"
+  },
+  {
+    "review": "얄팍하고 예측 가능하며 지루하다. 무엇보다 아무리 할리우드 로맨스 영화라도 주인공이 결혼식을 손쉽게 망친 후의 해피엔딩은 받아들이기 힘들다.",
+    "date": "13.11.17",
+    "rating": "4",
+    "author": "zxc1****",
+    "review_id": "8148362",
+    "movie_id": "47424"
+  },
+  {
+    "review": "작품성이 굉장히 뛰어나거나 한건 아니지만 정말 기분좋게 행복하게 미소지으면서 볼수있어서 좋았어요^^",
+    "date": "13.05.04",
+    "rating": "9",
+    "author": "ahtn****",
+    "review_id": "7504727",
+    "movie_id": "47424"
+  },
+  {
+    "review": "굿",
+    "date": "13.04.26",
+    "rating": "10",
+    "author": "kimm****",
+    "review_id": "7483267",
+    "movie_id": "47424"
+  },
+  {
+    "review": "내 남자친구의 결혼식 영화와 많이 흡사하다. 결말에서 자연스럽게 받아들이는 부분이 영화라서 어쩔 수 없지만 너무 말이 안된다는 생각도 듬. 남녀 친구사이에서 느낄 수 있는 미묘한 감정표현을 여주가 잘 한듯",
+    "date": "13.04.21",
+    "rating": "8",
+    "author": "seul****",
+    "review_id": "7472034",
+    "movie_id": "47424"
+  },
+  {
+    "review": "훈훈한 해피엔딩, 맘을 움직이는 영화네요~",
+    "date": "13.02.14",
+    "rating": "10",
+    "author": "cmh9****",
+    "review_id": "7262807",
+    "movie_id": "47424"
+  },
+  {
+    "review": "가볍게즐기며보기좋아요.",
+    "date": "13.01.26",
+    "rating": "10",
+    "author": "vivi****",
+    "review_id": "7175097",
+    "movie_id": "47424"
+  },
+  {
+    "review": "not bad",
+    "date": "13.01.09",
+    "rating": "10",
+    "author": "powe****",
+    "review_id": "7096311",
+    "movie_id": "47424"
+  },
+  {
+    "review": "재밋긴한데 좀 스토리가 별로",
+    "date": "12.12.20",
+    "rating": "6",
+    "author": "dhkt****",
+    "review_id": "7024098",
+    "movie_id": "47424"
+  },
+  {
+    "review": "너무 유쾌하고 감동도 있는 로맨틱한 영화~^^",
+    "date": "12.11.27",
+    "rating": "10",
+    "author": "peac****",
+    "review_id": "6930706",
+    "movie_id": "47424"
+  },
+  {
+    "review": "전형적인로코물인데 먼가아쉬운영화 재미있으라고이것저것막가져다썻는데몰입이안되고산만했음 그리고결말도참아잉스러움",
+    "date": "12.11.03",
+    "rating": "5",
+    "author": "jttu****",
+    "review_id": "6847729",
+    "movie_id": "47424"
+  },
+  {
+    "review": "유쾌하게 본 로맨틱 코미디~!!",
+    "date": "12.10.14",
+    "rating": "7",
+    "author": "moki****",
+    "review_id": "6801791",
+    "movie_id": "47424"
+  },
+  {
+    "review": "깔쌈한 로맨틱코미디",
+    "date": "12.10.05",
+    "rating": "8",
+    "author": "lamm****",
+    "review_id": "6765650",
+    "movie_id": "47424"
+  },
+  {
+    "review": "키스만 진할뿐  남주를 띄워주는데만 급급하더라",
+    "date": "12.09.19",
+    "rating": "5",
+    "author": "wlfa****",
+    "review_id": "6713091",
+    "movie_id": "47424"
+  },
+  {
+    "review": "굳.",
+    "date": "12.09.09",
+    "rating": "10",
+    "author": "dufu****",
+    "review_id": "6680400",
+    "movie_id": "47424"
+  },
+  {
+    "review": "완전 뻔한내용이지만 볼만했음",
+    "date": "12.09.02",
+    "rating": "6",
+    "author": "kshe****",
+    "review_id": "6665285",
+    "movie_id": "47424"
+  },
+  {
+    "review": "정말 아무리 영화래도 누가 저런 남자와 같은 침대위에 잘까?",
+    "date": "12.07.17",
+    "rating": "5",
+    "author": "chjw****",
+    "review_id": "6489660",
+    "movie_id": "47424"
+  },
+  {
+    "review": "딱 전통적인 로맨틱코미디.?OST 좋았음",
+    "date": "12.06.10",
+    "rating": "8",
+    "author": "okre****",
+    "review_id": "6381581",
+    "movie_id": "47424"
+  },
+  {
+    "review": "아무리영화라지만 상식에 너무 벗어나니 몰입도가 떨어진다",
+    "date": "12.03.07",
+    "rating": "3",
+    "author": "milk****",
+    "review_id": "6128369",
+    "movie_id": "47424"
+  },
+  {
+    "review": "멜로영화의 기본 틀을 벗어나지 못한 그저 그런 영화. 뻔하디 뻔한 결말로 마무리",
+    "date": "12.02.16",
+    "rating": "7",
+    "author": "dlru****",
+    "review_id": "6079003",
+    "movie_id": "47424"
+  },
+  {
+    "review": "뻔하지만, 나름 재밌게 잘봤음!",
+    "date": "12.02.12",
+    "rating": "8",
+    "author": "lmy0****",
+    "review_id": "6069031",
+    "movie_id": "47424"
+  },
+  {
+    "review": "고민없이 빚어낸 아류작의 한계. 시간 아까운 영화",
+    "date": "12.01.14",
+    "rating": "3",
+    "author": "gall****",
+    "review_id": "5985886",
+    "movie_id": "47424"
+  },
+  {
+    "review": "패트릭 뎀시라는 배우를 다시 보게 되었다.",
+    "date": "12.01.09",
+    "rating": "9",
+    "author": "gywn****",
+    "review_id": "5974266",
+    "movie_id": "47424"
+  },
+  {
+    "review": "나에게는,소녀시대,윤아뿐이다.",
+    "date": "11.12.20",
+    "rating": "3",
+    "author": "baks****",
+    "review_id": "5917787",
+    "movie_id": "47424"
+  },
+  {
+    "review": "재밌는데무얼그래",
+    "date": "11.12.08",
+    "rating": "10",
+    "author": "2005****",
+    "review_id": "5893938",
+    "movie_id": "47424"
+  },
+  {
+    "review": "타이밍은 놓쳐도 진심은 놓치지 말아야 한다..",
+    "date": "11.12.02",
+    "rating": "7",
+    "author": "blue****",
+    "review_id": "5883151",
+    "movie_id": "47424"
+  },
+  {
+    "review": "의 남자버전 같지만, 다른 점은 결혼식을 깽판친다는 것",
+    "date": "11.10.15",
+    "rating": "6",
+    "author": "ccpp****",
+    "review_id": "5789230",
+    "movie_id": "47424"
+  },
+  {
+    "review": "미쉘 모나한 때문에 봤는데 역시 매력적이군",
+    "date": "11.10.15",
+    "rating": "6",
+    "author": "rame****",
+    "review_id": "5789229",
+    "movie_id": "47424"
+  },
+  {
+    "review": "소재가 진부하고 전개가 상투적",
+    "date": "11.10.15",
+    "rating": "6",
+    "author": "kpcc****",
+    "review_id": "5789228",
+    "movie_id": "47424"
+  },
+  {
+    "review": "평점에 비해 전혀 나쁘지 않았다 보는내내 부러웠고 여운도 남는다",
+    "date": "11.06.12",
+    "rating": "8",
+    "author": "l_dl****",
+    "review_id": "5477541",
+    "movie_id": "47424"
+  },
+  {
+    "review": "좀 식상하긴해도 볼만하다",
+    "date": "11.04.18",
+    "rating": "7",
+    "author": "pers****",
+    "review_id": "5380134",
+    "movie_id": "47424"
+  },
+  {
+    "review": "별로 기대 안하고 봤는데, 저는 만족스럽고 너무 재미있게 봤어요 ost, 배경  굿굿",
+    "date": "11.03.17",
+    "rating": "10",
+    "author": "wirl****",
+    "review_id": "5318734",
+    "movie_id": "47424"
+  },
+  {
+    "review": "남주기 아까울 정도는 아니던데?? ;;",
+    "date": "11.01.17",
+    "rating": "7",
+    "author": "tn99****",
+    "review_id": "5166254",
+    "movie_id": "47424"
+  },
+  {
+    "review": "여주인공 매력있음. 근데 중반부터 지루하다",
+    "date": "11.01.05",
+    "rating": "4",
+    "author": "blai****",
+    "review_id": "5131345",
+    "movie_id": "47424"
+  },
+  {
+    "review": "천생연분",
+    "date": "11.01.01",
+    "rating": "7",
+    "author": "cds5****",
+    "review_id": "5112437",
+    "movie_id": "47424"
+  },
+  {
+    "review": "사랑스러운 로코",
+    "date": "10.12.19",
+    "rating": "7",
+    "author": "gmyi****",
+    "review_id": "5066850",
+    "movie_id": "47424"
+  },
+  {
+    "review": "간만에 재밌게본 로맨틱 코미디",
+    "date": "10.11.23",
+    "rating": "10",
+    "author": "nwhg****",
+    "review_id": "4981896",
+    "movie_id": "47424"
+  },
+  {
+    "review": "볼만한 킬링타임용 로맨틱코미디~",
+    "date": "10.11.10",
+    "rating": "7",
+    "author": "pret****",
+    "review_id": "4949099",
+    "movie_id": "47424"
+  },
+  {
+    "review": "봐주기 아까운 영화",
+    "date": "10.06.24",
+    "rating": "1",
+    "author": "pria****",
+    "review_id": "4587561",
+    "movie_id": "47424"
+  },
+  {
+    "review": "로맨틱코메디의 정석. 폴 웨이랜드 특유의 유머가 돋보이는 작품이다. 추천.",
+    "date": "10.06.20",
+    "rating": "10",
+    "author": "skul****",
+    "review_id": "4577708",
+    "movie_id": "47424"
+  },
+  {
+    "review": "배우들의 자연스런 연기로 기분 좋아지는 영화, 로맨스 위에 뿌려진 적절한 코미디",
+    "date": "10.04.07",
+    "rating": "8",
+    "author": "cuti****",
+    "review_id": "4416981",
+    "movie_id": "47424"
+  },
+  {
+    "review": "귀여운 로맨틱 코미디. 결말이 뻔한 건 어쩔 수 없나",
+    "date": "10.01.01",
+    "rating": "8",
+    "author": "cood****",
+    "review_id": "4115703",
+    "movie_id": "47424"
+  },
+  {
+    "review": "당신처럼 나를 웃게해주는 사람은 세상에 없습니다.",
+    "date": "09.12.29",
+    "rating": "8",
+    "author": "kcm7****",
+    "review_id": "4103101",
+    "movie_id": "47424"
+  },
+  {
+    "review": "중반까지는 좋았는데, 후반은 역시나.",
+    "date": "09.12.16",
+    "rating": "6",
+    "author": "ttws****",
+    "review_id": "4046988",
+    "movie_id": "47424"
+  },
+  {
+    "review": "간만에 찾은 너무 재밌는 영화!",
+    "date": "09.11.21",
+    "rating": "10",
+    "author": "nana****",
+    "review_id": "3979360",
+    "movie_id": "47424"
+  },
+  {
+    "review": "훈훈한영화",
+    "date": "09.11.12",
+    "rating": "10",
+    "author": "jaey****",
+    "review_id": "3955954",
+    "movie_id": "47424"
+  },
+  {
+    "review": "결말은 역시나지만 그럭저럭 괜찮다",
+    "date": "09.10.10",
+    "rating": "7",
+    "author": "zzaz****",
+    "review_id": "3883202",
+    "movie_id": "47424"
+  },
+  {
+    "review": "뻔한거 상관없다. 그래도 그렇지.. 첫만남에 예~ 평생이성친구발견! 으로 시작은 좀..",
+    "date": "09.09.30",
+    "rating": "5",
+    "author": "choo****",
+    "review_id": "3861455",
+    "movie_id": "47424"
+  },
+  {
+    "review": "웃기기는 했지만, 웃지는 않았다",
+    "date": "09.09.01",
+    "rating": "2",
+    "author": "evil****",
+    "review_id": "3805732",
+    "movie_id": "47424"
+  },
+  {
+    "review": "난 재미있었다.. ㅋㅋ",
+    "date": "09.06.25",
+    "rating": "10",
+    "author": "ki__****",
+    "review_id": "3587870",
+    "movie_id": "47424"
+  },
+  {
+    "review": "별주기 아까운 영화.",
+    "date": "09.06.03",
+    "rating": "4",
+    "author": "kami****",
+    "review_id": "3541956",
+    "movie_id": "47424"
+  },
+  {
+    "review": "보면서 딱히 거부감은 없는 영화. 그냥 저냥이라는 표현이 딱 맞음",
+    "date": "09.05.31",
+    "rating": "7",
+    "author": "cpu1****",
+    "review_id": "3534482",
+    "movie_id": "47424"
+  },
+  {
+    "review": "솔직히 다소 지루했음. 거의 끝에가서야 조금 흥미롭다고나 할까..",
+    "date": "09.05.14",
+    "rating": "7",
+    "author": "gsm9****",
+    "review_id": "3493615",
+    "movie_id": "47424"
+  },
+  {
+    "review": "예전에도 무수히 보아왔던 영화들의 재상영작!",
+    "date": "09.04.09",
+    "rating": "4",
+    "author": "si2p****",
+    "review_id": "3412951",
+    "movie_id": "47424"
+  },
+  {
+    "review": "미셀,, 너무 매력적이야~ 보는내내 즐거웠어~",
+    "date": "09.04.04",
+    "rating": "10",
+    "author": "ayj9****",
+    "review_id": "3404582",
+    "movie_id": "47424"
+  },
+  {
+    "review": "볼만...7.5점 정도가 딱 적당",
+    "date": "09.03.31",
+    "rating": "10",
+    "author": "ruff****",
+    "review_id": "3397216",
+    "movie_id": "47424"
+  },
+  {
+    "review": "코믹멜로에 이정도면 10점줘도 괜찮을듯.~ㅋ 잼있어요",
+    "date": "09.03.12",
+    "rating": "10",
+    "author": "ckh1****",
+    "review_id": "3361244",
+    "movie_id": "47424"
+  },
+  {
+    "review": "평점 8.0 처음과 끝의 스토리는 좋았지만 디테일하지 않은 부분이 아쉬웠던 영화",
+    "date": "09.03.03",
+    "rating": "10",
+    "author": "alrk****",
+    "review_id": "3345370",
+    "movie_id": "47424"
+  },
+  {
+    "review": "처음은 재밌는데, 갈수록 진짜 너무 뻔하다. 예측이 다 가능함. -.-",
+    "date": "09.03.03",
+    "rating": "6",
+    "author": "sunn****",
+    "review_id": "3345052",
+    "movie_id": "47424"
+  },
+  {
+    "review": "나름 볼만하네요",
+    "date": "09.02.28",
+    "rating": "8",
+    "author": "hj78****",
+    "review_id": "3338338",
+    "movie_id": "47424"
+  },
+  {
+    "review": "뻔하긴 했지만, 가끔은 뻔한 해피엔딩이 필요할때가 있으니까요",
+    "date": "09.02.18",
+    "rating": "8",
+    "author": "a575****",
+    "review_id": "3313191",
+    "movie_id": "47424"
+  },
+  {
+    "review": "좋아좋아~",
+    "date": "09.02.11",
+    "rating": "10",
+    "author": "staa****",
+    "review_id": "3293941",
+    "movie_id": "47424"
+  },
+  {
+    "review": "너무나 상투적인 로맨틱 코메디. 기분전환용 악세사리같은 영화.",
+    "date": "09.02.09",
+    "rating": "6",
+    "author": "mals****",
+    "review_id": "3291479",
+    "movie_id": "47424"
+  },
+  {
+    "review": "나도......동성친구같은 이성친구가 있었으면 ㅜㅋㅋ",
+    "date": "09.02.09",
+    "rating": "8",
+    "author": "hyej****",
+    "review_id": "3290456",
+    "movie_id": "47424"
+  },
+  {
+    "review": "아주재밌게봤는데생각보다평점이안나오네~음악도굿~특히오아시스노래강추!!",
+    "date": "09.02.07",
+    "rating": "10",
+    "author": "yong****",
+    "review_id": "3286275",
+    "movie_id": "47424"
+  },
+  {
+    "review": "뻔하지만 가볍게 기분전환 할 만한 로맨틱 영화",
+    "date": "09.01.30",
+    "rating": "8",
+    "author": "jiye****",
+    "review_id": "3264242",
+    "movie_id": "47424"
+  },
+  {
+    "review": "가볍게 볼만한 로멘틱 코메디 (캐스팅이 살짝 아쉽지만 내용은 굿~ㅋ)",
+    "date": "09.01.27",
+    "rating": "9",
+    "author": "jiod****",
+    "review_id": "3253865",
+    "movie_id": "47424"
+  },
+  {
+    "review": "친구. 연인.",
+    "date": "09.01.18",
+    "rating": "6",
+    "author": "caca****",
+    "review_id": "3228766",
+    "movie_id": "47424"
+  },
+  {
+    "review": "지루함,결말이 약함",
+    "date": "09.01.15",
+    "rating": "4",
+    "author": "yjso****",
+    "review_id": "3223552",
+    "movie_id": "47424"
+  },
+  {
+    "review": "현실적으로 불가한일, 하지만 이해가 가는...어찌보면 슬픈..좋은영화에요",
+    "date": "09.01.08",
+    "rating": "10",
+    "author": "bliz****",
+    "review_id": "3201428",
+    "movie_id": "47424"
+  },
+  {
+    "review": "온갖 형태의 대리만족의 향연. 하지만 그것이 나쁘지만은 않다.",
+    "date": "09.01.04",
+    "rating": "5",
+    "author": "magn****",
+    "review_id": "3188120",
+    "movie_id": "47424"
+  },
+  {
+    "review": "진부하고 지루하고... 매우 졸림",
+    "date": "08.12.30",
+    "rating": "1",
+    "author": "cert****",
+    "review_id": "3167390",
+    "movie_id": "47424"
+  },
+  {
+    "review": "후반부에 너무 뻔해서 중간까지만 봤다.",
+    "date": "08.12.29",
+    "rating": "2",
+    "author": "ksha****",
+    "review_id": "3163884",
+    "movie_id": "47424"
+  },
+  {
+    "review": "정말 재미있게 봤었는데.....평점이 낮아 아쉽네요",
+    "date": "08.12.28",
+    "rating": "10",
+    "author": "leae****",
+    "review_id": "3161311",
+    "movie_id": "47424"
+  },
+  {
+    "review": "남자주인공의 감정 충분히 공감.. 영화도 괜찮았는데.. 제목이 별루야..",
+    "date": "08.12.28",
+    "rating": "7",
+    "author": "jkr2****",
+    "review_id": "3159898",
+    "movie_id": "47424"
+  },
+  {
+    "review": "평점 8점대는 되는거 같아서... 나름 재밌는데",
+    "date": "08.12.25",
+    "rating": "10",
+    "author": "thdw****",
+    "review_id": "3148279",
+    "movie_id": "47424"
+  },
+  {
+    "review": "진부함을 넘어 당황스럽기까지 하다",
+    "date": "08.12.24",
+    "rating": "4",
+    "author": "hjkl****",
+    "review_id": "3145367",
+    "movie_id": "47424"
+  },
+  {
+    "review": "말그대로그냥로맨틱코메디.",
+    "date": "08.12.24",
+    "rating": "7",
+    "author": "1227****",
+    "review_id": "3143684",
+    "movie_id": "47424"
+  },
+  {
+    "review": "정말 소중한 건 곁에 없을 때에야 비로소 소중함을 알게 되는 법이지",
+    "date": "08.12.21",
+    "rating": "6",
+    "author": "uds0****",
+    "review_id": "3137931",
+    "movie_id": "47424"
+  },
+  {
+    "review": "진부한 소재에 상투적인 스토리",
+    "date": "08.12.20",
+    "rating": "5",
+    "author": "nwit****",
+    "review_id": "3134481",
+    "movie_id": "47424"
+  },
+  {
+    "review": "로맨틱 코미디의 공식을 잘 따른 영화, 그 무난한 전형성이 재미를 준다.",
+    "date": "08.12.13",
+    "rating": "8",
+    "author": "jaws****",
+    "review_id": "3113977",
+    "movie_id": "47424"
+  },
+  {
+    "review": "앞뒤 맞지 않는 얼렁뚱땅 로멘틱 코메디 한편 만들기.",
+    "date": "08.12.13",
+    "rating": "4",
+    "author": "inpm****",
+    "review_id": "3112149",
+    "movie_id": "47424"
+  },
+  {
+    "review": "그냥 아무생각없이 편하게 볼 수 있는 영화. 잔잔한 재미가 있는 영화.ㅎ",
+    "date": "08.12.03",
+    "rating": "10",
+    "author": "ocmi****",
+    "review_id": "3088108",
+    "movie_id": "47424"
+  },
+  {
+    "review": "너무 재밋어여 ㅋㅋ",
+    "date": "08.11.28",
+    "rating": "10",
+    "author": "yys2****",
+    "review_id": "3076452",
+    "movie_id": "47424"
+  },
+  {
+    "review": "뻔한 내용에 뻔뻔한 결말. but 문을 사이에 두고 속삭이는 장면만큼은..",
+    "date": "08.11.24",
+    "rating": "7",
+    "author": "0021****",
+    "review_id": "3068736",
+    "movie_id": "47424"
+  },
+  {
+    "review": "영상도 음악도 내용도 꽤괜찮았던 영화~굿~!!",
+    "date": "08.11.23",
+    "rating": "9",
+    "author": "wlsk****",
+    "review_id": "3068643",
+    "movie_id": "47424"
+  },
+  {
+    "review": "도둑놈 심보 크리 작렬... 근데 카사노바를 사랑할수 있을까???",
+    "date": "08.11.21",
+    "rating": "6",
+    "author": "urkn****",
+    "review_id": "3062931",
+    "movie_id": "47424"
+  },
+  {
+    "review": "스위트 알라바마 에서는 신부뺏기는 완벽남이더니 여기선 신부를 빼앗는역ㅋㅋ",
+    "date": "08.11.18",
+    "rating": "8",
+    "author": "blue****",
+    "review_id": "3058785",
+    "movie_id": "47424"
+  },
+  {
+    "review": "식상하지만 제2의 휴 그렌트를 보는듯한 패트릭 뎀시..",
+    "date": "08.11.16",
+    "rating": "7",
+    "author": "bean****",
+    "review_id": "3055675",
+    "movie_id": "47424"
+  },
+  {
+    "review": "뻔하지만.. 편하게 볼 수 있는 영화.",
+    "date": "08.11.15",
+    "rating": "6",
+    "author": "hotv****",
+    "review_id": "3052292",
+    "movie_id": "47424"
+  },
+  {
+    "review": "매력적인 두 배우라서 사랑을 꿈꾸게 만든다.",
+    "date": "08.11.10",
+    "rating": "7",
+    "author": "mjap****",
+    "review_id": "3044217",
+    "movie_id": "47424"
+  },
+  {
+    "review": "완전 뻔하디 뻔한 미국식 로멘틱 코미디ㅋ 에피소드가 너무 부족했음",
+    "date": "08.11.09",
+    "rating": "8",
+    "author": "mcbl****",
+    "review_id": "3041906",
+    "movie_id": "47424"
+  },
+  {
+    "review": "이런영화는 이제 좀..",
+    "date": "08.11.07",
+    "rating": "5",
+    "author": "shom****",
+    "review_id": "3039018",
+    "movie_id": "47424"
+  },
+  {
+    "review": "결혼이 장난이니",
+    "date": "08.11.06",
+    "rating": "2",
+    "author": "fair****",
+    "review_id": "3036791",
+    "movie_id": "47424"
+  },
+  {
+    "review": "다 비슷하지만 특히 내용이 짱남...아무생각없이보면 지겹지는 않다",
+    "date": "08.10.31",
+    "rating": "6",
+    "author": "byse****",
+    "review_id": "3027806",
+    "movie_id": "47424"
+  }
+]

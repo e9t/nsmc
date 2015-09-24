@@ -1,0 +1,34 @@
+[
+  {
+    "review": "살려주게 버나지군! 내가 차도 대접하지 않았는가",
+    "date": "13.10.31",
+    "rating": "10",
+    "author": "chdh****",
+    "review_id": "8105674",
+    "movie_id": "35748"
+  },
+  {
+    "review": "3배 빠른 '그분'이 나오는 영화",
+    "date": "13.02.17",
+    "rating": "2",
+    "author": "qnwn****",
+    "review_id": "7276162",
+    "movie_id": "35748"
+  },
+  {
+    "review": "별로",
+    "date": "10.03.25",
+    "rating": "6",
+    "author": "mcth****",
+    "review_id": "4385845",
+    "movie_id": "35748"
+  },
+  {
+    "review": "뛰엄뛰엄 밨는데 졸라 이상하다",
+    "date": "07.12.26",
+    "rating": "1",
+    "author": "iams****",
+    "review_id": "2269690",
+    "movie_id": "35748"
+  }
+]

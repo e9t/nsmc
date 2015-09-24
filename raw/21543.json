@@ -1,0 +1,26 @@
+[
+  {
+    "review": "시작은 좋았다. 적어도",
+    "date": "15.01.03",
+    "rating": "10",
+    "author": "wjdg****",
+    "review_id": "9557188",
+    "movie_id": "21543"
+  },
+  {
+    "review": "거장의 탄생을 알린 작품",
+    "date": "08.09.05",
+    "rating": "10",
+    "author": "weir****",
+    "review_id": "2923540",
+    "movie_id": "21543"
+  },
+  {
+    "review": "장선우 감독의 씨발점?",
+    "date": "05.01.16",
+    "rating": "1",
+    "author": "kpcc****",
+    "review_id": "187816",
+    "movie_id": "21543"
+  }
+]

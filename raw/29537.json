@@ -1,0 +1,26 @@
+[
+  {
+    "review": "단편스럽군...",
+    "date": "11.10.02",
+    "rating": "5",
+    "author": "drd1****",
+    "review_id": "5766600",
+    "movie_id": "29537"
+  },
+  {
+    "review": "고등어!",
+    "date": "10.01.04",
+    "rating": "10",
+    "author": "wrwr****",
+    "review_id": "4130608",
+    "movie_id": "29537"
+  },
+  {
+    "review": "자반!",
+    "date": "09.12.06",
+    "rating": "10",
+    "author": "csc9****",
+    "review_id": "4022194",
+    "movie_id": "29537"
+  }
+]

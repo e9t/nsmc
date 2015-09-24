@@ -1,0 +1,26 @@
+[
+  {
+    "review": "10점 너무 높이서 1점 zoom",
+    "date": "14.03.09",
+    "rating": "1",
+    "author": "josh****",
+    "review_id": "8565233",
+    "movie_id": "23279"
+  },
+  {
+    "review": "이광수 아웃 이광수 아웃",
+    "date": "13.04.20",
+    "rating": "10",
+    "author": "yoon****",
+    "review_id": "7470609",
+    "movie_id": "23279"
+  },
+  {
+    "review": "으리으리!",
+    "date": "13.04.10",
+    "rating": "10",
+    "author": "cjsv****",
+    "review_id": "7448413",
+    "movie_id": "23279"
+  }
+]

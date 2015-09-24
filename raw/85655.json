@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "7092555",
+    "movie_id": "85655",
+    "author": "tjrl****",
+    "review": "헐ㅋㅋㅋ",
+    "rating": "1",
+    "date": "13.01.08"
+  },
+  {
+    "review_id": "5805551",
+    "movie_id": "85655",
+    "author": "rt24****",
+    "review": "ㅋㅋㅋ딸칠만하지않음 ㅅㅂ",
+    "rating": "2",
+    "date": "11.10.23"
+  },
+  {
+    "review_id": "5591124",
+    "movie_id": "85655",
+    "author": "whdw****",
+    "review": "쓰레기배우의 쓰레기나라의 쓰레기영화",
+    "rating": "1",
+    "date": "11.08.02"
+  },
+  {
+    "review_id": "5591074",
+    "movie_id": "85655",
+    "author": "sfdg****",
+    "review": "여긴왜 아무것도없지. . .",
+    "rating": "5",
+    "date": "11.08.02"
+  }
+]

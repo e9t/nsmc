@@ -1,0 +1,50 @@
+[
+  {
+    "review_id": "9295743",
+    "movie_id": "89708",
+    "author": "mcle****",
+    "review": "어린 것들한테야 재미 없겠지만 ㅋㅋㅋㅋ",
+    "rating": "10",
+    "date": "14.10.16"
+  },
+  {
+    "review_id": "6281835",
+    "movie_id": "89708",
+    "author": "sh15****",
+    "review": "평점더 낮게 주려 왔소",
+    "rating": "1",
+    "date": "12.05.08"
+  },
+  {
+    "review_id": "6250002",
+    "movie_id": "89708",
+    "author": "shsh****",
+    "review": "맨밑에분 그것은 mbc파업 때문에 그래요",
+    "rating": "1",
+    "date": "12.04.27"
+  },
+  {
+    "review_id": "6249267",
+    "movie_id": "89708",
+    "author": "mslk****",
+    "review": "주OO쇼 계속 보고 있는데 너무 재밌고 편안하고 좋은데요.  이런토크쇼 좋습니다.",
+    "rating": "10",
+    "date": "12.04.27"
+  },
+  {
+    "review_id": "6249204",
+    "movie_id": "89708",
+    "author": "iiii****",
+    "review": "지루하다",
+    "rating": "1",
+    "date": "12.04.27"
+  },
+  {
+    "review_id": "6205950",
+    "movie_id": "89708",
+    "author": "baks****",
+    "review": "주OO이 요새 죽쓰고있는 이유는,절대 그때 그 사건...때문만은 아니다.바로노력부족",
+    "rating": "3",
+    "date": "12.04.10"
+  }
+]

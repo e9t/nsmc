@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9714193",
+    "movie_id": "97506",
+    "author": "icec****",
+    "review": "이런 스토리 흔해...",
+    "rating": "6",
+    "date": "15.02.19"
+  },
+  {
+    "review_id": "8446525",
+    "movie_id": "97506",
+    "author": "ghye****",
+    "review": "떡정은 무서운것이다.",
+    "rating": "7",
+    "date": "14.01.29"
+  },
+  {
+    "review_id": "8422449",
+    "movie_id": "97506",
+    "author": "roon****",
+    "review": "프리츠만 불쌍하네요.",
+    "rating": "6",
+    "date": "14.01.24"
+  },
+  {
+    "review_id": "8393310",
+    "movie_id": "97506",
+    "author": "js_b****",
+    "review": "ㄱ볼만합디다 걍 좀 볼만함",
+    "rating": "5",
+    "date": "14.01.18"
+  },
+  {
+    "review_id": "8392167",
+    "movie_id": "97506",
+    "author": "pks8****",
+    "review": "정말기대되는 작품이예요",
+    "rating": "10",
+    "date": "14.01.17"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "review": "그럭저럭",
+    "date": "12.07.19",
+    "rating": "5",
+    "author": "fodo****",
+    "review_id": "6496437",
+    "movie_id": "21700"
+  },
+  {
+    "review": "그럭저럭",
+    "date": "10.11.12",
+    "rating": "1",
+    "author": "ods1****",
+    "review_id": "4953295",
+    "movie_id": "21700"
+  },
+  {
+    "review": "그럭저럭",
+    "date": "09.04.10",
+    "rating": "9",
+    "author": "chlc****",
+    "review_id": "3414297",
+    "movie_id": "21700"
+  }
+]

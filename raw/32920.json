@@ -1,0 +1,26 @@
+[
+  {
+    "review": "저도 초딩때 봤어요~~~~",
+    "date": "13.09.27",
+    "rating": "5",
+    "author": "biga****",
+    "review_id": "8018005",
+    "movie_id": "32920"
+  },
+  {
+    "review": "나 초등학교때 잼있게 봤는데",
+    "date": "11.04.16",
+    "rating": "10",
+    "author": "cova****",
+    "review_id": "5377723",
+    "movie_id": "32920"
+  },
+  {
+    "review": "과연 이영화를 본사람이 있을까?",
+    "date": "10.06.15",
+    "rating": "2",
+    "author": "kgb6****",
+    "review_id": "4566744",
+    "movie_id": "32920"
+  }
+]

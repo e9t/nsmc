@@ -1,0 +1,34 @@
+[
+  {
+    "review": "새벽2시부터4시까지 보았다.ㅋㅋ",
+    "date": "07.12.30",
+    "rating": "10",
+    "author": "psch****",
+    "review_id": "2280428",
+    "movie_id": "18826"
+  },
+  {
+    "review": "제목이 이뻐서 봤는데 진짜 재미있었다,",
+    "date": "07.11.30",
+    "rating": "10",
+    "author": "minb****",
+    "review_id": "2193799",
+    "movie_id": "18826"
+  },
+  {
+    "review": "정말 좋아요!",
+    "date": "07.11.23",
+    "rating": "10",
+    "author": "haen****",
+    "review_id": "2176787",
+    "movie_id": "18826"
+  },
+  {
+    "review": "전 괜찮았어요",
+    "date": "06.11.27",
+    "rating": "10",
+    "author": "pupu****",
+    "review_id": "1254740",
+    "movie_id": "18826"
+  }
+]

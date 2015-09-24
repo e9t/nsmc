@@ -1,0 +1,26 @@
+[
+  {
+    "review": "반반",
+    "date": "11.08.07",
+    "rating": "5",
+    "author": "gain****",
+    "review_id": "5614503",
+    "movie_id": "74400"
+  },
+  {
+    "review": "매우 재밌는 드라마.다시 보고 싶다.",
+    "date": "11.02.19",
+    "rating": "10",
+    "author": "odjs****",
+    "review_id": "5256684",
+    "movie_id": "74400"
+  },
+  {
+    "review": "매일매일 순영이만 기다려지곤 했죠^^",
+    "date": "10.10.29",
+    "rating": "10",
+    "author": "gusw****",
+    "review_id": "4927490",
+    "movie_id": "74400"
+  }
+]

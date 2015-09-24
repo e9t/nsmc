@@ -1,0 +1,18 @@
+[
+  {
+    "review": "오래된 영화,....",
+    "date": "15.01.28",
+    "rating": "10",
+    "author": "dkss****",
+    "review_id": "9644118",
+    "movie_id": "13089"
+  },
+  {
+    "review": "별로 ... 주인공들이 조금 아까운..",
+    "date": "04.07.04",
+    "rating": "4",
+    "author": "stil****",
+    "review_id": "64738",
+    "movie_id": "13089"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "review": "사랑을 제짝을 찾고 확신한다는 건 참 어려운 일",
+    "date": "09.07.18",
+    "rating": "7",
+    "author": "erhe****",
+    "review_id": "3642745",
+    "movie_id": "18795"
+  },
+  {
+    "review": "로드무비를 좋아한다면 감상은 필수..프랑스판 허수아비",
+    "date": "06.09.10",
+    "rating": "9",
+    "author": "jaux****",
+    "review_id": "1116354",
+    "movie_id": "18795"
+  },
+  {
+    "review": "프랑스영화치고는 잼있는 영화",
+    "date": "04.11.16",
+    "rating": "9",
+    "author": "jiho****",
+    "review_id": "147065",
+    "movie_id": "18795"
+  },
+  {
+    "review": "잔잔한 감동과 교훈을 주는 가슴따뜻한 영화",
+    "date": "04.01.21",
+    "rating": "10",
+    "author": "luna****",
+    "review_id": "12136",
+    "movie_id": "18795"
+  },
+  {
+    "review": "지금 KBS1에서 해주고 있답니다.",
+    "date": "04.01.21",
+    "rating": "6",
+    "author": "efu8****",
+    "review_id": "12034",
+    "movie_id": "18795"
+  }
+]

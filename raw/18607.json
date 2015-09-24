@@ -1,0 +1,42 @@
+[
+  {
+    "review": "조금 어설프지만  그럭저럭 볼만하다",
+    "date": "15.08.07",
+    "rating": "7",
+    "author": "kan3****",
+    "review_id": "10198793",
+    "movie_id": "18607"
+  },
+  {
+    "review": "보통",
+    "date": "06.08.16",
+    "rating": "7",
+    "author": "zeed****",
+    "review_id": "1038272",
+    "movie_id": "18607"
+  },
+  {
+    "review": "아쉬움은 많이 남지만 평균 이상은 한다.",
+    "date": "05.09.21",
+    "rating": "7",
+    "author": "movi****",
+    "review_id": "416004",
+    "movie_id": "18607"
+  },
+  {
+    "review": "요즘 개봉한 21그램의 모태가 된 영화가 아닌듯 싶다. 강추!",
+    "date": "04.10.30",
+    "rating": "10",
+    "author": "bjeo****",
+    "review_id": "135734",
+    "movie_id": "18607"
+  },
+  {
+    "review": "뭔가 말하려고 하지만 자꾸만 겉도는 이야기들....",
+    "date": "04.10.05",
+    "rating": "5",
+    "author": "trot****",
+    "review_id": "120729",
+    "movie_id": "18607"
+  }
+]

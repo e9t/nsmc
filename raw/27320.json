@@ -1,0 +1,66 @@
+[
+  {
+    "review": "굿",
+    "date": "12.01.03",
+    "rating": "10",
+    "author": "jazz****",
+    "review_id": "5956412",
+    "movie_id": "27320"
+  },
+  {
+    "review": "페넬로페의 아름다움 하나만으로....",
+    "date": "10.08.20",
+    "rating": "8",
+    "author": "yytt****",
+    "review_id": "4770282",
+    "movie_id": "27320"
+  },
+  {
+    "review": "2차대전속의 영화 그리고 배우들 볼만하다",
+    "date": "07.09.04",
+    "rating": "6",
+    "author": "almo****",
+    "review_id": "1999955",
+    "movie_id": "27320"
+  },
+  {
+    "review": "한번 보고 쉬이 판단하는 걸 수도 있지만,해학과 비판이 가미된 인권영화",
+    "date": "07.06.23",
+    "rating": "10",
+    "author": "miji****",
+    "review_id": "1716815",
+    "movie_id": "27320"
+  },
+  {
+    "review": "아름답다...영화도 꿈 속의 여인도.",
+    "date": "06.04.25",
+    "rating": "10",
+    "author": "hemo****",
+    "review_id": "774715",
+    "movie_id": "27320"
+  },
+  {
+    "review": "폐넬로폐 그녀로서 끝이다.",
+    "date": "05.02.24",
+    "rating": "7",
+    "author": "tjsd****",
+    "review_id": "229061",
+    "movie_id": "27320"
+  },
+  {
+    "review": "그림이 예뼈요...",
+    "date": "05.01.17",
+    "rating": "10",
+    "author": "kimx****",
+    "review_id": "188498",
+    "movie_id": "27320"
+  },
+  {
+    "review": "아름답다 .",
+    "date": "05.01.17",
+    "rating": "10",
+    "author": "kich****",
+    "review_id": "188494",
+    "movie_id": "27320"
+  }
+]

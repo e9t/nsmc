@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "9943630",
+    "movie_id": "92001",
+    "author": "poqd****",
+    "review": "Les infid?les..pas mal",
+    "rating": "10",
+    "date": "15.05.24"
+  },
+  {
+    "review_id": "9693406",
+    "movie_id": "92001",
+    "author": "jinh****",
+    "review": "2.67은 너무하잔아",
+    "rating": "10",
+    "date": "15.02.13"
+  },
+  {
+    "review_id": "9167245",
+    "movie_id": "92001",
+    "author": "qlfj****",
+    "review": "그런데 결국 그 친구들은 게이가됬단건가요?",
+    "rating": "5",
+    "date": "14.09.04"
+  },
+  {
+    "review_id": "9149366",
+    "movie_id": "92001",
+    "author": "pria****",
+    "review": "친구와 난봉질. 그리고 끝.",
+    "rating": "2",
+    "date": "14.08.31"
+  },
+  {
+    "review_id": "9141091",
+    "movie_id": "92001",
+    "author": "guev****",
+    "review": "이야기 자체가 지루해서 웃을틈이 없군",
+    "rating": "1",
+    "date": "14.08.28"
+  }
+]

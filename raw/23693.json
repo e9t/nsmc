@@ -1,0 +1,26 @@
+[
+  {
+    "review": "기본점수",
+    "date": "12.07.01",
+    "rating": "1",
+    "author": "rkdg****",
+    "review_id": "6436165",
+    "movie_id": "23693"
+  },
+  {
+    "review": "나도",
+    "date": "06.08.07",
+    "rating": "10",
+    "author": "vlf4****",
+    "review_id": "980119",
+    "movie_id": "23693"
+  },
+  {
+    "review": "기본점수 부여",
+    "date": "06.07.30",
+    "rating": "7",
+    "author": "zeed****",
+    "review_id": "946309",
+    "movie_id": "23693"
+  }
+]

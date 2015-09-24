@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "9287559",
+    "movie_id": "123538",
+    "author": "jaey****",
+    "review": "존 포드의 화두가 결국엔 뭐냐면.",
+    "rating": "8",
+    "date": "14.10.12"
+  },
+  {
+    "review_id": "9254979",
+    "movie_id": "123538",
+    "author": "kiwi****",
+    "review": "여라븐 에브디 바리. 이건뭐지?",
+    "rating": "1",
+    "date": "14.10.02"
+  },
+  {
+    "review_id": "9209922",
+    "movie_id": "123538",
+    "author": "gaja****",
+    "review": "재미있다. 재미있다. 재미잇다.",
+    "rating": "1",
+    "date": "14.09.13"
+  },
+  {
+    "review_id": "9207061",
+    "movie_id": "123538",
+    "author": "euny****",
+    "review": "흠흠흠 이것도 재밌다 킥킥",
+    "rating": "10",
+    "date": "14.09.12"
+  }
+]

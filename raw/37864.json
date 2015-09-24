@@ -1,0 +1,26 @@
+[
+  {
+    "review": "정말 재미있는영화이다.",
+    "date": "13.12.30",
+    "rating": "1",
+    "author": "theo****",
+    "review_id": "8326175",
+    "movie_id": "37864"
+  },
+  {
+    "review": "good",
+    "date": "12.11.30",
+    "rating": "10",
+    "author": "d_d_****",
+    "review_id": "6942229",
+    "movie_id": "37864"
+  },
+  {
+    "review": "10점만점에 10점",
+    "date": "11.03.29",
+    "rating": "10",
+    "author": "demo****",
+    "review_id": "5342183",
+    "movie_id": "37864"
+  }
+]

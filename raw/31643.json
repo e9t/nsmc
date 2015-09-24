@@ -1,0 +1,26 @@
+[
+  {
+    "review": "http://blog.naver.com/gosoon1   제 블로그에 가시면 한글 자막 이미지가 있습니다",
+    "date": "12.10.22",
+    "rating": "10",
+    "author": "goso****",
+    "review_id": "6819845",
+    "movie_id": "31643"
+  },
+  {
+    "review": "정말 고전명작 다시 보고싶은데 국내에서는 찾을수가 없어서 안타까운영화입니다",
+    "date": "11.01.24",
+    "rating": "10",
+    "author": "advi****",
+    "review_id": "5179796",
+    "movie_id": "31643"
+  },
+  {
+    "review": "옛추억이생각나",
+    "date": "06.03.25",
+    "rating": "10",
+    "author": "cho4****",
+    "review_id": "733451",
+    "movie_id": "31643"
+  }
+]

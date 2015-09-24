@@ -1,0 +1,66 @@
+[
+  {
+    "review_id": "6316763",
+    "movie_id": "79396",
+    "author": "lvmc****",
+    "review": "매우좋음",
+    "rating": "9",
+    "date": "12.05.20"
+  },
+  {
+    "review_id": "6114628",
+    "movie_id": "79396",
+    "author": "lhs5****",
+    "review": "그냥그래유",
+    "rating": "7",
+    "date": "12.03.01"
+  },
+  {
+    "review_id": "5915159",
+    "movie_id": "79396",
+    "author": "lseh****",
+    "review": "굉장히 유쾌하군요 웃겨죽을뻔",
+    "rating": "1",
+    "date": "11.12.19"
+  },
+  {
+    "review_id": "5876660",
+    "movie_id": "79396",
+    "author": "govl****",
+    "review": "대박~~~~ㅡㅜ",
+    "rating": "10",
+    "date": "11.11.28"
+  },
+  {
+    "review_id": "5863923",
+    "movie_id": "79396",
+    "author": "seo8****",
+    "review": "때론 두번 봐야 더 좋은 영화도 있는법",
+    "rating": "9",
+    "date": "11.11.21"
+  },
+  {
+    "review_id": "5856398",
+    "movie_id": "79396",
+    "author": "jymc****",
+    "review": "1점도 아깝다 마이너스는 없나?",
+    "rating": "1",
+    "date": "11.11.18"
+  },
+  {
+    "review_id": "5434537",
+    "movie_id": "79396",
+    "author": "anta****",
+    "review": "아픔의 기록",
+    "rating": "10",
+    "date": "11.05.18"
+  },
+  {
+    "review_id": "5404040",
+    "movie_id": "79396",
+    "author": "slsk****",
+    "review": "독자적 시선으로 일군 성취",
+    "rating": "10",
+    "date": "11.05.03"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "review": "일단 영화가 짧아서 좋네",
+    "date": "14.02.02",
+    "rating": "10",
+    "author": "mool****",
+    "review_id": "8465976",
+    "movie_id": "36046"
+  },
+  {
+    "review": "마음한켠이 따뜻해지는 이야기",
+    "date": "13.09.08",
+    "rating": "8",
+    "author": "jjcv****",
+    "review_id": "7957629",
+    "movie_id": "36046"
+  },
+  {
+    "review": "10에 가까운 평점보고 놀램~영상미와 음악, 주인공들이 아름답게 느껴으나, 내용이 허전하고 감동이 생각보다 덜 했음. 여주인공의 선택이 뻔하지는 않았으나, 왠지 공감가지 않았음..",
+    "date": "13.08.02",
+    "rating": "7",
+    "author": "vvvv****",
+    "review_id": "7816246",
+    "movie_id": "36046"
+  },
+  {
+    "review": "학교에서봤는데재밌어요~",
+    "date": "12.12.22",
+    "rating": "10",
+    "author": "call****",
+    "review_id": "7031253",
+    "movie_id": "36046"
+  },
+  {
+    "review": "감명깊게 본 영화. 아련한 모습도 좋았고 대사도 좋았고~ 배경도 너무이쁘고 주인공들도 다 이쁘고!",
+    "date": "12.10.27",
+    "rating": "10",
+    "author": "aecc****",
+    "review_id": "6829113",
+    "movie_id": "36046"
+  },
+  {
+    "review": "디즈니라서봣음 판타지틱한 설정도 맘에 들고 픽션 내스퇄♥남주여주 비주얼도 흥미로웟구여 근데 솔직히 스토리는 별거없음 중간에 끌까하다가 뒤로갈수록 대사속 명언이라던지 인간의 삶과 죽음에 대해 깊게 생각하게됨 끝부분..이영화 끝까지 보길 잘했다 생각이듬",
+    "date": "12.10.06",
+    "rating": "8",
+    "author": "aksg****",
+    "review_id": "6765767",
+    "movie_id": "36046"
+  },
+  {
+    "review": "감동이 느껴져요",
+    "date": "12.05.27",
+    "rating": "10",
+    "author": "eric****",
+    "review_id": "6337762",
+    "movie_id": "36046"
+  },
+  {
+    "review": "삶의 중요성을 일깨워준 영화...",
+    "date": "12.05.22",
+    "rating": "10",
+    "author": "iso1****",
+    "review_id": "6320596",
+    "movie_id": "36046"
+  },
+  {
+    "review": "보길 잘 한 것 같아요, 이렇게 여유로운 기분이 든 건 이 영화가 처음이네요.",
+    "date": "12.03.07",
+    "rating": "8",
+    "author": "wodl****",
+    "review_id": "6128782",
+    "movie_id": "36046"
+  },
+  {
+    "review": "너무 이쁜 영화에요",
+    "date": "12.02.24",
+    "rating": "10",
+    "author": "oore****",
+    "review_id": "6101571",
+    "movie_id": "36046"
+  },
+  {
+    "review": "이영화 어디서 보나요?",
+    "date": "12.02.18",
+    "rating": "10",
+    "author": "juno****",
+    "review_id": "6086212",
+    "movie_id": "36046"
+  },
+  {
+    "review": "재밌네요",
+    "date": "12.02.01",
+    "rating": "10",
+    "author": "sona****",
+    "review_id": "6041299",
+    "movie_id": "36046"
+  },
+  {
+    "review": "가슴이 짠 해집니다",
+    "date": "11.09.27",
+    "rating": "10",
+    "author": "mhoj****",
+    "review_id": "5756252",
+    "movie_id": "36046"
+  },
+  {
+    "review": "이런 영화 정말 환영이에요!",
+    "date": "11.09.23",
+    "rating": "10",
+    "author": "joj9****",
+    "review_id": "5747118",
+    "movie_id": "36046"
+  },
+  {
+    "review": "최고의 영화...",
+    "date": "11.08.24",
+    "rating": "10",
+    "author": "skyb****",
+    "review_id": "5685616",
+    "movie_id": "36046"
+  },
+  {
+    "review": "동화같아요 너무 이쁨",
+    "date": "11.05.24",
+    "rating": "9",
+    "author": "chee****",
+    "review_id": "5446642",
+    "movie_id": "36046"
+  },
+  {
+    "review": "음악,배경,대사 뭐하나 빠지지 않는 영화, 포스터보고 진짜 오래된 영화인줄..ㅋ",
+    "date": "11.03.01",
+    "rating": "9",
+    "author": "cds5****",
+    "review_id": "5286532",
+    "movie_id": "36046"
+  },
+  {
+    "review": "재밌었는데 마지막 뭔가 슬픔 기분이 꽁기꽁기...",
+    "date": "11.02.05",
+    "rating": "10",
+    "author": "alwj****",
+    "review_id": "5216040",
+    "movie_id": "36046"
+  },
+  {
+    "review": "디즈니사에서 나온 영화 엔딩이 이렇게 감미로울줄은..",
+    "date": "11.01.29",
+    "rating": "7",
+    "author": "muz1****",
+    "review_id": "5194430",
+    "movie_id": "36046"
+  },
+  {
+    "review": "역시 디즈니다 ㅋ 뭔가 잔잔하면서도 예쁜 이야기//여주,남주 다 이쁘고 잘생김 ㅋ",
+    "date": "10.12.29",
+    "rating": "8",
+    "author": "hjyo****",
+    "review_id": "5097946",
+    "movie_id": "36046"
+  },
+  {
+    "review": "이런 영화 또 없나..",
+    "date": "10.12.26",
+    "rating": "10",
+    "author": "dold****",
+    "review_id": "5088241",
+    "movie_id": "36046"
+  },
+  {
+    "review": "그저 보기만해도 아름답고 가슴 미어지는 그런 좋은 영화",
+    "date": "10.08.27",
+    "rating": "10",
+    "author": "rytn****",
+    "review_id": "4797394",
+    "movie_id": "36046"
+  },
+  {
+    "review": "요 영화는 진짜 재밌어요 꼭 한번 보세요^^",
+    "date": "10.08.07",
+    "rating": "10",
+    "author": "love****",
+    "review_id": "4719888",
+    "movie_id": "36046"
+  },
+  {
+    "review": "나쁘지 않소다.",
+    "date": "10.02.19",
+    "rating": "9",
+    "author": "dlwo****",
+    "review_id": "4301422",
+    "movie_id": "36046"
+  },
+  {
+    "review": "이래서 디즈니가 좋다!",
+    "date": "10.02.18",
+    "rating": "10",
+    "author": "2hyo****",
+    "review_id": "4297723",
+    "movie_id": "36046"
+  },
+  {
+    "review": "사랑이야기라기보다는 삶에관한이야기.하루하루 충실한 삶을 살아야하는 이유에대한..",
+    "date": "10.01.15",
+    "rating": "9",
+    "author": "tugy****",
+    "review_id": "4172754",
+    "movie_id": "36046"
+  },
+  {
+    "review": "너무 감동적이고 아름다운 사랑인것같아요.... 영원한 인생이라.....",
+    "date": "09.12.11",
+    "rating": "10",
+    "author": "rose****",
+    "review_id": "4035571",
+    "movie_id": "36046"
+  },
+  {
+    "review": "영원한 시간... 그리고, 영원한 사랑..",
+    "date": "09.11.14",
+    "rating": "10",
+    "author": "akj0****",
+    "review_id": "3961695",
+    "movie_id": "36046"
+  },
+  {
+    "review": "너무 감동적이고 너무 재밌다.",
+    "date": "09.10.30",
+    "rating": "10",
+    "author": "jkob****",
+    "review_id": "3925295",
+    "movie_id": "36046"
+  },
+  {
+    "review": "블레델땜에봤다...짱재밌음",
+    "date": "09.10.15",
+    "rating": "10",
+    "author": "wall****",
+    "review_id": "3894001",
+    "movie_id": "36046"
+  },
+  {
+    "review": "굿",
+    "date": "09.08.28",
+    "rating": "10",
+    "author": "hooh****",
+    "review_id": "3794326",
+    "movie_id": "36046"
+  },
+  {
+    "review": "이거 재밌어 !! 진짜 재밌어! (알바아님)",
+    "date": "09.07.24",
+    "rating": "10",
+    "author": "gudt****",
+    "review_id": "3662601",
+    "movie_id": "36046"
+  },
+  {
+    "review": "아름다운사랑이야기.. 정말 영생을 산다면 어떨까.",
+    "date": "09.07.02",
+    "rating": "10",
+    "author": "kkon****",
+    "review_id": "3606077",
+    "movie_id": "36046"
+  },
+  {
+    "review": "최고다",
+    "date": "08.10.11",
+    "rating": "10",
+    "author": "rowe****",
+    "review_id": "2993683",
+    "movie_id": "36046"
+  },
+  {
+    "review": "감동,순수,아름다움 빠질것없는 명작!",
+    "date": "08.08.23",
+    "rating": "10",
+    "author": "hooh****",
+    "review_id": "2897921",
+    "movie_id": "36046"
+  },
+  {
+    "review": "우울하다. 갑갑하다. 인생이 우울하게 느껴진다.",
+    "date": "08.08.05",
+    "rating": "3",
+    "author": "rmat****",
+    "review_id": "2836427",
+    "movie_id": "36046"
+  },
+  {
+    "review": "비밀이 밝혀지면서 영화는 재미있어지고, 우리에게 궁극의 질문을 던진다",
+    "date": "08.06.30",
+    "rating": "8",
+    "author": "nala****",
+    "review_id": "2731395",
+    "movie_id": "36046"
+  },
+  {
+    "review": "정말 동화같은영화 굉장히 재미있었더 감동!",
+    "date": "08.05.30",
+    "rating": "10",
+    "author": "tkad****",
+    "review_id": "2671356",
+    "movie_id": "36046"
+  },
+  {
+    "review": "진짜 동화같은영화. 스토리는 괜찮은데 연출이 좀 별로인 것 같아요",
+    "date": "08.05.19",
+    "rating": "8",
+    "author": "vldk****",
+    "review_id": "2652011",
+    "movie_id": "36046"
+  },
+  {
+    "review": "이 영화  재밌어요 꼭 보세요",
+    "date": "08.02.12",
+    "rating": "10",
+    "author": "yjhs****",
+    "review_id": "2438863",
+    "movie_id": "36046"
+  },
+  {
+    "review": "제시가 불쌍하다.. 근데 이거 책이랑 많이 다르다... 책이 오리지날인데",
+    "date": "08.02.10",
+    "rating": "10",
+    "author": "msmh****",
+    "review_id": "2433393",
+    "movie_id": "36046"
+  },
+  {
+    "review": "여운이 남는 잔잔한 동화, 재밌었어요",
+    "date": "08.02.02",
+    "rating": "9",
+    "author": "suny****",
+    "review_id": "2397824",
+    "movie_id": "36046"
+  },
+  {
+    "review": "역시디즈니....잔잔한 여운을 남겨주네요. 누구나 생각해봤을 영생의삶....",
+    "date": "08.01.27",
+    "rating": "10",
+    "author": "fpem****",
+    "review_id": "2374980",
+    "movie_id": "36046"
+  },
+  {
+    "review": "너무너무 슬펐어요 ㅜㅜ 그리고 제시네 가족도 너무 불쌍했구요..",
+    "date": "08.01.20",
+    "rating": "10",
+    "author": "kmhi****",
+    "review_id": "2350085",
+    "movie_id": "36046"
+  },
+  {
+    "review": "선택의아름다움 내 삶 인간의 삶 트로이의 아킬레우스 대사가 생각나네요 ^^",
+    "date": "08.01.10",
+    "rating": "10",
+    "author": "shin****",
+    "review_id": "2314525",
+    "movie_id": "36046"
+  },
+  {
+    "review": "죽음을 두려워하지 말라. 그러나 삶이 아닌 삶을 두려워 하라 ...너무 멋있다 ㅠ",
+    "date": "08.01.10",
+    "rating": "10",
+    "author": "dbsw****",
+    "review_id": "2314454",
+    "movie_id": "36046"
+  },
+  {
+    "review": "죽음을 두려워하지 말라. 그러나 삶이 아닌 삶을 두려워 하라",
+    "date": "08.01.10",
+    "rating": "10",
+    "author": "pmr0****",
+    "review_id": "2314420",
+    "movie_id": "36046"
+  },
+  {
+    "review": "다보고 꽤울었다. 아직이느낌..너무너무멋지다..나같으면....ㅠ_ㅠ",
+    "date": "07.09.30",
+    "rating": "10",
+    "author": "tlls****",
+    "review_id": "2060790",
+    "movie_id": "36046"
+  },
+  {
+    "review": "10점만점",
+    "date": "07.08.14",
+    "rating": "10",
+    "author": "mmwo****",
+    "review_id": "1936058",
+    "movie_id": "36046"
+  },
+  {
+    "review": "판타지가 가미된 전형적인 디즈니 영화.",
+    "date": "07.06.03",
+    "rating": "4",
+    "author": "caca****",
+    "review_id": "1680315",
+    "movie_id": "36046"
+  },
+  {
+    "review": "삶에 대해 잠시 생각하게 하네요~",
+    "date": "07.05.10",
+    "rating": "8",
+    "author": "hdbw****",
+    "review_id": "1630659",
+    "movie_id": "36046"
+  },
+  {
+    "review": "죽음을두려워말고,죽은거같은삶을두려워하라,순리대로살아라...캬~~",
+    "date": "07.05.10",
+    "rating": "9",
+    "author": "bebe****",
+    "review_id": "1630580",
+    "movie_id": "36046"
+  },
+  {
+    "review": "I LOVE YOU THE DAY I DIE.",
+    "date": "07.04.01",
+    "rating": "10",
+    "author": "woor****",
+    "review_id": "1566139",
+    "movie_id": "36046"
+  },
+  {
+    "review": "음악도 맘에 듬 ㅋㅋ 삶에 대해서 다시한번 생각해보게 하네요...",
+    "date": "07.03.03",
+    "rating": "10",
+    "author": "tmdg****",
+    "review_id": "1516096",
+    "movie_id": "36046"
+  },
+  {
+    "review": "알렉시스 블레델땜시 10점준다 ㅋㅋ",
+    "date": "06.12.30",
+    "rating": "10",
+    "author": "drzl****",
+    "review_id": "1342326",
+    "movie_id": "36046"
+  },
+  {
+    "review": "내용이 약간 늘어지지만 그래도 생각보다 괜찮았음.",
+    "date": "06.12.02",
+    "rating": "7",
+    "author": "deok****",
+    "review_id": "1262511",
+    "movie_id": "36046"
+  },
+  {
+    "review": "잔잔하고 깊은 여운.",
+    "date": "06.10.27",
+    "rating": "10",
+    "author": "t0un****",
+    "review_id": "1201890",
+    "movie_id": "36046"
+  },
+  {
+    "review": "진정 디즈니 영화? 삶에 대해 고민케 하는 아름다운 동화...",
+    "date": "06.10.07",
+    "rating": "9",
+    "author": "infa****",
+    "review_id": "1166365",
+    "movie_id": "36046"
+  },
+  {
+    "review": "죽음을 두려워 하지 마라. 삶이 아닌 삶을 두려워 하라.",
+    "date": "06.08.28",
+    "rating": "10",
+    "author": "modu****",
+    "review_id": "1087534",
+    "movie_id": "36046"
+  },
+  {
+    "review": "알렉시스 블레델 완전 사랑스러워♡난 그래도 오래살고 싶다ㅋㅋ",
+    "date": "06.08.01",
+    "rating": "10",
+    "author": "rlad****",
+    "review_id": "954484",
+    "movie_id": "36046"
+  },
+  {
+    "review": "동화같은 이야기.. \"에버 에스터\" 와 비슷한 분위기의 영화..",
+    "date": "06.06.08",
+    "rating": "9",
+    "author": "leeo****",
+    "review_id": "836162",
+    "movie_id": "36046"
+  },
+  {
+    "review": "꿈에서 깨어나라!",
+    "date": "06.03.17",
+    "rating": "3",
+    "author": "scal****",
+    "review_id": "719558",
+    "movie_id": "36046"
+  },
+  {
+    "review": "앤딩시간이 짧아서 아쉬웠슴..",
+    "date": "05.12.22",
+    "rating": "8",
+    "author": "blue****",
+    "review_id": "521245",
+    "movie_id": "36046"
+  },
+  {
+    "review": "동화같은 영화이다. 시간도 짧으므로 부담없고,.재미있게 봤다.",
+    "date": "05.11.04",
+    "rating": "10",
+    "author": "brin****",
+    "review_id": "463405",
+    "movie_id": "36046"
+  },
+  {
+    "review": "마법같은 영화...",
+    "date": "05.10.24",
+    "rating": "10",
+    "author": "tier****",
+    "review_id": "453546",
+    "movie_id": "36046"
+  },
+  {
+    "review": "동화적인 느낌이 물씬! 허나, 생각을 하게 하는 영화",
+    "date": "05.02.20",
+    "rating": "8",
+    "author": "eosl****",
+    "review_id": "225559",
+    "movie_id": "36046"
+  },
+  {
+    "review": "죽음을 두려워 하지말라...삶이 아닌 삶을 두려워 하라...영화좋습니다.",
+    "date": "05.01.11",
+    "rating": "10",
+    "author": "good****",
+    "review_id": "183234",
+    "movie_id": "36046"
+  },
+  {
+    "review": "앤딩시간이 짧아서 아쉬웠슴..",
+    "date": "04.11.01",
+    "rating": "7",
+    "author": "jjs7****",
+    "review_id": "137262",
+    "movie_id": "36046"
+  },
+  {
+    "review": "약간 지루하긴했지만 정말 감동적이고 멋있었달까...",
+    "date": "04.10.21",
+    "rating": "9",
+    "author": "kkk8****",
+    "review_id": "130036",
+    "movie_id": "36046"
+  },
+  {
+    "review": "오랜 시간이 지나도 잊혀지지 않을 이야기...",
+    "date": "04.09.26",
+    "rating": "10",
+    "author": "anit****",
+    "review_id": "114977",
+    "movie_id": "36046"
+  },
+  {
+    "review": "동화같은 이야기...",
+    "date": "04.09.09",
+    "rating": "5",
+    "author": "chki****",
+    "review_id": "105239",
+    "movie_id": "36046"
+  },
+  {
+    "review": "은근히 감동스런 영화! 참 재밌게 봤다...!",
+    "date": "04.06.25",
+    "rating": "10",
+    "author": "fait****",
+    "review_id": "60141",
+    "movie_id": "36046"
+  },
+  {
+    "review": "whitetreenim님과 같은생각^^*영화를 보면서 자신의 느낌!느껴라",
+    "date": "04.05.13",
+    "rating": "10",
+    "author": "khj7****",
+    "review_id": "42757",
+    "movie_id": "36046"
+  },
+  {
+    "review": "난 이런 느낌이 오는 영화가 좋더라.^0^ 역시 디즈니..짫지만 감동굿~",
+    "date": "04.05.02",
+    "rating": "10",
+    "author": "whit****",
+    "review_id": "40465",
+    "movie_id": "36046"
+  },
+  {
+    "review": "영원히 살려고 하지 않아도 된다. 그냥 살아가면 되는 것이다! good~",
+    "date": "04.02.28",
+    "rating": "9",
+    "author": "cris****",
+    "review_id": "25320",
+    "movie_id": "36046"
+  },
+  {
+    "review": "동화같은 아름다운 이야기!, 월트디즈니틱!",
+    "date": "04.02.23",
+    "rating": "10",
+    "author": "want****",
+    "review_id": "23424",
+    "movie_id": "36046"
+  }
+]
