@@ -5,7 +5,7 @@ import numpy as np; np.random.seed(1234)
 import pandas as pd
 
 
-ntrain =150000
+ntrain = 150000
 
 data = pd.read_csv('../ratings.txt', sep='\t', quoting=3)
 data = pd.DataFrame(np.random.permutation(data))
