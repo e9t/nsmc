@@ -17,6 +17,10 @@ The dataset construction is based on the method noted in [Large movie review dat
     - `ratings.txt`: All 200K reviews
     - `ratings_test.txt`: 50K reviews held out for testing
     - `ratings_train.txt`: 150K reviews for training
+- Classified by rating
+    - These files have no header line and have only one column, `document`
+    - `reviews.pos`: Positive 100K reviews
+    - `reviews.neg`: Negative 100K reviews
 
 ## Characteristics
 
@@ -27,7 +31,7 @@ The dataset construction is based on the method noted in [Large movie review dat
     - Neutral reviews (originally reviews of ratings 5-8) are excluded
 
 ## Quick peek
-
+    (files with filename beginning with `rating`)
     $ head ratings_train.txt
     id      document        label
     9976970 아 더빙.. 진짜 짜증나네요 목소리        0
